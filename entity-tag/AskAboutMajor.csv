@@ -1,0 +1,253 @@
+question,intent
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ CADT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ CADT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ CADT/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ CADT/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ CADT/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ CADT/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ CADT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ CADT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ CADT/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ CADT/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ CADT/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ CADT/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ អាយឌីធី/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីធី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីធី/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីធី/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីធី/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ អាយឌីធី/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ អាយឌីធី/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDT/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDT/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ IDT/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ IDT/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDT/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDT/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ IDT/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ IDT/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីអអាយ/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីអអាយ/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីអអាយ/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីអអាយ/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីអ អាយ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ អាយឌីអ អាយ ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីអអាយ/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីអអាយ/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីអអាយ/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីអអាយ/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ អាយឌីអ អាយ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ អាយឌីអ អាយជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDRI/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDRI/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDRI/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDRI/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ IDRI/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ IDRI/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDRI/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDRI/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDRI/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDRI/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ IDRI/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ IDRI/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ អាយឌីជី/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីជី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីជី/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ អាយឌីជី/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ អាយឌីជី/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ អាយឌី ជី ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ អាយឌី ជី ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDG/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDG/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ IDG/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDG/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ IDG/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ IDG/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDG/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDG/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDG/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ IDG/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ IDG/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ IDG/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ ជាន់ ទី ១ ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ ជាន់ ទី ១ មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ១ មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ១ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ ជាន់ ទី ១ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ១ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ ជាន់ ទី ១ ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ ជាន់ ទី ២ ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ ជាន់ ទី ២ មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ២ មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ២ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ ជាន់ ទី ២ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ២ ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ ជាន់ ទី ២ ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major

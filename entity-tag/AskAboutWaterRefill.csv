@@ -1,0 +1,289 @@
+question,intent
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៤/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៨/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង re fill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង re fill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មានrefill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន កន្លែង re fill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ទេសចរណ៍/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG សុខា/I-ORG ភិបាល/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG យុត្តិធម៌/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ការិយាល័យ ក្រុម/B-ORG ប្រឹក្សា/I-ORG រដ្ឋ/I-ORG មន្ត្រី/I-ORG បាន មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ទី/B-ORG ភ្នាក់ងារ/I-ORG ជាតិ/I-ORG មុខ/I-ORG របរ/I-ORG និង/I-ORG ការងារ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន refill ទឹក ទេ ? , Ask About Water Refill

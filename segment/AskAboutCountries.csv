@@ -90,7 +90,7 @@ question,intent
 តើ ប្រទេស បូលីវី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស បូលីវី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស បូលីវី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស បូលីវីជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ ប្រទេស បូលីវី ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
 តើ ប្រទេស បូស្នៀ និង ហឺហ្សេហ្គោវីណា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស បូស្នៀ និង ហឺហ្សេហ្គោវីណា មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស បូស្នៀ និង ហឺហ្សេហ្គោវីណា មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
@@ -131,14 +131,14 @@ question,intent
 តើ ប្រទេស កាមេរូន មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កាមេរូន មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កាមេរូន ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-តើ ប្រទេស កោះ កៃម៉ាន មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស កោះ កៃម៉ាន មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស កោះ កៃម៉ាន មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស កោះ កៃម៉ាន ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ ប្រទេស កោះ តៃវ៉ាន់ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ ប្រទេស កោះ តៃវ៉ាន់ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ ប្រទេស កោះ តៃវ៉ាន់ មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ ប្រទេស កោះ តៃវ៉ាន់ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
 តើ ប្រទេស ឆាដ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស ឆាដ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស ឆាដ មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស ឆាដជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ ប្រទេស ឆាដ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
 តើ ប្រទេស ឈីលី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស ឈីលី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស ឈីលី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
@@ -154,7 +154,7 @@ question,intent
 តើ ប្រទេស កុងហ្គោ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កុងហ្គោ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កុងហ្គោ មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស កុងហ្គោជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ ប្រទេស កុងហ្គោ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
 តើ ប្រទេស កោះ ឃុក មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កោះ ឃុក មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
 តើ ប្រទេស កោះ ឃុក មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
