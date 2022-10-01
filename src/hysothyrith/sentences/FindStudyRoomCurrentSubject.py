@@ -1,7 +1,7 @@
 from dictionary.objects import cadt_study_room, lecturer, robot
 from dictionary.questions import i_would_like_to_ask, please_tell_me
 from dictionary.verbs import study
-from utils.generation import materialize
+from utils.generator import materialize
 
 
 def sentences():

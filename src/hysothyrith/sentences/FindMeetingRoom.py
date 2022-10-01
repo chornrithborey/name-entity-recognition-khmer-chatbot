@@ -1,6 +1,6 @@
 from dictionary.objects import meeting_room
 from dictionary.questions import where
-from utils.generation import materialize
+from utils.generator import materialize
 
 
 topic = [

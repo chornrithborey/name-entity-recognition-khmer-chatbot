@@ -22,10 +22,11 @@ def save():
 fingerprints = load()
 
 
-def changed(module) -> bool:
-    hash = hashlib.md5(str(module["sentences"]).encode("utf-8")).hexdigest()
-    if fingerprints.get(module["intent"]) == hash:
-        return False
+def changed(file: str) -> bool:
+    with open(file, "rb") as f:
+        hash = hashlib.md5(f.read()).hexdigest()
+        if fingerprints.get(file) == hash:
+            return False
 
-    fingerprints[module["intent"]] = hash
-    return True
+        fingerprints[file] = hash
+        return True

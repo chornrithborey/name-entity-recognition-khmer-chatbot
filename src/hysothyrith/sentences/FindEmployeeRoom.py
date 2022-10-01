@@ -1,4 +1,4 @@
-from utils.generation import materialize
+from utils.generator import materialize
 from dictionary.objects import cadt_employee, cadt_lecturer
 from dictionary.questions import where
 

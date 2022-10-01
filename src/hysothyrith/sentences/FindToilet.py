@@ -1,6 +1,6 @@
 from dictionary.objects import cadt_building, robot, some_floor, toilet
 from dictionary.questions import where
-from utils.generation import materialize
+from utils.generator import materialize
 
 
 def sentences():

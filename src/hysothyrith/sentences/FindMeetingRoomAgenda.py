@@ -1,5 +1,5 @@
 from dictionary.objects import cadt_meeting_room, some_organization, some_time_period
-from utils.generation import materialize
+from utils.generator import materialize
 
 discussing = [
     "ជជែកគ្នាអំពី",

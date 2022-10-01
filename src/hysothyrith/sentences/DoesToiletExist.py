@@ -1,7 +1,7 @@
 from dictionary.adjectives import exists, has
 from dictionary.objects import robot, some_floor, toilet
 from dictionary.questions import yes_or_no
-from utils.generation import materialize
+from utils.generator import materialize
 
 some_place = [
     "នឹង",

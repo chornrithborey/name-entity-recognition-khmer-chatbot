@@ -1,77 +1,40 @@
-class Entity:
-    name: str
-    code: str
-    variations: list[str]
+from utils import tokenizer
 
-    def __init__(self, name: str, code: str, variations: list[str] = None):
-        self.name = name
-        self.code = code
-        self.variations = variations
-
-    def get_name(self) -> str:
-        return self.name
-
-    def get_code(self) -> str:
-        return self.code
-
-    def get_variations(self) -> list[str]:
-        return self.variations
-
-    def beginning(self) -> str:
-        return "B-" + self.code
-
-    def inside(self) -> str:
-        return "I-" + self.code
-
-    def __str__(self) -> str:
-        return self.name + "-" + self.code
 
 class EntityType:
-    name: str
-    code: str
-
     def __init__(self, name: str, code: str) -> None:
         self.name = name
         self.code = code
 
-class Ent:
-    type: EntityType
-    value: str
+    def __repr__(self) -> str:
+        return self.name
 
-    def __init__(self, type: EntityType, value: str) -> None:
-        self.type = type
+
+class Entity:
+    __segments: list[str] = None
+
+    def __init__(self, value: str, type: EntityType) -> None:
         self.value = value
+        self.type = type
 
-# Room	ROOM
-# Building	BUILD
-# Person	PER
-# Floor	FLOOR
-# Ordinal	ORD
-# Cardinal	CAR
-# Date	DATE
-# Time	TIME
-# Money	MONEY
-# Event	EVE
-# Announcement	ANN
-# Country, CIty	GPE
-# Location	LOC
-# Organization	ORG
+    def __repr__(self) -> str:
+        return self.value
 
-room = EntityType("Room", "ROOM")
-building = EntityType("Building", "BUILD")
-person = EntityType("Person", "PER")
-floor = EntityType("Floor", "FLOOR")
-ordinal = EntityType("Ordinal", "ORD")
-cardinal = EntityType("Cardinal", "CAR")
-date = EntityType("Date", "DATE")
-time = EntityType("Time", "TIME")
-money = EntityType("Money", "MONEY")
-event = EntityType("Event", "EVE")
-announcement = EntityType("Announcement", "ANN")
-gpe = EntityType("Country, City", "GPE")
-location = EntityType("Location", "LOC")
-organization = EntityType("Organization", "ORG")
+    def segments(self) -> str:
+        if not self.__segments:
+            self.__segments = tokenizer.segment(self.value)
 
-cadt_building = [
-    Ent(building, "អាគារInnovation Centre"),
-]
+        return self.__segments
+
+    def segmented(self) -> str:
+        return " ".join(self.segments())
+
+    def coded(self) -> str:
+        return " ".join(
+            f"{segment}/{'B' if i == 0 else 'I'}-{self.type.code}"
+            for i, segment in enumerate(self.segments())
+        )
+
+    @staticmethod
+    def from_list(values: list[str], type: EntityType) -> list["Entity"]:
+        return [Entity(value, type) for value in values]

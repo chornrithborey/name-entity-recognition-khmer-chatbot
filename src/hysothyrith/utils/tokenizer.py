@@ -4,6 +4,7 @@ import pickle
 import warnings
 import numpy as np
 
+from typing import Union
 from tensorflow.keras import backend as K
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
@@ -162,3 +163,16 @@ def tokenize_sentences_bilstm(data):
         )
         sentences.append(sent)
     return sentences
+
+
+def segment(sentence: str) -> Union[str, list[str]]:
+    line = sentence.strip()
+
+    predictions = test_predict([line], tok_model)
+    pred_sent = vector2tag(predictions)[0]
+    segments, pos = decode(pred_sent, line)
+
+    return [
+        re.sub(r"([0-9០-៩]{1,3})\s((,|.)\s([0-9០-៩]{3})(\s))+", r"\1\3\4\5", segment)
+        for segment in segments
+    ]
