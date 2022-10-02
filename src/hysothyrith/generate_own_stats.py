@@ -11,10 +11,9 @@ for file in files:
     with open("storage/sentences/" + file, "r") as f:
         file_lines[file] = len(f.readlines()) - 1
 
-# generate a markdown table from the dictionary
-table = "| Intent | Number of Sentences |\n| --- | --- |\n"
-for file, lines in file_lines.items():
-    # remove the .csv extension
+# generate a markdown table from the dictionary, sorted by the number of lines
+table = "| Intent | Sentences |\n| --- | --- |\n"
+for file, lines in sorted(file_lines.items(), key=lambda x: x[1], reverse=True):
     table += "| {} | {} |\n".format(file.replace(".csv", ""), lines)
 
 # generate the summary table

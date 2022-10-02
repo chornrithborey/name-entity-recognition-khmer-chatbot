@@ -9,8 +9,8 @@ def sentences():
     return materialize(
         ("នៅ", cadt_study_room, "គេកំពុង", study, "អ្វី?"),
         (cadt_study_room, lecturer, "កំពុងបង្រៀនអ្វី?"),
+        (please_tell_me, "បន្ទិចមកនៅ", cadt_study_room, "គេកំពុង", study, "អ្វី?"),
         # fmt: off
-        (please_tell_me, "បន្ទិចមក នៅ", cadt_study_room, "គេកំពុង", study, "អ្វី?"),
         (robot, i_would_like_to_ask, "ថានៅ", cadt_study_room, lecturer, "កំពុងបង្រៀនអ្វីដែរ?"),
         # fmt: on
     )

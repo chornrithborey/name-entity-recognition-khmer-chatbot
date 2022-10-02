@@ -40,7 +40,7 @@ cadt = Entity.from_list(
 cadt_researcher = Entity.from_list(
     entity_types.person,
     [
-        "លោកចាន់ សុភី",
+        "លោកសុភី",
         "លោកអាឡិច",
         "លោកAlexander",
     ],

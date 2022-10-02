@@ -1,17 +1,19 @@
 # Summary
 
-| Intent | Number of Sentences |
+| Intent | Sentences |
 | --- | --- |
-| FindMeetingRoomAgenda | 64 |
-| FindRoomPurpose | 16 |
-| FindToilet | 792 |
-| FindEmployeeRoom | 321 |
-| Dissatisfied | 49 |
-| FindStudyRoomCurrentSubject | 52 |
-| SayGoodbye | 36 |
 | DoesToiletExist | 2156 |
+| FindToilet | 792 |
 | FindMeetingRoom | 596 |
+| FindEmployeeRoom | 321 |
+| AskAboutClassSubject | 210 |
+| FindLecturerForSubject | 108 |
+| FindMeetingRoomAgenda | 64 |
+| FindStudyRoomCurrentSubject | 52 |
+| Dissatisfied | 49 |
+| FindRoomPurpose | 36 |
+| SayGoodbye | 36 |
 
 |Total Number of Intents | Total Number of Sentences |
 | --- | --- |
-| 9 | 4082 |
+| 11 | 4420 |
