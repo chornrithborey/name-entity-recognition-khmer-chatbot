@@ -1,4 +1,5 @@
-from dictionary.objects import cadt_study_room, lecturer, robot
+from dictionary.entities import cadt_study_room
+from dictionary.objects import lecturer, robot
 from dictionary.questions import i_would_like_to_ask, please_tell_me
 from dictionary.verbs import study
 from utils.generator import materialize

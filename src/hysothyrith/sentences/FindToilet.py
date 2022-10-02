@@ -1,4 +1,5 @@
-from dictionary.objects import cadt_building, robot, some_floor, toilet
+from dictionary.entities import cadt_building, some_floor
+from dictionary.objects import robot, toilet
 from dictionary.questions import where
 from utils.generator import materialize
 

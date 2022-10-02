@@ -1,4 +1,4 @@
-from dictionary.objects import cadt_meeting_room, some_organization, some_time_period
+from dictionary.entities import cadt_meeting_room, some_organization, some_time_period
 from utils.generator import materialize
 
 discussing = [

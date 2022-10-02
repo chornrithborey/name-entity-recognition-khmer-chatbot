@@ -13,9 +13,9 @@ class EntityType:
 class Entity:
     __segments: list[str] = None
 
-    def __init__(self, value: str, type: EntityType) -> None:
-        self.value = value
+    def __init__(self, type: EntityType, value: str) -> None:
         self.type = type
+        self.value = value
 
     def __repr__(self) -> str:
         return self.value
@@ -36,5 +36,5 @@ class Entity:
         )
 
     @staticmethod
-    def from_list(values: list[str], type: EntityType) -> list["Entity"]:
-        return [Entity(value, type) for value in values]
+    def from_list(type: EntityType, values: list[str]) -> list["Entity"]:
+        return [Entity(type, value) for value in values]

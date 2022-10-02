@@ -1,5 +1,6 @@
+from dictionary.entities import some_cadt_room
+from dictionary.objects import robot
 from utils.generator import materialize
-from dictionary.objects import some_cadt_room, robot
 
 
 def sentences():

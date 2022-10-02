@@ -21,8 +21,6 @@ for file, lines in file_lines.items():
 summary = "|Total Number of Intents | Total Number of Sentences |\n| --- | --- |\n"
 summary += "| {} | {} |\n".format(len(file_lines), sum(file_lines.values()))
 
-print(summary)
-
 # write the table to a markdown file
 with open("README.md", "w") as f:
     # write the title

@@ -39,10 +39,10 @@ def write_module(module):
     file_path = "storage/sentences/{}.csv".format(module["intent"])
     with open(file_path, "w", encoding="UTF8") as file:
         writer = csv.writer(file)
-        writer.writerow(["query", "entities"])
+        writer.writerow(["question", "intent"])
 
         for sentence in module["sentences"]:
-            writer.writerow([sentence, ""])
+            writer.writerow([sentence.tagged(), ""])
 
 
 if __name__ == "__main__":
