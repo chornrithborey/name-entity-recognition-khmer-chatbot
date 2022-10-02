@@ -1,3 +1,6 @@
+import re
+from typing import Union
+
 from utils import tokenizer
 
 from core.entity import Entity
@@ -28,6 +31,26 @@ class Sentence:
     def tagged(self) -> str:
         out = self.segmented()
         for entity in self.entities:
-            out = out.replace(entity.segmented(), entity.coded())
+            segmented_entity = entity.segmented()
+            encoded_entity = entity.encoded()
+
+            if not segmented_entity in out:
+                extracted = self.extract_entity(entity)
+                if extracted:
+                    segmented_entity = extracted
+                    encoded_entity = entity.type.encode(extracted.split(" "))
+                else:
+                    raise ValueError(
+                        "Entity '{}' not found in sentence '{}'".format(
+                            segmented_entity, out
+                        )
+                    )
+
+            out = out.replace(segmented_entity, encoded_entity)
 
         return out
+
+    def extract_entity(self, entity: Entity) -> Union[str, None]:
+        pattern = "\s*".join([char for char in entity.value.replace(" ", "")])
+        search = re.search(pattern, self.segmented())
+        return search.group(0) if search else None
