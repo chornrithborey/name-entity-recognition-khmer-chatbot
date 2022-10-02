@@ -1,267 +1,267 @@
 question,intent
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ CADT/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ CADT/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ CADT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ CADT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ CADT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ CADT/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ CADT/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ CADT/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ អាយឌីធី/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ CADT/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ CADT/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ CADT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ CADT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ CADT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ CADT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
 តើ អាយឌីធី/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask Ab out Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ IDT/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ IDT/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ IDT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ IDT/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ IDT/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ IDT/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ IDT/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ IDT/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDT/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ IDT/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
 តើ អាយឌីអអាយ/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask Ab out Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ IDRI/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ IDRI/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDRI/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDRI/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ IDRI/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ IDRI/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ IDRI/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ IDRI/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ អាយឌីជី/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ អាយឌីជី/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ IDRI/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDRI/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDRI/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ IDRI/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
 តើ អាយឌីជី/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask Ab out Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ IDG/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ IDG/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDG/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ IDG/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ IDG/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ IDG/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ IDG/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ IDG/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ IDG/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ IDG/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDG/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDG/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ IDG/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ IDG/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អ្វី ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ អ្វី ខ្លះ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ ឯក ជន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ?,AskAboutInstitution
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ?,AskAboutInstitution
