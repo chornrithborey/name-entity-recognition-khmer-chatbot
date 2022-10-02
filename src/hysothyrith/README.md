@@ -10,8 +10,8 @@
 | FindStudyRoomCurrentSubject | 52 |
 | SayGoodbye | 36 |
 | DoesToiletExist | 2156 |
-| FindMeetingRoom | 288 |
+| FindMeetingRoom | 596 |
 
 |Total Number of Intents | Total Number of Sentences |
 | --- | --- |
-| 9 | 3774 |
+| 9 | 4082 |

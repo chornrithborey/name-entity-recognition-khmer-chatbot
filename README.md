@@ -10,11 +10,11 @@
 | AskRobotFunction-Sophanon | 53 |
 | FindToilet | 792 |
 | AskAboutInstitution | 266 |
-| FindEmployeeRoom | 36 |
+| FindEmployeeRoom | 321 |
 | AskAboutPlayground | 228 |
 | AskAboutCreator | 1944 |
 | AskAboutStaffPhoneNumber | 440 |
-| Dissatisfied | 20 |
+| Dissatisfied | 49 |
 | AskAboutWaterRefill | 288 |
 | AskAboutStaffRoom | 1248 |
 | FindStudyRoomCurrentSubject | 52 |
@@ -26,9 +26,9 @@
 | DoesToiletExist | 2156 |
 | FindRoom | 2145 |
 | IsCountryExist | 3948 |
-| FindMeetingRoom | 288 |
+| FindMeetingRoom | 596 |
 | AskAboutJobOpportunities | 171 |
 
 |Total Number of Intents | Total Number of Sentences |
 | --- | --- |
-| 26 | 15923 |
+| 26 | 16545 |

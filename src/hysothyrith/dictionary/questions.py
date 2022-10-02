@@ -27,6 +27,7 @@ please_tell_me = [
 
 can_you_tell_me = [
     "ប្រាប់បានទេ",
+    "សួមជួយប្រាប់បន្ទិចបានទេ",
 ]
 
 i_would_like_to_ask = [

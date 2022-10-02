@@ -3,8 +3,11 @@ import csv
 import importlib
 
 
+intent = "FindMeetingRoom"
+tag = True
+
+
 def main():
-    intent = "FindEmployeeRoom"
     module = importlib.import_module("sentences.{}".format(intent))
 
     if not os.path.exists("storage/sentences"):
@@ -16,7 +19,7 @@ def main():
         writer.writerow(["query", "entities"])
 
         for sentence in module.sentences():
-            writer.writerow([sentence.tagged(), ""])
+            writer.writerow([sentence.tagged() if tag else sentence, ""])
 
     print("\nDone!")
 
