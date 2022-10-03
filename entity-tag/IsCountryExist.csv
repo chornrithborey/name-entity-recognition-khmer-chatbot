@@ -2246,27 +2246,27 @@ question,intent
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន ឬ ទេ ?,IsCountryExist
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន ឬ អត់ ?,IsCountryExist
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ អត់ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEី មែន ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEីមែន ឬ អត់ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី មែន ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី មែន ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEី ដែល ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEី មែន ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEីមែន ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPEី ឬ អត់ ?,IsCountryExist
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន ឬ ទេ ?,IsCountryExist
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន ឬ អត់ ?,IsCountryExist
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន មែន ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ អត់ ?,IsCountryExist
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន ឬ ទេ ?,IsCountryExist
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន ឬ អត់ ?,IsCountryExist
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ម៉ាឡេស៊ី/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ម៉ាឡេស៊ី/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ម៉ាឡេស៊ី/B-GPE មែន ឬ ទេ ?,IsCountryExist
@@ -2708,27 +2708,27 @@ question,intent
 តើ ប្រទេស នីហ្សេរី/B-GPE មាន ឬ ទេ ?,IsCountryExist
 តើ ប្រទេស នីហ្សេរី/B-GPE មាន ឬ អត់ ?,IsCountryExist
 តើ ប្រទេស នីហ្សេរី/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ អត់ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ អត់ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ដែល ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា មែន ឬ អត់ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស នីហ្សេរី/B-GPEយ៉ា ឬ អត់ ?,IsCountryExist
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន ឬ ទេ ?,IsCountryExist
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន ឬ អត់ ?,IsCountryExist
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន មែន ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE មែន ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ ទេ ?,IsCountryExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ឬ អត់ ?,IsCountryExist
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន ឬ ទេ ?,IsCountryExist
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន ឬ អត់ ?,IsCountryExist
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ន័រវេ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ន័រវេ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ន័រវេ/B-GPE មែន ឬ ទេ ?,IsCountryExist
