@@ -427,10 +427,10 @@ question,intent
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ម៉ាឡាវ/B-GPEី ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស ម៉ាឡាវ/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស ម៉ាឡាវ/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស ម៉ាឡេស៊ី/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ាឡេស៊ី/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ាឡេស៊ី/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
@@ -515,10 +515,10 @@ question,intent
 តើ ប្រទេស នីហ្សេរី/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស នីហ្សេរី/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស នីហ្សេរី/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស នីហ្សេរី/B-GPEយ៉ា ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស នីហ្សេរីយ៉ា/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស ន័រវេ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ន័រវេ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ន័រវេ/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
