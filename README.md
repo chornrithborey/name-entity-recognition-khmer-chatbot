@@ -30,7 +30,13 @@
 | FindRoomPurpose | 36 |
 | SayGoodbye | 36 |
 | AskAboutDissatisfaction | 34 |
+| AskAboutAvailableWorkingSpace | 60 |
+| AskAboutWhereIsParkingSpace | 80 |
+| AskForCompanyInTheInnovationCenter | 200 |
+| IsCompanyExist | 160 |
+| IsStartUpExist | 160 |
+| AskForStartUpInTheInnovationCenter | 200 |
 
 |Total Number of Intents | Total Number of Sentences |
 | --- | --- |
-| 28 | 16883 |
+| 34 | 17743 |
