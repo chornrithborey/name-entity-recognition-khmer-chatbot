@@ -25,3 +25,9 @@ def sentences():
         ("បន្ទប់របស់", cadt_employee, "នៅ", some_floor, correct_or_not, "?"),
         ("បន្ទប់របស់", cadt_employee, "នៅ", which_floor, "?"),
     )
+
+
+def patches():
+    return [
+        ["ច/I-PER រិយា/I-PER", "ចរិយា/I-PER"],
+    ]
