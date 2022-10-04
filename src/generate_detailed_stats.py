@@ -1,4 +1,3 @@
-from functools import reduce
 import os
 
 
@@ -9,23 +8,6 @@ def count_into(dictionary: dict, subject: str) -> dict:
     dictionary[subject] += 1
 
     return dictionary
-
-
-# fmt: off
-words_count = {}
-def count_word(word: str) -> dict:
-    return count_into(words_count, word)
-
-
-entities = {}
-def count_entity(entity: str) -> dict:
-    return count_into(entities, entity)
-
-
-entity_types_count = {}
-def count_entity_type(entity_type: str) -> dict:
-    return count_into(entity_types_count, entity_type)
-# fmt:on
 
 
 def collect_entities(segments: list[dict]):
@@ -52,22 +34,6 @@ def collect_entity_types(entities: list[dict]) -> list[str]:
     return entity_types
 
 
-def tap(func):
-    def wrapper(subject):
-        func(subject)
-        return subject
-
-    return wrapper
-
-
-def transform(func):
-    return lambda subject: func(subject)
-
-
-def pipe(*funcs):
-    return reduce(lambda f, g: lambda x: g(f(x)), funcs, lambda x: x)
-
-
 def tag_segments(segments: list[str]) -> list[dict]:
     out = []
     for segment in segments:
@@ -86,36 +52,36 @@ def dict_to_md_table(dictionary: dict, title: str) -> str:
     return table
 
 
-def main():
+def collect_stats(directory: str) -> tuple:
+    files = os.listdir(directory)
+
+    words_count = {}
+    entity_types_count = {}
     max_length = 0
 
-    files = os.listdir("entity-tag")
-
     for file in files:
-        print(file)
-        with open("entity-tag/" + file, "r") as f:
+        with open(directory + "/" + file, "r") as f:
             f.readline()
             for line in f:
                 line = f.readline()
                 question = line.strip().split(",")[0]
-
                 max_length = max(max_length, len(question))
-
-                segments = pipe(
-                    transform(lambda x: x.replace("?", "")),
-                    transform(lambda x: x.strip()),
-                    transform(lambda x: x.split(" ")),
-                    transform(tag_segments),
-                )(question)
+                segments = tag_segments(question.replace("?", "").strip().split(" "))
 
                 for word in segments:
-                    count_word(word["text"])
+                    count_into(words_count, word["text"])
 
                 entities = collect_entities(segments)
                 entity_types = collect_entity_types(entities)
 
                 for entity_type in entity_types:
-                    count_entity_type(entity_type)
+                    count_into(entity_types_count, entity_type)
+
+    return words_count, entity_types_count, max_length
+
+
+def main():
+    words_count, entity_types_count, max_length = collect_stats("entity-tag")
 
     with open("stats.md", "w") as f:
         f.write("# Entity Tagging Dataset\n\n")
