@@ -1,161 +1,161 @@
 question, intent
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ នឹង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ឬ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ដែរ ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អាគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារ/B-BUILD នេះ ដែល ទេ ?, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
 តើ មាន ស្ថាប័ន/B-ORG [ Company Name ] នៅ នឹង ទី នេះ ដែល ទេ ?, Is Company Exist
