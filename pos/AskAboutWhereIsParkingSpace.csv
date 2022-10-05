@@ -1,0 +1,81 @@
+question/noun ,/punct intent/noun
+តើ/prt ចំណត/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចំណត/noun នៅ/adp ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ចំណត/noun នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចំណត/noun នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចំណត/noun ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចំណត/noun ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើចត/noun ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាចចត/verb ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចំណត/noun ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចំណត/noun ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt កន្លែង/noun ចត/verb នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ចត/verb នៅ/adp ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt កន្លែង/noun ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt កន្លែង/noun ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើចត/noun ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាចចត/verb ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt កន្លែង/noun ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ទី/noun តាំង/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ទី/noun តាំង/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ទី/noun តាំង/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ទី/noun តាំង/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ទី/noun តាំង/verb ចត/noun ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ទី/noun តាំង/verb ចត/noun ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើចត/noun ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាចចត/verb ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ទី/noun តាំង/verb ចត/noun ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ទី/noun តាំង/verb ចត/noun ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចត/verb នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ទីណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/noun ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចត/verb នៅ/adp ណា/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb នៅ/adp ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើចត/prt ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចត/noun ឯណា/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើចត/noun ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាចចត/verb ឯណាបាន/adp ?/punct ,/punct Ask/noun About/noun Where/noun Is/noun Parking/noun Space/noun
+តើ/prt ចតទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចត/verb ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt មាន/verb ចត/noun ទី/noun ណា/adj ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
+តើ/prt អាច/verb ចតទី/noun ណាបាន/noun ?/punct ,/punct Ask/noun About/noun Where/noun IsParking/noun Space/noun
