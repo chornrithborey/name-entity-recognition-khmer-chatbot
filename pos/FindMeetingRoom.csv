@@ -1,0 +1,597 @@
+question,intent
+ណាបន្ទប់/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ឯ/adp ណាកន្លែង/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ?/punct,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ទី/noun តាំង/verb របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/noun Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp កន្លែង/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/noun Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/noun ការ/noun ណ៍/det មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun មក/verb មនុស្សយន្ត/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp Robot/noun,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/adj កិច្ច/noun ប្រជុំ/adp មក/noun រ៉ូបូត/adp,FindMeetingRoom
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron កន្លែង/noun របស់/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb មក/adp មនុស្ស/noun យន្ត/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/verb ទីណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ទី/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp ទីណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ព្រឹក/noun នេះ/det នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ព្រឹក/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ព្រឹក/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ព្រឹក/noun នេះ/det នៅ/adp ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun រសៀល/noun នេះ/det នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun រសៀល/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun រសៀល/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun រសៀល/noun នេះ/det នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun ១០/num នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun ១០/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun ១០/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun ១០/num នៅ/adp ទីណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun បួន/num នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun បួន/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun បួន/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ម៉ោង/noun បួន/num នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ព្រឹក/noun នេះ/det នៅ/adp ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb រសៀល/noun នេះ/det នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun ១០/num នៅ/adp ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ម៉ោង/noun បួន/num នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ពាក់/verb ព័ន្ធ/verb នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun អាឡិច/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun Alexander/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp លោក/noun គ្រូ/noun បញ្ញា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អ្នក/pron គ្រូ/noun ចរិយា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp នាយក/noun សាលា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាកន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណាកន្លែង/adp ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ឯណា/adp បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+កន្លែង/noun ណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun ?/punct,FindMeetingRoom
+ទីណា/noun បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ?/punct,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb កន្លែង/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រសួង/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រសួង/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ស្ថាន/noun ទូត/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ធនាគារ/noun អេសុីលីដា/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp អង្គ/noun ការ/noun សហគមន៍/noun អាមេរិក/noun,FindMeetingRoom
+ខ្ញុំ/pron សូម/verb សួរ/verb រក/verb បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ជាមួយ/adp ក្រុម/noun ហ៊ុន/noun ស្មាត/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+Robot/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+រ៉ូបូត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj កន្លែង/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp អាហារូបករណ៍/noun ទៅ/adp បារាំង/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ឯ/adp ណា?/noun,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindMeetingRoom
+មនុស្ស/noun យន្ត/noun សួម/verb ជួយ/verb ប្រាប់/verb បន្ទិច/verb បាន/verb ទេ/prt ថា/conj បន្ទប់/noun ធ្វើ/verb កិច្ច/noun ប្រជុំ/verb ទាក់/verb ទង/noun នឹង/adp ការងារ/noun ស្ម័គ្រ/verb ចិត្ត/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindMeetingRoom

@@ -1,53 +1,53 @@
 question,intent
-នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ?,
-បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ?,
-ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,
-មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,
+នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
+ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+សូម ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គេ កំពុង រៀន អ្វី ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM អ្នក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ៣០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject

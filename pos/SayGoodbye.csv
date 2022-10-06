@@ -1,0 +1,37 @@
+question,intent
+លា/pron ហើយ/conj,SayGoodbye
+ខ្ញុំ/pron លាសិន/noun ហើយ/conj,SayGoodbye
+ជម្រាបលា/noun,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ស្អែក/adv,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ក្រោយ/adp,SayGoodbye
+សុខ/noun សប្បាយ/noun,SayGoodbye
+បាយបាយ/noun,SayGoodbye
+,SayGoodbye
+ទៅ/adp មុន/adv ហើយ/conj ណា/noun,SayGoodbye
+លា/pron ហើយ/conj Robot/noun,SayGoodbye
+លាហើយ/noun រ៉ូបូត/adp,SayGoodbye
+លា/pron ហើយ/conj មនុស្ស/noun យន្ត/noun,SayGoodbye
+ខ្ញុំ/pron លាសិន/noun ហើយ/conj Robot/noun,SayGoodbye
+ខ្ញុំ/pron លាសិន/noun ហើយ/conj រ៉ូបូត/adp,SayGoodbye
+ខ្ញុំ/pron លាសិន/noun ហើយ/conj មនុស្ស/noun យន្ត/noun,SayGoodbye
+ជម្រាប/noun លា/noun Robot/noun,SayGoodbye
+ជម្រាប/pron លារ៉ូបូត/noun,SayGoodbye
+ជម្រាប/noun លា/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ស្អែក/noun Robot/noun,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ស្អែក/noun រ៉ូបូត/adp,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ស្អែក/adv មនុស្ស/noun យន្ត/noun,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ក្រោយ/adp Robot/noun,SayGoodbye
+ជួប/verb គ្នា/verb ថ្ងៃ/noun ក្រោយ/adv រ៉ូបូត/adp,SayGoodbye
+ជួប/verb គ្នា/noun ថ្ងៃ/noun ក្រោយ/adp មនុស្ស/noun យន្ត/noun,SayGoodbye
+សុខ/noun សប្បាយ/noun Robot/noun,SayGoodbye
+សុខ/adj សប្បាយ/adj រ៉ូបូត/adp,SayGoodbye
+សុខ/adj ស/verb ប្បាយ/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
+បាយបាយ/noun Robot/noun,SayGoodbye
+បាយបាយ/noun រ៉ូបូត/adp,SayGoodbye
+បាយបាយ/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
+សុីយ៊ូរ/noun Robot/noun,SayGoodbye
+សុីយ៊/noun ូ/adp,SayGoodbye
+សុីយ៊ូរ/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
+ទៅ/adp មុន/adv ហើយ/conj ណា/noun Robot/noun,SayGoodbye
+ទៅ/adp មុន/adv ហើយ/noun ណា/pron រ៉ូបូត/adp,SayGoodbye
+ទៅ/adp មុន/adv ហើយ/conj ណា/noun មនុស្ស/noun យន្ត/noun,SayGoodbye

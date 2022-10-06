@@ -1,322 +1,322 @@
 question,intent
-តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ឯ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ កន្លែង ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ទី ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ឯ ណា?,
-តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ កន្លែង ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ទី ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ឯ ណា?,
-តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ កន្លែង ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ទី ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,
-តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,
-តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,
-តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ កន្លែង ណា ?,
-តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ទី ណា ?,
-បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,
-បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,
-បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,
-បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,
-បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ កន្លែង ណា ?,
-បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ទី ណា ?,
-បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,
-បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,
-បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,
-បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,
-បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ កន្លែង ណា ?,
-បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ទី ណា ?,
-ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,
-ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,
-ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,
-ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,
-ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិចម ក,
-សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,
-សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,
-សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,
-សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,
-សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,
-មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,
-មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,
-មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,
-មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,
-មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,
-Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,
-មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,
-មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,
-មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,
-មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,
-Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,
-Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,
-Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,
-Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,
-Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,
-រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,
-រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,
-រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,
-រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,
-រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,
-មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,
-Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,
-រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,
-មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,
-មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,
-មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,
-មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,
-មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,
-មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,
-មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ ណា ?,
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ ណា ?,
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ ណា ?,
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ ណា ?,
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ ណា ?,
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,
+តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ឯ ណា?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ឯ ណា?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ច/I-PER រិយា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ច/I-PER រិយា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ច/I-PER រិយា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+បន្ទប់ សិក្សា អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ឯ ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ កន្លែង ណា ?,FindEmployeeRoom
+បន្ទប់ រៀន អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
+ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
+ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,FindEmployeeRoom
+ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,FindEmployeeRoom
+ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,FindEmployeeRoom
+ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,FindEmployeeRoom
+ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
+ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,FindEmployeeRoom
+ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,FindEmployeeRoom
+ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,FindEmployeeRoom
+ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិចម ក,FindEmployeeRoom
+សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
+សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,FindEmployeeRoom
+សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,FindEmployeeRoom
+សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,FindEmployeeRoom
+សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,FindEmployeeRoom
+មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
+មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER បន្ទិច ម ក,FindEmployeeRoom
+មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER បន្ទិចម ក,FindEmployeeRoom
+មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទិច មក,FindEmployeeRoom
+មេត្តា ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទិច ម ក,FindEmployeeRoom
+Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robotមេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ណា ?,FindEmployeeRoom
+Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,FindEmployeeRoom
+Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,FindEmployeeRoom
+Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,FindEmployeeRoom
+Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,FindEmployeeRoom
+Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,FindEmployeeRoom
+រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,FindEmployeeRoom
+រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,FindEmployeeRoom
+រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,FindEmployeeRoom
+រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,FindEmployeeRoom
+រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,FindEmployeeRoom
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,FindEmployeeRoom
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER,FindEmployeeRoom
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER Alexander/I-PER,FindEmployeeRoom
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER,FindEmployeeRoom
+មនុស្ស យន្ត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER,FindEmployeeRoom
+Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+Robot លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+Robot លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+Robot លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+Robot លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+រ៉ូបូត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
+រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+រ៉ូបូត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER សុភី/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER Alexander/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
+មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOORម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ច/I-PER រិយា/I-PER នៅ ជាន់ ណា ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom

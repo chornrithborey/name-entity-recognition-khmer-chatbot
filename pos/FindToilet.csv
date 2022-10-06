@@ -1,0 +1,793 @@
+question,intent
+បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ក្រោម/adp កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បន្ទប់/noun ទឹក/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បន្ទប់/noun ទឹក/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ១/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បន្ទប់/noun ទឹក/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បន្ទប់/noun ទឹក/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ទី/noun ២/num កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun ផ្ទាល់/adj ដី/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+នៅ/verb ជាន់/noun លើ/adp គេ/pron បង្អស់/verb កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+Robotតើ/noun នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+រ៉ូបូត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun នោម/noun នៅ/verb ទីណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun IDT/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បន្ទប់/noun ទឹក/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun អណាម័យ/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun បង្គន់/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បត់/verb ជើង/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun បន្ទោរ/noun បង់/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/verb ឯ/adp ណា?/noun,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ដោះ/verb ទុក/verb សត្វ/noun នៅ/adp ទី/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ឯ/adp ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/adp កន្លែង/noun ណា/noun ?/punct,FindToilet
+មនុស្ស/noun យន្ត/noun តើ/prt នៅ/adp អគារ/noun Innovation/noun Center/noun កន្លែង/noun ជុះ/verb នោម/noun នៅ/verb ទី/noun ណា/noun ?/punct,FindToilet
