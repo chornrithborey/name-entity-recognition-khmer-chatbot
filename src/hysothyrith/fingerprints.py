@@ -5,17 +5,17 @@ import pickle
 
 def load() -> dict:
     try:
-        with open("storage/fingerprints.pickle", "rb") as file:
+        with open("storage/hysothyrith/fingerprints.pickle", "rb") as file:
             return pickle.load(file)
     except FileNotFoundError:
         return {}
 
 
 def save():
-    if not os.path.exists("storage/sentences"):
-        os.makedirs("storage/sentences")
+    if not os.path.exists("storage/hysothyrith/sentences"):
+        os.makedirs("storage/hysothyrith/sentences")
 
-    with open("storage/fingerprints.pickle", "wb") as file:
+    with open("storage/hysothyrith/fingerprints.pickle", "wb") as file:
         pickle.dump(fingerprints, file)
 
 
