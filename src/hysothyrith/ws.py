@@ -1,21 +1,18 @@
-from functools import reduce
 import re
-import pickle
-import numpy as np
 
 from tensorflow.keras import utils
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import (
-    Embedding,
+    GRU,
+    LSTM,
+    Bidirectional,
     Dense,
+    Dropout,
+    Embedding,
     Input,
     TimeDistributed,
-    LSTM,
-    GRU,
-    Bidirectional,
-    Dropout,
 )
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 PADDING_IDENTIFIER = "<PAD>"
 UNKNOWN_IDENTIFIER = "<UNK>"
@@ -43,17 +40,19 @@ def build_dictionaries(lines):
 
 
 def encode_sequences(char2idx, lines, max_len=100):
-    X = y = []
+    X = []
+    y = []
 
     for line in lines:
-        X.append([char2idx.get(c, 1) for c in line])
+        X_line = []
+        y_line = []
 
-        labelled = []
         for word in line.split(" "):
-            l = [1] + [-1 for _ in range(len(word) - 1)]
-            labelled.append([1] + [-1 for _ in range(len(word) - 1)])
+            X_line += [char2idx.get(c, 1) for c in word]
+            y_line += [1] + [-1 for _ in range(len(word) - 1)]
 
-        y.append(reduce(lambda x, y: x + [-1] + y, labelled))
+        X.append(X_line)
+        y.append(y_line)
 
     return (
         pad_sequences(sequences=X, maxlen=max_len, padding="pre", value=0),
@@ -90,7 +89,7 @@ def main():
     )
 
     bidirect_model.add(Bidirectional(LSTM(64, return_sequences=True)))
-    bidirect_model.add(TimeDistributed(Dense(len(char2idx), activation="softmax")))
+    bidirect_model.add(TimeDistributed(Dense(2, activation="softmax")))
 
     bidirect_model.compile(
         loss="categorical_crossentropy", optimizer="adam", metrics=["acc"]
@@ -106,6 +105,8 @@ def main():
         validation_data=(X_val, y_val),
         verbose=1,
     )
+
+    bidirect_model.save("storage/hysothyrith/bidirect_model.h5")
 
 
 if __name__ == "__main__":
