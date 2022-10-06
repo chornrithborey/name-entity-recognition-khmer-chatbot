@@ -1,0 +1,37 @@
+question,intent
+បន្ទប់/noun Jupyter/noun គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+បន្ទប់/noun ១០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+បន្ទប់/noun ៣០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+បន្ទប់/noun Jupyter/noun ជា/verb បន្ទប់/noun គេ/pron ប្រើ/verb ក្នុង/adp គោល/noun បំណង/noun អ្វី/noun ?/punct,FindRoomPurpose
+សាល/noun ប្រជុំ/verb ធំ/adj ជា/verb បន្ទប់/noun គេ/pron ប្រើ/verb ក្នុង/adp គោល/noun បំណង/noun អ្វី/noun ?/punct,FindRoomPurpose
+បន្ទប់/noun ១០១/num ជា/verb បន្ទប់/noun គេ/pron ប្រើ/verb ក្នុង/adp គោល/noun បំណង/noun អ្វី/noun ?/punct,FindRoomPurpose
+បន្ទប់/noun ៣០១/num ជា/verb បន្ទប់/noun គេ/pron ប្រើ/verb ក្នុង/adp គោល/noun បំណង/noun អ្វី/noun ?/punct,FindRoomPurpose
+ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun Jupyter/noun គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ប្រាប់/verb ខ្ញុំ/pron មក/verb សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ១០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ៣០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun Jupyter/noun គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ១០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ៣០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun Jupyter/noun គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ១០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ៣០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun Jupyter/noun គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron មក/verb សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ១០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron មក/verb បន្ទប់/noun ៣០១/num គេ/pron ប្រើ/verb ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt Robot/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun Jupyter/noun គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt Robot/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt Robot/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ១០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt Robot/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ៣០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt រ៉ូបូត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun Jupyter/noun គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt រ៉ូបូត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt រ៉ូបូត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ១០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt រ៉ូបូត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ៣០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt មនុស្ស/noun យន្ត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun Jupyter/noun គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt មនុស្ស/noun យន្ត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj សាល/noun ប្រជុំ/verb ធំ/adj គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt មនុស្ស/noun យន្ត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ១០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose
+តើ/prt មនុស្ស/noun យន្ត/noun ឯង/pron ដឹង/verb ទេ/prt ថា/conj បន្ទប់/noun ៣០១/num គេ/pron សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct,FindRoomPurpose

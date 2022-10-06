@@ -143,7 +143,13 @@ def tokenize_file_bilstm(f, o):
     print("Word segmentation status: Sucess.")
 
 
-def tokenize_sentences_bilstm(data):
+def tokenize_sentences_bilstm(data, tag_pos=False):
+    def construct_result(seq, pos):
+        if tag_pos:
+            return [f"{s}/{p}" for s, p in zip(seq, pos)]
+        else:
+            return seq[:]
+
     lines = [line.strip() for line in data]
 
     predictions = test_predict(lines, tok_model)
@@ -152,7 +158,7 @@ def tokenize_sentences_bilstm(data):
     results = []
     for i, pred_sent in enumerate(pred_sents):
         seq, pos = decode(pred_sent, lines[i])
-        result = [s for s in seq]
+        result = construct_result(seq, pos)
         results.append(result)
 
     temp = [" ".join(sentence) for sentence in results]
@@ -167,3 +173,7 @@ def tokenize_sentences_bilstm(data):
 
 def segment(sentence: str) -> Union[str, list[str]]:
     return tokenize_sentences_bilstm([sentence])[0].split(" ")
+
+
+def tag_pos(sentence: str) -> str:
+    return tokenize_sentences_bilstm([sentence], tag_pos=True)[0]

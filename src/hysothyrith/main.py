@@ -9,7 +9,13 @@ def main():
     sentence_count = {}
 
     for module in import_modules():
-        write_module(module)
+        write_module(
+            module,
+            "storage/hysothyrith/sentences",
+            segmented=True,
+            tagged=True,
+            encoded=True,
+        )
         sentence_count[module["intent"]] = len(module["sentences"])
 
     print("\nDone!")
@@ -32,17 +38,53 @@ def import_modules() -> list[dict]:
     return modules
 
 
-def write_module(module):
-    if not os.path.exists("storage/sentences"):
-        os.makedirs("storage/sentences")
+def write_module(module, root_dir: str, segmented=False, tagged=False, encoded=False):
+    raw_dir = os.path.join(root_dir, "raw")
+    segmented_dir = os.path.join(root_dir, "segmented")
+    tagged_dir = os.path.join(root_dir, "tagged")
+    encoded_dir = os.path.join(root_dir, "encoded")
 
-    file_path = "storage/sentences/{}.csv".format(module["intent"])
-    with open(file_path, "w", encoding="UTF8") as file:
+    intent = module["intent"]
+    sentences = module["sentences"]
+
+    for directory in (root_dir, raw_dir, segmented_dir, tagged_dir, encoded_dir):
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+
+    raw_file_path = os.path.join(raw_dir, "{}.csv".format(intent))
+    with open(raw_file_path, "w", encoding="UTF8") as file:
         writer = csv.writer(file)
         writer.writerow(["question", "intent"])
 
-        for sentence in module["sentences"]:
-            writer.writerow([sentence.tagged(), ""])
+        for sentence in sentences:
+            writer.writerow([sentence, intent])
+
+    if segmented:
+        segmented_file_path = os.path.join(segmented_dir, "{}.csv".format(intent))
+        with open(segmented_file_path, "w", encoding="UTF8") as file:
+            writer = csv.writer(file)
+            writer.writerow(["question", "intent"])
+
+            for sentence in sentences:
+                writer.writerow([sentence.segmented(), intent])
+
+    if tagged:
+        tagged_file_path = os.path.join(tagged_dir, "{}.csv".format(intent))
+        with open(tagged_file_path, "w", encoding="UTF8") as file:
+            writer = csv.writer(file)
+            writer.writerow(["question", "intent"])
+
+            for sentence in sentences:
+                writer.writerow([sentence.tagged(), intent])
+
+    if encoded:
+        encoded_file_path = os.path.join(encoded_dir, "{}.csv".format(intent))
+        with open(encoded_file_path, "w", encoding="UTF8") as file:
+            writer = csv.writer(file)
+            writer.writerow(["question", "intent"])
+
+            for sentence in sentences:
+                writer.writerow([sentence.encoded(), intent])
 
 
 if __name__ == "__main__":

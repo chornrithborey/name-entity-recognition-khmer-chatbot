@@ -1,0 +1,37 @@
+question,intent
+លា ហើយ,SayGoodbye
+ខ្ញុំ លាសិន ហើយ,SayGoodbye
+ជម្រាបលា,SayGoodbye
+ជួប គ្នា ថ្ងៃ ស្អែក,SayGoodbye
+ជួប គ្នា ថ្ងៃ ក្រោយ,SayGoodbye
+សុខ សប្បាយ,SayGoodbye
+បាយបាយ,SayGoodbye
+សុីយ៊ូ,SayGoodbye
+ទៅ មុន ហើយ ណា,SayGoodbye
+លា ហើយ Robot,SayGoodbye
+លាហើយ រ៉ូបូត,SayGoodbye
+លា ហើយ មនុស្ស យន្ត,SayGoodbye
+ខ្ញុំ លាសិន ហើយ Robot,SayGoodbye
+ខ្ញុំ លាសិន ហើយ រ៉ូបូត,SayGoodbye
+ខ្ញុំ លាសិន ហើយ មនុស្ស យន្ត,SayGoodbye
+ជម្រាប លា Robot,SayGoodbye
+ជម្រាប លារ៉ូបូត,SayGoodbye
+ជម្រាប លា មនុស្ស យន្ត,SayGoodbye
+ជួប គ្នា ថ្ងៃ ស្អែក Robot,SayGoodbye
+ជួប គ្នា ថ្ងៃ ស្អែក រ៉ូបូត,SayGoodbye
+ជួប គ្នា ថ្ងៃ ស្អែក មនុស្ស យន្ត,SayGoodbye
+ជួប គ្នា ថ្ងៃ ក្រោយ Robot,SayGoodbye
+ជួប គ្នា ថ្ងៃ ក្រោយ រ៉ូបូត,SayGoodbye
+ជួប គ្នា ថ្ងៃ ក្រោយ មនុស្ស យន្ត,SayGoodbye
+សុខ សប្បាយ Robot,SayGoodbye
+សុខ សប្បាយ រ៉ូបូត,SayGoodbye
+សុខ ស ប្បាយ មនុស្ស យន្ត,SayGoodbye
+បាយបាយ Robot,SayGoodbye
+បាយបាយ រ៉ូបូត,SayGoodbye
+បាយបាយ មនុស្ស យន្ត,SayGoodbye
+សុីយ៊ូរ Robot,SayGoodbye
+សុីយ៊ ូ ររ៉ូបូ,SayGoodbye
+សុីយ៊ូរ មនុស្ស យន្ត,SayGoodbye
+ទៅ មុន ហើយ ណា Robot,SayGoodbye
+ទៅ មុន ហើយ ណា រ៉ូបូត,SayGoodbye
+ទៅ មុន ហើយ ណា មនុស្ស យន្ត,SayGoodbye

@@ -1,0 +1,50 @@
+question,intent
+Robot ឯង មិន បាន ជួយ ខ្ញុំ ផង,Dissatisfied
+រ៉ូបូត ឯង មិន បាន ជួយ ខ្ញុំ ផង,Dissatisfied
+មនុស្ស យន្ត ឯង មិន បាន ជួយ ខ្ញុំ ផង,Dissatisfied
+Robot អត់ ប្រយោជន៍,Dissatisfied
+Robot អត់ បាន ការ ម៉ែន,Dissatisfied
+Robot មិន ដឹង ស្អី ទេ,Dissatisfied
+Robot អត់ ចេះ ស្អីផង នឹង,Dissatisfied
+Robot មិន បាន ការ អ្វី សោះ,Dissatisfied
+រ៉ូបូត អត់ ប្រយោជន៍,Dissatisfied
+រ៉ូបូត អត់ បាន ការ ម៉ែន,Dissatisfied
+រ៉ូបូត មិន ដឹង ស្អី ទេ,Dissatisfied
+រ៉ូបូត អត់ ចេះ ស្អី ផង នឹង,Dissatisfied
+រ៉ូបូត មិន បាន ការ អ្វី សោះ,Dissatisfied
+មនុស្ស យន្ត អត់ ប្រយោជន៍,Dissatisfied
+មនុស្ស យន្ត អត់ បាន ការ ម៉ែន,Dissatisfied
+មនុស្ស យន្ត មិន ដឹង ស្អី ទេ,Dissatisfied
+មនុស្ស យន្ត អត់ ចេះ ស្អី ផង នឹង,Dissatisfied
+មនុស្ស យន្ត មិន បាន ការ អ្វី សោះ,Dissatisfied
+ឆ្លើយ ខុស សំណួរ,Dissatisfied
+ឆ្លើយ ខុស ទំនង,Dissatisfied
+មិន បាន ឆ្លើយ សំណួរ ផង,Dissatisfied
+ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied
+សួរ គោ ឆ្លើយ ក្របី,Dissatisfied
+សួរ A ឆ្លើយ B,Dissatisfied
+Robot ឯង ឆ្លើយ ខុស សំណួរ,Dissatisfied
+Robot ឯង ឆ្លើយ ខុស ទំនង,Dissatisfied
+Robot ឯង មិន បាន ឆ្លើយ សំណួរ ផង,Dissatisfied
+Robot ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied
+Robot ឯង សួរ គោ ឆ្លើយ ក្របី,Dissatisfied
+Robot ឯង សួរ Aឆ្លើយ B,Dissatisfied
+រ៉ូបូត ឯង ឆ្លើយ ខុស សំណួរ,Dissatisfied
+រ៉ូបូត ឯង ឆ្លើយ ខុស ទំនង,Dissatisfied
+រ៉ូបូត ឯង មិន បាន ឆ្លើយ សំណួរ ផង,Dissatisfied
+រ៉ូបូត ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied
+រ៉ូបូត ឯង សួរ គោ ឆ្លើយ ក្របី,Dissatisfied
+រ៉ូបូត ឯង សួរ Aឆ្លើយ B,Dissatisfied
+មនុស្ស យន្ត ឯង ឆ្លើយ ខុស សំណួរ,Dissatisfied
+មនុស្ស យន្ត ឯង ឆ្លើយ ខុស ទំនង,Dissatisfied
+មនុស្ស យន្ត ឯង មិន បាន ឆ្លើយ សំណួរ ផង,Dissatisfied
+មនុស្ស យន្ត ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied
+មនុស្ស យន្ត ឯង សួរ គោ ឆ្លើយ ក្របី,Dissatisfied
+មនុស្ស យន្ត ឯង សួរ Aឆ្លើយ B,Dissatisfied
+អុញ,Dissatisfied
+ទៅ ចេញ ចឹង ទៅ,Dissatisfied
+ចេះ តែ ចេញ ហើយ,Dissatisfied
+ទៅ សួរ មនុស្ស វិញ,Dissatisfied
+សួរ មនុស្ស វិញ គ្រាន់ ជាង,Dissatisfied
+ស្មាន តែ ពូកែ,Dissatisfied
+ស្មាន តែ អស្ចារ្យ,Dissatisfied
