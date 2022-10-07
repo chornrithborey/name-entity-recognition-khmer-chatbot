@@ -1,6 +1,6 @@
-question , intent
-តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង អាគារ នេះ ទេ ? , IsStart Up Exist
-តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ? , IsStart UpExist
+question,intent
+តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង អគារ នេះ ទេ ? , Is Start Up Exist
+តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង អគារនវានុវត្តន៍ ទេ ? , IsStart Up Exist
 តើ មាន ស្តាត អាប់ CamMob នៅ ក្នុង នេះ ទេ ? , IsStart Up Exist
 តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង កន្លែង នេះ ទេ ? , IsStart UpExist
 តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង ទី នេះ ទេ ? , IsStart Up Exist
