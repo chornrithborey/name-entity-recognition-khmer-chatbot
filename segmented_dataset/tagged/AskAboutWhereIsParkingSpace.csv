@@ -1,0 +1,81 @@
+question, intent
+តើ ចំណត/B-LOC នៅ ទីណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណា ?, Ask About Where IsParking Space
+តើ មាន ចំណត/B-LOC នៅ ទី ណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណាបាន ?, Ask About Where IsParking Space
+តើ ចំណត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ មាន ចំណត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ ចត/B-LOC នៅ ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណាបាន ?, Ask About Where Is Parking Space
+តើ ចំណត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ មាន ចំណត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើចត ឯណាបាន ?, Ask About Where IsParking Space
+តើ អាចចត ឯណាបាន ?, Ask About Where Is Parking Space
+តើ ចំណត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ មាន ចំណត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ កន្លែង ចត/B-LOC នៅ ទី ណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC នៅ ទីណា ?, Ask About Where IsParking Space
+តើ មាន កន្លែង ចត/B-LOC នៅ ទី ណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណាបាន ?, Ask About Where IsParking Space
+តើ កន្លែង ចត/B-LOC នៅ ណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ មាន កន្លែង ចត/B-LOC នៅ ណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណាបាន ?, Ask About Where Is Parking Space
+តើ កន្លែង ចត/B-LOC ឯណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ មាន កន្លែង ចត/B-LOC ឯណា ?, Ask About Where Is Parking Space
+តើចត ឯណាបាន ?, Ask About Where IsParking Space
+តើ អាចចត ឯណាបាន ?, Ask About Where Is Parking Space
+តើ កន្លែង ចត/B-LOC ទី ណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ មាន កន្លែង ចត/B-LOC ទី ណា ?, Ask About Where Is Parking Space
+តើ ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ ទី តាំង ចត/B-LOC នៅ ទីណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC នៅ ទីណា ?, Ask About Where IsParking Space
+តើ មាន ទី តាំង ចត/B-LOC នៅ ទីណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណាបាន ?, Ask About Where IsParking Space
+តើ ទី តាំង ចត/B-LOC នៅ ណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ មាន ទី តាំង ចត/B-LOC នៅ ណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណាបាន ?, Ask About Where Is Parking Space
+តើ ទី តាំង ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ មាន ទី តាំង ចត/B-LOC ឯណា ?, Ask About Where Is Parking Space
+តើចត ឯណាបាន ?, Ask About Where IsParking Space
+តើ អាចចត ឯណាបាន ?, Ask About Where Is Parking Space
+តើ ទី តាំង ចត/B-LOC ទី ណា ?, Ask About Where Is Parking Space
+តើ អាច ចត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ មាន ទី តាំង ចត/B-LOC ទី ណា ?, Ask About Where Is Parking Space
+តើ ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ ចត/B-LOC នៅ ទី ណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណា ?, Ask About Where IsParking Space
+តើ មាន ចត/B-LOC នៅ ទី ណា ?, Ask About Where Is Parking Space
+តើ ចត/B-LOC នៅ ទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ទីណាបាន ?, Ask About Where IsParking Space
+តើ ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ មាន ចត/B-LOC នៅ ណា ?, Ask About Where IsParking Space
+តើ ចត/B-LOC នៅ ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC នៅ ណាបាន ?, Ask About Where Is Parking Space
+តើចត ឯណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើ មាន ចត/B-LOC ឯណា ?, Ask About Where IsParking Space
+តើចត ឯណាបាន ?, Ask About Where IsParking Space
+តើ អាចចត ឯណាបាន ?, Ask About Where Is Parking Space
+តើ ចតទី ណា ?, Ask About Where IsParking Space
+តើ អាច ចត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ មាន ចត/B-LOC ទី ណា ?, Ask About Where IsParking Space
+តើ ចតទី ណាបាន ?, Ask About Where IsParking Space
+តើ អាច ចតទី ណាបាន ?, Ask About Where IsParking Space
