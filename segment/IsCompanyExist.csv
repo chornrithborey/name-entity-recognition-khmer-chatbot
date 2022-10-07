@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 question , intent
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង អាគារ នេះ ទេ ? , Is Company Exist
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ? , Is Company Exist
+=======
+question,intent
+តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង អគារ នេះ ទេ ? , Is Company Exist
+តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង អគារនវានុវត្តន៍ ទេ ? , Is Company Exist
+>>>>>>> Stashed changes
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង នេះ ទេ ? , Is Company Exist
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង កន្លែង នេះ ទេ ? , Is Company Exist
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ ក្នុង ទី នេះ ទេ ? , Is Company Exist
