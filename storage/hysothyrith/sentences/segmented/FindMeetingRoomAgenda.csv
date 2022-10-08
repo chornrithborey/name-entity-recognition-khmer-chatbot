@@ -1,0 +1,65 @@
+question,intent
+តើ នៅ បន្ទប់ Jupyter គេ កំពុង ជជែក គ្នា អំពី អ្វី ?,FindMeetingRoomAgenda
+តើ នៅ បន្ទប់ Jupyter គេ កំពុង ប្រជុំ រឿង អ្វី ?,FindMeetingRoomAgenda
+តើ នៅ សាល ប្រជុំ ធំ គេ កំពុង ជជែក គ្នា អំពី អ្វី ?,FindMeetingRoomAgenda
+តើ នៅ សាល ប្រជុំ ធំ គេ កំពុង ប្រជុំ រឿង អ្វី ?,FindMeetingRoomAgenda
+ព្រឹក នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ព្រឹក នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ព្រឹក នេះ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ព្រឹក នេះ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+រសៀល នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+រសៀល នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+រសៀល នេះ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+រសៀល នេះ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម៉ោង ១០ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម៉ោង ១០ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម៉ោង ១០ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម៉ោង ១០ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម៉ោង បួន គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម៉ោង បួន គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម៉ោង បួន គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម៉ោង បួន គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ នេះ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ នេះ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ នេះ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ស្អែក គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ស្អែក គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ស្អែក គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ស្អែក គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ អាទិត្យ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ អាទិត្យ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ អាទិត្យ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ អាទិត្យ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម្លិល មិញ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម្លិល មិញ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ម្លិល មិញ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ម្លិល មិញ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ធនាគារ អេសុីលីដា គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ធនាគារ អេសុីលីដា គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ធនាគារ អេសុីលីដា គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ធនាគារ អេសុីលីដា គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រុម ហ៊ុន ស្មាត គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រុម ហ៊ុន ស្មាត គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រុម ហ៊ុន ស្មាត គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រុម ហ៊ុន ស្មាត គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda

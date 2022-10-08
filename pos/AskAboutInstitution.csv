@@ -1,0 +1,267 @@
+question,intent
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt បណ្ឌិត្យ/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt CADT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun Ab/noun out/adp Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីធី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDT/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយជួយ/noun សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun Ab/noun out/adp Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីអអាយ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDRI/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជីជួយ/noun សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun Ab/noun out/adp Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt អាយឌីជី/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt IDG/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun អភិបាល/noun កិច្ជ/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb និងនវានុវត្តន៍/noun ឌីជីថល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun ពហុ/adv បច្ចេកទេស/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស៊ីតិក/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ពហុ/adv បច្ចេកទេស/noun ព្រះ/noun កុសុមៈ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ជាតិ/noun អប់រំ/verb ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun មាន/verb សារៈ/noun សំខាន់/adj ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជួយ/verb សង្គម/noun ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun មាន/verb ផ្នែក/noun អ្វី/noun ខ្លះ/adj ដែល/noun មាន/verb សារៈ/noun សំខាន់/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun មាន/verb ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb របស់/adp ឯក/adj ជន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun មែន/adv ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb របស់/adp រដ្ន/noun ឬ/conj ក៏/conj របស់/adp ឯក/adj ជន/noun ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្ត/noun ជាតិ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun អន្តជាតិ/noun ឬ/conj ?/punct ,/punct Ask/noun About/noun Institution/noun
+តើ/prt វិទ្យា/noun ស្ថាន/noun ស្រាវជ្រាវ/verb អភិវឌ្ឍន៍/verb កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ក៏/conj ជា/verb ស្ថាប័ន/noun អន្តរ/noun ជាតិ/noun ?/punct ,/punct Ask/noun About/noun Institution/noun

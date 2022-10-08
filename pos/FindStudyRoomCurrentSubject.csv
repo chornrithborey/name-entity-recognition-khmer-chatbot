@@ -1,0 +1,53 @@
+question,intent
+នៅ/verb បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+នៅ/verb បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+នៅ/verb បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+នៅ/verb បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ១០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ១០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ១០១/num អ្នក/noun គ្រូ/pron កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ១០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ៣០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ៣០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ៣០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+បន្ទប់/noun ៣០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ១០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb សិក្សា/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron បន្ទិច/verb មក/adp នៅ/adp បន្ទប់/noun ៣០១/num គេ/pron កំពុង/verb រៀន/verb អ្វី/noun ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ១០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num លោក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num អ្នក/noun គ្រូ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj នៅ/adp បន្ទប់/noun ៣០១/num សាស្រ្តាចារ្យ/noun កំពុង/verb បង្រៀន/verb អ្វី/noun ដែរ/adv ?/punct,FindStudyRoomCurrentSubject

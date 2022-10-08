@@ -1,0 +1,61 @@
+question,intent
+តើ/prt មាន/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ធ្វើ/verb ការ/noun ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb កន្លែង/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb ការិយាល័យ/noun ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb ការិយាល័យ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb ការិយាល័យ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb ការិយាល័យ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb office/noun ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb office/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb office/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb office/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើមាន/prt working/noun -space/punct ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើមាន/prt working/noun -/punct space/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើមាន/prt working/noun -space/punct ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt មាន/verb working/noun -space/punct ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -space/punct នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -/punct space/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -space/punct ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/noun working/noun -space/punct ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb បន្ទប់/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb កន្លែង/noun ធ្វើ/verb ការ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb ការិយាល័យ/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/verb office/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -space/punct នៅ/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -/punct space/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/adp សល់/noun working/noun -space/punct ដែរ/adv ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun
+តើ/prt នៅ/verb សល់/noun working/noun -space/punct ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Available/noun Working/noun Space/noun

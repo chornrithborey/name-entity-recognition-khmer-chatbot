@@ -1,0 +1,961 @@
+question,intent
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ថ្នាក់/noun មូលដ្ឋាន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun com/noun puterscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp com/noun puterscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun com/noun puterscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp com/noun puterscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp com/noun puterscience/noun នរណាជា/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp computerscience/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp com/noun puterscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp computerscience/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp វិទ្យា/noun សាស្រ្ត/noun កុំព្យូទ័រ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp កុំព្យូទ័រ/noun សាយអេននរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp កុំព្យូទ័រ/noun សាយអេន/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/verb ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/noun ខាង/noun e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp e-commerce/noun ពាណិជ្ជ/noun កម្ម/noun អេឡិចត្រូនិច/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp អុីខមមើស/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp អុីខមមើស/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Telecoms/noun and/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Telecomsand/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Telecomsand/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Telecoms/noun and/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Telecoms/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Telecoms/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Networking/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Networking/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Network/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Networkនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp Network/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ទូរ/noun គមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ទូរគមនាគមន៍/noun នរ/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ទូរគមនាគមន៍/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp បណ្តាញ/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp បណ្តាញ/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/verb តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb តេឡេខម/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/verb តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun មើល/verb ការ/noun ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb តេឡេខម/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/verb តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/verb តេឡេខម/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp តេឡេខមនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp តេឡេខម/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ណេត/noun វើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ណេត/noun វើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ណេត/noun វើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ណេត/noun វើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ណេត/noun វើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ណេតវើក/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ណេតវើក/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ខាង/noun ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun គ្រប់/adj គ្រង/verb ក្នុង/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ណេតវើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខាង/noun ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ក្នុង/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/pron មើល/verb ការ/noun ខុស/adj ត្រូវ/adj ក្នុង/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ខាង/noun ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb ខុស/adj ត្រូវ/adj ក្នុង/adp ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ណេត/noun វើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ខាង/noun ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun ទទួល/verb បន្ទុក/noun ក្នុង/adp ណេត/noun វើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ណេតវើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ណេតវើក/noun កីង/noun នរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ណេត/noun វើក/noun កីងនរណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ខាង/noun ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb នៅ/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អ្នក/noun រ៉ាប់/verb រង/verb ក្នុង/adp ណេតវើក/noun កីង/noun អ្នក/noun ណា/noun ជា/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ការ/noun សិក្សា/verb របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ប្រវត្តិ/noun ជីវិត/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ជីវ/noun ប្រវត្តិ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp បណ្ឌិត/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun សេងសុភាព/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp លោក/noun ហ៊ាន/noun សំបឿន/noun ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/noun ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/adj សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/noun រៀប/verb រាប់/verb ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+ចូរ/verb ប្រាប់/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb និយាយ/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun
+អាច/verb ដឹង/verb ពី/adp ភាព/noun ជោគ/noun ជ័យ/noun របស់/adp ឯក/adj ឧត្តម/noun ហ៊ាន/noun សំបឿន/verb ដែរ/adv ឫ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Top/noun Management/noun Personal/noun

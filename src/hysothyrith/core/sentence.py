@@ -29,6 +29,9 @@ class Sentence:
         return " ".join(self.segments())
 
     def tagged(self) -> str:
+        return tokenizer.tag_pos(str(self))
+
+    def encoded(self) -> str:
         out = self.segmented()
         for entity in self.entities:
             segmented_entity = entity.segmented()

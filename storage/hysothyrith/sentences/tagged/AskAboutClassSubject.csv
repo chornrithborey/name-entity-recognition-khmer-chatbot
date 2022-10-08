@@ -1,0 +1,211 @@
+question,intent
+ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+សហគ្រិន/noun ភាព/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+សហគ្រិន/noun ភាព/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun រៀន/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun សិក្សា/verb អំពី/adp អ្វី/noun ទៅ/prt ?/punct,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ស្ថាបត្យ/noun កម្ម/noun កុំព្យូទ័រ/noun,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb គេ/pron ហទំព័រ/noun,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun សហគ្រិន/noun ភាព/noun,AskAboutClassSubject
+សូម/verb ផ្តល់/verb ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun មក/verb,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ស្ថាបត្យ/noun កម្ម/noun កុំព្យូទ័រ/noun មក/noun,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មក/noun,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun មក/noun,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun សហគ្រិន/noun ភាព/noun មក/adj,AskAboutClassSubject
+ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun មក/adj,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun មក/verb,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun មក/noun,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មក/noun,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun មក/noun,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun សហគ្រិន/noun ភាព/noun មក/adj,AskAboutClassSubject
+ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun មក/adj,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun មក/verb,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ស្ថាបត្យ/noun កម្ម/noun កុំព្យូទ័រ/noun មក/noun,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មក/noun,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun មក/noun,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun សហគ្រិន/noun ភាព/noun មក/adj,AskAboutClassSubject
+សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun មក/adj,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun មក/verb,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ស្ថាបត្យ/noun កម្ម/noun កុំព្យូទ័រ/noun មក/noun,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun មក/noun,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun មក/noun,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun សហគ្រិន/noun ភាព/noun មក/adj,AskAboutClassSubject
+មេត្តា/noun ប្រាប់/verb ខ្ញុំ/pron ពត៌មាន/noun អំពី/adp មុខ/noun វិជ្ជា/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun មក/adj,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun ការ/noun អភិវឌ្ឍន៍/verb គេ/pron ហទំព័រ/noun,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun សហគ្រិន/noun ភាព/noun,AskAboutClassSubject
+ខ្ញុំ/pron សូម/verb សួរ/verb ពត៌មាន/noun អំពី/adp ថ្នាក់/noun ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj សហគ្រិន/noun ភាព/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+Robot/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj សហគ្រិន/noun ភាព/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+រ៉ូបូត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj សហគ្រិន/noun ភាព/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+មនុស្ស/noun យន្ត/noun ខ្ញុំ/pron សូម/verb សួរ/verb ថា/conj ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun ជា/verb ថ្នាក់/noun បែប/noun ម៉េចវិញ/noun ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/verb ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun រៀន/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/verb ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb កម្ម/noun វិធី/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ស្ថាបត្យកម្ម/noun កុំព្យូទ័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ទូរគមនាគមន៍/noun និង/conj បណ្តាញ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun អភិវឌ្ឍន៍/verb គេហទំព័រ/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb សហគ្រិន/noun ភាព/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj យើង/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj ខ្ញុំ/pron អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj សិស្ស/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb យល់/verb ដឹង/verb អំពី/adp អ្វី/noun ខ្លះ/adj ?/punct,AskAboutClassSubject
+ពេល/noun ដែល/noun សិក្សា/verb ការ/noun គ្រប់/adj គ្រង/verb គម្រោង/noun នឹង/adp ហើយ/conj និស្សិត/noun អាច/verb មាន/verb សមត្ថ/adj ភាព/noun បែប/noun ណា/noun ខ្លះ/adj ?/punct,AskAboutClassSubject

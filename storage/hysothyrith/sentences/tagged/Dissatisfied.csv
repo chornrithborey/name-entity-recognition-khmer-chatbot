@@ -1,0 +1,50 @@
+question,intent
+Robot/noun ឯង/det មិន/prt បាន/verb ជួយ/verb ខ្ញុំ/pron ផង/adv,Dissatisfied
+រ៉ូបូត/noun ឯង/pron មិន/prt បាន/verb ជួយ/verb ខ្ញុំ/pron ផង/adv,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron មិន/prt បាន/verb ជួយ/verb ខ្ញុំ/pron ផង/adv,Dissatisfied
+Robot/noun អត់/prt ប្រយោជន៍/noun,Dissatisfied
+Robot/noun អត់/prt បាន/verb ការ/noun ម៉ែន/noun,Dissatisfied
+Robot/noun មិន/prt ដឹង/verb ស្អី/noun ទេ/prt,Dissatisfied
+Robot/noun អត់/prt ចេះ/verb ស្អីផង/noun នឹង/adp,Dissatisfied
+Robot/noun មិន/prt បាន/verb ការ/noun អ្វី/noun សោះ/adv,Dissatisfied
+រ៉ូបូត/noun អត់/prt ប្រយោជន៍/noun,Dissatisfied
+រ៉ូបូត/noun អត់/prt បាន/verb ការ/noun ម៉ែន/noun,Dissatisfied
+រ៉ូបូត/noun មិន/prt ដឹង/verb ស្អី/noun ទេ/prt,Dissatisfied
+រ៉ូបូត/noun អត់/prt ចេះ/verb ស្អី/noun ផង/adv នឹង/adp,Dissatisfied
+រ៉ូបូត/noun មិន/prt បាន/verb ការ/noun អ្វី/noun សោះ/adv,Dissatisfied
+មនុស្ស/noun យន្ត/noun អត់/prt ប្រយោជន៍/noun,Dissatisfied
+មនុស្ស/noun យន្ត/noun អត់/prt បាន/verb ការ/noun ម៉ែន/noun,Dissatisfied
+មនុស្ស/noun យន្ត/noun មិន/prt ដឹង/verb ស្អី/noun ទេ/prt,Dissatisfied
+មនុស្ស/noun យន្ត/noun អត់/prt ចេះ/verb ស្អី/noun ផង/adv នឹង/adp,Dissatisfied
+មនុស្ស/noun យន្ត/noun មិន/prt បាន/verb ការ/noun អ្វី/noun សោះ/adv,Dissatisfied
+ឆ្លើយ/verb ខុស/verb សំណួរ/adp,Dissatisfied
+ឆ្លើយ/verb ខុស/adj ទំនង/noun,Dissatisfied
+មិន/prt បាន/verb ឆ្លើយ/verb សំណួរ/noun ផង/adv,Dissatisfied
+ឆ្លើយ/verb មិន/prt ត្រូវ/verb សំណួរ/noun ផង/adv,Dissatisfied
+សួរ/verb គោ/noun ឆ្លើយ/verb ក្របី/noun,Dissatisfied
+សួរ/verb A/noun ឆ្លើយ/verb B/noun,Dissatisfied
+Robot/noun ឯង/det ឆ្លើយ/verb ខុស/adj សំណួរ/adv,Dissatisfied
+Robot/noun ឯង/det ឆ្លើយ/verb ខុស/adj ទំនង/noun,Dissatisfied
+Robot/noun ឯង/det មិន/prt បាន/verb ឆ្លើយ/verb សំណួរ/noun ផង/adv,Dissatisfied
+Robot/noun ឯង/det ឆ្លើយ/verb មិន/prt ត្រូវ/verb សំណួរ/noun ផង/adv,Dissatisfied
+Robot/noun ឯង/det សួរ/verb គោ/noun ឆ្លើយ/verb ក្របី/noun,Dissatisfied
+Robot/noun ឯង/det សួរ/verb Aឆ្លើយ/noun B/noun,Dissatisfied
+រ៉ូបូត/noun ឯង/pron ឆ្លើយ/verb ខុស/adj សំណួរ/noun,Dissatisfied
+រ៉ូបូត/noun ឯង/pron ឆ្លើយ/verb ខុស/adj ទំនង/noun,Dissatisfied
+រ៉ូបូត/noun ឯង/pron មិន/prt បាន/verb ឆ្លើយ/verb សំណួរ/noun ផង/adv,Dissatisfied
+រ៉ូបូត/noun ឯង/pron ឆ្លើយ/verb មិន/prt ត្រូវ/verb សំណួរ/noun ផង/adv,Dissatisfied
+រ៉ូបូត/noun ឯង/pron សួរ/verb គោ/noun ឆ្លើយ/verb ក្របី/noun,Dissatisfied
+រ៉ូបូត/noun ឯង/det សួរ/verb Aឆ្លើយ/noun B/noun,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron ឆ្លើយ/verb ខុស/adj សំណួរ/adv,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron ឆ្លើយ/verb ខុស/adj ទំនង/noun,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron មិន/prt បាន/verb ឆ្លើយ/verb សំណួរ/noun ផង/adv,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron ឆ្លើយ/verb មិន/prt ត្រូវ/verb សំណួរ/noun ផង/adv,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/pron សួរ/verb គោ/noun ឆ្លើយ/verb ក្របី/noun,Dissatisfied
+មនុស្ស/noun យន្ត/noun ឯង/det សួរ/verb Aឆ្លើយ/noun B/noun,Dissatisfied
+អុញ/verb,Dissatisfied
+ទៅ/verb ចេញ/verb ចឹង/noun ទៅ/prt,Dissatisfied
+ចេះ/verb តែ/conj ចេញ/verb ហើយ/conj,Dissatisfied
+ទៅ/adp សួរ/verb មនុស្ស/noun វិញ/adv,Dissatisfied
+សួរ/verb មនុស្ស/noun វិញ/adv គ្រាន់/adj ជាង/adp,Dissatisfied
+ស្មាន/noun តែ/conj ពូកែ/noun,Dissatisfied
+ស្មាន/verb តែ/conj អស្ចារ្យ/adj,Dissatisfied
