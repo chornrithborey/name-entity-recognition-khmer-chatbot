@@ -43,10 +43,14 @@ question,intent
 ថ្ងៃ/B-DATE ទី/I-DATE ១០/I-DATE ខែ/I-DATE មិថុនា/I-DATE ឆ្នាំ/I-DATE ២០២១/I-DATE គេ ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
 ថ្ងៃ/B-DATE ទី/I-DATE ១០/I-DATE ខែ/I-DATE មិថុនា/I-DATE ឆ្នាំ/I-DATE ២០២១/I-DATE គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
 ថ្ងៃ/B-DATE ទី/I-DATE ១០/I-DATE ខែ/I-DATE មិថុនា/I-DATE ឆ្នាំ/I-DATE ២០២១/I-DATE គេ ប្រជុំ រឿង អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
-តើ ក្រសួង/B-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
-តើ ក្រសួង/B-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
-តើ ក្រសួង/B-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
-តើ ក្រសួង/B-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG និង/I-ORG ទូរគមនាគមន៍/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG និង/I-ORG ទូរគមនាគមន៍/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG និង/I-ORG ទូរគមនាគមន៍/I-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG និង/I-ORG ទូរគមនាគមន៍/I-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG សាធារណការ/I-ORG និង/I-ORG ដឹក/I-ORG ជញ្ជូន/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG សាធារណការ/I-ORG និង/I-ORG ដឹក/I-ORG ជញ្ជូន/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG សាធារណការ/I-ORG និង/I-ORG ដឹក/I-ORG ជញ្ជូន/I-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
+តើ ក្រសួង/B-ORG សាធារណការ/I-ORG និង/I-ORG ដឹក/I-ORG ជញ្ជូន/I-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
 តើ ស្ថាន/B-ORG ទូត/I-ORG អាមេរិក/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
 តើ ស្ថាន/B-ORG ទូត/I-ORG អាមេរិក/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
 តើ ស្ថាន/B-ORG ទូត/I-ORG អាមេរិក/I-ORG គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda

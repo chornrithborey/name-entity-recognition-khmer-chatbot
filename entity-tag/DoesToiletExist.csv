@@ -47,7 +47,7 @@ question,intent
 មាន បន្ទប់ ទឹក ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បន្ទប់ ទឹក ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បន្ទប់ ទឹក ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -59,7 +59,7 @@ question,intent
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -71,7 +71,7 @@ question,intent
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បន្ទប់ ទឹក ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បន្ទប់ ទឹក ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -83,7 +83,7 @@ question,intent
 មាន បន្ទប់ ទឹក អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បន្ទប់ ទឹក អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បន្ទប់ ទឹក អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បន្ទប់ ទឹក អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បន្ទប់ ទឹក អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បន្ទប់ ទឹក អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -95,7 +95,7 @@ question,intent
 មាន បង្គន់ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -107,7 +107,7 @@ question,intent
 មាន បង្គន់ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ ឬ ទេ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -119,7 +119,7 @@ question,intent
 មាន បង្គន់ ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ ឬ អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -131,7 +131,7 @@ question,intent
 មាន បង្គន់ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -143,7 +143,7 @@ question,intent
 មាន បង្គន់ បត់ ជើង ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -155,7 +155,7 @@ question,intent
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -167,7 +167,7 @@ question,intent
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -179,7 +179,7 @@ question,intent
 មាន បង្គន់ បត់ ជើង អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -191,7 +191,7 @@ question,intent
 មាន បង្គន់ អណាម័យ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ អណាម័យ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ អណាម័យ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -203,7 +203,7 @@ question,intent
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -215,7 +215,7 @@ question,intent
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ អណាម័យ ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ អណាម័យ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -227,7 +227,7 @@ question,intent
 មាន បង្គន់ អណាម័យ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ អណាម័យ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ អណាម័យ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ អណាម័យ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -239,7 +239,7 @@ question,intent
 មាន បង្គន់ នោម ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ នោម ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ នោម ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ នោម ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -251,7 +251,7 @@ question,intent
 មាន បង្គន់ នោម ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -263,7 +263,7 @@ question,intent
 មាន បង្គន់ នោម ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ នោម ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ នោម ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -275,7 +275,7 @@ question,intent
 មាន បង្គន់ នោម អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន បង្គន់ នោម អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន បង្គន់ នោម អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន បង្គន់ នោម អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន បង្គន់ នោម អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន បង្គន់ នោម អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -287,7 +287,7 @@ question,intent
 មាន កន្លែង បត់ ជើង ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -299,7 +299,7 @@ question,intent
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បត់ ជើង ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -311,7 +311,7 @@ question,intent
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -323,7 +323,7 @@ question,intent
 មាន កន្លែង បត់ ជើង អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -335,7 +335,7 @@ question,intent
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -347,7 +347,7 @@ question,intent
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -359,7 +359,7 @@ question,intent
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -371,7 +371,7 @@ question,intent
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -383,7 +383,7 @@ question,intent
 មាន កន្លែង ជុះ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -395,7 +395,7 @@ question,intent
 មាន កន្លែង ជុះ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -407,7 +407,7 @@ question,intent
 មាន កន្លែង ជុះ ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -419,7 +419,7 @@ question,intent
 មាន កន្លែង ជុះ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -431,7 +431,7 @@ question,intent
 មាន កន្លែង នោម ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង នោម ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង នោម ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង នោម ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -443,7 +443,7 @@ question,intent
 មាន កន្លែង នោម ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង នោម ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង នោម ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង នោម ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -455,7 +455,7 @@ question,intent
 មាន កន្លែង នោម ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង នោម ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង នោម ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង នោម ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង នោម ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -467,7 +467,7 @@ question,intent
 មាន កន្លែង នោម អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង នោម អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង នោម អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង នោម អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង នោម អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង នោម អត់ នៅ ជាន់លើ/B-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង នោម អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -479,7 +479,7 @@ question,intent
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -491,7 +491,7 @@ question,intent
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -503,7 +503,7 @@ question,intent
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -515,7 +515,7 @@ question,intent
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ដោះ ទុក សត្វ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -527,7 +527,7 @@ question,intent
 មាន កន្លែង ជុះ នោម ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -539,7 +539,7 @@ question,intent
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ នោម ឬ ទេ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ នោម ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ ទេ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -551,7 +551,7 @@ question,intent
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -563,7 +563,7 @@ question,intent
 មាន កន្លែង ជុះ នោម អត់ នៅ កន្លែង នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម អត់ នៅ សាលា នឹង ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-មាន កន្លែង ជុះ នោម អត់ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ?,DoesToiletExist
+មាន កន្លែង ជុះ នោម អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម អត់ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR ?,DoesToiletExist
 មាន កន្លែង ជុះ នោម អត់ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR ?,DoesToiletExist
@@ -747,50 +747,50 @@ question,intent
 សុំ សួរ មួយ Robotតើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ Robotតើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
 សុំ សួរ មួយ Robotតើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robotតើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
 សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
 សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ Robotតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
@@ -1275,50 +1275,50 @@ question,intent
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
@@ -1803,50 +1803,50 @@ question,intent
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង នោម អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR នេះ/I-FLOOR មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង នោម អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist

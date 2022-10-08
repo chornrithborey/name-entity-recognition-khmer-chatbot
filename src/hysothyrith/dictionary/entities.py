@@ -2,10 +2,9 @@ from core.entity import Entity
 
 from dictionary import entity_types
 
-some_floor = Entity.from_list(
+some_floor = ["ជាន់នេះ"] + Entity.from_list(
     entity_types.floor,
     [
-        "ជាន់នេះ",
         "ជាន់លើ",
         "ជាន់ក្រោម",
         "ជាន់ទី១",
@@ -19,7 +18,8 @@ some_floor = Entity.from_list(
 some_organization = Entity.from_list(
     entity_types.organization,
     [
-        "ក្រសួង",
+        "ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍",
+        "ក្រសួងសាធារណការនិងដឹកជញ្ជូន",
         "ស្ថានទូតអាមេរិក",
         "ធនាគារអេសុីលីដា",
         "អង្គការសហគមន៍អាមេរិក",

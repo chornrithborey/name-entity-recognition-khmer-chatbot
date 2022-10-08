@@ -190,9 +190,9 @@ Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទ�
 មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
 មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ កន្លែង ណា ?,FindEmployeeRoom
 មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ នេះ ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់ នេះ ម៉ែន ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
@@ -214,9 +214,9 @@ Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទ�
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ នេះ ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់ នេះ ម៉ែន ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
@@ -238,9 +238,9 @@ Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទ�
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ នេះ ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ នេះ ម៉ែន ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
@@ -262,9 +262,9 @@ Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទ�
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
-បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ នេះ ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់ នេះ ម៉ែន ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
@@ -286,9 +286,9 @@ Robot អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទ�
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
-បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR នេះ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ នេះ ត្រូវ អត់ ?,FindEmployeeRoom
+បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់ នេះ ម៉ែន ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ ទេ ?,FindEmployeeRoom
 បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ត្រូវ អត់ ?,FindEmployeeRoom
 បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER នៅ ជាន់/B-FLOOR លើ/I-FLOOR ម៉ែន ទេ ?,FindEmployeeRoom

@@ -43,10 +43,14 @@ question,intent
 ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
 ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
 ថ្ងៃ ទី ១០ ខែ មិថុនា ឆ្នាំ ២០២១ គេ ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
-តើ ក្រសួង គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
-តើ ក្រសួង គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
-តើ ក្រសួង គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
-តើ ក្រសួង គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង ប្រៃសណីយ៍ និង ទូរគមនាគមន៍ គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង ប្រៃសណីយ៍ និង ទូរគមនាគមន៍ គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង ប្រៃសណីយ៍ និង ទូរគមនាគមន៍ គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង ប្រៃសណីយ៍ និង ទូរគមនាគមន៍ គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
+តើ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
+តើ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
 តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
 តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
 តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda

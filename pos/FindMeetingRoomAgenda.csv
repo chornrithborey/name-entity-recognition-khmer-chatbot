@@ -43,10 +43,14 @@ question,intent
 ថ្ងៃ/noun ទី/noun ១០/num ខែ/noun មិថុនា/noun ឆ្នាំ/noun ២០២១/num គេ/pron ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
 ថ្ងៃ/noun ទី/noun ១០/num ខែ/noun មិថុនា/noun ឆ្នាំ/noun ២០២១/num គេ/pron ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
 ថ្ងៃ/noun ទី/noun ១០/num ខែ/noun មិថុនា/noun ឆ្នាំ/noun ២០២១/num គេ/pron ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
-តើ/prt ក្រសួង/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
-តើ/prt ក្រសួង/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
-តើ/prt ក្រសួង/noun គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
-តើ/prt ក្រសួង/noun គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun ប្រៃសណីយ៍/noun និង/conj ទូរគមនាគមន៍/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun ប្រៃសណីយ៍/noun និង/conj ទូរគមនាគមន៍/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun ប្រៃសណីយ៍/noun និង/conj ទូរគមនាគមន៍/noun គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun ប្រៃសណីយ៍/noun និង/conj ទូរគមនាគមន៍/noun គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun សាធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun សាធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun សាធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
+តើ/prt ក្រសួង/noun សាធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
 តើ/prt ស្ថាន/noun ទូត/noun អាមេរិក/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
 តើ/prt ស្ថាន/noun ទូត/noun អាមេរិក/noun គេ/pron កំពុង/verb ជជែក/verb គ្នា/noun អំពី/adp អ្វី/noun នៅ/adp សាល/noun ប្រជុំ/verb ធំ/adj ?/punct,FindMeetingRoomAgenda
 តើ/prt ស្ថាន/noun ទូត/noun អាមេរិក/noun គេ/pron កំពុង/verb ប្រជុំ/verb រឿង/noun អ្វី/noun នៅ/adp បន្ទប់/noun Jupyter/noun ?/punct,FindMeetingRoomAgenda
