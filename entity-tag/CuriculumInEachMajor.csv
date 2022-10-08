@@ -1,34 +1,34 @@
 question,intent
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង com puterscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង com/B-MAJOR puterscience/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -38,7 +38,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -54,9 +54,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -78,37 +78,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -118,7 +118,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -134,9 +134,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -158,37 +158,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -214,9 +214,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -238,37 +238,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -278,7 +278,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -294,9 +294,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -318,37 +318,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -358,7 +358,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -374,9 +374,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -398,37 +398,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហាខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហាខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាងe -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -438,7 +438,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហាខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -454,9 +454,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហា ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហា ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ហា ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -478,37 +478,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -518,7 +518,7 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -534,9 +534,9 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -558,37 +558,37 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង com puterscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង com/B-MAJOR puterscience/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -598,7 +598,7 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -614,9 +614,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -638,37 +638,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -678,7 +678,7 @@ question,intent
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -694,9 +694,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -718,37 +718,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -774,9 +774,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -798,37 +798,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង com puterscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង com/B-MAJOR puterscience/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -854,9 +854,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -878,37 +878,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR កីង ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -918,7 +918,7 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -934,9 +934,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -958,37 +958,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិ ចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិ/B-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាងe -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -998,7 +998,7 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1014,9 +1014,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1038,37 +1038,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ណេតវើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ e - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1078,7 +1078,7 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1094,9 +1094,9 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1118,37 +1118,37 @@ question,intent
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង com puterscience ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង com/B-MAJOR puterscience/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1158,7 +1158,7 @@ question,intent
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1174,9 +1174,9 @@ question,intent
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1198,37 +1198,37 @@ question,intent
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1238,7 +1238,7 @@ question,intent
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1254,9 +1254,9 @@ question,intent
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1278,37 +1278,37 @@ question,intent
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិ ចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិ/B-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1334,9 +1334,9 @@ question,intent
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
-តើ មាន រៀន អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1358,37 +1358,37 @@ question,intent
 តើ មាន រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង com puterscience ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង com/B-MAJOR puterscience/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1414,9 +1414,9 @@ question,intent
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1438,37 +1438,37 @@ question,intent
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR កីង ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិ ចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិ/B-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1494,9 +1494,9 @@ question,intent
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ ទូរ គមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1518,37 +1518,37 @@ question,intent
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR កីង ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហាខាងe -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1558,7 +1558,7 @@ question,intent
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1574,9 +1574,9 @@ question,intent
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហាខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1598,37 +1598,37 @@ question,intent
 តើ មាន រៀន ស្អី ខ្លះ ហា នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង Information Technology ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ពត៌មាន វិទ្យា ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង អាយធី ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង IT ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង computerscience ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR វិទ្យា/I-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
@@ -1638,7 +1638,7 @@ question,intent
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីខមមើស/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Telecoms and Networking ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -1654,9 +1654,9 @@ question,intent
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Network/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ?,CuriculumInEachMajor
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
@@ -1678,421 +1678,421 @@ question,intent
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ណេត វើក កីង ?,CuriculumInEachMajor
 តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ Information Technology មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀន ដូចមេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀន ដូចមេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀន ដូចមេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀន ដូចមេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន អ្វី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀនអី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀនអី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀនអី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀនអី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀនម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀនស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀនស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀនស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀនស្អី ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀនស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ IT មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀនស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន ស្អី ខ្លះហា ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀនស្អី ខ្លះ ហា?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន ស្អី ខ្លះហា ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀនស្អី ខ្លះ ហា?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន ស្អី ខ្លះហា ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Networking មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ Network មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ណេត វើក មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ណេត វើក កីង មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
-តើ Information Technology មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ពត៌មាន វិទ្យា មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
-តើ អាយធី មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
-តើ IT មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ អាយធី/B-MAJOR មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ IT/B-MAJOR មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
 តើcom puterscience មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា សាស្រ្ត កុំព្យូទ័រ មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
-តើ កុំព្យូទ័រ សាយអេន មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
+តើ វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើe - commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
 តើ អុីខមមើស មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecomsand Networking មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Telecoms មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Networking មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ Network មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
 តើ ទូរគមនាគមន៍ មាន រៀន ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 តើ បណ្តាញ មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
 តើ តេឡេខម មាន រៀន ស្អីគេ ខ្លះ ?,CuriculumInEachMajor
