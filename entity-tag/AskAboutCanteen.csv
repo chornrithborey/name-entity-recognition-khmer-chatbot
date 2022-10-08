@@ -1,253 +1,253 @@
 question,intent
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ CADT/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ CADT/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីធី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDT/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ IDT/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDRI/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ IDRI/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ អាយឌីជី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ IDG/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ IDG/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន អភិបាល/B-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា/B-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស៊ីតិក/B-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ពហុ/B-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ជាតិ/B-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន សេដ្ឋ/B-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូប បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ?,AskAboutCanteen
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ដែល ឫ ទេ ?,AskAboutCanteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ CADT/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ CADT/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីធី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ អាយឌីធី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ IDT/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ IDT/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ អាយឌីអអាយ/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ IDRI/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ IDRI/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ អាយឌីជី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ អាយឌីជី/B-ORG មាន កន្លែង លក បាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ IDG/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ IDG/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
