@@ -6,7 +6,6 @@ question,intent
 ជួប/verb គ្នា/noun ថ្ងៃ/noun ក្រោយ/adp,SayGoodbye
 សុខ/noun សប្បាយ/noun,SayGoodbye
 បាយបាយ/noun,SayGoodbye
-,SayGoodbye
 ទៅ/adp មុន/adv ហើយ/conj ណា/noun,SayGoodbye
 លា/pron ហើយ/conj Robot/noun,SayGoodbye
 លាហើយ/noun រ៉ូបូត/adp,SayGoodbye
@@ -29,9 +28,6 @@ question,intent
 បាយបាយ/noun Robot/noun,SayGoodbye
 បាយបាយ/noun រ៉ូបូត/adp,SayGoodbye
 បាយបាយ/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
-សុីយ៊ូរ/noun Robot/noun,SayGoodbye
-សុីយ៊/noun ូ/adp,SayGoodbye
-សុីយ៊ូរ/noun មនុស្ស/noun យន្ត/noun,SayGoodbye
 ទៅ/adp មុន/adv ហើយ/conj ណា/noun Robot/noun,SayGoodbye
 ទៅ/adp មុន/adv ហើយ/noun ណា/pron រ៉ូបូត/adp,SayGoodbye
 ទៅ/adp មុន/adv ហើយ/conj ណា/noun មនុស្ស/noun យន្ត/noun,SayGoodbye

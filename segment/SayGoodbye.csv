@@ -6,7 +6,6 @@ question,intent
 ជួប គ្នា ថ្ងៃ ក្រោយ,SayGoodbye
 សុខ សប្បាយ,SayGoodbye
 បាយបាយ,SayGoodbye
-សុីយ៊ូ,SayGoodbye
 ទៅ មុន ហើយ ណា,SayGoodbye
 លា ហើយ Robot,SayGoodbye
 លាហើយ រ៉ូបូត,SayGoodbye
@@ -29,9 +28,6 @@ question,intent
 បាយបាយ Robot,SayGoodbye
 បាយបាយ រ៉ូបូត,SayGoodbye
 បាយបាយ មនុស្ស យន្ត,SayGoodbye
-សុីយ៊ូរ Robot,SayGoodbye
-សុីយ៊ ូ ររ៉ូបូ,SayGoodbye
-សុីយ៊ូរ មនុស្ស យន្ត,SayGoodbye
 ទៅ មុន ហើយ ណា Robot,SayGoodbye
 ទៅ មុន ហើយ ណា រ៉ូបូត,SayGoodbye
 ទៅ មុន ហើយ ណា មនុស្ស យន្ត,SayGoodbye

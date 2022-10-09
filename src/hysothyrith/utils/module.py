@@ -39,7 +39,6 @@ def write_module(module, root_dir: str, segmented=False, tagged=False, encoded=F
             writer.writerow(["question", "intent"])
 
             for sentence in sentences:
-                print(sentence, " -> ", sentence.tagged())
                 writer.writerow([sentence.tagged(), intent])
 
     if encoded:
