@@ -39,27 +39,27 @@ question,intent
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសុភាព/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសុភាព/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសុភាព/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun សុធារ៉ា/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
@@ -80,45 +80,45 @@ question,intent
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូផានិត/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិរី/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិរី/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp លោក/noun គ្រូសិរី/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
@@ -140,11 +140,11 @@ question,intent
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិរី/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt ខ្ញុំ/pron អាច/verb សុំ/verb លេខ/noun ទំនាក់ទំនង/noun របស់/adp លោក/noun គ្រូសិរី/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀកលេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀកលេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
-តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun លីហៀកលេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
+តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun លីហៀក/noun លេខ/noun ប៉ុន្មាន/adv ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទូរសព្ទ/noun របស់/adp បង/noun លីហៀក/noun បាន/verb ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Staff/noun Phone/noun Number/noun

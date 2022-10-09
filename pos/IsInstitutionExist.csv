@@ -48,7 +48,7 @@ question,intent
 តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីអអាយ/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីអអាយ/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt មាន/verb អាយឌីអអាយ/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt មាន/verb អាយឌីអអាយមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt មាន/verb អាយឌីអអាយ/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt មាន/verb អាយឌីអអាយ/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីអអាយ/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីអ/noun អាយ/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
@@ -63,14 +63,14 @@ question,intent
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb IDRI/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb IDRI/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីជី/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីជីមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីជីឫ/noun ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីជី/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt ពិត/adj ជា/verb មាន/verb អាយឌីជី/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt មាន/verb អាយឌីជី/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt មាន/verb អាយឌីជីមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt មាន/verb អាយឌីជីឫ/noun ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt មាន/verb អាយឌីជី/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt មាន/verb អាយឌីជី/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីជី/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីជីមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីជីឫ/noun ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីជី/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb អាយឌីជី/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb IDG/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb IDG/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb IDG/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
@@ -102,10 +102,10 @@ question,intent
 តើ/prt ពិត/adj ជា/verb មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់/noun គ្លូប៊ល/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់/noun គ្លូប៊ល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊លមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មែន/adv/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់/noun គ្លូប៊ល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
-តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊លមែន/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់គ្លូប៊ល/noun មែន/adv/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb វិទ្យា/noun ស្ថាន/noun ថាក់/noun គ្លូប៊ល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ដែល/noun ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun
 តើ/prt ពិត/adj ជា/verb មាន/verb វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun មែន/adv ឫ/conj ទេ/prt ?/punct ,/punct Is/noun Institution/noun Exist/noun

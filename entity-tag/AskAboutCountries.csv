@@ -302,7 +302,7 @@ question,intent
 តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូ មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូ មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូ ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស ហ្គីយ៉ាណា/B-GPE ហៃទី/I-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ហ្គីយ៉ាណា/B-GPE ហៃទី/I-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ហ្គីយ៉ាណា/B-GPE ហៃទី/I-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
@@ -394,7 +394,7 @@ question,intent
 តើ ប្រទេស ឡាតវី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ឡាតវី មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ឡាតវី មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ឡាតវីជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស ឡាតវី ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស លីបង់ឡេសូតូ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស លីបង់ឡេសូតូ មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស លីបង់ឡេសូតូ មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
@@ -470,7 +470,7 @@ question,intent
 តើ ប្រទេស ម៉ុងហ្គោលី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ុងហ្គោលី មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ុងហ្គោលី មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស ម៉ុងហ្គោលីជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស ម៉ុងហ្គោលី ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស ម៉ុងតេណេហ្គ្រោ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ុងតេណេហ្គ្រោ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ម៉ុងតេណេហ្គ្រោ/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
@@ -667,14 +667,14 @@ question,intent
 តើ ប្រទេស តៃវ៉ាន់/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស តៃវ៉ាន់/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស តៃវ៉ាន់/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
-តើ ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស តាជីគីស្ថាន/I-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស តាជីគីស្ថាន/I-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស តាជីគីស្ថាន/I-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
+តើ ប្រទេស តាជីគីស្ថាន/I-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស តង់ហ្សានី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស តង់ហ្សានី មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស តង់ហ្សានី មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ ប្រទេស តង់ហ្សានីជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
+តើ ប្រទេស តង់ហ្សានី ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ ប្រទេស ថៃ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ថៃ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ប្រទេស ថៃ/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
