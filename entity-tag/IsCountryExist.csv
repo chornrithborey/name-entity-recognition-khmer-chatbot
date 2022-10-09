@@ -127,20 +127,20 @@ question,intent
 តើ ប្រទេស អង់ហ្គោឡា/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ អត់ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដាមែន ឬ ទេ ?,IsCountryExist
-តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដាមែន ឬ អត់ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា មែន ឬ ទេ ?,IsCountryExist
+តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដា មែន ឬ អត់ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ អត់ ?,IsCountryExist
 តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ ទេ ?,IsCountryExist
 តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ អត់ ?,IsCountryExist
-តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដាមែន ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដាមែន ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា មែន ឬ ទេ ?,IsCountryExist
+តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដា មែន ឬ អត់ ?,IsCountryExist
 តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ ទេ ?,IsCountryExist
 តើ មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ អត់ ?,IsCountryExist
 តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ ទេ ?,IsCountryExist
 តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ដែល ឬ អត់ ?,IsCountryExist
 តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា មែន ឬ ទេ ?,IsCountryExist
-តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដាមែន ឬ អត់ ?,IsCountryExist
+តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូ ដា មែន ឬ អត់ ?,IsCountryExist
 តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ ទេ ?,IsCountryExist
 តើ អាច មាន ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា ឬ អត់ ?,IsCountryExist
 តើ ប្រទេស អង់ទីហ្គា/B-GPE និង បាប៊ូដា មាន ឬ ទេ ?,IsCountryExist

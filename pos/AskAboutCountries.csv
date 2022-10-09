@@ -10,7 +10,7 @@ question,intent
 តើ/prt ប្រទេស/noun អាល់ហ្សេរី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អាល់ហ្សេរី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អាល់ហ្សេរី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun អាល់ហ្សេរីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun អាល់ហ្សេរី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អង់ដូរ៉ា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អង់ដូរ៉ា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អង់ដូរ៉ា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -38,7 +38,7 @@ question,intent
 តើ/prt ប្រទេស/noun អារូបា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អារូបា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អារូបា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun អារូបាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun អារូបា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អូស្ត្រាលី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អូស្ត្រាលី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អូស្ត្រាលី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -78,7 +78,7 @@ question,intent
 តើ/prt ប្រទេស/noun បេនីន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បេនីន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បេនីន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun បេនីនជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun បេនីន/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប៊ឺមូដា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប៊ឺមូដា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប៊ឺមូដា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -90,7 +90,7 @@ question,intent
 តើ/prt ប្រទេស/noun បូលីវី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូលីវី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូលីវី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun បូលីវីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun បូលីវី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូស្នៀ/noun និង/conj ហឺហ្សេហ្គោវីណា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូស្នៀ/noun និង/conj ហឺហ្សេហ្គោវីណា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូស្នៀ/noun និង/conj ហឺហ្សេហ្គោវីណា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -98,7 +98,7 @@ question,intent
 តើ/prt ប្រទេស/noun បូតស្វាណា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូតស្វាណា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun បូត/noun ស្វាណា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun បូតស្វាណាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun បូតស្វាណា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប្រេស៊ីល/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប្រេស៊ីល/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ប្រេស៊ីល/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -138,7 +138,7 @@ question,intent
 តើ/prt ប្រទេស/noun ឆាដ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឆាដ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឆាដ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ឆាដជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ឆាដ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឈីលី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឈីលី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឈីលី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -154,7 +154,7 @@ question,intent
 តើ/prt ប្រទេស/noun កុងហ្គោ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កុងហ្គោ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កុងហ្គោ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun កុងហ្គោជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun កុងហ្គោ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ឃុក/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ឃុក/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ឃុក/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -198,7 +198,7 @@ question,intent
 តើ/prt ប្រទេស/noun សាធារណរដ្ឋ/noun ដូមីនីកែន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សាធារណរដ្ឋ/noun ដូមីនីកែន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សាធារណរដ្ឋ/noun ដូមីនីកែន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun សាធារណរដ្ឋ/noun ដូមីនីកែនជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun សាធារណរដ្ឋ/noun ដូមីនីកែន/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អេក្វាឌ័រ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អេក្វាឌ័រ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អេក្វាឌ័រ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -222,7 +222,7 @@ question,intent
 តើ/prt ប្រទេស/noun អេត្យូពី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អេត្យូពី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អេត្យូពី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun អេត្យូពីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun អេត្យូពី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វកលែន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វកលែន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វកលែន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -230,7 +230,7 @@ question,intent
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វារ៉ូ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វារ៉ូ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ហ្វារ៉ូ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun កោះ/noun ហ្វារ៉ូជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun កោះ/noun ហ្វារ៉ូ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្វីជី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្វីជី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្វីជី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -266,7 +266,7 @@ question,intent
 តើ/prt ប្រទេស/noun ហ្គាណា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាណា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាណា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ហ្គាណាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ហ្គាណា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីបរ៉ាល់តា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីបរ៉ាល់តា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីបរ៉ាល់តា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -286,7 +286,7 @@ question,intent
 តើ/prt ប្រទេស/noun ហ្គាំ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាំ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាំ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ហ្គាំជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ហ្គាំ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាតេម៉ាឡា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាតេម៉ាឡា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គាតេម៉ាឡា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -302,7 +302,7 @@ question,intent
 តើ/prt ប្រទេស/noun ហ្គីណេ/noun ប៊ីសសូ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីណេ/noun ប៊ីសសូ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីណេ/noun ប៊ីសសូ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ហ្គីណេ/noun ប៊ីសសូជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ហ្គីណេ/noun ប៊ីសសូ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីយ៉ាណា/noun ហៃទី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីយ៉ាណា/noun ហៃទី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្គីយ៉ាណា/noun ហៃទី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -346,7 +346,7 @@ question,intent
 តើ/prt ប្រទេស/noun កោះ/noun ម៉ាន់/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ម៉ាន់/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កោះ/noun ម៉ាន់/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun កោះ/noun ម៉ាន់ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun កោះ/noun ម៉ាន់/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ីស្រាអែល/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ីស្រាអែល/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ីស្រាអែល/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -370,7 +370,7 @@ question,intent
 តើ/prt ប្រទេស/noun ហ្សកដានី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្សកដានី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្សកដានី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ហ្សកដានីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ហ្សកដានី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កាហ្សាក់ស្ថាន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កាហ្សាក់ស្ថាន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun កាហ្សាក់ស្ថាន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -394,7 +394,7 @@ question,intent
 តើ/prt ប្រទេស/noun ឡាតវី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឡាតវី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ឡាតវី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ឡាតវីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ឡាតវី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីបង់ឡេសូតូ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីបង់ឡេសូតូ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីបង់ឡេសូតូ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -402,7 +402,7 @@ question,intent
 តើ/prt ប្រទេស/noun លីបេរីយ៉ា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីបេរីយ៉ា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីបេរីយ៉ា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun លីបេរីយ៉ាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun លីបេរីយ៉ា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីប៊ី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីប៊ី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun លីប៊ី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -442,7 +442,7 @@ question,intent
 តើ/prt ប្រទេស/noun ម៉ាលី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ាលី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ាលី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ម៉ាលីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ម៉ាលី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ាល់តា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ាល់តា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ាល់តា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -450,7 +450,7 @@ question,intent
 តើ/prt ប្រទេស/noun ម៉ូរីតានី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូរីតានី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូរីតានី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ម៉ូរីតានីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ម៉ូរីតានី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូរីស/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូរីស/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូរីស/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -470,11 +470,11 @@ question,intent
 តើ/prt ប្រទេស/noun ម៉ុងហ្គោលី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងហ្គោលី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងហ្គោលី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ម៉ុងហ្គោលីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ម៉ុងហ្គោលី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងតេណេហ្គ្រោ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងតេណេហ្គ្រោ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងតេណេហ្គ្រោ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ម៉ុងតេណេហ្គ្រោជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ម៉ុងតេណេហ្គ្រោ/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងសឺរ៉ាត់/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងសឺរ៉ាត់/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ុងសឺរ៉ាត់/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -482,7 +482,7 @@ question,intent
 តើ/prt ប្រទេស/noun ម៉ារ៉ុក/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ារ៉ុក/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ារ៉ុក/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ម៉ារ៉ុកជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ម៉ារ៉ុក/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូសំប៊ិក/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូសំប៊ិក/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ម៉ូសំប៊ិក/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -510,11 +510,11 @@ question,intent
 តើ/prt ប្រទេស/noun នីការ៉ាហ្គា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីការ៉ាហ្គា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីការ៉ាហ្គា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun នីការ៉ាហ្គាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun នីការ៉ាហ្គា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun នីហ្សេរីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun នីហ្សេរី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរីយ៉ា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរីយ៉ា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun នីហ្សេរីយ៉ា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -582,7 +582,7 @@ question,intent
 តើ/prt ប្រទេស/noun រវ៉ាន់ដា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun រវ៉ាន់ដា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun រវ៉ាន់ដា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun រវ៉ាន់ដាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun រវ៉ាន់ដា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សាម័រ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សាម័រ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សាម័រ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -598,7 +598,7 @@ question,intent
 តើ/prt ប្រទេស/noun សេណេហ្គាល់/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សេណេហ្គាល់/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun សេណេហ្គាល់/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun សេណេហ្គាល់ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun សេណេហ្គាល់/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ស៊ែប៊ី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ស៊ែប៊ី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ស៊ែប៊ី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -622,7 +622,7 @@ question,intent
 តើ/prt ប្រទេស/noun ស្លូវេនី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ស្លូវេនី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ស្លូវេនី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun ស្លូវេនីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun ស្លូវេនី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អាហ្វ្រិក/noun ខាង/noun ត្បូង/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អាហ្វ្រិក/noun ខាង/noun ត្បូង/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អាហ្វ្រិក/noun ខាង/noun ត្បូង/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -674,7 +674,7 @@ question,intent
 តើ/prt ប្រទេស/noun តង់ហ្សានី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun តង់ហ្សានី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun តង់ហ្សានី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun តង់ហ្សានីជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun តង់ហ្សានី/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ថៃ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ថៃ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ថៃ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -690,7 +690,7 @@ question,intent
 តើ/prt ប្រទេស/noun តុងហ្គា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun តុងហ្គា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun តុងហ្គា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun តុងហ្គាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun តុងហ្គា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ទ្រីនីដាដតូបាហ្គោ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ទ្រីនីដាដតូបាហ្គោ/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ទ្រីនីដាដតូបាហ្គោ/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -710,7 +710,7 @@ question,intent
 តើ/prt ប្រទេស/noun អ៊ូហ្គង់ដា/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ូហ្គង់ដា/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ូហ្គង់ដា/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun អ៊ូហ្គង់ដាជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun អ៊ូហ្គង់ដា/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ុយក្រែន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ុយក្រែន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun អ៊ុយក្រែន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
@@ -742,7 +742,7 @@ question,intent
 តើ/prt ប្រទេស/noun យេម៉ែន/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun យេម៉ែន/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun យេម៉ែន/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
-តើ/prt ប្រទេស/noun យេម៉ែនជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
+តើ/prt ប្រទេស/noun យេម៉ែន/noun ជាន់/noun និង/conj ប្រទេស/noun ណា/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្សំប៊ី/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្សំប៊ី/noun មាន/verb ទំហំ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
 តើ/prt ប្រទេស/noun ហ្សំប៊ី/noun មាន/verb ប្រវែង/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Countries/noun
