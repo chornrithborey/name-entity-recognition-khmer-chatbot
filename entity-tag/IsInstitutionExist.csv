@@ -48,7 +48,7 @@ question,intent
 តើ ពិត ជា មាន អាយឌីអអាយ/B-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន អាយឌីអអាយ/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ មាន អាយឌីអអាយ/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ មាន អាយឌីអអាយ/B-ORGមែន ឫ ទេ ? , Is Institution Exist
+តើ មាន អាយឌីអអាយ/B-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ មាន អាយឌីអអាយ/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន អាយឌីអអាយ/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន អាយឌីអ អាយ មែន ឫ ទេ ? , Is Institution Exist
@@ -63,14 +63,14 @@ question,intent
 តើ នៅ ទី នេះ មាន IDRI/B-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន IDRI/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន អាយឌីជី/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ ពិត ជា មាន អាយឌីជី/B-ORGមែន ឫ ទេ ? , Is Institution Exist
-តើ ពិត ជា មាន អាយឌីជី/B-ORGឫ ទេ ? , Is Institution Exist
+តើ ពិត ជា មាន អាយឌីជី/B-ORG មែន ឫ ទេ ? , Is Institution Exist
+តើ ពិត ជា មាន អាយឌីជី/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ មាន អាយឌីជី/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ មាន អាយឌីជី/B-ORGមែន ឫ ទេ ? , Is Institution Exist
-តើ មាន អាយឌីជី/B-ORGឫ ទេ ? , Is Institution Exist
+តើ មាន អាយឌីជី/B-ORG មែន ឫ ទេ ? , Is Institution Exist
+តើ មាន អាយឌីជី/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន អាយឌីជី/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ នៅ ទី នេះ មាន អាយឌីជី/B-ORGមែន ឫ ទេ ? , Is Institution Exist
-តើ នៅ ទី នេះ មាន អាយឌីជី/B-ORGឫ ទេ ? , Is Institution Exist
+តើ នៅ ទី នេះ មាន អាយឌីជី/B-ORG មែន ឫ ទេ ? , Is Institution Exist
+តើ នៅ ទី នេះ មាន អាយឌីជី/B-ORG ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន IDG/B-ORG ដែល ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន IDG/B-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន IDG/B-ORG ឫ ទេ ? , Is Institution Exist
@@ -102,10 +102,10 @@ question,intent
 តើ ពិត ជា មាន វិទ្យា ស្ថាន ថាក់ គ្លូប៊ល មែន ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន វិទ្យា ស្ថាន ថាក់ គ្លូប៊ល ឫ ទេ ? , Is Institution Exist
 តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORGមែន ឫ ទេ ? , Is Institution Exist
+តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ មាន វិទ្យា ស្ថាន ថាក់ គ្លូប៊ល ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ដែល ឫ ទេ ? , Is Institution Exist
-តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORGមែន ឫ ទេ ? , Is Institution Exist
+តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មែន ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន វិទ្យា ស្ថាន ថាក់ គ្លូប៊ល ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា ដែល ឫ ទេ ? , Is Institution Exist
 តើ ពិត ជា មាន វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មែន ឫ ទេ ? , Is Institution Exist

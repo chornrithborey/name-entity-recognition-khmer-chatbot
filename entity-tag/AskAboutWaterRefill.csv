@@ -107,18 +107,18 @@ question,intent
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៩/I-FLOOR មាន refill ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន refill ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR០ មាន refill ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
+តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន refill ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន refill ទឹក ទេ ?,AskAboutWaterRefill
 តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
 តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
 តើ នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill

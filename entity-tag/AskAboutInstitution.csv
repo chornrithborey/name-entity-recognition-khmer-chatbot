@@ -71,7 +71,7 @@ question,intent
 តើ IDT/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
 តើ អាយឌីអអាយ/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
 តើ អាយឌីអអាយ/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ អាយឌីអអាយ/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
+តើ អាយឌីអអាយ/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
 តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
 តើ អាយឌីអអាយ/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
 តើ អាយឌីអអាយ/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
@@ -99,7 +99,7 @@ question,intent
 តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ ឬ ក៏ ជា ស្ថាប័ន អន្តរ ជាតិ ? , Ask About Institution
 តើ អាយឌីជី/B-ORG ជា ស្ថាប័ន អ្វី ? , Ask About Institution
 តើ អាយឌីជី/B-ORG មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
-តើ អាយឌីជី/B-ORGជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
+តើ អាយឌីជី/B-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
 តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
 តើ អាយឌីជី/B-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
 តើ អាយឌីជី/B-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
