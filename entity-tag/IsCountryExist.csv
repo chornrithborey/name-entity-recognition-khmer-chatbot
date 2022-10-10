@@ -489,7 +489,7 @@ question,intent
 តើ ពិត ជា មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE ឬ អត់ ?,IsCountryExist
 តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE ដែល ឬ ទេ ?,IsCountryExist
-តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណ ា/I-GPE ដែល ឬ អត់ ?,IsCountryExist
+តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE មែន ឬ ទេ ?,IsCountryExist
 តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណា/I-GPE ឬ ទេ ?,IsCountryExist
