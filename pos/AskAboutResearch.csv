@@ -761,7 +761,7 @@ CADT/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun �
 នៅ/verb ឯ/adp សុី/noun អេ/noun ដីធី/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun សម្រាប់/adp ពួក/noun យើង/pron ?/punct ,/punct Ask/noun About/noun Research/noun
 នៅ/verb ឯ/adp សុី/noun អេ/noun ដីធី/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun សម្រាប់/adp សិស្ស/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 នៅ/verb ឯ/adp សុី/noun អេ/noun ដីធី/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun សម្រាប់/adp សិស្ស/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
-បង្ហាញ/verb ខ្ញុំ/pron CADTResearch/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
+បង្ហាញ/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
 បង្ហាញ/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 បង្ហាញ/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
 បង្ហាញ/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp អ្នក/noun ទស្សនៈ/noun កិច្ច/noun ?/punct ,/punct Ask/noun About/noun Research/noun
@@ -1017,7 +1017,7 @@ CADT/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun �
 បង្ហាញ/verb ខ្ញុំ/pron សុី/verb អេ/noun ដីធី/noun ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp ពួក/noun យើង/pron ?/punct ,/punct Ask/noun About/noun Research/noun
 បង្ហាញ/verb ខ្ញុំ/pron សុី/verb អេ/noun ដីធី/noun ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp សិស្ស/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 បង្ហាញ/verb ខ្ញុំ/pron សុី/verb អេ/noun ដីធី/noun ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp សិស្ស/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
-ប្រាប់/verb CADTResearch/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
+ប្រាប់/verb CADT/noun Research/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb CADT/noun Research/noun លើ/adp សម្រាប់/adp អ្នក/noun ទស្សនៈ/noun កិច្ច/noun ?/punct ,/punct Ask/noun About/noun Research/noun
@@ -1065,7 +1065,7 @@ CADT/noun មាន/verb ស្រាវជ្រាវ/verb អ្វី/noun �
 ប្រាប់/verb ក្នុង/adp នេះ/pron ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp ពួក/noun យើង/pron ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb ក្នុង/adp នេះ/pron ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp សិស្ស/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb ក្នុង/adp នេះ/pron ស្រាវជ្រាវ/verb លើ/adp សម្រាប់/adp សិស្ស/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
-ប្រាប់/verb ខ្ញុំ/pron CADTResearch/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
+ប្រាប់/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp បុគ្គលិក/noun ថ្មី/adj ?/punct ,/punct Ask/noun About/noun Research/noun
 ប្រាប់/verb ខ្ញុំ/pron CADT/noun Research/noun លើ/adp សម្រាប់/adp អ្នក/noun ទស្សនៈ/noun កិច្ច/noun ?/punct ,/punct Ask/noun About/noun Research/noun
