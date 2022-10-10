@@ -92,31 +92,16 @@ AskAboutResearcher.csv,108,10,9,ប្រាប់ ខ្ញុំ លោក/B-P
 AskAboutResearcher.csv,111,10,9,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ Research អ្វី ខ្លះ ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct
 AskAboutResearcher.csv,118,10,9,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ ស្រាវជ្រាវ លើ អ្វី ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct
 AskAboutResearcher.csv,119,9,8,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ ស្រាវជ្រាវ អ្វី ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct
-AskBuildingInformationInCADT.csv,39,12,11,អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ខ្លះ ?,អគារ/noun នៅ/adp Inovation/noun Centerសាង/noun សង/verb ឡើង/verb សម្រាប់/adp ធ្វើ/verb អ្វី/noun ខ្លះ/adj ?/punct
-AskBuildingInformationInCADT.csv,40,12,11,អគារ នៅ អុីននូវេសុិន/B-ORG សេនធឺ/I-ORG សាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ខ្លះ ?,អគារ/noun នៅ/adp អុីននូវេសុិន/noun សេនធឺសាង/noun សង/verb ឡើង/verb សម្រាប់/adp ធ្វើ/verb អ្វី/noun ខ្លះ/adj ?/punct
-AskBuildingInformationInCADT.csv,41,11,10,អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ?,អគារ/noun នៅ/adp Inovation/noun Centerសាង/noun សង/verb ឡើង/verb សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct
-AskBuildingInformationInCADT.csv,42,11,10,អគារ នៅ អុីននូវេសុិន/B-ORG សេនធឺ/I-ORG សាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ?,អគារ/noun នៅ/adp អុីននូវេសុិន/noun សេនធឺសាង/noun សង/verb ឡើង/verb សម្រាប់/adp ធ្វើ/verb អ្វី/noun ?/punct
-AskBuildingInformationInCADT.csv,43,11,10,អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង ដើម្បី អ្វី ខ្លះ ?,អគារ/noun នៅ/adp Inovation/noun Centerសាង/noun សង/verb ឡើង/verb ដើម្បី/conj អ្វី/noun ខ្លះ/adj ?/punct
-AskBuildingInformationInCADT.csv,44,10,9,អគារ នៅ អុីននូវេសុិន/B-ORG សេនធឺ/I-ORG សាងសង ឡើង ដើម្បី អ្វី ខ្លះ ?,អគារ/noun នៅ/adp អុីននូវេសុិន/noun សេនធឺសាងសង/noun ឡើង/verb ដើម្បី/conj អ្វី/noun ខ្លះ/adj ?/punct
-AskBuildingInformationInCADT.csv,45,10,9,អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង ដើម្បី អ្វី ?,អគារ/noun នៅ/adp Inovation/noun Centerសាង/noun សង/verb ឡើង/verb ដើម្បី/conj អ្វី/noun ?/punct
-AskBuildingInformationInCADT.csv,46,9,8,អគារ នៅ អុីននូវេសុិន/B-ORG សេនធឺ/I-ORG សាងសង ឡើង ដើម្បី អ្វី ?,អគារ/noun នៅ/adp អុីននូវេសុិន/noun សេនធឺសាងសង/noun ឡើង/verb ដើម្បី/conj អ្វី/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,7,8,9,តើ មាន ធុរ កិច្ច អ្វី ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,17,10,9,តើ មាន ធុរ កិច្ច អ្វី នៅ នឹង អគារនវា/B-BUILD នុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,22,10,11,តើ មាន ធុរ កិច្ច អ្វី ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun ខ្លះ/adj នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,27,9,10,តើ មាន ធុរ កិច្ច អ្វី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,47,8,9,តើ មាន ធុរ កិច្ច អី ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,57,10,9,តើ មាន ធុរ កិច្ច អី នៅ នឹង អគារនវា/B-BUILD នុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,67,9,10,តើ មាន ធុរ កិច្ច ណា ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun ណា/noun ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,82,10,11,តើ មាន ធុរ កិច្ច អី ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun ខ្លះ/adj នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,87,9,10,តើ មាន ធុរ កិច្ច អី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,107,7,8,តើ មាន ស្តាត អាប់អ្វី ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អ្វី/verb ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,117,8,7,តើ មាន ស្តាតអាប់ អ្វី នៅ នឹង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាតអាប់អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,122,10,11,តើ មាន ស្តាត អាប់ អ្វី ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់/verb អ្វី/noun ខ្លះ/adj នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,127,9,10,តើ មាន ស្តាត អាប់ អ្វី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់/verb អ្វី/noun ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,147,7,8,តើ មាន ស្តាត អាប់អី ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,167,8,9,តើ មាន ស្តាត អាប់ណា ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/verb អាប់ណា/noun ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,182,9,10,តើ មាន ស្តាត អាប់អី ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun ខ្លះ/adj នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,187,8,9,តើ មាន ស្តាត អាប់អី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/verb ខ្លះ/adj ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,17,10,9,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,37,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,57,10,9,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,77,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun ណា/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,97,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,117,9,7,តើ មាន ស្តាតអាប់/B-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាតអាប់អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,137,11,10,តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់/verb អ្វី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,157,9,8,តើ មាន ស្តាត/B-ORG អាប់អី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,177,10,9,តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/verb អាប់ណា/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
+AskForStartUpInTheInnovationCenter.csv,197,10,9,តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
 IsCountryExist.csv,491,11,10,តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណ ា/I-GPE ដែល ឬ អត់ ?,តើ/prt មាន/verb ប្រទេស/noun បូស្នៀ/noun និង/conj ហឺហ្សេហ្គោវីណា/noun ដែល/noun ឬ/conj អត់/prt ?/punct
 Saywelcome.csv,3,3,2,good evening Robot,goodevening/noun Robot/noun
 Saywelcome.csv,4,3,2,good evening រ៉ូបូត,goodevening/noun រ៉ូបូត/noun
