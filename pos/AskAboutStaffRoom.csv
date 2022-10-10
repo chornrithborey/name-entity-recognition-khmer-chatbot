@@ -95,7 +95,7 @@ question,intent
 តើ/prt លោក/noun គ្រូសុភាព/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូសុភាព/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូសុភាព/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun មួយណា/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun មួយណា/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun មួយណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -107,10 +107,10 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun មួយណា/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun មួយណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សិទ្ធ/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun មួយណា/adj ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun មួយណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -131,18 +131,18 @@ question,intent
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសិទ្ធ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសិទ្ធ/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun មួយណា/num ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -155,7 +155,7 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun សុធារ៉ា/noun មួយណា/num ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun មួយណា/num ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -179,18 +179,18 @@ question,intent
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូសុធារ៉ា/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt លោក/noun គ្រូ/noun សុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/adp ជាន់/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt លោក/noun គ្រូសុធារ៉ា/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -206,15 +206,15 @@ question,intent
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ជាន់ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ផានិត/verb នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូផានិត/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូផានិត/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -241,40 +241,40 @@ question,intent
 តើ/prt លោក/noun គ្រូផានិត/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូ/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp លោក/noun គ្រូចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -336,7 +336,7 @@ question,intent
 តើ/prt លោក/noun គ្រូសិរី/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt លោក/noun គ្រូសិរី/noun ធ្វើ/verb ការ/noun នៅ/verb ជាន់/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀកមួយ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -347,8 +347,8 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀកមួយ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀកមួយ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទី/noun ណា/adj ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -359,8 +359,8 @@ question,intent
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀកមួយ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀកមួយ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀក/noun មួយ/num ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទីណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ទី/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun លីហៀក/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
@@ -601,16 +601,16 @@ question,intent
 តើ/prt ទី/noun តាំង/verb បន្ទប់/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូមួយ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូមួយ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
-តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់/noun តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp ទី/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp ទី/noun ណាដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp ជាន់/noun ទី/noun ប៉ុន្មាន/adv ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
+តើ/prt ទី/noun តាំង/verb ធ្វើ/verb ការ/noun របស់/adp បង/noun ចាន់តូ/noun នៅ/adp អាគារ/noun មួយ/adj ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បង/verb ចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បង/verb ចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun ណា/noun ដែល/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
 តើ/prt បង/verb ចាន់តូ/noun ធ្វើ/verb ការ/noun នៅ/adp បន្ទប់/noun មួយ/num ណា/noun ?/punct ,/punct Ask/noun About/noun Staff/noun Room/noun
