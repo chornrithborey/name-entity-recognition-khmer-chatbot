@@ -92,17 +92,6 @@ AskAboutResearcher.csv,108,10,9,ប្រាប់ ខ្ញុំ លោក/B-P
 AskAboutResearcher.csv,111,10,9,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ Research អ្វី ខ្លះ ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct
 AskAboutResearcher.csv,118,10,9,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ ស្រាវជ្រាវ លើ អ្វី ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct
 AskAboutResearcher.csv,119,9,8,ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ ស្រាវជ្រាវ អ្វី ?,ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,17,10,9,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,37,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អ្វី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,57,10,9,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,77,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun ណា/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,97,11,10,តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ធុរ/noun កិច្ច/noun អី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,117,9,7,តើ មាន ស្តាតអាប់/B-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាតអាប់អ្វី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,137,11,10,តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់/verb អ្វី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,157,9,8,តើ មាន ស្តាត/B-ORG អាប់អី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,177,10,9,តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/verb អាប់ណា/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-AskForStartUpInTheInnovationCenter.csv,197,10,9,តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,តើ/prt មាន/verb ស្តាត/noun អាប់អី/noun ខ្លះ/adj នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ?/punct
-IsCountryExist.csv,491,11,10,តើ មាន ប្រទេស បូស្នៀ/B-GPE និង/I-GPE ហឺហ្សេហ្គោវីណ ា/I-GPE ដែល ឬ អត់ ?,តើ/prt មាន/verb ប្រទេស/noun បូស្នៀ/noun និង/conj ហឺហ្សេហ្គោវីណា/noun ដែល/noun ឬ/conj អត់/prt ?/punct
 Saywelcome.csv,3,3,2,good evening Robot,goodevening/noun Robot/noun
 Saywelcome.csv,4,3,2,good evening រ៉ូបូត,goodevening/noun រ៉ូបូត/noun
 Saywelcome.csv,5,3,2,good morning Robot,goodmorning/noun Robot/noun
