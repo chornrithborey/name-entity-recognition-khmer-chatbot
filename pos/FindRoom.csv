@@ -1954,7 +1954,7 @@ question,intent
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp វីធីណា/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun ដោយ/adp វីធីណា/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp ណា/noun ?/punct ,/punct Find/noun Room/noun
-តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/ ណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
+តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/adp ណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp របៀប/noun ណា/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun ដោយ/adp វីធីណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
 តើ/prt ខ្ញុំ/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp វីធីណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
@@ -1962,8 +1962,8 @@ question,intent
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp របៀប/noun ណាបាន/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp វីធីណា/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun ដោយ/adp វីធីណា/noun ?/punct ,/punct Find/noun Room/noun
-តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/ ណា/noun ?/punct ,/punct Find/noun Room/noun
-តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/ ណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
+តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/adp ណា/noun ?/punct ,/punct Find/noun Room/noun
+តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/adp តាម/adp ណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp របៀប/noun ណា/noun ?/punct ,/punct Find/noun Room/noun
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun ដោយ/adp វីធីណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
 តើ/prt យើង/pron អាច/verb រក/verb បន្ទប់/noun ធីអេសសុី/noun តាម/adp វីធីណា/noun បាន/verb ?/punct ,/punct Find/noun Room/noun
