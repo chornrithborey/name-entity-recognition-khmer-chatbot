@@ -1,4 +1,4 @@
-question, intent
+question,intent
 តើ មាន ស្តាតអាប់/B-ORG [ Start Up Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ទេ ?, IsStart Up Exist
 តើ មាន ស្តាតអាប់/B-ORG [ Start Up Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, IsStart UpExist
 តើ មាន ស្តាតអាប់/B-ORG [ Start Up Name ] នៅ ក្នុង នេះ ទេ ?, IsStart Up Exist

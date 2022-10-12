@@ -1,4 +1,4 @@
-question, intent
+question,intent
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារ/B-BUILD នេះ ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ទេ ?, Is Company Exist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG [ Company Name ] នៅ ក្នុង នេះ ទេ ?, Is Company Exist
