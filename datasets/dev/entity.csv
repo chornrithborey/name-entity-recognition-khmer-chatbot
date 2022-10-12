@@ -37,7 +37,7 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ ប្រទេស អ៊ុយក្រែន/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries,
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist,
 តើ ប្រទេស តង់ហ្សានី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries,
-ខ្ញុំ ចង់ បាន ការិយាល័យ មួយ,, Ask About ToGet The Working Space
+ខ្ញុំ ចង់ បាន ការិយាល័យ មួយ, Ask About ToGet The Working Space,
 តើ ស្ថាន/B-ORG ទូត/I-ORG អាមេរិក/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda,
 តើ មាន ប្រទេស នេប៉ាល់/B-GPE ដែល ឬ ទេ ?,IsCountryExist,
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews,
@@ -115,7 +115,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ បន្ទប់ របស់ ផ្នែក អេហ្វអ នៅ ទីណា ?,AskAboutStaffRoom,
 អ្នក ទទួល បន្ទុក ខាង Telecoms នរណា ជា ?,AskAboutTopManagementPersonal,
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ នៅ ខាង ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ នៅ ខាង ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center,
 តើ ពិត ជា មាន ប្រទេស អែល សាល់វ៉ាឌ័រ ឬ អត់ ?,IsCountryExist,
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូសុភាព/B-PER នៅ កន្លែង ណា បាន ទេ ?,FindRoom,
 តើ យើង អាច រក បន្ទប់/B-ROOM ស្រាវជ្រាវ/I-ROOM តាម វីធីណា ?,FindRoom,
@@ -144,7 +144,7 @@ CADT/B-ORG មាន Research ទៅ លើ អ្វី ខ្លះ ? ,AskAbou
 តើ មាន ប្រទេស ម៉ូណាកូ/B-GPE ដែល ឬ អត់ ?,IsCountryExist,
 តើ ពិត ជា មាន ប្រទេស កោះ/B-GPE ហ្វកលែន/I-GPE មែន ឬ ទេ ?,IsCountryExist,
 បង្ហាញ ខ្ញុំ នៅ សុី អេ ដីធី Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ នឹង កន្លែង នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ នឹង កន្លែង នេះ ?, Ask For Start Up In The Innovation Center,
 តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor,
 តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor,
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស បន្តិច បាន ដែល ឬ ទេ ?,AskAboutStaffPhoneNumber,
@@ -159,14 +159,14 @@ CADT/B-ORG មាន Research ទៅ លើ អ្វី ខ្លះ ? ,AskAbou
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ក្នុង នេះ ?,AskAboutTrendingNews,
 រ៉ូបូត មិន បាន ការ អ្វី សោះ,Dissatisfied,
 តើ ប្រទេស តូហ្គោ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries,
-តើ មាន ស្តាត អាប់ CamMob/B-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,, IsStart UpExist
+តើ មាន ស្តាត អាប់ CamMob/B-ORG នៅ ក្នុង នេះ ដែរ ទេ ?, IsStart UpExist,
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ណារី/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator,
 អ្នក ទទួល ខុស ត្រូវ នៅ ណេតវើក នរណា ជា ?,AskAboutTopManagementPersonal,
 ប្រាប់ នៅ នេះ Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch,
 តើ ពិត ជា មាន ប្រទេស យេម៉ែន/B-GPE ដែល ឬ ទេ ?,IsCountryExist,
 តើ ពិត ជា មាន ប្រទេស ស៊ុយអែត/B-GPE ដែល ឬ អត់ ?,IsCountryExist,
 តើ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen,
-តើ មាន ធុរ កិច្ច Cam/B-ORG Mob/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,, IsStart UpExist
+តើ មាន ធុរ កិច្ច Cam/B-ORG Mob/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?, IsStart UpExist,
 តើ មាន រៀន ស្អី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor,
 តើ យើង អាច រក បន្ទប់/B-ROOM ៣០៦/I-ROOM តាម វីធីណា ?,FindRoom,
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង ដារ៉ា/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator,
@@ -225,13 +225,13 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង ណារី/B-PER ពិត ឬ អត់ ? , Ask About Creator,
 នៅ ឯ នេះ មាន Research អ្វី ខ្លះ សម្រាប់ ពួក យើង ? ,AskAboutResearch,
 Robot ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied,
-តើ មាន ក្រុម ហ៊ុន អ្វី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អ្វី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?, Ask For Company In The Innovation Center,
 សាលា មាន Research អ្វី ខ្លះ ? ,AskAboutResearch,
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist,
 តើ អាច មាន ប្រទេស ហុងគ្រី/B-GPE មែន ឬ អត់ ?,IsCountryExist,
 តើ ពិត ជា មាន ប្រទេស អេក្វាទ័រ/B-GPE ហ្គីណេ/I-GPE ដែល ឬ អត់ ?,IsCountryExist,
 តើ អាច មាន ប្រទេស រ៉ូម៉ានី/B-GPE ឬ ទេ ?,IsCountryExist,
-តើ មាន ស្តាត/B-ORG អាប់អ្វី ក្នុង ទី នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អ្វី ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center,
 តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR ?,CuriculumInEachMajor,
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង យ៉ា/B-PER ពិត ទេ ? , Ask About Creator,
 សាស្រ្តាចារ្យ ណា ជា អ្នក បង្រៀន ទូរគមនាគមន៍ និង បណ្តាញ ?,FindLecturerForSubject,
@@ -256,12 +256,12 @@ Robot ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Di
 បង្ហាញ ខ្ញុំ នៅ ណិពទិច ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch,
 មនុស្ស យន្ត តើ នៅ អគារ/B-BUILD IDT/I-BUILD កន្លែង បន្ទោរ បង់ នៅ ឯ ណា?,FindToilet,
 តើ មាន រឿង ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews,
-តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ ក្នុង អគារ នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ ក្នុង អគារ នេះ ?, Ask For Start Up In The Innovation Center,
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ នឹង មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist,
 តើ ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries,
 តើ ពិត ជា មាន ប្រទេស ម៉ុងតេណេហ្គ្រោ/B-GPE ដែល ឬ ទេ ?,IsCountryExist,
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង គីម/B-PER ហុង/I-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator,
-តើ ធ្វើ មិច បាន កន្លែង ធ្វើ ការ ?,, Ask About To Get The Working Space Ask About ToGet The Working Space
+តើ ធ្វើ មិច បាន កន្លែង ធ្វើ ការ ?, Ask About To Get The Working Space Ask About ToGet The Working Space,
 តើ Robot ឯង បង្កើត ដោយ សុកហេង/B-PER ពិត ប្រាកដ ទេ ? , Ask About Creator,
 តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់/B-ROOM គាំទ្រ/I-ROOM ការ/I-ROOM បង្រៀន/I-ROOM បាន ?,FindRoom,
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist,
@@ -311,7 +311,7 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ អាច មាន ប្រទេស ឡាតវី ឬ អត់ ?,IsCountryExist,
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង យ៉ា/B-PER ពិត ឬ អត់ ? , Ask About Creator,
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូសិទ្ធ/B-PER បន្តិច បាន ដែល ឬ ទេ ?,AskAboutStaffPhoneNumber,
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,, Is Company Exist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist,
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសុធារ៉ា/B-PER នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom,
 តើ អាច មាន ប្រទេស សាធារណរដ្ឋ/B-GPE ដូមីនីកែន/I-GPE ឬ ទេ ?,IsCountryExist,
 តើ Robot ឯង បង្កើត ដោយ ម៉ានុត/B-PER ពិត ឬ អត់ ? , Ask About Creator,
@@ -356,8 +356,8 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសុធារ៉ា/B-PER តាម វីធីណា បាន ?,FindRoom,
 ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda,
 នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR កន្លែង ដោះ ទុក សត្វ នៅ ណា ?,FindToilet,
-តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង អគារ នេះ ?,, Ask For Company In The Innovation Center
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,, Is Company Exist
+តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង អគារ នេះ ?, Ask For Company In The Innovation Center,
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist,
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist,
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR e-commerce/I-MAJOR ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor,
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews,
@@ -365,7 +365,7 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេត/I-MAJOR វើក/I-MAJOR កីង/I-MAJOR ?,CuriculumInEachMajor,
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor,
 តើ ប្រទេស ប៊ូតង់/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries,
-តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង ទី នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center,
 តើ រ៉ូបូត ឯង បង្កើត ដោយ ម៉ានុត/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator,
 អ្នក ទទួល បន្ទុក ខាង បណ្តាញ អ្នក ណា ជា ?,AskAboutTopManagementPersonal,
 តើ ប្រទេស សេណេហ្គាល់/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist,
@@ -412,13 +412,13 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី លេខ ប៉ុន្មាន ?,AskAboutStaffPhoneNumber,
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR ?,CuriculumInEachMajor,
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ណារី/B-PER មែន ឬ អត់ ? , Ask About Creator,
-តើ មាន ស្តាត/B-ORG អាប់អ្វី ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អ្វី ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center,
 តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មែន ឫ ទេ ? , Ask About Makerspace,
 តើ អាច មាន ប្រទេស តូហ្គោ/B-GPE មែន ឬ ទេ ?,IsCountryExist,
 តើ អាច មាន ប្រទេស ស្វីស/B-GPE ឬ អត់ ?,IsCountryExist,
 តើ អាច មាន ប្រទេស ប៊ូតង់/B-GPE មែន ឬ អត់ ?,IsCountryExist,
 អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង ដើម្បី អ្វី ខ្លះ ?,AskBuildingInformationInCADT,
-តើ មាន ស្ថាប័ន អី ក្នុង កន្លែង នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អី ក្នុង កន្លែង នេះ ?, Ask For Company In The Innovation Center,
 តើ ពិត ជា មាន ប្រទេស ហ្សកដានី/B-GPE ឬ ទេ ?,IsCountryExist,
 តើ បន្ទប់ របស់ បង លីហៀក/B-PER នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom,
 តើ ពិត ជា មាន ប្រទេស យេម៉ែន/B-GPE មែន ឬ អត់ ?,IsCountryExist,
@@ -487,7 +487,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង បណ្តាញ ?,CuriculumInEachMajor,
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist,
 តើ យើង អាច រក បន្ទប់/B-ROOM ១០៦/I-ROOM តាម វីធីណា បាន ?,FindRoom,
-តើ មាន ធុរ កិច្ច Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,, IsStart Up Exist
+តើ មាន ធុរ កិច្ច Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, IsStart Up Exist,
 មនុស្ស យន្ត តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បង្គន់ អណាម័យ នៅ ទី ណា ?,FindToilet,
 នៅ ឯ NIPTICT/B-ORG មាន ស្រាវជ្រាវ អ្វី សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch,
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ ដារ៉ា/B-PER ពិត ទេ ? , Ask About Creator,
@@ -525,12 +525,12 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ លោក គ្រូសុភាព/B-PER ធ្វើ ការ នៅ បន្ទប់ ណា ?,AskAboutStaffRoom,
 តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន កន្លែង លេង ដែល ទេ ? , Ask About Playground,
 មាន កន្លែង បត់ ជើង ទេ នៅ សាលា នឹង ?,DoesToiletExist,
-តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,, Is Start Up Exist
+តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?, Is Start Up Exist,
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews,
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង សុកហេង/B-PER មែនឫ ទេ ? , Ask About Creator,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ក្នុង ទី នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center,
 មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom,
-តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង នេះ ?, Ask For Start Up In The Innovation Center,
 តើ IT/B-MAJOR មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ?,CuriculumInEachMajor,
 តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG ពិត ឫ ទេ ? , Ask About Makerspace,
 តើ ប្រទេស អេក្វាទ័រ/B-GPE ហ្គីណេ/I-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries,
@@ -567,7 +567,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ បន្ទប់/B-ROOM ស្រាវជ្រាវ/I-ROOM នៅ កន្លែង ណា ?,FindRoom,
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor,
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD កន្លែង ជុះ នោម នៅ ណា ?,FindToilet,
-តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ ខាង ក្នុង អគារនវានុវត្តន៍/B-BUILD ?, Ask For Company In The Innovation Center,
 តើ ពិត ជា មាន ប្រទេស អេស្តូនី/B-GPE ឬ ទេ ?,IsCountryExist,
 តើ មាន រឿង រំភើប អ្វី នៅ នេះ ?,AskAboutTrendingNews,
 តើ ផ្នែក បម្រើ សេវា កម្ម ធ្វើ ការ នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom,
@@ -604,7 +604,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អាច មាន ប្រទេស លីចតេនស្ទីន/B-GPE ដែល ឬ ទេ ?,IsCountryExist,
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង គីម/B-PER ហុង/I-PER ពិត ទេ ? , Ask About Creator,
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ណេតវើក ?,CuriculumInEachMajor,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ នៅ ក្នុង នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ នៅ ក្នុង នេះ ?, Ask For Start Up In The Innovation Center,
 តើ នៅ អាយឌីធី/B-ORG មាន ការងារ ដែល គេ កំពុង ជ្រើស រើស បុគ្គលិក ទេ ?,AskAboutJobOpportunities,
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសិរី/B-PER នៅ ទីណា បាន ទេ ?,FindRoom,
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់/B-ROOM ៣០៤/I-ROOM នៅ ទី ណា ?,FindRoom,
@@ -615,7 +615,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 កន្លែង ណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ លោក/B-PER គ្រូ/I-PER បញ្ញា/I-PER ?,FindMeetingRoom,
 តើ ប្រទេស បូលីវី/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries,
 តើ ប្រទេស កាហ្សាក់ស្ថាន/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries,
-តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ នៅ នឹង ទី នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ នៅ នឹង ទី នេះ ?, Ask For Start Up In The Innovation Center,
 កន្លែង ណា បន្ទប់ ប្រជុំ ជាមួយ ស្ថាន/B-ORG ទូត/I-ORG អាមេរិក/I-ORG ?,FindMeetingRoom,
 តើ នៅ សល់ កន្លែង ធ្វើ ការ ដែរ ទេ ?,, Ask About Available Working Space
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុកហេង/B-PER មែន ឬ អត់ ? , Ask About Creator,
@@ -656,8 +656,8 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ ពិត ជា មាន ប្រទេស សាធារណរដ្ឋ/B-GPE ដូមីនីកែន/I-GPE ឬ ទេ ?,IsCountryExist,
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD បង្គន់ នៅ ណា ?,FindToilet,
 តើ មាន ព័ត៌មាន រំភើប អត់ កន្លែង នេះ ?,AskAboutTrendingNews,
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,, Is Company Exist
-តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,, IsStart UpExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist,
+តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?, IsStart UpExist,
 បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ពាក់ ព័ន្ធ នឹង ការងារ/B-ANN ស្ម័គ្រ/I-ANN ចិត្ត/I-ANN នៅ កន្លែង ណា ?,FindMeetingRoom,
 Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បង្គន់ អណាម័យ នៅ ឯ ណា?,FindToilet,
 តើ អាច មាន ប្រទេស ទឹក/B-GPE កក/I-GPE ដី/I-GPE មែន ឬ ទេ ?,IsCountryExist,
@@ -715,7 +715,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen,
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator,
 តើ ពិត ជា មាន ប្រទេស ប៉ាឡេស្ទីន/B-GPE មែន ឬ អត់ ?,IsCountryExist,
-តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង ទី នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង ទី នេះ ?, Ask For Company In The Innovation Center,
 តើ ប្រទេស លីទុយអានីលុច/B-GPE សំបួរ/I-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries,
 កន្លែង ណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ធនាគារ/B-ORG អេសុីលីដា/I-ORG ?,FindMeetingRoom,
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម គីម/B-PER ហុង/I-PER ពិត ប្រាកដ ទេ ? , Ask About Creator,
@@ -746,7 +746,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ/B-ANN ស្ម័គ្រ/I-ANN ចិត្ត/I-ANN នៅ ឯ ណា?,FindMeetingRoom,
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews,
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក/B-PER ហេង/I-PER ពិត ឬ ទេ ? , Ask About Creator,
-តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង អគារ នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង អគារ នេះ ?, Ask For Company In The Innovation Center,
 តើ មាន ប្រទេស កោះ/B-GPE វឺជីន/I-GPE របស់/I-GPE អង់គ្លេស/I-GPE មែន ឬ អត់ ?,IsCountryExist,
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR មាន បង្គន់ ទេ ?,DoesToiletExist,
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor,
@@ -777,7 +777,7 @@ Robot តើ នៅ អគារ/B-BUILD IDT/I-BUILD កន្លែង ជុ�
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី/B-PER ពិត ឬ អត់ ? , Ask About Creator,
 តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា ពិត ឫ ទេ ? , Ask About Makerspace,
 តើ បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ណា ?,FindEmployeeRoom,
-តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,, IsStart UpExist
+តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?, IsStart UpExist,
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews,
 តើ មាន ប្រទេស បាហាម៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist,
 តើ អាច មាន ប្រទេស បារាំង/B-GPE ឬ ទេ ?,IsCountryExist,
@@ -821,7 +821,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD បង្គន់ �
 តើ មាន ប្រទេស ស៊ីរី/B-GPE ដែល ឬ អត់ ?,IsCountryExist,
 តើ ពិត ជា មាន ប្រទេស ថៃ/B-GPE ដែល ឬ ទេ ?,IsCountryExist,
 មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?, Ask For Start Up In The Innovation Center,
 តើ លោក គ្រូសុភាព/B-PER ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ?,AskAboutStaffRoom,
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នេះ ?,AskAboutTrendingNews,
 តើ អង្គ/B-ORG ការ/I-ORG សហគមន៍/I-ORG អាមេរិក/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda,
@@ -854,7 +854,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor,
 ណាកន្លែង ប្រជុំ ជាមួយ លោក/B-PER Alexander/I-PER ?,FindMeetingRoom,
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ ទី នេះ ?,AskAboutTrendingNews,
-តើ មាន ក្រុម ហ៊ុន អី ខ្លះ ក្នុង នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អី ខ្លះ ក្នុង នេះ ?, Ask For Company In The Innovation Center,
 អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal,
 CADT/B-ORG មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAboutResearch,
 តើ មាន ប្រទេស យេម៉ែន/B-GPE ដែល ឬ អត់ ?,IsCountryExist,
@@ -870,13 +870,13 @@ CADT/B-ORG មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAbou
 តើ អាយឌីអអាយ/B-ORG មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen,
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់/B-ROOM ១០៦/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom,
 តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អុីខមមើស ?,CuriculumInEachMajor,
-តើ ធ្វើ មិច ទើប បាន ការិយាល័យ ?,, Ask About To Get The Working Space Ask About ToGet The Working Space
+តើ ធ្វើ មិច ទើប បាន ការិយាល័យ ?, Ask About To Get The Working Space Ask About ToGet The Working Space,
 តើ អ្នក ពេញ ចិត្ត ខ្ញុំ ដែល ឬ ទេ ? ,,
 កន្លែង ណា កន្លែង ប្រជុំ ជាមួយ នាយក សាលា ?,FindMeetingRoom,
 តើ មាន ប្រទេស ហ្គ្រីនឡិន/B-GPE មែន ឬ ទេ ?,IsCountryExist,
 តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Information/I-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor,
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ១០៤/I-ROOM នៅ កន្លែង ណា ?,FindRoom,
-តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,, IsStart Up Exist
+តើ មាន ស្តាត អាប់ Cam/B-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, IsStart Up Exist,
 អគារ នៅ អុីននូវេសុិន/B-ORG សេនធឺ/I-ORG សាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ខ្លះ ?,AskBuildingInformationInCADT,
 តើ អាច មាន ប្រទេស ព័រទុយហ្គាល់/B-GPE ឬ អត់ ?,IsCountryExist,
 តើ មាន ប្រទេស ហ្គឺន/B-GPE ស៊ី/I-GPE មែន ឬ អត់ ?,IsCountryExist,
@@ -903,7 +903,7 @@ CADT/B-ORG មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAbou
 អ្នក រ៉ាប់ រង ខាង កុំព្យូទ័រ សាយអេន អ្នក ណា ជា ?,AskAboutTopManagementPersonal,
 ប្រាប់ ខ្ញុំ នៅ នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch,
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews,
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,, Is Company Exist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?, Is Company Exist,
 អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal,
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ផានិត/B-PER នៅ កន្លែង ណា ?,FindRoom,
 តើ ប្រទេស លីប៊ី/B-GPE មាន ឬ អត់ ?,IsCountryExist,
@@ -953,7 +953,7 @@ CADT/B-ORG មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAbou
 តើ បន្ទប់ របស់ លោក គ្រូសុភាព/B-PER នៅ ទី ណា ?,FindRoom,
 តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ភីអ នៅ អាគារ មួយ ណា ដែល ?,AskAboutStaffRoom,
 អ្នក រ៉ាប់ រង ខាង computerscience នរណា ជា ?,AskAboutTopManagementPersonal,
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី នៅ ក្នុង ទី នេះ ?,, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី នៅ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center,
 តើ មនុស្ស យន្ត ឯង ដឹង ទេ ថា បន្ទប់/B-ROOM Jupyter/I-ROOM គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose,
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសិរី/B-PER នៅ អាគារ មួយ ណា ដែល ?,AskAboutStaffRoom,
 កន្លែង នេះ មាន Research អ្វី ខ្លះ សម្រាប់ សិស្ស ? ,AskAboutResearch,
@@ -1000,7 +1000,7 @@ CADT/B-ORG មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAbou
 តើ Robot ឯង បង្កើត ដោយ បូរី/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator,
 តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen,
 តើ បន្ទប់/B-ROOM ធីអេសសុី/I-ROOM នៅ ទីណា ?,FindRoom,
-តើ មាន ក្រុម ហ៊ុន អី ក្នុង កន្លែង នេះ ?,, Ask For Company In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អី ក្នុង កន្លែង នេះ ?, Ask For Company In The Innovation Center,
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD បង្គន់ បត់ ជើង នៅ ណា ?,FindToilet,
 តើ ប្រទេស ព័រតូ/B-GPE រីកូ/I-GPE មាន ឬ ទេ ?,IsCountryExist,
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូលីហៀក/B-PER ពិត ឬ ទេ ? , Ask About Creator,

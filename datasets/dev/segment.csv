@@ -588,7 +588,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ទី ១ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ ពិត ឬ អត់ ? , Ask About Creator
 អ្នក មើល ការ ខុស ត្រូវ ក្នុង Telecoms and Networking នរណា ជា ? , Ask About Top Management Personal
-តើ គេ បង្កើត អ្នក ក្នុង គោល បំណង អ្វី ? ,
+តើ គេ បង្កើត អ្នក ក្នុង គោល បំណង អ្វី ? ,AskRobot
 តើ ប្រទេស ស៊ែប៊ី មាន ឬ អត់ ? , Is Country Exist
 តើ ពិត ជា មាន ប្រទេស តុងហ្គាមែន ឬ អត់ ? , Is Country Exist
 តើ អាច មាន ប្រទេស តាជីគីស្ថាន មែន ឬ អត់ ? , Is Country Exist

@@ -1,4 +1,4 @@
-question/noun ,/punct intent/noun
+question,intent
 តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
 តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
 តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
