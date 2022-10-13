@@ -1,289 +1,289 @@
 question,intent
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មានrefill/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
-តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,/punct Ask/noun About/noun Water/noun Refill/noun
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ២/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ២/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៣/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៣/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៤/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៤/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៥/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៦/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៨/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៨/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ៩/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ៩/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ជាន់/noun ទី/noun ១០/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ជាន់/noun ទី/noun ១០/num មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun មានrefill/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ការពារ/verb ជាតិ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb កន្លែង/noun re/noun fill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ប្រៃសណីយ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/verb ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ទេសចរណ៍/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun សុខា/noun ភិបាល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun យុត្តិធម៌/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun ដី/noun គ្រប់/adj គ្រង/verb នគរូបនីយកម្ម/noun និង/conj សំណង់/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ការិយាល័យ/noun ក្រុម/noun ប្រឹក្សា/verb រដ្ឋ/noun មន្ត្រី/noun បាន/verb មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ទី/noun ភ្នាក់ងារ/noun ជាតិ/noun មុខ/noun របរ/noun និង/conj ការងារ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb ធុង/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun ចាក់/verb ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb កន្លែង/noun refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb រីហ្វីល/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill
+តើ/prt អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញុំ/pron បន្តិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp ក្រសួង/noun មហា/noun ផ្ទៃ/noun មាន/verb refill/noun ទឹក/noun ទេ/prt ?/punct ,AskAboutWaterRefill

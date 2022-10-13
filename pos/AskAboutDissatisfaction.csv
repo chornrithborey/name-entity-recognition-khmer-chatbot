@@ -1,35 +1,35 @@
 question,intent
-សូម/verb ធ្វើ/verb ការ/noun វាយ/verb តម្លៃ/noun ពី/adp ខ្ញុំ/pron ,/punct
-សូម/verb ធ្វើ/verb ការ/noun វា/verb តម្លៃ/noun ពី/adp កម្ម/noun វិធី/noun កូដសុី/noun ,/punct
-តើ/prt អ្នក/pron សប្បាយ/verb ចិត្ត/noun និង/conj សេវា/noun កម្ម/noun របស់/adp ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ពេញ/verb ចិត្ត/noun និង/conj សេវា/noun កម្ម/noun របស់/adp ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ពេញ/verb ចិត្ត/noun ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron សប្បាយ/verb ចិត្ត/noun និង/conj ខ្ញុំ/pron ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ចូល/verb ចិត្ត/noun ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt ខ្ញុំ/pron មាន/verb ការ/noun ខ្វះ/verb ខាត/verb អ្វី/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt ពួក/noun យើង/pron គួរ/verb តែ/conj បន្ថែម/verb នូវ/adp សេវា/noun កម្ម/noun អ្វី/noun បន្ថែម/verb ទៀត/adv ?/punct ,/punct
-តើ/prt ខ្ញុំ/pron បាន/verb ធ្វើ/verb អ្វី/noun អោយ/verb អ្នក/pron មិន/prt ពេញ/verb ចិត្ត/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt ពេញ/verb ចិត្ត/noun ?/punct ,/punct
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt ចូល/verb ចិត្ត/noun ខ្ញុំ/pron ?/punct ,/punct
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt សប្បាយ/verb ចិត្ត/noun និង/conj ខ្ញុំ/pron ?/punct ,/punct
-តើ/prt អ្នក/pron ធ្លាប់/verb ជួប/verb បញ្ហា/noun ទាំង/adp អស់/verb នេះ/det ដែរ/adv ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt បញ្ហា/noun នេះ/det បង្ក/verb បញ្ហា/noun ដល់/adp អ្នក/pron យូរ/adj ប៉ុណ្ណា/adv ហើយ/conj ?/punct ,/punct
-តើ/prt អ្នក/pron អាច/verb ពណ៌នា/verb ថា/conj តើ/prt បញ្ហា/noun នេះ/det កើល/verb ឡើយ/prt ដូច/verb ម្តេច/adv ?/punct ,/punct
-តើ/prt អ្នក/pron អាច/verb ផ្តល់/verb ព័ត៌មាន/noun លម្អិត/verb បន្តិច/adj ទៀត/adv អំពី/adp វា/pron បាន/verb ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ត្រូវការ/verb ដំណោះ/noun ស្រាយ/verb ជា/verb បន្ទាន់/adj ប៉ុណ្ណា/adv ?/punct ,/punct
-តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb ដល់/adp អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,/punct
-តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb ដល់/adp អាជីវកម្ម/noun របស់/adp អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,/punct
-តើ/prt អ្នក/pron បាន/verb ធ្វើ/verb ពី/adp អ្វី/noun ដែល/noun អ្នក/pron បាន/verb ធ្វើ/verb នៅ/verb ពេល/noun ដែល/noun បញ្ហា/noun បាន/verb ចាប់/verb ផ្តើម/verb ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron បាន/verb ព្យាយាម/verb ដោះ/verb ស្រាយ/verb បញ្ហា/noun ដោយ/adp ខ្លួន/noun ឯង/det ទេ/prt ?/punct ,/punct
-តើ/prt មាន/verb អ្វី/noun កើត/verb ឡើង/verb បន្ទាប់/conj ពី/adp អ្នក/pron បាន/verb សាក/verb ល្បង/verb វា/pron ?/punct ,/punct
-តើ/prt អ្នក/pron អាច/verb ផ្តល់/verb ឧទាហរណ៍/noun ដល់/adp ខ្ញុំ/pron បាន/verb ទេ/prt ?/punct ,/punct
-តើ/prt អ្វី/noun ជា/verb មូល/noun ហេតុ/noun ចម្បង/adj របស់/adp អ្នក/pron សម្រាប់/adp ការ/noun ទាក់/verb ទង/noun មក/adp ខ្ញុំ/pron នៅ/adp ថ្ងៃ/noun នេះ/det ?/punct ,/punct
-តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,/punct
-តើ/prt បញ្ហា/noun នេះ/det ធ្វើ/verb ឱ្យ/verb អ្នក/pron មាន/verb បញ្ហា/noun ផ្សេង/adj ទៀត/adv ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ចង់/verb ឱ្យ/verb ខ្ញុំ/pron ពិភាក្សា/verb រឿង/noun នេះ/det ជាមួយ/adp អ្នក/noun គ្រប់/adj គ្រង/verb របស់/adp ខ្ញុំ/pron ហើយ/conj ទាក់/verb ទង/noun ទៅ/adp អ្នក/pron វិញ/adv ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt មាន/verb អ្វី/noun ដែល/noun ខ្ញុំ/pron បាន/verb មិន/prt ទាន់/adv ទទួល/verb បាន/verb ឬ/conj ទេ/prt ?/punct ,/punct
-តើ/prt មាន/verb អ្វី/noun ផ្សេង/adj ទៀត/adv ដែល/noun ខ្ញុំ/pron អាច/verb ជួយ/verb អ្នក/pron បាន/verb ?/punct ,/punct
-តើ/prt មាន/verb រឿង/noun អ្វី/noun កើត/noun ឡើយ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron ចង់/verb អោយ/verb យើង/pron ធ្វើ/verb អ្វី/noun ដែល/noun ?/punct ,/punct
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb មាន/verb រឿង/noun នេះ/det កើត/noun ឡើយ/prt ?/punct ,/punct
-តើ/prt អ្នក/pron បាន/verb ឃើញ/verb ពី/adp បញ្ហា/noun ឬ/conj ទេ/prt ?/punct ,/punct
+សូម/verb ធ្វើ/verb ការ/noun វាយ/verb តម្លៃ/noun ពី/adp ខ្ញុំ/pron ,AskAboutDissatisfaction
+សូម/verb ធ្វើ/verb ការ/noun វា/verb តម្លៃ/noun ពី/adp កម្ម/noun វិធី/noun កូដសុី/noun ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron សប្បាយ/verb ចិត្ត/noun និង/conj សេវា/noun កម្ម/noun របស់/adp ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ពេញ/verb ចិត្ត/noun និង/conj សេវា/noun កម្ម/noun របស់/adp ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ពេញ/verb ចិត្ត/noun ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron សប្បាយ/verb ចិត្ត/noun និង/conj ខ្ញុំ/pron ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ចូល/verb ចិត្ត/noun ខ្ញុំ/pron ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt ខ្ញុំ/pron មាន/verb ការ/noun ខ្វះ/verb ខាត/verb អ្វី/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt ពួក/noun យើង/pron គួរ/verb តែ/conj បន្ថែម/verb នូវ/adp សេវា/noun កម្ម/noun អ្វី/noun បន្ថែម/verb ទៀត/adv ?/punct ,AskAboutDissatisfaction
+តើ/prt ខ្ញុំ/pron បាន/verb ធ្វើ/verb អ្វី/noun អោយ/verb អ្នក/pron មិន/prt ពេញ/verb ចិត្ត/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt ពេញ/verb ចិត្ត/noun ?/punct ,AskAboutDissatisfaction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt ចូល/verb ចិត្ត/noun ខ្ញុំ/pron ?/punct ,AskAboutDissatisfaction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt សប្បាយ/verb ចិត្ត/noun និង/conj ខ្ញុំ/pron ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ធ្លាប់/verb ជួប/verb បញ្ហា/noun ទាំង/adp អស់/verb នេះ/det ដែរ/adv ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt បញ្ហា/noun នេះ/det បង្ក/verb បញ្ហា/noun ដល់/adp អ្នក/pron យូរ/adj ប៉ុណ្ណា/adv ហើយ/conj ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron អាច/verb ពណ៌នា/verb ថា/conj តើ/prt បញ្ហា/noun នេះ/det កើល/verb ឡើយ/prt ដូច/verb ម្តេច/adv ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron អាច/verb ផ្តល់/verb ព័ត៌មាន/noun លម្អិត/verb បន្តិច/adj ទៀត/adv អំពី/adp វា/pron បាន/verb ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ត្រូវការ/verb ដំណោះ/noun ស្រាយ/verb ជា/verb បន្ទាន់/adj ប៉ុណ្ណា/adv ?/punct ,AskAboutDissatisfaction
+តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb ដល់/adp អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,AskAboutDissatisfaction
+តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb ដល់/adp អាជីវកម្ម/noun របស់/adp អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron បាន/verb ធ្វើ/verb ពី/adp អ្វី/noun ដែល/noun អ្នក/pron បាន/verb ធ្វើ/verb នៅ/verb ពេល/noun ដែល/noun បញ្ហា/noun បាន/verb ចាប់/verb ផ្តើម/verb ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron បាន/verb ព្យាយាម/verb ដោះ/verb ស្រាយ/verb បញ្ហា/noun ដោយ/adp ខ្លួន/noun ឯង/det ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt មាន/verb អ្វី/noun កើត/verb ឡើង/verb បន្ទាប់/conj ពី/adp អ្នក/pron បាន/verb សាក/verb ល្បង/verb វា/pron ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron អាច/verb ផ្តល់/verb ឧទាហរណ៍/noun ដល់/adp ខ្ញុំ/pron បាន/verb ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្វី/noun ជា/verb មូល/noun ហេតុ/noun ចម្បង/adj របស់/adp អ្នក/pron សម្រាប់/adp ការ/noun ទាក់/verb ទង/noun មក/adp ខ្ញុំ/pron នៅ/adp ថ្ងៃ/noun នេះ/det ?/punct ,AskAboutDissatisfaction
+តើ/prt បញ្ហា/noun នេះ/det បាន/verb ប៉ះ/verb ពាល់/verb អ្នក/pron យ៉ាង/prt ណា/noun ?/punct ,AskAboutDissatisfaction
+តើ/prt បញ្ហា/noun នេះ/det ធ្វើ/verb ឱ្យ/verb អ្នក/pron មាន/verb បញ្ហា/noun ផ្សេង/adj ទៀត/adv ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ចង់/verb ឱ្យ/verb ខ្ញុំ/pron ពិភាក្សា/verb រឿង/noun នេះ/det ជាមួយ/adp អ្នក/noun គ្រប់/adj គ្រង/verb របស់/adp ខ្ញុំ/pron ហើយ/conj ទាក់/verb ទង/noun ទៅ/adp អ្នក/pron វិញ/adv ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt មាន/verb អ្វី/noun ដែល/noun ខ្ញុំ/pron បាន/verb មិន/prt ទាន់/adv ទទួល/verb បាន/verb ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt មាន/verb អ្វី/noun ផ្សេង/adj ទៀត/adv ដែល/noun ខ្ញុំ/pron អាច/verb ជួយ/verb អ្នក/pron បាន/verb ?/punct ,AskAboutDissatisfaction
+តើ/prt មាន/verb រឿង/noun អ្វី/noun កើត/noun ឡើយ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron ចង់/verb អោយ/verb យើង/pron ធ្វើ/verb អ្វី/noun ដែល/noun ?/punct ,AskAboutDissatisfaction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb មាន/verb រឿង/noun នេះ/det កើត/noun ឡើយ/prt ?/punct ,AskAboutDissatisfaction
+តើ/prt អ្នក/pron បាន/verb ឃើញ/verb ពី/adp បញ្ហា/noun ឬ/conj ទេ/prt ?/punct ,AskAboutDissatisfaction

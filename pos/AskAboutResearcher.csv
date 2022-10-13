@@ -1,124 +1,124 @@
 question,intent
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron សិក្សា/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron សិក្សា/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
 ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Research/noun er/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
 ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Research/noun er/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/adv លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចុះ/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ចូល/verb ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
 តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Research/noun er/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,/punct Ask/noun About/noun Researcher/noun
-ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun About/noun Researcher/noun
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+តើ/prt លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb Research/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron កំពុង/verb ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun គាត់/pron ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb លើ/adp អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ?/punct ,AskAboutResearcher
+ប្រាប់/verb ខ្ញុំ/pron លោក/noun គ្រូ/noun លីហៀង/noun ស្រាវជ្រាវ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskAboutResearcher
