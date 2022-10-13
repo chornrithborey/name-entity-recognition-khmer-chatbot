@@ -1,1039 +1,1030 @@
 question,intent
-តើ ពិត ជា មាន ប្រទេស បង់ក្លាដែស ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន ប្រទេស អេក្វាទ័រ ហ្គីណេ ឬ អត់ ? , Is Country Exist
-អ្នក មើល ការ ខាង កុំព្យូទ័រ សាយអេន អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
+តើ មាន ប្រទេស បូតស្វាណា ដែល ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស ហ្គាបុន ឬ អត់ ? , Is Country Exist
+អ្នក មើល ការ ខុស ត្រូវ នៅ កុំព្យូទ័រ សាយអេន អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ Telecoms មាន រៀន ស្អី ខ្លះ ហា ? , Curiculum In Each Major
 កន្លែង បត់ ជើង នៅ ទី ណា ?,FindToilet
-តើ បន្ទប់ របស់ ផ្នែក ភីអ នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ អាយធី ? , Curiculum In Each Major
 នៅ ជាន់ ផ្ទាល់ ដី កន្លែង ដោះ ទុក សត្វ នៅ ណា ?,FindToilet
-តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក អេហ្វ អ បន្តិច បាន ដែល ទេ ? , Ask About Staff Phone Number
-តើ ពិត ជា មាន ប្រទេស បែល ហ្ស៊ិក មែន ឬ អត់ ? , Is Country Exist
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ២ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ CADT ? , Ask About Trending News
+តើ មាន ប្រទេស ប្រ៊ុយណេមែន ឬ អត់ ? , Is Country Exist
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង យុត្តិធម៌ មាន refill ទឹក ទេ ? , Ask About Water Refill
 តើ អាយឌីជី ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
-តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
-ទីណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ស្ថាន ទូត អាមេរិក ?,FindMeetingRoom
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ២០៥ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-អ្នក រ៉ាប់ រង ក្នុង អុីខមមើស នរណា ជា ? , Ask About Top Management Personal
-ប្រាប់ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ មាន ប្រទេស ឡាវ ដែល ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-តើ មាន ប្រទេស បាបាដូស ឬ អត់ ? , Is Country Exist
-ឆ្លើយ ខុស ទំនង,Dissatisfied
-តើ អាច មាន ប្រទេស ម៉ារ៉ុក មែន ឬ ទេ ? , Is Country Exist
+តើ មាន រៀន ម៉េច ខ្លះ ខាង ពត៌មាន វិទ្យា ? , Curiculum In Each Major
+មនុស្ស យន្ត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ការណ៍ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ កន្លែង ណា ?,FindMeetingRoom
+តើ យើង អាច រក បន្ទប់ ៣០៣ តាម វីធីណា ? , Find Room
+អ្នក គ្រប់ គ្រង ខាង Telecoms and Networking អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ ប្រទេស កូស្តា រីកា មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ អាច មាន ប្រទេស ម៉ាឡាវី ដែល ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ គេ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+តើ អាច មាន ប្រទេស ប្រេស៊ីល ឬ អត់ ? , Is Country Exist
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ទេសចរណ៍ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ ប្រទេស ន័រវេ មាន មែន ឬ ទេ ? , Is Country Exist
 រ៉ូបូត តើ នៅ អគារ IDT កន្លែង បន្ទោរ បង់ នៅ កន្លែង ណា ?,FindToilet
 Robot តើ នៅ អគារ Innovation Center កន្លែង បន្ទោរ បង់ នៅ ឯ ណា ?,FindToilet
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អាយធី ? , Curiculum In Each Major
-ប្រាប់ ខ្ញុំ នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
-ប្រាប់ នៅ ឯ NIPTICT Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នេះ ? , Ask About Trending News
-អ្នក រ៉ាប់ រង នៅ e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច នរណា ជា ? , Ask About Top Management Personal
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង ដារ៉ា មែន ទេ ? , Ask About Creator
-ប្រាប់ នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ២០៥ បាន ដែល ឬ ទេ ? , Find Room
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង ទូរគមនាគមន៍ ? , Curiculum In Each Major
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ កន្លែង នឹង ? , Ask About Trending News
-អ្នក មើល ការ ខុស ត្រូវ ខាង Telecoms អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ប្រទេស អ៊ុយក្រែន ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ បង្អស់ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-តើ ប្រទេស តង់ហ្សានី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-ខ្ញុំ ចង់ បាន ការិយាល័យ មួយ , Ask About ToGet The Working Space
+តើ មាន រៀន អ្វី ខ្លះ ខាង តេឡេខ ម ? , Curiculum In Each Major
+ប្រាប់ នៅ CADT Research លើ ? ,AskAboutResearch
+តើ ប្រទេស កម្ពុជា មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នេះ ? , Ask About Trending News
+អ្នក គ្រប់ គ្រង ក្នុង អុីខមមើស នរណា ជា ? , Ask About Top Management Personal
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
+តើ Robot ឯង បង្កើត ដោយ បង បូរី មែន ទេ ? , Ask About Creator
+តើ ប្រទេស អាល់បានី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ៣០២ នៅ ទី ណា បាន ទេ ? , Find Room
+តើ មាន កម្ម វិធី រៀនម៉េច ខ្លះ ខាង អុីខមមើស ? , Curiculum In Each Major
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ កន្លែង នឹង ? , Ask About Trending News
+អ្នក ទទួល ខុស ត្រូវ នៅ Telecoms អ្នក ណា ជា ? , Ask About Top Management Personal
+មាន បង្គន់ បត់ ជើង អត់ នៅ អាគារ នេះ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
+មាន បង្គន់ អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន សេដ្ឋ កិច្ច និង ហិរញ្ញ វត្ថុ មែន ឫ ទេ ? , Ask About Makerspace
 តើ ស្ថាន ទូត អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
-តើ មាន ប្រទេស នេប៉ាល់ ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ NIPTICT ? , Ask About Trending News
-តើ ប្រទេស អេក្វាឌ័រ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-មាន កន្លែង ជុះ នោម ទេ នៅ សាលា នឹង ?,DoesToiletExist
-តើ មាន ប្រទេស កូស្តា រីកា ឬ អត់ ? , Is Country Exist
-មាន បង្គន់ អត់ នៅ ជាន់ ក្រោម ?,DoesToiletExist
+តើ អាច មាន ប្រទេស ប៉ាឡេស្ទីន ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ NIPTICT ? , Ask About Trending News
+តើ ប្រទេស ម៉ាកាវ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+តើ អាច មាន ប្រទេស អេក្វាឌ័រ ឬ អត់ ? , Is Country Exist
+មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់ ក្រោម ?,DoesToiletExist
 តើ ជាន់ ទី ១ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង Telecoms ? , Curiculum In Each Major
-ណាបន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ស្ថាន ទូត អាមេរិក ?,FindMeetingRoom
-មាន បង្គន់ នោម ឬ អត់ នៅ នឹង ?,DoesToiletExist
-ខ្ញុំ សូម សួរ ថា អ្នក បង្រៀន មុខ វិជ្ជា ការ អភិវឌ្ឍន៍ គេហទំព័រ គាត់ ជា អ្នក ណា ?,FindLecturerForSubject
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ២០១ នៅ ទី កន្លែង ណា ? , Find Room
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី បាន ដែល ទេ ? , Ask About Staff Phone Number
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ខាង ណេត វើក កីង ? , Curiculum In Each Major
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន រៀន ស្អី ខ្លះ ហា ? , Curiculum In Each Major
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង សុធី រិទ្ធ មែន ឬ អត់ ? , Ask About Creator
-តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ ចាន់តូតាម ណា ? , Find Room
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ខាង computerscience ? , Curiculum In Each Major
+រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា កន្លែង ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ កន្លែង ណា ?,FindMeetingRoom
+មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ នឹង ?,DoesToiletExist
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង Information Technology ? , Curiculum In Each Major
+តើ យើង អាច រក បន្ទប់ ២០៥ ដោយ វីធីណា បាន ? , Find Room
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ សុីអេ ដីធី ? , Ask About Trending News
+តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង Network ? , Curiculum In Each Major
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ អាយឌីធី ពិត ឫ ទេ ? , Ask About Makerspace
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង សុកហេង មែន ឬ អត់ ? , Ask About Creator
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោនាយក នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
 បន្ទប់ របស់ លោក សុភី នៅ ជាន់ លើ គេ បង្អស់ ត្រូវ អត់ ?,FindEmployeeRoom
-តើ ប្រទេស អង់ដូរ៉ា ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-តើ ប្រទេស សាធារណរដ្ឋ កៀហ្ស៊ីស៊ី មាន ឬ អត់ ? , Is Country Exist
-មាន បង្គន់ អត់ នៅ ជាន់ ទី ១ ?,DoesToiletExist
-តើ បណ្តាញ មាន កម្ម វិធី រៀន អី ខ្លះ ? , Curiculum In Each Major
-តើ មាន ប្រទេស កោះ ម៉ាន់ ឬ អត់ ? , Is Country Exist
-ចូល ប្រាប់ កន្លែង នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ណិពទិច ? , Ask About Trending News
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី កន្លែង នេះ ? , Ask About Trending News
+តើ ប្រទេស កោះ ហ្វារ៉ូជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវី ឬ ទេ ? , Is Country Exist
+មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ ជាន់ ទី ១ ?,DoesToiletExist
+តើ Networking មាន រៀន ស្អី គេ ខ្លះ ? , Curiculum In Each Major
+តើ អាច មាន ប្រទេស សាធារណរដ្ឋ កៀហ្ស៊ីស៊ី ឬ អត់ ? , Is Country Exist
+ចូល ប្រាប់ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+មនុស្ស យន្ត អត់ បាន ការ ម៉ែន,Dissatisfied
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី កន្លែង នេះ ? , Ask About Trending News
 នៅ ជាន់ ផ្ទាល់ ដី កន្លែង បត់ ជើង នៅ កន្លែង ណា ?,FindToilet
-តើ អាច មាន ប្រទេស អាល់បានី ដែល ឬ ទេ ? , Is Country Exist
-អ្នក គ្រប់ គ្រង នៅ អុីខមមើស អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ឈុនហៀក មែន ទេ ? , Ask About Creator
-មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ នៅ ជាន់ ក្រោម ?,DoesToiletExist
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោក គ្រូសុភាព បាន ទេ ? , Find Room
-តើ អុីហ្វមេសុិនតិចណូឡូជី មាន កម្ម វិធី រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង អាយធី ? , Curiculum In Each Major
+តើ ប្រទេស អូទ្រីស អាស៊ែ បៃហ្សង់ មាន ឬ ទេ ? , Is Country Exist
+អ្នក មើល ការ ក្នុង អុីខមមើស អ្នក ណា ជា ? , Ask About Top Management Personal
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ណារី មែន ទេ ? , Ask About Creator
+សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ តេឡេខម មាន រៀន ស្អី ខ្លះ ? , Curiculum In Each Major
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង តេឡេខម ? , Curiculum In Each Major
 Robot តើ នៅ អគារ IDT បន្ទប់ ទឹក នៅ កន្លែង ណា ?,FindToilet
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ក្រោម មាន បង្គន់ ទេ ?,DoesToiletExist
-តើ ពិត ជា មាន ប្រទេស តូមិននីស្ថាន ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែន ឬ ទេ ? , Is Country Exist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ បង្អស់ មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
+តើ មាន ប្រទេស ហ្សំប៊ី ឬ អត់ ? , Is Country Exist
+តើ អាច មាន ប្រទេស ហ្វាំងឡង់ ឬ ទេ ? , Is Country Exist
 រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ អ្នក គ្រូ ចរិយា នៅ ណា ?,FindEmployeeRoom
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ បង្អស់ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ កន្លែង នេះ ? , Ask About Trending News
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ១ មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
-នៅ ឯ សុី អេ ដីធី មាន Research អ្វី ? ,AskAboutResearch
-តើ ទី តាំង បន្ទប់ របស់ បង សិរី មួយ ណា ដែល ? , Ask About Staff Room
-ប្រាប់ នៅ សុីអេ ដីធី Research លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
-សុំ សួរ មួយ Robot តើ នៅ នឹង មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
-តើ មាន ប្រទេស ម៉ុងសឺរ៉ាត់ ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ណិពទិច ? , Ask About Trending News
-តើ បន្ទប់ ២០៥ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-តើ ផ្នែក អេហ្វអា ធ្វើ ការ នៅ អាគារ ណា ? , Ask About Staff Room
-តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ ទី ណាដែល ? , Ask About Staff Room
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង Telecomsand Networking ? , Curiculum In Each Major
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ឯ CADT ? , Ask About Trending News
-CADT មាន Research អ្វី ខ្លះ ,AskAboutResearch
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បូរី មែន ទេ ? , Ask About Creator
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ កន្លែង នេះ ? , Ask About Trending News
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ឈុន ហៀន មែនឫ ទេ ? , Ask About Creator
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ក្រោម មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ២០៣ នៅ កន្លែង ណា ? , Find Room
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោនាយក នៅ ទីណា ? , Find Room
-តើ ពិត ជា មាន ប្រទេស បារ៉ែន មែន ឬ អត់ ? , Is Country Exist
-អ្នក មើល ការ ខុស ត្រូវ ក្នុង Networkនរណា ជា ? , Ask About Top Management Personal
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
-ប្រាប់ ខ្ញុំ នៅ ឯ សុី អេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ ទី នេះ ? , Ask About Trending News
-តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក រីគ្រូទ័រ នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
-តើ ប្រទេស ម៉ុងតេណេហ្គ្រោ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូសិទ្ធ ពិត ឬ ទេ ? , Ask About Creator
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ១០៣ នៅ ទី កន្លែង ណា ? , Find Room
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ កន្លែង នេះ ? , Ask About Trending News
+តើ ខ្ញុំ អាច រក បន្ទប់ ១០១ តាម ណា បាន ? , Find Room
+បង្ហាញ ខ្ញុំ នៅ ឯ CADT ស្រាវជ្រាវ លើ ? ,AskAboutResearch
+តើ ផ្នែក រីគ្រូទ័រ ធ្វើ ការ នៅ បន្ទប់ ណា ដែល ? , Ask About Staff Room
+តើ ប្រទេស បូស្នៀ និង ហឺហ្សេហ្គោវីណា ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
+តើ អាច មាន ប្រទេស នីហ្សេរីយ៉ា ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ណិពទិច ? , Ask About Trending News
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ៣០២ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក អភិវឌ្ឍន៍ កម្ម វិធី នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ បង សិទ្ធ ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ដែល ? , Ask About Staff Room
+តើ មាន រៀន អី ខ្លះ នៅ ខាង IT ? , Curiculum In Each Major
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ CADT ? , Ask About Trending News
+ចូល ប្រាប់ នៅ ណិពទិច Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ សុកហេង មែន ទេ ? , Ask About Creator
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ កន្លែង នេះ ? , Ask About Trending News
+តើ រ៉ូបូត ឯង បង្កើត ដោយ បង យ៉ា មែន ឫ ទេ ? , Ask About Creator
+សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
+តើ ខ្ញុំ អាច រក បន្ទប់ ៣០១ តាម របៀប ណា ? , Find Room
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
+តើ ខ្ញុំ អាច រក បន្ទប់ ធីអេសសុី ដោយ វីធីណា បាន ? , Find Room
+តើ មាន ប្រទេស បូស្នៀ និង ហឺហ្សេហ្គោវីណាមែន ឬ អត់ ? , Is Country Exist
+អ្នក ទទួល ខុស ត្រូវ ក្នុង Networkនរណា ជា ? , Ask About Top Management Personal
+តើ Telecomsand Networking មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ? , Curiculum In Each Major
+ប្រាប់ សុី អេ ដីធី Research លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
+តើ មាន រឿង រំភើប អ្វី ខ្លះ ទី នេះ ? , Ask About Trending News
+តើ បន្ទប់ របស់ ផ្នែក ទី ផ្សារ នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
+តើ ប្រទេស តុងហ្គា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម លោក គ្រូសិទ្ធ ពិត ឬ ទេ ? , Ask About Creator
 រ៉ូបូត តើ នៅ អគារ IDT បង្គន់ អណាម័យ នៅ ទី ណា ?,FindToilet
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ កន្លែង នេះ ? , Ask About Trending News
-តើ ទី តាំង ធ្វើ ការ របស់ បង លីហៀក នៅ អាគារ ណា ? , Ask About Staff Room
-តើ មាន ប្រទេស ហុងកុង ដែល ឬ អត់ ? , Is Country Exist
-តើ បន្ទប់ របស់ ផ្នែក អេហ្វអ នៅ ទីណា ? , Ask About Staff Room
-អ្នក ទទួល បន្ទុក ខាង Telecoms នរណា ជា ? , Ask About Top Management Personal
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
-តើ មាន ធុរ កិច្ច ណា ខ្លះ នៅ ខាង ក្នុង អគារ នវានុវត្តន៍ ? , Ask For Start Up In The Innovation Center
-តើ ពិត ជា មាន ប្រទេស អែល សាល់វ៉ាឌ័រ ឬ អត់ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូសុភាព នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ យើង អាច រក បន្ទប់ ស្រាវជ្រាវ តាម វីធីណា ? , Find Room
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង សុធារ៉ា បាន ដែល ទេ ? , Ask About Staff Phone Number
-តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បង សុធារ៉ា បាន ដែល ទេ ? , Ask About Staff Phone Number
-តើ ប្រទេស អារ៉ាប៊ី សាអូឌីត មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង ឈុន ហៀន មែន ឬ អត់ ? , Ask About Creator
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នេះ ? , Ask About Trending News
-តើ បន្ទប់ ៣០១ នៅ កន្លែង ណា ? , Find Room
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ១ មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
-CADT មាន Research ទៅ លើ អ្វី ខ្លះ ? ,AskAboutResearch
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ៦ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ បន្ទប់ របស់ បង ចាន់តូ នៅ អាគារ ណា ? , Ask About Staff Room
+តើ អាច មាន ប្រទេស អ៊ីតាលី ដែល ឬ អត់ ? , Is Country Exist
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ទី ផ្សារ នៅ ទី ណា ? , Ask About Staff Room
+អ្នក រ៉ាប់ រង នៅ Telecoms នរណា ជា ? , Ask About Top Management Personal
+តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ មាន ធុរ កិច្ច Cam Mob ក្នុង នេះ ទេ ? , IsStart UpExist
+តើ មាន ប្រទេស បារាំង ខាង លិច ឥណ្ឌ ឬ អត់ ? , Is Country Exist
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោក គ្រូសិរី បាន ដែល ឬ ទេ ? , Find Room
+តើ អាច មាន ប្រទេស អាហ្សង់ទីន មែន ឬ អត់ ? , Is Country Exist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី បាន ដែល ទេ ? , Ask About Staff Phone Number
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី បាន ដែល ទេ ? , Ask About Staff Phone Number
+មាន បន្ទប់ ទឹក ឬ ទេ នៅ នឹង ?,DoesToiletExist
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ទី ២ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង មែន ឬ អត់ ? , Ask About Creator
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ១ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ៣០៤ នៅ កន្លែង ណា ? , Find Room
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ១០១ បាន ដែល ទេ ? , Find Room
+ចូល ប្រាប់ នៅ ណិពទិច ស្រាវជ្រាវ លើ ? ,AskAboutResearch
 តើ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ជា ស្ថាប័ន អ្វី ? , Ask About Institution
-តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក រីគ្រូទ័រ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង អុីហ្វមេសុិនតិចណូឡូជី ? , Curiculum In Each Major
-សុីអេ ដីធី មាន Research អ្វី សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ បន្ទប់ របស់ ផ្នែក ទី ផ្សារ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង ទូរគមនាគមន៍ ? , Curiculum In Each Major
+តើ ប្រទេស សាធារណរដ្ឋ ដូមីនីកែន មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
 តើ IDT មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ៣០៥ នៅ កន្លែង ណា ? , Find Room
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូ សិទ្ធ នៅ កន្លែង ណា ? , Find Room
 តើ មាន អាយឌីអអាយ ឫ ទេ ? , Is Institution Exist
-បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ព្រឹក នេះ នៅ ទី ណា ?,FindMeetingRoom
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោនាយក នៅ ឯ ណា ? , Find Room
-មាន កន្លែង ជុះ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-តើ ប្រទេស ប៉ាណាម៉ា មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង សុកហេង មែន ឬ អត់ ? , Ask About Creator
-តើ អាច មាន ប្រទេស ហ្សកដានី ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន ប្រទេស ម៉ូណាកូ ដែល ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស កោះ ហ្វកលែន មែន ឬ ទេ ? , Is Country Exist
-បង្ហាញ ខ្ញុំ នៅ សុី អេ ដីធី Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-តើ មាន ធុរ កិច្ច អី នៅ នឹង កន្លែង នេះ ? , Ask For Start Up In The Innovation Center
-តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ? , Curiculum In Each Major
-តើ Information Technology មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ? , Curiculum In Each Major
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
-រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ការណ៍ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ កន្លែង ណា ?,FindMeetingRoom
-តើ ទូរគមនាគមន៍ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ? , Curiculum In Each Major
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ១០៦ បាន ដែល ទេ ? , Find Room
-មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ អុីហ្វមេសុិនតិ ចណូឡូជី ? , Curiculum In Each Major
-តើ មាន ប្រទេស ក្រូអាត ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស កោះ កៃម៉ាន ដែល ឬ ទេ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ៣០៣ នៅ ទី ណា ? , Find Room
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ក្នុង នេះ ? , Ask About Trending News
-រ៉ូបូត មិន បាន ការ អ្វី សោះ,Dissatisfied
-តើ ប្រទេស តូហ្គោ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ មាន ស្តាត អាប់ CamMob នៅ ក្នុង នេះ ដែរ ទេ ? , IsStart UpExist
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ណារី ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-អ្នក ទទួល ខុស ត្រូវ នៅ ណេតវើក នរណា ជា ? , Ask About Top Management Personal
-ប្រាប់ នៅ នេះ Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ ពិត ជា មាន ប្រទេស យេម៉ែន ដែល ឬ ទេ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស ស៊ុយអែត ដែល ឬ អត់ ? , Is Country Exist
-តើ ជាន់ ទី ២ មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
-តើ មាន ធុរ កិច្ច Cam Mob នៅ ក្នុង នេះ ដែល ទេ ? , IsStart UpExist
-តើ មាន រៀន ស្អី ខ្លះ ខាង ពត៌មាន វិទ្យា ? , Curiculum In Each Major
-តើ យើង អាច រក បន្ទប់ ៣០៦ តាម វីធីណា ? , Find Room
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង ដារ៉ា ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
+ទីណា បន្ទប់ ប្រជុំ ជាមួយ ធនាគារ អេសុីលីដា ?,FindMeetingRoom
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ គាំទ្រ ការ បង្រៀន នៅ ឯ ណា ? , Find Room
+សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
+តើ Robot ឯង បង្កើត ដោយ បង ឈុន ហៀន មែន ឬ អត់ ? , Ask About Creator
+តើ ប្រទេស លីចតេនស្ទីន មាន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស នូវែល សេឡង់ ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន ប្រទេស ហ្គាណាមែន ឬ ទេ ? , Is Country Exist
+ប្រាប់ ខ្ញុំ នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+តើ មាន ស្តាត អាប់ Cam Mob នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ? , IsStart UpExist
+តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
+តើ បណ្តាញ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ ? , Curiculum In Each Major
+តើ មាន ព័ត៌មាន រំភើប អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ អ្នក អាច ជួយ ប្រាប់ ខ្ញុំ ថា នៅ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មាន ការងារ ដែល ទេ ? , Ask About Job Opportunities
+តើ Telecoms មាន រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ២០៣ នៅ ទី កន្លែង ណា ? , Find Room
+មាន កន្លែង ជុះ នោម ឬ អត់ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ ទូរគមនាគមន៍ ? , Curiculum In Each Major
+តើ អាច មាន ប្រទេស អែល សាល់ វ៉ាឌ័រ ឬ អត់ ? , Is Country Exist
+តើ មាន ប្រទេស នា វា ទេសចរណ៍ គុយបា ដែល ឬ ទេ ? , Is Country Exist
+តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូលីហៀក តាមណា បាន ? , Find Room
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ក្នុង នេះ ? , Ask About Trending News
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ពាណិជ្ជ កម្ម មាន refill ទឹក ទេ ? , Ask About Water Refill
+មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
+Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ គីម ហុង ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
+អ្នក ទទួល បន្ទុក ខាង ណេត វើក នរណា ជា ? , Ask About Top Management Personal
+តើ ប្រទេស បេនីន មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+បន្ទប់ ប្រជុំ ការណ៍ ម៉ោង ១០ នៅ ឯ ណា ?,FindMeetingRoom
+តើ មាន ប្រទេស ទ្រីនីដាដតូបាហ្គោ ដែល ឬ អត់ ? , Is Country Exist
+កន្លែង នេះ មាន Research អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង បណ្តាញ ? , Curiculum In Each Major
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសុភាព នៅ ទី កន្លែង ណា ? , Find Room
+Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុធី រិទ្ធ ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 ពេល ដែល រៀន ស្ថាបត្យកម្ម កុំព្យូទ័រ នឹង ហើយ ខ្ញុំ អាច មាន សមត្ថ ភាព បែប ណា ខ្លះ ?,AskAboutClassSubject
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង សិទ្ធ ពិត ឬ ទេ ? , Ask About Creator
-តើ ប្រទេស អាមេនី មាន ឬ អត់ ? , Is Country Exist
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក អភិវឌ្ឍន៍ កម្ម វិធី នៅ ទីណា ? , Ask About Staff Room
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ណេត វើក កីង ? , Curiculum In Each Major
-ប្រាប់ ខ្ញុំ នៅ ទី នេះ Research លើ ? ,AskAboutResearch
-ទីណា កន្លែង ប្រជុំ ជាមួយ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន ?,FindMeetingRoom
-ចូល ប្រាប់ ក្នុង នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន រឿង ថ្មី ៗ អត់ កន្លែង នេះ ? , Ask About Trending News
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ក្រោម មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
-តើ លោក គ្រូលីហៀក ធ្វើ ការ នៅ ជាន់ ណា ? , Ask About Staff Room
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ទី នេះ ? , Ask About Trending News
-តើ អាច មាន ប្រទេស អារូបា ឬ អត់ ? , Is Country Exist
-បង្ហាញ ខ្ញុំ CADT Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-នៅ នឹង មាន Research អ្វី ខ្លះ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ឈុនហៀក ពិត ឬ អត់ ? , Ask About Creator
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នេះ ? , Ask About Trending News
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុធី រិទ្ធ ពិត ទេ ? , Ask About Creator
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី កន្លែង នឹង ? , Ask About Trending News
-សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-តើ បន្ទប់ របស់ បង សិរី នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ មែន ឫ ទេ ? , Ask About Creator
-ណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន ?,FindMeetingRoom
-តើ មាន ប្រទេស ហ្សាម៉ាអ៊ីក ឬ ទេ ? , Is Country Exist
-តើ ប្រទេស អេក្វាទ័រ ហ្គីណេ មាន ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស អ៊ុយក្រែន ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស អ៊ីរ៉ាក់ មែន ឬ ទេ ? , Is Country Exist
-តើ នៅ អាយឌីជី មាន ឱកាស ការងារ ទេ ? , Ask About Job Opportunities
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ២០៣ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-តើ នៅ ជាន់ ទី ៣ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង យ៉ាមែន ទេ ? , Ask About Creator
-តើ ប្រទេស បូលីវី មាន ឬ ទេ ? , Is Country Exist
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ អុីហ្វមេសុិនតិ ចណូឡូជី ? , Curiculum In Each Major
-តើ មាន ប្រទេស ហ្គ្រេណាដា ដែល ឬ អត់ ? , Is Country Exist
-តើ Robot ឯង បង្កើត ដោយ បង យ៉ា ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ឈុន ហៀន ពិត ឬ អត់ ? , Ask About Creator
-តើ អាច មាន ប្រទេស ស្វាស៊ីឡង់ ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ អុីខមមើស ? , Curiculum In Each Major
-តើ ប្រទេស ម៉ូសំប៊ិក មាន មែន ឬ ទេ ? , Is Country Exist
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោគ្រូ នាយក រង បាន ទេ ? , Find Room
-តើ មាន រៀន ស្អី ខ្លះ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ? , Curiculum In Each Major
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
-តើ លោក នាយក ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ដែល ? , Ask About Staff Room
-មនុស្ស យន្ត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា កន្លែង ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ឯ ណា?,FindMeetingRoom
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង ពត៌មាន វិទ្យា ? , Curiculum In Each Major
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នេះ ? , Ask About Trending News
-តើ ប្រទេស អង់ហ្គោឡា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ២ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស ប៉ាណាម៉ា ឬ ទេ ? , Is Country Exist
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង ណារី ពិត ឬ អត់ ? , Ask About Creator
-នៅ ឯ នេះ មាន Research អ្វី ខ្លះ សម្រាប់ ពួក យើង ? ,AskAboutResearch
-Robot ឯង ឆ្លើយ មិន ត្រូវ សំណួរ ផង,Dissatisfied
+តើ រ៉ូបូត ឯង បង្កើត ដោយ ផានន្ទ ពិត ឬ ទេ ? , Ask About Creator
+តើ ពិត ជា មាន ប្រទេស បេនីន ឬ ទេ ? , Is Country Exist
+មេត្តា ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់ ៣០១ គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង Network ? , Curiculum In Each Major
+ប្រាប់ នៅ ទី នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
+មនុស្ស យន្ត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា កន្លែង ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ទី ណា ?,FindMeetingRoom
+ទី នេះ មាន Research អ្វី ខ្លះ សម្រាប់ ពួក យើង ? ,AskAboutResearch
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ កន្លែង នេះ ? , Ask About Trending News
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ បង្អស់ មាន កន្លែង នោម ទេ ?,DoesToiletExist
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ ទី នេះ ? , Ask About Trending News
+តើ ពិត ជា មាន ប្រទេស ប៊ឺមូដា មែន ឬ ទេ ? , Is Country Exist
+បង្ហាញ ខ្ញុំ នៅ ឯ នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+បង្ហាញ ខ្ញុំ CADT Research លើ ? ,AskAboutResearch
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ណារី ពិត ឬ អត់ ? , Ask About Creator
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នេះ ? , Ask About Trending News
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ទេ ? , Ask About Creator
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី កន្លែង នឹង ? , Ask About Trending News
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក រីគ្រូទ័រ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុធី រិទ្ធ មែន ឫ ទេ ? , Ask About Creator
+រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ការណ៍ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ទី ណា ?,FindMeetingRoom
+តើ អាច មាន ប្រទេស លីបង់ ឡេសូតូ ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ហ្គាំប៊ី ឬ ទេ ? , Is Country Exist
+ប្រាប់ ខ្ញុំ ទី តាំង របស់ បន្ទប់ ប្រជុំ មក រ៉ូបូត,FindMeetingRoom
+តើ អាច មាន ប្រទេស កេនយ៉ា មែន ឬ ទេ ? , Is Country Exist
+តើ មាន ស្តាត អាប់អ្វី ក្នុង កន្លែង នេះ ? , Ask For Start Up In The Innovation Center
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ៣០១ បាន ដែល ទេ ? , Find Room
+តើ នៅ ក្រសួង ដែន ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បង សិទ្ធ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ ពិត ជា មាន ប្រទេស កោះ កៃម៉ាន មែន ឬ អត់ ? , Is Country Exist
+តើ អាយធី មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ? , Curiculum In Each Major
+តើ អាច មាន ប្រទេស ទឹក កក ដី ដែល ឬ អត់ ? , Is Country Exist
+តើ លេខ ទូរសព្ទ របស់ បង សុភាព លេខ ប៉ុន្មាន ? , Ask About Staff Phone Number
+តើ រ៉ូបូត ឯង បង្កើត ដោយ បង យ៉ា ពិត ឬ អត់ ? , Ask About Creator
+តើ ប្រទេស តុងហ្គា មាន ឬ អត់ ? , Is Country Exist
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ អាយធី ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស ប៉ាគីស្ថាន ឬ អត់ ? , Is Country Exist
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ធីអេសសុី នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ Networking មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ? , Curiculum In Each Major
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ការងារ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក អេហ្វអា នៅ ទី ណា ដែល ? , Ask About Staff Room
+តើ មាន ធុរ កិច្ច អ្វី ខ្លះ នៅ ក្នុង នេះ ? , Ask For Start Up In The Innovation Center
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហាខាង បណ្តាញ ? , Curiculum In Each Major
+តើ នៅ ក្រសួង ការពារ ជាតិ មាន កន្លែង refill ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ៦ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ ប្រទេស ហ្វាំងឡង់ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ១០១ នៅ ទី ណា ? , Find Room
+តើ ពិត ជា មាន ប្រទេស រវ៉ាន់ដា ដែល ឬ អត់ ? , Is Country Exist
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង យ៉ា ពិត ឬ អត់ ? , Ask About Creator
+បង្ហាញ ខ្ញុំ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ នៅ ក្រសួង អប់រំ យុវជន និង កីឡា មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
 តើ មាន ក្រុម ហ៊ុន អ្វី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ? , Ask For Company In The Innovation Center
-សាលា មាន Research អ្វី ខ្លះ ? ,AskAboutResearch
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ទី ២ មាន បង្គន់ នោម អត់ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស ហុងគ្រីមែន ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស អេក្វាទ័រ ហ្គីណេ ដែល ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស រ៉ូម៉ានី ឬ ទេ ? , Is Country Exist
-តើ មាន ស្តាត អាប់អ្វី ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
-តើ មាន រៀន អី ខ្លះ នៅ ខាង ជំនាញ Telecoms ? , Curiculum In Each Major
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង យ៉ា ពិត ទេ ? , Ask About Creator
-សាស្រ្តាចារ្យ ណា ជា អ្នក បង្រៀន ទូរគមនាគមន៍ និង បណ្តាញ ?,FindLecturerForSubject
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ស្រាវជ្រាវ នៅ ជាន់ ណា ? , Ask About Staff Room
-តើ បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ computerscience ? , Curiculum In Each Major
-តើ Robot ឯង បង្កើត ដោយ បង បូរី ពិត ទេ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ ឯ ណា? , Find Room
-តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Telecoms ? , Curiculum In Each Major
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ២០៥ នៅ ទី ណា ? , Find Room
-សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
-តើ នៅ ក្រសួង ឧស្សាហកម្ម រ៉ែ និង ថាមពល មាន refill ទឹក ទេ ? , Ask About Water Refill
-សុំ សួរ មួយ Robot តើ នៅ កន្លែង នេះ មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ដារ៉ា ពិត ឬ ទេ ? , Ask About Creator
-តើ មាន រៀន អី ខ្លះ នៅ ខាង computerscience ? , Curiculum In Each Major
-អ្នក មើល ការ ខាង តេឡេខម អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ លេខ ទំនាក់ទំនង របស់ លោក គ្រូសុធារ៉ា លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង ម៉ានុត ពិត ឬ ទេ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស វៀតណាម ដែល ឬ អត់ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ៣០៦ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ អាច មាន ប្រទេស សាម័រ មែន ឬ ទេ ? , Is Country Exist
-បង្ហាញ ខ្ញុំ នៅ ណិពទិច ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+ចូល ប្រាប់ នៅ CADT ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
+តើ ពិត ជា មាន ប្រទេស ជប៉ុន ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន ប្រទេស ហ្គាបុន ដែល ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ស្លូវ៉ាគី ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន ធុរ កិច្ច Cam Mob ក្នុង អាគារ នេះ ដែរ ទេ ? , IsStart UpExist
+តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ computerscience ? , Curiculum In Each Major
+តើ លេខ ទំនាក់ទំនង របស់ បង សុភាព លេខ ប៉ុន្មាន ? , Ask About Staff Phone Number
+តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ Information Technology ? , Curiculum In Each Major
+មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ការ គ្រប់ គ្រង គម្រោង មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោនាយក នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ ណេត វើក កីង ? , Curiculum In Each Major
+តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង ម៉ានុត ពិត ទេ ? , Ask About Creator
+តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូ ផានិត តាម របៀប ណា បាន ? , Find Room
+តើ Information Technology មាន កម្ម វិធី រៀន អី ខ្លះ ? , Curiculum In Each Major
+តើ ខ្ញុំ អាច រក បន្ទប់ ៣០៣ ដោយ របៀប ណា ? , Find Room
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ១ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
+តើ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ ជាន់ ណា ? , Ask About Staff Room
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ក្រោម មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
+តើ Robot ឯង បង្កើត ដោយ សុធី រិទ្ធ ពិត ឬ ទេ ? , Ask About Creator
+តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ណេត វើក កីង ? , Curiculum In Each Major
+អ្នក មើល ការ ខុស ត្រូវ ក្នុង តេឡេខមនរណា ជា ? , Ask About Top Management Personal
+តើ លេខ ទូរសព្ទ របស់ លោក នាយក លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
+Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី ពិត ឬ ទេ ? , Ask About Creator
+កន្លែង ប្រជុំ រសៀល នេះ នៅ ឯ ណា?,FindMeetingRoom
+តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូសុធារ៉ា ដោយ វីធីណា ? , Find Room
+តើ ប្រទេស អាហ្វ្រិក ខាង ត្បូង មាន មែន ឬ ទេ ? , Is Country Exist
+ប្រាប់ ខ្ញុំ កន្លែង នេះ Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 មនុស្ស យន្ត តើ នៅ អគារ IDT កន្លែង បន្ទោរ បង់ នៅ ឯ ណា?,FindToilet
-តើ មាន រឿង ថ្មី អ្វី នៅ ទី នេះ ? , Ask About Trending News
-តើ មាន ស្តាត អាប់ណា ខ្លះ ក្នុង អគារ នេះ ? , Ask For Start Up In The Innovation Center
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ នឹង មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-តើ ប្រទេស ម៉ាដាហ្គាស្ការ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ពិត ជា មាន ប្រទេស ម៉ុងតេណេហ្គ្រោ ដែល ឬ ទេ ? , Is Country Exist
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-តើ ធ្វើ មិច បាន កន្លែង ធ្វើ ការ ? , Ask About To Get The Working Space Ask About ToGet The Working Space
-តើ Robot ឯង បង្កើត ដោយ សុកហេង ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ គាំទ្រ ការ បង្រៀន បាន ? , Find Room
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
-តើ មាន រឿង រំភើប អត់ នៅ CADT ? , Ask About Trending News
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ វិទ្យា សាស្រ្ត កុំព្យូទ័រ ? , Curiculum In Each Major
-តើ មាន ប្រទេស បង់ក្លាដែស ដែល ឬ ទេ ? , Is Country Exist
-ប្រាប់ ខ្ញុំ នៅ ឯ សុី អេ ដីធី Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ក្រោម មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
-តើ បន្ទប់ របស់ ផ្នែក អេហ្វអ នៅ ជាន់ ណា ? , Ask About Staff Room
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ទី នេះ ? , Ask About Trending News
+អ្នក ទទួល ខុស ត្រូវ នៅ ថ្នាក់ មូលដ្ឋាន នរណា ជា ? , Ask About Top Management Personal
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+តើ ប្រទេស ស៊ូដង់ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ មាន ប្រទេស នីហ្សេរី ដែល ឬ ទេ ? , Is Country Exist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូ ចាន់តូ បាន ទេ ? , Ask About Staff Phone Number
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ស៊ីតិក ពិត ទេ ? , Ask About Makerspace
+តើ Robot ឯង បង្កើត ដោយ ម៉ានុត ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ស្រាវជ្រាវ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ផ្ទាល់ ដី មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ CADT ? , Ask About Trending News
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ Information Technology ? , Curiculum In Each Major
+តើ អាច មាន ប្រទេស បូតស្វាណា ដែល ឬ ទេ ? , Is Country Exist
+ប្រាប់ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ បង្អស់ មាន បង្គន់ អត់ ?,DoesToiletExist
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ទី ផ្សារ នៅ ជាន់ ណា ? , Ask About Staff Room
 តើ នៅ ទី នេះ មាន វិទ្យា ស្ថាន ជាតិ អប់រំ ឫ ទេ ? , Is Institution Exist
 តើ នៅ ទី នេះ មាន វិទ្យា ស្ថាន ស៊ីតិក ដែល ឫ ទេ ? , Is Institution Exist
-រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់ ៣០១ គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដែន ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
-តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ កុំព្យូទ័រ សាយអេន ? , Curiculum In Each Major
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ប្រជុំ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន ប្រទេស ម៉ាល់ឌីវ ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស យេម៉ែន មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស សាម័រ មាន ឬ ទេ ? , Is Country Exist
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ ទី នេះ ? , Ask About Trending News
-រ៉ូបូត ឯង មិន បាន ជួយ ខ្ញុំ ផង,Dissatisfied
-តើ ប្រទេស ម៉ាសេដូនី មាន មែន ឬ ទេ ? , Is Country Exist
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ ពិត ប្រាកដ ទេ ? , Ask About Creator
-អ្នក រ៉ាប់ រង ខាង Network អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ប្រទេស នីហ្សេរីយ៉ា ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-តើ បន្ទប់ របស់ ផ្នែក ស្រាវជ្រាវ នៅ ជាន់ ណា ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ Telecoms ? , Curiculum In Each Major
+តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសុធារ៉ា នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ កុំព្យូទ័រ សាយអេន មាន កម្ម វិធី រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស អាហ្សង់ទីន មែន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស ម៉ុងសឺរ៉ាត់ ឬ អត់ ? , Is Country Exist
+មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់លើ ?,DoesToiletExist
+តើ ពិត ជា មាន ប្រទេស កូរ៉េ ខាង ត្បូង មែន ឬ អត់ ? , Is Country Exist
+តើ នៅ ក្រសួង ការងារ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ នៅ ក្រសួង ពាណិជ្ជ កម្ម មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ ពិត ជា មាន ប្រទេស ម៉ូណាកូ ឬ អត់ ? , Is Country Exist
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុធី រិទ្ធ ពិត ប្រាកដ ទេ ? , Ask About Creator
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព ? , Ask About Top Management Personal
+តើ ប្រទេស វ៉េណេស៊ុយអេឡា ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ការ គ្រប់ គ្រង គម្រោង មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
 តើ អាយឌីអអាយ ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
 តើ រ៉ូបូត ឯង ដឹង ទេ ថា បន្ទប់ ៣០១ គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង សុធារ៉ា បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
-តើ អាច មាន ប្រទេស អេត្យូពី ឬ ទេ ? , Is Country Exist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ ពិត ជា មាន ប្រទេស ហ្គាណា ដែល ឬ អត់ ? , Is Country Exist
 តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ ទូរគមនាគមន៍ ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស អង់ទីហ្គា និង បាប៊ូដា ដែល ឬ ទេ ? , Is Country Exist
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង ពិត ទេ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ២០៥ នៅ កន្លែង ណា ? , Find Room
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ កន្លែង នឹង ? , Ask About Trending News
-ប្រាប់ ខ្ញុំ នៅ នឹង ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន ប្រទេស ហុងឌូរ៉ាស ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ខាង ជំនាញ អុីខមមើស ? , Curiculum In Each Major
+តើ ប្រទេស បេឡារុស មាន ឬ ទេ ? , Is Country Exist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ លោក គ្រូចាន់តូ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ ខ្ញុំ អាច រក បន្ទប់ ៣០៣ តាម របៀប ណា ? , Find Room
+តើ មាន រឿង ប្លែក ៗ អត់ កន្លែង នឹង ? , Ask About Trending News
+ប្រាប់ នៅ នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ អាច មាន ប្រទេស អ៊ីស្រាអែល ដែល ឬ អត់ ? , Is Country Exist
 នៅ ជាន់ ទី ២ កន្លែង ជុះ នោម នៅ កន្លែង ណា ?,FindToilet
-តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូ សុធារ៉ា តាមណា ? , Find Room
+តើ បន្ទប់ របស់ លោក គ្រូសិរី នៅ ទី កន្លែង ណា ? , Find Room
 តើ នៅ អាយឌីធី មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
-Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ណា ?,FindMeetingRoom
-តើ ប្រទេស ដាណឺម៉ាក មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក បម្រើ សេវា កម្ម បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
-តើ បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ គេ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-តើ មាន រឿង ថ្មី អត់ នៅ ឯ CADT ? , Ask About Trending News
-តើ អាច មាន ប្រទេស ឡាតវី ឬ អត់ ? , Is Country Exist
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង យ៉ា ពិត ឬ អត់ ? , Ask About Creator
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូ សិទ្ធ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ អ្នក ដឹក ទេ ថា នៅ វិទ្យា ស្ថាន អភិបាល កិច្ជ ឌីជីថល មាន ឱកាស ការងារ ទេ ? , Ask About Job Opportunities
+តើ ប្រទេស លីបេរីយ៉ា មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូផានិត នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ CADT ? , Ask About Trending News
+តើ ពិត ជា មាន ប្រទេស ម៉ាល់ឌីវ មែន ឬ ទេ ? , Is Country Exist
+តើ លេខ ទូរសព្ទ របស់ បង លីហៀកលេខ ប៉ុន្មាន ខ្លះ ? , Ask About Staff Phone Number
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បង សិរី បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
 តើ មាន ស្ថាប័ន Book MeBus នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ? , Is Company Exist
-តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសុធារ៉ា នៅ អាគារ មួយ ណា ? , Ask About Staff Room
-តើ អាច មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែន ឬ ទេ ? , Is Country Exist
-តើ Robot ឯង បង្កើត ដោយ ម៉ានុត ពិត ឬ អត់ ? , Ask About Creator
-អ្នក ទទួល ខុស ត្រូវ នៅ ថ្នាក់ មូលដ្ឋាន អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ប្រទេស កូរ៉េ ខាង ត្បូង មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ខាង បណ្តាញ ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស អូម៉ង់ ឬ អត់ ? , Is Country Exist
+តើ បន្ទប់ របស់ បង សុភាព នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+តើ ពិត ជា មាន ប្រទេស បារាំង ដែល ឬ អត់ ? , Is Country Exist
+តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ ឈុនហៀក ពិត ឬ អត់ ? , Ask About Creator
+អ្នក ទទួល ខុស ត្រូវ នៅ Telecomsand Networking អ្នក ណា ជា ? , Ask About Top Management Personal
+មាន បង្គន់ ទេ នៅ នឹង ?,DoesToiletExist
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ខាង Telecomsand Networking ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស ការ រួប រួម មែន ឬ ទេ ? , Is Country Exist
 ពេល ដែល រៀន ស្ថាបត្យកម្ម កុំព្យូទ័រ នឹង ហើយ សិស្ស អាច ធ្វើ អ្វី បាន ខ្លះ ?,AskAboutClassSubject
-តើ ពិត ជា មាន ប្រទេស ស៊ូដង់ មែន ឬ អត់ ? , Is Country Exist
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ អាយឌីអអាយ ពិត ឫ ទេ ? , Ask About Makerspace
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ពិត ឫ ទេ ? , Ask About Makerspace
+តើ មាន ប្រទេស ទី ម័រ មែន ឬ អត់ ? , Is Country Exist
+តើ IDT មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
+តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
 កន្លែង នោម នៅ កន្លែង ណា ?,FindToilet
-តើ ប្រទេស ហ្គឺនស៊ី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ នៅ ជាន់ ទី ៩ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
-នៅ បន្ទប់ ១០១ គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
-តើ អាច មាន ប្រទេស ជីប៊ូទី ឬ ទេ ? , Is Country Exist
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ផានន្ទ ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ ទី តាំង ធ្វើ ការ របស់ លោក នាយក រង នៅ ទី ណា ដែល ? , Ask About Staff Room
-ចូល ប្រាប់ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ ណេតវើក ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស ហ្សាម៉ា អ៊ីក មែន ឬ អត់ ? , Is Country Exist
-អ្នក មើល ការ ខុស ត្រូវ ខាង Networking នរណា ជា ? , Ask About Top Management Personal
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
-តើ អាច មាន ប្រទេស ហុងគ្រី ឬ អត់ ? , Is Country Exist
-តើ យើង អាច រក បន្ទប់ របស់ លោនាយក តាម វីធីណា ? , Find Room
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ NIPTICT ? , Ask About Trending News
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ១ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-ចូល ប្រាប់ នៅ ទី នេះ Researchលើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
-មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស ទ្រីនីដាដតូបាហ្គោមែន ឬ អត់ ? , Is Country Exist
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ អាយឌីធី ពិត ឫ ទេ ? , Ask About Makerspace
-តើ ប្រទេស ម៉ុងហ្គោលី មាន ឬ ទេ ? , Is Country Exist
-តើ លេខ ទូរសព្ទ របស់ លោក គ្រូលីហៀក លេខ ប៉ុន្មាន ? , Ask About Staff Phone Number
+តើ ប្រទេស នីការ៉ាហ្គា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូលីហៀក មួយ ណា ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ អុីហ្វមេសុិនតិ ចណូឡូជី ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស ហ្វីជី ដែល ឬ អត់ ? , Is Country Exist
+តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ ដារ៉ា ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ បន្ទប់ របស់ ផ្នែក បម្រើ សេវា កម្ម នៅ ទី ណា ដែល ? , Ask About Staff Room
+នៅ នេះ មាន Research អ្វី ខ្លះ សម្រាប់ ពួក យើង ? ,AskAboutResearch
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ Networking ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស លីបេរីយ៉ា ដែល ឬ ទេ ? , Is Country Exist
+អ្នក ទទួល ខុស ត្រូវ នៅ Networking នរណា ជា ? , Ask About Top Management Personal
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
+តើ ពិត ជា មាន ប្រទេស ជប៉ុន មែន ឬ ទេ ? , Is Country Exist
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ គាំទ្រ ការ បង្រៀន នៅ ទី កន្លែង ណា ? , Find Room
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ NIPTICT ? , Ask About Trending News
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ១០១ នៅ ឯ ណា ? , Find Room
+នៅ CADT មាន Research អ្វី សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
+មាន បង្គន់ នោម អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
+តើ ពិត ជា មាន ប្រទេស វៀតណាម ដែល ឬ ទេ ? , Is Country Exist
+តើ CADT មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ ពិត ជា មាន ប្រទេស នីហ្សេរីមែន ឬ អត់ ? , Is Country Exist
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បង សុធារ៉ា បាន ដែល ទេ ? , Ask About Staff Phone Number
 រ៉ូបូត តើ នៅ អគារ នេះ បង្គន់ នៅ ឯ ណា?,FindToilet
-តើ អ្នក អាច ជួយ ប្រាប់ ខ្ញុំ ថា នៅ អាយឌីអអាយ មាន ការងារ ដែល ទេ ? , Ask About Job Opportunities
-ប្រាប់ នៅ ឯ សុីអេ ដីធី Research លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព ដែរ ឫ ទេ ? , Ask About Top Management Personal
+តើ មាន ធុរ កិច្ច អី ខ្លះ នៅ នឹង នេះ ? , Ask For Start Up In The Innovation Center
+តើ ប្រទេស កោះ ឃុក មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព ? , Ask About Top Management Personal
 មនុស្ស យន្ត តើ នៅ អគារ Innovation Center កន្លែង ដោះ ទុក សត្វ នៅ កន្លែង ណា ?,FindToilet
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ២០៣ នៅ ទី ណា ? , Find Room
-តើ ប្រទេស លីបង់ឡេសូតូ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ លោក គ្រូ ចាន់តូ បាន ទេ ? , Ask About Staff Phone Number
-តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសុធារ៉ា តាម វីធីណា បាន ? , Find Room
+តើ យើង អាច រក បន្ទប់ ៣០១ តាម ណា បាន ? , Find Room
+តើ ប្រទេស សិង្ហបុរី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស បាន ទេ ? , Ask About Staff Phone Number
+តើ បន្ទប់ របស់ លោក គ្រូសិរី នៅ កន្លែង ណា ? , Find Room
 ថ្ងៃ អាទិត្យ គេ ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
 នៅ ជាន់ ទី ១ កន្លែង ដោះ ទុក សត្វ នៅ ណា ?,FindToilet
 តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង អគារ នេះ ? , Ask For Company In The Innovation Center
 តើ មាន ស្ថាប័ន Book MeBus នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ? , Is Company Exist
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ១ មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
-តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
-តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ ឯ សុីអេដីធី ? , Ask About Trending News
-តើ មាន ប្រទេស ហ្សកហ្ស៊ី អាឡឺម៉ង់ ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ ណេត វើក កីង ? , Curiculum In Each Major
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ ទូរគមនាគមន៍ ? , Curiculum In Each Major
-តើ ប្រទេស ប៊ូតង់ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ មាន ស្តាត អាប់អី ខ្លះ នៅ ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
-តើ រ៉ូបូត ឯង បង្កើត ដោយ ម៉ានុត ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-អ្នក ទទួល បន្ទុក ខាង បណ្តាញ អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ប្រទេស សេណេហ្គាល់ មាន មែន ឬ ទេ ? , Is Country Exist
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង មែន ទេ ? , Ask About Creator
-តើ មាន ប្រទេស ណា មីប៊ី ដែល ឬ ទេ ? , Is Country Exist
-ចូល ប្រាប់ នៅ ទី នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-តើ មាន ប្រទេស ម៉ុងតេណេហ្គ្រោ មែន ឬ ទេ ? , Is Country Exist
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក អេហ្វអា បាន ទេ ? , Ask About Staff Phone Number
-តើ ពិត ជា មាន ប្រទេស ហ្វីជី ឬ អត់ ? , Is Country Exist
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ Cambodia Academy of Digital Technology ? , Ask About Trending News
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ នឹង មាន បង្គន់ នោម ទេ ?,DoesToiletExist
+តើ Telecoms មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ? , Curiculum In Each Major
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ឯ សុីអេដីធី ? , Ask About Trending News
+តើ អាច មាន ប្រទេស ហ្គីណេ ប៊ីសសូ ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន រៀន ស្អីគេ ខ្លះ នៅ ក្នុង ជំនាញ Network ? , Curiculum In Each Major
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ អុីខមមើស ? , Curiculum In Each Major
+តើ ប្រទេស ហ្គីណេ ប៊ីសសូ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+អ្នក គ្រប់ គ្រង ក្នុង computerscience នរណា ជា ? , Ask About Top Management Personal
+តើ Robot ឯង បង្កើត ដោយ ឈុនហៀក ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+អ្នក រ៉ាប់ រង ក្នុង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
+តើ ពិត ជា មាន ប្រទេស ស៊ូដង់ ឬ អត់ ? , Is Country Exist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូ សិទ្ធ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ អាច មាន ប្រទេស ប៉ាគីស្ថាន ដែល ឬ ទេ ? , Is Country Exist
+នៅ CADT មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ក្រោម មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
+តើ អាច មាន ប្រទេស នីហ្សេរីមែន ឬ ទេ ? , Is Country Exist
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ នេះ ? , Ask About Trending News
+តើ មាន ប្រទេស ក្រិក ឬ អត់ ? , Is Country Exist
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia Academy of Digital Technology ? , Ask About Trending News
 Robot តើ នៅ អគារ Innovation Center បង្គន់ នៅ ទី ណា ?,FindToilet
-តើ ពិត ជា មាន ប្រទេស អៀរឡង់ ដែល ឬ អត់ ? , Is Country Exist
-តើ រ៉ូបូត ឯង បង្កើត ដោយ បង លីហៀក ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ មាន ប្រទេស គុយវ៉ែត ដែល ឬ អត់ ? , Is Country Exist
+តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង លីហៀក ពិត ប្រាកដ ទេ ? , Ask About Creator
 បង្គន់ នៅ ឯ ណា ?,FindToilet
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុធី រិទ្ធ ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ លោក គ្រូ សុធារ៉ា ធ្វើ ការ នៅ ជាន់ណា ? , Ask About Staff Room
-Robot ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់ ១០១ លោក គ្រូ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
-អ្នក គ្រប់ គ្រង នៅ ទូរគមនាគមន៍ និង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ បណ្តាញ ? , Curiculum In Each Major
-មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-តើ ប្រទេស អ៊ូសបេគីស្ថាន មាន ឬ អត់ ? , Is Country Exist
-រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ណា ?,FindMeetingRoom
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ ធី អេសសុី នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ អាច មាន ប្រទេស ដាណឺម៉ាកមែន ឬ អត់ ? , Is Country Exist
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នៅ CADT ? , Ask About Trending News
-តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ នាយក តាម វីធីណា ? , Find Room
-មាន បង្គន់ បត់ ជើង អត់ នៅ ជាន់ លើ ?,DoesToiletExist
-តើ ពិត ជា មាន ប្រទេស តូហ្គោមែន ឬ ទេ ? , Is Country Exist
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុកហេង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+តើ ទី តាំង បន្ទប់ របស់ បង សុភាព នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
+អ្នក មើល ការ នៅ ទូរគមនាគមន៍ និង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ Telecoms and Networking ? , Curiculum In Each Major
+មាន បង្គន់ នោម ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
+មេត្តា ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ធ្វើ កិច្ច ប្រជុំ មក Robot,FindMeetingRoom
+តើ អ្នក អាច ជួយ ប្រាប់ ខ្ញុំ ថា នៅ វិទ្យា ស្ថាន ជាតិ ពហុ បច្ចេកទេស កម្ពុជា មាន ការងារ ដែល ទេ ? , Ask About Job Opportunities
+តើ អាច មាន ប្រទេស អាល់ហ្សេរី មែន ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស កោះ ហ្វារ៉ូ ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ CADT ? , Ask About Trending News
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក នាយក រង នៅ ទី កន្លែង ណា ? , Find Room
+មាន កន្លែង ជុះ ឬ ទេ នៅ ជាន់ លើ ?,DoesToiletExist
+តើ មាន ប្រទេស អ៊ុយរូហ្គាយ មែន ឬ ទេ ? , Is Country Exist
 នៅ ជាន់ ទី ២ បន្ទប់ ទឹក នៅ ទី ណា ?,FindToilet
-នៅ CADT គេ មាន ស្រាវជាវ លើ អ្វី ខ្លះ ,AskAboutResearch
-CADT មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ នៅ ជាន់ ទី ៤ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+ចូល ប្រាប់ នៅ ទី នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+ចូល ប្រាប់ នៅ នឹង ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
+តើ នៅ ការិយាល័យ ក្រុម ប្រឹក្សា រដ្ឋ មន្ត្រី បាន មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
 រ៉ូបូត លោក Alexander បន្ទប់ របស់ គាត់ នៅ ទី ណា ?,FindEmployeeRoom
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ ទីណា បាន ទេ ? , Find Room
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ បង្អស់ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ណិពទិច ? , Ask About Trending News
-តើ រ៉ូបូត ឯង បង្កើត ដោយ បង យ៉ា មែន ឬ អត់ ? , Ask About Creator
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ ដីធី ? , Ask About Trending News
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុធី រិទ្ធ ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ Networking ? , Curiculum In Each Major
-តើ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី លេខ ប៉ុន្មាន ? , Ask About Staff Phone Number
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ ណេតវើក ? , Curiculum In Each Major
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ណារី មែន ឬ អត់ ? , Ask About Creator
-តើ មាន ស្តាត អាប់អ្វី ក្នុង អគារ នវានុវត្តន៍ ? , Ask For Start Up In The Innovation Center
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មែន ឫ ទេ ? , Ask About Makerspace
-តើ អាច មាន ប្រទេស តូហ្គោ មែន ឬ ទេ ? , Is Country Exist
-តើ អាច មាន ប្រទេស ស្វីស ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស ប៊ូតង់ មែន ឬ អត់ ? , Is Country Exist
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក គ្រូសិរី នៅ ទីណា បាន ទេ ? , Find Room
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ណិពទិច ? , Ask About Trending News
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង លីហៀក បាន ដែល ទេ ? , Ask About Staff Phone Number
+ស្មាន តែ អស្ចារ្យ,Dissatisfied
+Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ជំនាញ វិទ្យា សាស្រ្ត កុំព្យូទ័រ ? , Curiculum In Each Major
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ កន្លែង នេះ ? , Ask About Trending News
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ Networking ? , Curiculum In Each Major
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូសុភាព បាន ទេ ? , Ask About Staff Phone Number
+តើ មាន ធុរ កិច្ច Cam Mob នៅ ក្នុង នេះ ដែរ ទេ ? , IsStart UpExist
+តើ នៅ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
+តើ ប្រទេស អ៊ុយរូហ្គាយ មាន មែន ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ទួរគី មែន ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស កាមេរូន ដែល ឬ ទេ ? , Is Country Exist
 អគារ នៅ Inovation Centerសាង សង ឡើង ដើម្បី អ្វី ខ្លះ ? , Ask Building Information InCADT
 តើ មាន ស្ថាប័ន អី ក្នុង កន្លែង នេះ ? , Ask For Company In The Innovation Center
-តើ ពិត ជា មាន ប្រទេស ហ្សកដានី ឬ ទេ ? , Is Country Exist
-តើ បន្ទប់ របស់ បង លីហៀក នៅ អាគារ មួយ ណា ? , Ask About Staff Room
-តើ ពិត ជា មាន ប្រទេស យេម៉ែន មែន ឬ អត់ ? , Is Country Exist
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ស៊ីតិក មែន ឫ ទេ ? , Ask About Makerspace
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស អាហ្វ្រិក ខាង ត្បូង ឬ ទេ ? , Is Country Exist
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី នៅ អាគារ មួយ ណា ? , Ask About Staff Room
-តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី ? , Ask About Trending News
-តើ អាច មាន ប្រទេស ស្លូវ៉ាគី ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន ប្រទេស អេហ្ស៊ីប ឬ អត់ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ៣០៦ នៅ កន្លែង ណា ? , Find Room
+តើ មាន ប្រទេស លីចតេនស្ទីន ឬ ទេ ? , Is Country Exist
+តើ ទី តាំង ធ្វើ ការ របស់ បង ផានិត នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+បន្ទប់ ប្រជុំ ការណ៍ ម៉ោង បួន នៅ ណា ?,FindMeetingRoom
+តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ណារី ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ មាន ប្រទេស តៃវ៉ាន់ ឬ ទេ ? , Is Country Exist
+តើ ផ្នែក ភីអ ធ្វើ ការ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេ ដីធី ? , Ask About Trending News
+តើ ប្រទេស ស្វីស មាន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស ប៉ូលីនេស៊ី បារាំង ឬ អត់ ? , Is Country Exist
+តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ សុធារ៉ា តាមណា ? , Find Room
 រ៉ូបូត ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ អ្នក គ្រូ ចរិយា,FindEmployeeRoom
-តើ រ៉ូបូត ឯង បង្កើត ដោយ បង បូរី មែន ឬ អត់ ? , Ask About Creator
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ មែន ឬ អត់ ? , Ask About Creator
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន ? , Ask About Top Management Personal
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ៣០១ នៅ ទី កន្លែង ណា ? , Find Room
-មាន បង្គន់ បត់ ជើង ទេ នៅ នឹង ?,DoesToiletExist
-សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-តើ នៅ ក្រសួង ពាណិជ្ជ កម្ម មាន ធុង ទឹក ទេ ? , Ask About Water Refill
+តើ Robot ឯង បង្កើត ដោយ បង ម៉ានុត មែន ឬ អត់ ? , Ask About Creator
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុធី រិទ្ធ មែន ឬ អត់ ? , Ask About Creator
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន ? , Ask About Top Management Personal
+តើ យើង អាច រក បន្ទប់ ៣០៥ ដោយ វីធីណា បាន ? , Find Room
+មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ នឹង ?,DoesToiletExist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ២ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
+តើ បន្ទប់ របស់ លោក គ្រូ សិទ្ធ មួយណា ? , Ask About Staff Room
 ពេល ដែល រៀន សហគ្រិន ភាព នឹង ហើយ យើង អាច យល់ ដឹង អំពី អ្វី ខ្លះ ?,AskAboutClassSubject
-តើ ប្រទេស ប៉ាគីស្ថាន មាន មែន ឬ ទេ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោគ្រូ នាយក រង នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-អ្នក រ៉ាប់ រង ខាង ទូរគមនាគមន៍ និង បណ្តាញ អ្នក ណា ជា ? , Ask About Top Management Personal
-មាន កន្លែង ជុះ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ណេតវើក ? , Curiculum In Each Major
-សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
-នៅ ឯ NIPTICT មាន Research អ្វី សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
-តើ ប្រទេស ប៉ូឡូញ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-កន្លែង ណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ លោក អាឡិច ?,FindMeetingRoom
-តើ អាច មាន ប្រទេស ស្លូវេនី ដែល ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស រ៉ូម៉ានី ឬ អត់ ? , Is Country Exist
+តើ យើង អាច រក បន្ទប់ ប្រជុំ តាម វីធីណា ? , Find Room
+អ្នក គ្រប់ គ្រង ក្នុង ទូរគមនាគមន៍ នរណា ជា ? , Ask About Top Management Personal
+សុំ សួរ មួយ Robot តើ នៅ កន្លែង នេះ មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Networking ? , Curiculum In Each Major
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
+បង្ហាញ ខ្ញុំ នៅ នឹង Research លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
+មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ឯ ណា?,FindMeetingRoom
+តើ ប្រទេស ស៊ីរី មាន ឬ អត់ ? , Is Country Exist
 តើ វិទ្យា ស្ថាន ស៊ីតិក មាន កន្លែង ណា សំរាប់ លេង ទេ ? , Ask About Playground
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
-តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ? , Curiculum In Each Major
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
-តើ មាន ប្រទេស ឡាតវី មែន ឬ ទេ ? , Is Country Exist
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ដារ៉ា ពិត ឬ អត់ ? , Ask About Creator
-នៅ នេះ មាន Research អ្វី ខ្លះ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-តើ បន្ទប់ របស់ លោក គ្រូសុភាព នៅ ទី ណា ដែល ? , Ask About Staff Room
-អ្នក មើល ការ ខាង ថ្នាក់ មូលដ្ឋាន អ្នក ណា ជា ? , Ask About Top Management Personal
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ផ្ទាល់ ដី មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+តើ អុីហ្វមេសុិនតិចណូឡូជី មាន រៀនម៉េច ខ្លះ ? , Curiculum In Each Major
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+តើ អាច មាន ប្រទេស ម៉ាឡេស៊ី មែន ឬ ទេ ? , Is Country Exist
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ សុធី រិទ្ធ ពិត ឬ អត់ ? , Ask About Creator
+បង្ហាញ ខ្ញុំ កន្លែង នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូ ចាន់តូ នៅ ទី ណាដែល ? , Ask About Staff Room
+អ្នក មើល ការ ខាង Telecomsand Networking អ្នក ណា ជា ? , Ask About Top Management Personal
 តើ CADT មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង សិទ្ធ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
-តើ លេខ ទូរសព្ទ របស់ បង សុភាព លេខ ប៉ុន្មាន ដែល ? , Ask About Staff Phone Number
-តើ ខ្ញុំ អាច រក បន្ទប់ ប្រជុំ តាម របៀប ណា បាន ? , Find Room
-តើ មាន ប្រទេស ម៉ូរីស ដែល ឬ ទេ ? , Is Country Exist
-តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសិរី ដោយ វីធីណា បាន ? , Find Room
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ១០២ នៅ ទី ណា ? , Find Room
-តើ អាច មាន ប្រទេស អេហ្ស៊ីបមែន ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
+តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក បម្រើ សេវា កម្ម បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក អេហ្វអ បាន ទេ ? , Ask About Staff Phone Number
+តើ ពិត ជា មាន ប្រទេស អង់ហ្គោឡាមែន ឬ អត់ ? , Is Country Exist
+តើ អាច មាន ប្រទេស នេប៉ាល់ ដែល ឬ ទេ ? , Is Country Exist
+តើ បន្ទប់ របស់ លោគ្រូ នាយក រង នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ ខ្ញុំ អាច រក បន្ទប់ ១០៦ ដោយ របៀប ណា ? , Find Room
+តើ ពិត ជា មាន ប្រទេស បារាំង ខាង លិច ឥណ្ឌ ដែល ឬ ទេ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ២ មាន កន្លែង ដោះ ទុក សត្វ ទេ ?,DoesToiletExist
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ លោក គ្រូលីហៀក មែន ឫ ទេ ? , Ask About Creator
-តើ មាន ប្រទេស កុងហ្គោ ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន រឿង រំភើប អត់ នៅ ឯ CADT ? , Ask About Trending News
-ចូល ប្រាប់ នេះ Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-អ្នក មើល ការ នៅ ទូរគមនាគមន៍ និង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
+តើ អាច មាន ប្រទេស ដូមីនីកា ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ឯ CADT ? , Ask About Trending News
+ទី នេះ មាន ស្រាវជ្រាវ អ្វី សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
 ពេល ដែល សិក្សា ការ អភិវឌ្ឍន៍ កម្ម វិធី នឹង ហើយ សិស្ស អាច យល់ ដឹង អំពី អ្វី ខ្លះ ?,AskAboutClassSubject
-តើ លោក គ្រូចាន់តូ ធ្វើ ការ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
-តើ លោក គ្រូផានិត ធ្វើ ការ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ ទី តាំង បន្ទប់ របស់ បង សុធារ៉ា នៅ ជាន់ ណា ? , Ask About Staff Room
+តើ ទី តាំង បន្ទប់ របស់ បង សិទ្ធ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
 តើ នៅ ទី នេះ មាន វិទ្យា ស្ថាន សេដ្ឋ កិច្ច និង ហិរញ្ញ វត្ថុ មែន ឫ ទេ ? , Is Institution Exist
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ និងនវានុវត្តន៍ ឌីជីថល មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ទី នេះ ? , Ask About Trending News
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូ សិទ្ធ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង សិទ្ធ ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ មាន ប្រទេស ម៉ាឡេស៊ី ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ អាយធី ? , Curiculum In Each Major
+កន្លែង នេះ មាន ស្រាវជ្រាវ អ្វី សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ទី នេះ ? , Ask About Trending News
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក គ្រូ ផានិត នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ រ៉ូបូត ឯង បង្កើត ដោយ ផានន្ទ ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ អាច មាន ប្រទេស ម៉ុងតេណេហ្គ្រោ ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ តេឡេខម ? , Curiculum In Each Major
 តើ មាន វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា ដែល ឫ ទេ ? , Is Institution Exist
-តើ នៅ IDRI មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង បណ្តាញ ? , Curiculum In Each Major
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ផ្ទាល់ ដី មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
-តើ យើង អាច រក បន្ទប់ ១០៦ តាម វីធីណា បាន ? , Find Room
-តើ មាន ធុរ កិច្ច Cam Mob នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ? , IsStart Up Exist
+ចូល ប្រាប់ Research នៅ សាលា CADT ,AskAboutResearch
+តើ មាន រៀន អី ខ្លះ ខាង Telecomsand Networking ? , Curiculum In Each Major
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ សាលា នឹង មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ២០៣ នៅ ឯ ណា ? , Find Room
+អ្នក ទទួល ខុស ត្រូវ ក្នុង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច អ្នក ណា ជា ? , Ask About Top Management Personal
 មនុស្ស យន្ត តើ នៅ អគារ Innovation Center បង្គន់ អណាម័យ នៅ ទី ណា ?,FindToilet
-នៅ ឯ NIPTICT មាន ស្រាវជ្រាវ អ្វី សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ ដារ៉ា ពិត ទេ ? , Ask About Creator
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
-តើ អាច មាន ប្រទេស ម៉ិចស៊ីកូ ដែល ឬ អត់ ? , Is Country Exist
-តើ អាយធី មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស នីការ៉ាហ្គា ដែល ឬ អត់ ? , Is Country Exist
-តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ ចាន់តូ ដោយ វីធីណា បាន ? , Find Room
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ណារី ពិត ទេ ? , Ask About Creator
-តើ ប្រទេស ម៉ូរីតានី មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
-តើ ទី តាំង ធ្វើ ការ របស់ លោក នាយក មួយ ណា ? , Ask About Staff Room
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នេះ ? , Ask About Trending News
-សូម ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ ការណ៍ មក មនុស្សយន្ត,FindMeetingRoom
+បង្ហាញ ខ្ញុំ នៅ នេះ Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ដារ៉ា ពិត ទេ ? , Ask About Creator
+តើ មាន រឿង ប្លែក ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ ប្រទេស ហូឡង់ មាន ឬ អត់ ? , Is Country Exist
+តើ មាន កន្លែង ធ្វើ ការ ទេ ? , Ask About Available Working Space
+តើ ប្រទេស ប៉េរូ ហ្វីលីពីន មាន ឬ អត់ ? , Is Country Exist
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោនាយក នៅ ទីណា ? , Find Room
+តើ រ៉ូបូត ឯង បង្កើត ដោយ យ៉ា ពិត ទេ ? , Ask About Creator
+តើ ប្រទេស តៃវ៉ាន់ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+តើ បន្ទប់ របស់ ផ្នែក អេហ្វ អាមួយ ណា ? , Ask About Staff Room
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នេះ ? , Ask About Trending News
+ទីណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ លោក Alexander ?,FindMeetingRoom
 តើ នៅ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មាន កន្លែង លេង ទេ ? , Ask About Playground
-តើ លេខ ទូរសព្ទ របស់ បង លីហៀក លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ គីម ហុងមែន ឬ អត់ ? , Ask About Creator
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក រីគ្រូទ័រ បន្តិច បាន ដែល ឬ ទេ ? , Ask About Staff Phone Number
+តើ Robot ឯង បង្កើត ដោយ បង ផានន្ទមែន ឬ អត់ ? , Ask About Creator
 សូម ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ អ្នក គ្រូ ចរិយា បន្ទិច ម ក,FindEmployeeRoom
-នៅ CADT មាន ស្រាវជ្រាវ អ្វី សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ស្រាវជ្រាវ នៅ ឯ ណា? , Find Room
+នៅ ឯ NIPTICT មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ៣ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច មាន ប្រទេស អារូបាមែន ឬ ទេ ? , Is Country Exist
 តើ ធនាគារ អេសុីលីដា គេ កំពុង ប្រជុំ រឿង អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
-តើ អ្នក ដឹក ទេ ថា នៅ IDT មាន ឱកាស ការងារ ទេ ? , Ask About Job Opportunities
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ២០១ បាន ដែល ទេ ? , Find Room
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ នេះ ? , Ask About Trending News
-តើ ពិត ជា មាន ប្រទេស អេស្តូនី ឬ អត់ ? , Is Country Exist
-តើ Robot ឯង បង្កើត ដោយ បង ឈុន ហៀន ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ ២០១ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ វិទ្យា សាស្រ្ត កុំព្យូទ័រ ? , Curiculum In Each Major
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អាយធី ? , Curiculum In Each Major
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង តេឡេខម ? , Curiculum In Each Major
+តើ មាន ធុរ កិច្ច អី ខ្លះ នៅ ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ២០៤ នៅ ទី កន្លែង ណា ? , Find Room
+តើ មាន រឿង ថ្មី ៗ អត់ នៅ ឯ នេះ ? , Ask About Trending News
+តើ មាន ប្រទេស ហ្គាំប៊ី ឬ អត់ ? , Is Country Exist
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ២០៤ នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ Information Technology ? , Curiculum In Each Major
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង តេឡេខម ? , Curiculum In Each Major
+តើ មាន រៀន អី ខ្លះ នៅ ខាង Telecoms ? , Curiculum In Each Major
 មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក អាឡិច នៅ ណា ?,FindEmployeeRoom
-នៅ CADT មាន Research អ្វី សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-អ្នក គ្រប់ គ្រង ខាង កុំព្យូទ័រ សាយអេននរណា ជា ? , Ask About Top Management Personal
-តើ លោក គ្រូសុភាព ធ្វើ ការ នៅ បន្ទប់ ណា ? , Ask About Staff Room
+នៅ ឯ NIPTICT មាន Research អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+អ្នក គ្រប់ គ្រង ខាង Network នរណា ជា ? , Ask About Top Management Personal
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសិរី មួយណា ? , Ask About Staff Room
 តើ នៅ វិទ្យា ស្ថាន អភិបាល កិច្ជ ឌីជីថល មាន កន្លែង លេង ដែល ទេ ? , Ask About Playground
-មាន កន្លែង បត់ ជើង ទេ នៅ សាលា នឹង ?,DoesToiletExist
-តើ មាន ស្តាត អាប់ Cam Mob នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ? , Is Start Up Exist
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ CADT ? , Ask About Trending News
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង សុកហេង មែនឫ ទេ ? , Ask About Creator
-តើ មាន ធុរ កិច្ច អី ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
+មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
+អ្នក មើល ការ ខុស ត្រូវ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ នរណា ជា ? , Ask About Top Management Personal
+តើ មាន រឿង ថ្មី ៗ អត់ នៅ CADT ? , Ask About Trending News
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ឈុន ហៀន មែនឫ ទេ ? , Ask About Creator
+តើ មាន ស្តាត អាប់ Cam Mob ក្នុង អាគារ នេះ ដែល ទេ ? , IsStart UpExist
 មនុស្ស យន្ត ជួយ ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក អាឡិច នៅ ណា ?,FindEmployeeRoom
-តើ មាន ស្តាត អាប់អី ខ្លះ នៅ ក្នុង នេះ ? , Ask For Start Up In The Innovation Center
-តើ IT មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ? , Curiculum In Each Major
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ជាតិ អប់រំ ពិត ឫ ទេ ? , Ask About Makerspace
-តើ ប្រទេស អេក្វាទ័រ ហ្គីណេ មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ពិត ជា មាន ប្រទេស ប៊ូតង់ ដែល ឬ ទេ ? , Is Country Exist
-តើ ប្រទេស ហ្គាណា មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ នៅ ជាន់ ទី ២ មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
-តើ ពិត ជា មាន ប្រទេស តៃវ៉ាន់ មែន ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង Information Technology ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែនមែន ឬ អត់ ? , Is Country Exist
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង យុត្តិធម៌ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
-តើ ប្រទេស ហ្គាបុន មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ សុធី រិទ្ធ មែន ទេ ? , Ask About Creator
-នៅ ជាន់ លើ គេ បង្អស់ បង្គន់ បត់ ជើង នៅ ណា ?,FindToilet
-តើ មាន ប្រទេស ម៉ូសំប៊ិក មែន ឬ ទេ ? , Is Country Exist
-តើ ប្រទេស ក្រិក មាន ឬ អត់ ? , Is Country Exist
-តើ បន្ទប់ របស់ ផ្នែក រីគ្រូទ័រ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
-អ្នក ទទួល បន្ទុក ខាង អុីខមមើស អ្នក ណា ជា ? , Ask About Top Management Personal
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ៣០៤ នៅ កន្លែង ណា ? , Find Room
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ តេឡេខម ? , Curiculum In Each Major
-តើ ប្រទេស ម៉ូរីតានី មាន ឬ ទេ ? , Is Country Exist
+អ្នក គ្រប់ គ្រង ខាង computerscience នរណា ជា ? , Ask About Top Management Personal
+តើ Information Technology មាន រៀន ដូច មេ្តច ខ្លះ ? , Curiculum In Each Major
+តើ នៅ វិទ្យា ស្ថាន ជាតិ ពហុ បច្ចេកទេស កម្ពុជា មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
+តើ ប្រទេស ម៉ាឡាវី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ មាន ប្រទេស កម្ពុជា ដែល ឬ ទេ ? , Is Country Exist
+តើ ប្រទេស ម៉ារ៉ុក មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+CADT មាន ស្រាវជ្រាវ អ្វី សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
+តើ មាន ប្រទេស តូមិននី ស្ថាន មែន ឬ ទេ ? , Is Country Exist
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ខាង ទូរគមនាគមន៍ និង បណ្តាញ ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស បារាំង ដែល ឬ ទេ ? , Is Country Exist
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ អាគារណា ? , Ask About Staff Room
 តើ ប្រទេស ម៉ុងហ្គោលី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ផានន្ទ មែន ឬ អត់ ? , Ask About Creator
-តើ ប្រទេស កុងហ្គោ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ១០៥ នៅ ឯ ណា ? , Find Room
-ប្រាប់ ខ្ញុំ សុី អេ ដីធី Researchលើ ? ,AskAboutResearch
-តើ ប្រទេស កាហ្សាក់ស្ថាន មាន ឬ អត់ ? , Is Country Exist
-តើ បន្ទប់ ៣០៤ នៅ កន្លែង ណា ? , Find Room
-តើ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស លេខ ប៉ុន្មាន ដែល ? , Ask About Staff Phone Number
-តើ ទី តាំង បន្ទប់ របស់ បង សុធារ៉ា នៅ អាគារ ណា ? , Ask About Staff Room
-តើ ប្រទេស កេនយ៉ា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ៣០៣ នៅ ទី ណា បាន ទេ ? , Find Room
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បូរី មែន ទេ ? , Ask About Creator
+នៅ ជាន់ លើ គេ បង្អស់ បង្គន់ បត់ ជើង នៅ ណា ?,FindToilet
+តើ អាច មាន ប្រទេស អូម៉ង់ មែន ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ហុងគ្រី ឬ ទេ ? , Is Country Exist
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+អ្នក ទទួល បន្ទុក ខាង ទូរគមនាគមន៍ អ្នក ណា ជា ? , Ask About Top Management Personal
+សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
+តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសិទ្ធ តាម របៀប ណា ? , Find Room
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ Telecoms ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស នេប៉ាល់ មែន ឬ អត់ ? , Is Country Exist
+តើ ប្រទេស តូហ្គោ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ រ៉ូបូត ឯង បង្កើត ដោយ ដារ៉ា មែន ឬ អត់ ? , Ask About Creator
+តើ ប្រទេស ហ្សកដានី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ ខ្ញុំ អាច រក បន្ទប់ ២០៣ តាម របៀប ណា បាន ? , Find Room
+ប្រាប់ សុី អេ ដីធី ស្រាវជ្រាវ លើ ? ,AskAboutResearch
+តើ ពិត ជា មាន ប្រទេស ម៉ាកាវ ឬ ទេ ? , Is Country Exist
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ កន្លែង ណា ? , Find Room
+តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ណិពទិច ? , Ask About Trending News
+តើ លោក នាយក ធ្វើ ការ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ ប្រទេស អារ៉ាប៊ី សាអូឌីត មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូលីហៀក ដោយ វីធីណា ? , Find Room
 តើ អ្នក ចេះ កុហក ឬ ទេ ? , Ask Robot Function
-តើ បន្ទប់ ស្រាវជ្រាវ នៅ កន្លែង ណា ? , Find Room
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ ពត៌មាន វិទ្យា ? , Curiculum In Each Major
+តើ អាច មាន ប្រទេស អាមេនី ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ បណ្តាញ ? , Curiculum In Each Major
 រ៉ូបូត តើ នៅ អគារ IDT កន្លែង ជុះ នោម នៅ ណា ?,FindToilet
 តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ ខាង ក្នុង អគារនវានុវត្តន៍ ? , Ask For Company In The Innovation Center
-តើ ពិត ជា មាន ប្រទេស អេស្តូនី ឬ ទេ ? , Is Country Exist
-តើ មាន រឿង រំភើប អ្វី នៅ នេះ ? , Ask About Trending News
-តើ ផ្នែក បម្រើ សេវា កម្ម ធ្វើ ការ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
-មាន កន្លែង ដោះ ទុក សត្វ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
-តើ លេខ ទំនាក់ទំនង របស់ បង សិរី លេខ ប៉ុន្មាន ដែល ? , Ask About Staff Phone Number
-មាន កន្លែង បត់ ជើង ឬ អត់ នៅ ជាន់ ទី ១ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោក គ្រូ សិទ្ធ នៅ ទី ណា បាន ទេ ? , Find Room
-តើ ផ្នែក បម្រើ សេវា កម្ម ធ្វើ ការ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
-តើ មាន ប្រទេស រវ៉ាន់ដា ដែល ឬ អត់ ? , Is Country Exist
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ៣០៥ នៅ ទី ណា បាន ទេ ? , Find Room
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ CADT ? , Ask About Trending News
-តើ បន្ទប់ របស់ លោក នាយក នៅ អាគារ មួយ ណា ? , Ask About Staff Room
-តើ នៅ ជាន់ ទី ៦ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ Cambodia Academy of Digital Technology ? , Ask About Trending News
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ទី ១ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
-តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ ពិត ឬ អត់ ? , Ask About Creator
-អ្នក មើល ការ ខុស ត្រូវ ក្នុង Telecoms and Networking នរណា ជា ? , Ask About Top Management Personal
+តើ មាន ប្រទេស ហ្គាំប៊ី ឬ ទេ ? , Is Country Exist
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ នេះ ? , Ask About Trending News
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ភីអ នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
+សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន កន្លែង នោម អត់ ?,DoesToiletExist
+តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ នឹង ? , Ask About Trending News
+មាន កន្លែង ជុះ នោម ទេ នៅ ជាន់ ទី ១ ?,DoesToiletExist
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូ ផានិត នៅ ទី ណា បាន ទេ ? , Find Room
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ភីអ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+តើ អាច មាន ប្រទេស ស្លូវេនី ដែល ឬ អត់ ? , Is Country Exist
+អាច ដឹង ពី ប្រវត្តិ របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូ សិទ្ធ នៅ ទី ណា បាន ទេ ? , Find Room
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ឈុន ហៀន ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+សួរ មនុស្ស វិញ គ្រាន់ ជាង,Dissatisfied
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក អេហ្វអ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+តើ នៅ ក្រសួង មហា ផ្ទៃ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ប្រៃសណីយ៍ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ នឹង មាន បង្គន់ អត់ ?,DoesToiletExist
+តើ Robot ឯង បង្កើត ដោយ បង សុធី រិទ្ធ ពិត ឬ អត់ ? , Ask About Creator
+អ្នក មើល ការ ខុស ត្រូវ ក្នុង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
 តើ គេ បង្កើត អ្នក ក្នុង គោល បំណង អ្វី ? ,AskRobot
-តើ ប្រទេស ស៊ែប៊ី មាន ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស តុងហ្គាមែន ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស តាជីគីស្ថាន មែន ឬ អត់ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ២០១ នៅ ឯ ណា ? , Find Room
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ១០១ នៅ ទី ណា បាន ទេ ? , Find Room
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ លោក គ្រូសិទ្ធ ពិត ប្រាកដ ទេ ? , Ask About Creator
-ជួយ ប្រាប់ ខ្ញុំ ទី តាំង របស់ កន្លែង ប្រជុំ មក Robot,FindMeetingRoom
-តើ អាច មាន ប្រទេស ហ្គីបរ៉ាល់តា ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
+តើ ពិត ជា មាន ប្រទេស ស៊ូរីណាម ឬ ទេ ? , Is Country Exist
+តើ មាន ប្រទេស អ៊ូសបេគីស្ថាន មែន ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស អ៊ុយក្រែន ដែល ឬ ទេ ? , Is Country Exist
+តើ យើង អាច រក បន្ទប់ ២០៥ តាម របៀប ណា ? , Find Room
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ១០៤ នៅ ទី ណា បាន ទេ ? , Find Room
+តើ រ៉ូបូត ឯង បង្កើត ដោយ លោក គ្រូសិទ្ធ ពិត ប្រាកដ ទេ ? , Ask About Creator
+កន្លែង ណា បន្ទប់ ប្រជុំ ជាមួយ លោក គ្រូ បញ្ញា ?,FindMeetingRoom
+តើ ពិត ជា មាន ប្រទេស ហុងកុង មែន ឬ ទេ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ គេ មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
 មនុស្ស យន្ត មេត្តា ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក គ្រូ បញ្ញា នៅ ណា ?,FindEmployeeRoom
-សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស លីចតេនស្ទីន ដែល ឬ ទេ ? , Is Country Exist
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង គីម ហុង ពិត ទេ ? , Ask About Creator
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ណេតវើក ? , Curiculum In Each Major
-តើ មាន ធុរ កិច្ច អ្វី ខ្លះ នៅ ក្នុង នេះ ? , Ask For Start Up In The Innovation Center
-តើ នៅ អាយឌីធី មាន ការងារ ដែល គេ កំពុង ជ្រើស រើស បុគ្គលិក ទេ ? , Ask About Job Opportunities
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសិរី នៅ ទីណា បាន ទេ ? , Find Room
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ៣០៤ នៅ ទី ណា ? , Find Room
-តើ មាន ប្រទេស ឡាតវី ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស ម៉ូណាកូ ឬ ទេ ? , Is Country Exist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+តើ ប្រទេស ម៉ូរីតានី មាន ឬ ទេ ? , Is Country Exist
+តើ លេខ ទូរសព្ទ របស់ លោក គ្រូ ផានិត លេខ ប៉ុន្មាន ដែល ? , Ask About Staff Phone Number
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង Networking ? , Curiculum In Each Major
+តើ មាន ស្តាត អាប់ Cam Mob នៅ នឹង កន្លែង នេះ ឬ ទេ ? , IsStart Up Exist
+តើ មាន ធុរ កិច្ច ណា ខ្លះ នៅ ខាង ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោគ្រូ នាយក រង នៅ ទី ណា បាន ទេ ? , Find Room
+តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសិទ្ធ ដោយ របៀប ណា ? , Find Room
+តើ អាច មាន ប្រទេស ម៉ាឡេស៊ី ឬ អត់ ? , Is Country Exist
+តើ អាច មាន ប្រទេស នូវែល សេឡង់ ឬ ទេ ? , Is Country Exist
 តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់ Jupyter ?,FindMeetingRoomAgenda
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មែនឫ ទេ ? , Ask About Makerspace
-កន្លែង ណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ លោក គ្រូ បញ្ញា ?,FindMeetingRoom
-តើ ប្រទេស បូលីវី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ប្រទេស កាហ្សាក់ស្ថាន មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ មាន ស្តាត អាប់ណា ខ្លះ នៅ នឹង ទី នេះ ? , Ask For Start Up In The Innovation Center
-កន្លែង ណា បន្ទប់ ប្រជុំ ជាមួយ ស្ថាន ទូត អាមេរិក ?,FindMeetingRoom
-តើ នៅ សល់ កន្លែង ធ្វើ ការ ដែរ ទេ ? , Ask About Available Working Space
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុកហេង មែន ឬ អត់ ? , Ask About Creator
-តើ បន្ទប់ របស់ ផ្នែក អេហ្វអ នៅ ទីណា ដែល ? , Ask About Staff Room
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ CADT ? , Ask About Trending News
-នៅ នេះ មាន Research អ្វី ? ,AskAboutResearch
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មែន ឫ ទេ ? , Ask About Makerspace
+Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ទី ណា ?,FindMeetingRoom
+តើ ប្រទេស ហ្គីយ៉ាណា ហៃទី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ ប្រទេស សាន់ម៉ារីណូ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+អ្នក រ៉ាប់ រង ខាង ថ្នាក់ មូលដ្ឋាន អ្នក ណា ជា ? , Ask About Top Management Personal
+មនុស្ស យន្ត ប្រាប់ បាន ទេ ថា បន្ទប់ ប្រជុំ ការណ៍ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ កន្លែង ណា ?,FindMeetingRoom
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន បច្ចេកវិទ្យា កម្ពុជា មែន ទេ ? , Ask About Makerspace
+តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ណារី មែន ឬ អត់ ? , Ask About Creator
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ទី ផ្សារ នៅ ទី ណា ដែល ? , Ask About Staff Room
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT ? , Ask About Trending News
+បង្ហាញ ខ្ញុំ កន្លែង នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
 តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង គីម ហុង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-បង្ហាញ ខ្ញុំ នៅ CADT ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ មាន ប្រទេស ហ្វាំងឡង់ ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស ហ្សំប៊ី មាន ឬ អត់ ? , Is Country Exist
-អ្នក រ៉ាប់ រង ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច នរណា ជា ? , Ask About Top Management Personal
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ Information Technology ? , Curiculum In Each Major
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ហា ? , Curiculum In Each Major
-តើ អាច មាន ប្រទេស អង់ទីហ្គា និង បាប៊ូ ដាមែន ឬ អត់ ? , Is Country Exist
-តើ មាន រឿង រំភើប អត់ នៅ ឯ នេះ ? , Ask About Trending News
-តើ ខ្ញុំ អាច រក បន្ទប់ ៣០៤ ដោយ វីធីណា បាន ? , Find Room
-តើ អាច មាន ប្រទេស អែលសាល់ វ៉ាឌ័រ មែន ឬ ទេ ? , Is Country Exist
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នេះ ? , Ask About Trending News
-តើ មាន ប្រទេស យេម៉ែន ឬ អត់ ? , Is Country Exist
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ទេសចរណ៍ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
-តើ លោក គ្រូលីហៀក ធ្វើ ការ នៅ បន្ទប់ ណា ដែល ? , Ask About Staff Room
-ប្រាប់ ក្នុង នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ ទី ណា ? , Ask About Staff Room
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ធនធាន មនុស្ស នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ លេខ ទំនាក់ទំនង របស់ លោក គ្រូផានិត លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
+ប្រាប់ ខ្ញុំ CADT Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+តើ អាច មាន ប្រទេស ហ្គ្រីនឡិន ឬ អត់ ? , Is Country Exist
+បន្ទប់ ប្រជុំ ការណ៍ ពាក់ ព័ន្ធ នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ឯ ណា?,FindMeetingRoom
+អ្នក រ៉ាប់ រង ខាង ទូរគមនាគមន៍ និង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ ទូរគមនាគមន៍ និង បណ្តាញ ? , Curiculum In Each Major
+តើមាន working -space ទី នេះ ទេ ? , Ask About Available Working Space
+តើ ពិត ជា មាន ប្រទេស បែលហ្ស៊ិក ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ឯ នេះ ? , Ask About Trending News
+តើ បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ ប្រទេស បារាំង ខាង លិច ឥណ្ឌ មាន មែន ឬ ទេ ? , Is Country Exist
+តើ មាន រឿង ថ្មី អ្វី ខ្លះ នេះ ? , Ask About Trending News
+បន្ទប់ ធ្វើ កិច្ច ប្រជុំ រសៀល នេះ នៅ ណា ?,FindMeetingRoom
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសិទ្ធ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូចាន់តូ មួយ ណា ដែល ? , Ask About Staff Room
+ប្រាប់ ខ្ញុំ នៅ ឯ នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ បង សិទ្ធ ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ? , Ask About Staff Room
+តើ ផ្នែក បម្រើ សេវា កម្ម ធ្វើ ការ នៅ ជាន់ មួយ ណា ? , Ask About Staff Room
 ពេល ដែល សិក្សា ការ គ្រប់ គ្រង គម្រោង នឹង ហើយ ខ្ញុំ អាច ធ្វើ អ្វី បាន ខ្លះ ?,AskAboutClassSubject
-បង្ហាញ ខ្ញុំ កន្លែង នេះ Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+បង្ហាញ ខ្ញុំ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
 នៅ ជាន់ លើ បន្ទប់ ទឹក នៅ កន្លែង ណា ?,FindToilet
-តើ បណ្តាញ មាន រៀន អី ខ្លះ ? , Curiculum In Each Major
-តើ យើង អាច រក បន្ទប់ ២០៤ តាម ណា បាន ? , Find Room
+វិធី ក្នុង ការ ទទួល បាន office , Ask About ToGet The Working Space
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ ៣០១ នៅ កន្លែង ណា បាន ទេ ? , Find Room
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូលីហៀក ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ស្រាវជ្រាវ នៅ ទីណា ? , Find Room
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល មែន ទេ ? , Ask About Makerspace
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ គីម ហុង ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ ជាន់ ណា ? , Ask About Staff Room
-ប្រាប់ នៅ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ ណារី ពិត ឬ អត់ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស អារូបា ដែល ឬ អត់ ? , Is Country Exist
+តើ នៅ ជាន់ ទី ២ មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង ផានន្ទ ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ ទី តាំង ធ្វើ ការ របស់ បង លីហៀក នៅ ជាន់ ណា ? , Ask About Staff Room
+តើ ប្រទេស បូត ស្វាណា មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ គីម ហុងពិត ឬ អត់ ? , Ask About Creator
+តើ មាន ប្រទេស ហ្វាំងឡង់ ឬ ទេ ? , Is Country Exist
 រ៉ូបូត តើ នៅ អគារ IDT បង្គន់ នៅ ណា ?,FindToilet
-តើ មាន ព័ត៌មាន រំភើប អត់ កន្លែង នេះ ? , Ask About Trending News
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ កន្លែង នេះ ? , Ask About Trending News
 តើ មាន ស្ថាប័ន Book MeBus ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ? , Is Company Exist
-តើ មាន ស្តាត អាប់ Cam Mob នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ? , IsStart UpExist
-បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ពាក់ ព័ន្ធ នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ កន្លែង ណា ?,FindMeetingRoom
+អ្នក ទទួល ខុស ត្រូវ ក្នុង កុំព្យូទ័រ សាយអេននរណា ជា ? , Ask About Top Management Personal
+ខ្ញុំ សូម សួរ រក បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ អង្គ ការ សហគមន៍ អាមេរិក,FindMeetingRoom
 Robot តើ នៅ អគារ Innovation Center បង្គន់ អណាម័យ នៅ ឯ ណា?,FindToilet
-តើ អាច មាន ប្រទេស ទឹក កក ដី មែន ឬ ទេ ? , Is Country Exist
-តើ មាន ប្រទេស ហុងឌូរ៉ាស ឬ ទេ ? , Is Country Exist
+តើ ប្រទេស ជប៉ុន មាន មែន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស អ៊ីស្រាអែល ឬ ទេ ? , Is Country Exist
 ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក ហ៊ាន សំបឿន ? , Ask About Top Management Personal
-តើ មាន រឿង ថ្មី ៗ អត់ Cambodia Academy of Digital Technology ? , Ask About Trending News
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ Cambodia Academy of Digital Technology ? , Ask About Trending News
 តើ រ៉ូបូត ឯង បង្កើត ដោយ លោក គ្រូលីហៀក មែន ទេ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ ទី កន្លែង ណា ? , Find Room
-តើ ណេត វើក កីង មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ? , Curiculum In Each Major
+តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ នាយក ដោយ វីធីណា បាន ? , Find Room
+តើ ទូរគមនាគមន៍ មាន រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
 តើ វិទ្យា ស្ថាន ជាតិ ពហុ បច្ចេកទេស កម្ពុជា ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
-តើ មាន ប្រទេស ស៊ូរីណាម ដែល ឬ អត់ ? , Is Country Exist
+តើ អាច មាន ប្រទេស តូហ្គោ ដែល ឬ អត់ ? , Is Country Exist
 ពេល ដែល រៀន សហគ្រិន ភាព នឹង ហើយ យើង អាច មាន សមត្ថ ភាព បែប ណា ខ្លះ ?,AskAboutClassSubject
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-តើ យើង អាច រក បន្ទប់ ៣០៥ តាម វីធីណា ? , Find Room
-បង្ហាញ ខ្ញុំ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសិទ្ធ នៅ ទី កន្លែង ណា ? , Find Room
+ប្រាប់ ខ្ញុំ នៅ នេះ Research លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
 តើ មាន អាយឌីអអាយមែន ឫ ទេ ? , Is Institution Exist
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ដារ៉ា ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ ប្រទេស បួគី ណាហ្វាសូ មាន ឬ ទេ ? , Is Country Exist
+តើ Robot ឯង បង្កើត ដោយ សុធី រិទ្ធ ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ ពិត ជា មាន ប្រទេស កូស្តា រីកាមែន ឬ អត់ ? , Is Country Exist
 អគារ នៅ Inovation Centerសាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ? , Ask Building Information InCADT
-សុំ សួរ មួយ Robot តើ នៅ កន្លែង នេះ មាន កន្លែង នោម អត់ ?,DoesToiletExist
-តើ IT មាន រៀន ស្អី ខ្លះ ? , Curiculum In Each Major
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ដារ៉ា មែន ឫ ទេ ? , Ask About Creator
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោក គ្រូ ចាន់តូ បាន ដែល ឬ ទេ ? , Find Room
-តើ អាយធី មាន រៀន អី ខ្លះ ? , Curiculum In Each Major
-តើ ពិត ជា មាន ប្រទេស បូត ស្វាណា ដែល ឬ អត់ ? , Is Country Exist
-អ្នក គ្រប់ គ្រង ក្នុង ណេត វើក កីងនរណា ជា ? , Ask About Top Management Personal
-តើ ផ្នែក អេហ្វអ ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ? , Ask About Staff Room
-តើ បង លីហៀក ធ្វើ ការ នៅ បន្ទប់ ណា ដែល ? , Ask About Staff Room
-តើ ជាន់ ទី ២ មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ឈុន ហៀន ពិត ទេ ? , Ask About Creator
-ប្រាប់ នៅ ឯ NIPTICT ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Network ? , Curiculum In Each Major
-តើ ទី តាំង បន្ទប់ របស់ លោក នាយក នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង អុីខមមើស ? , Curiculum In Each Major
-តើ នៅ ជាន់ ទី ១ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
-តើ ពិត ជា មាន ប្រទេស សៀរ៉ា ឡេអូន ដែល ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ មាន បង្គន់ ឬ ទេ ?,DoesToiletExist
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ២០៥ បាន ? , Find Room
-តើ អាច មាន ប្រទេស ហុងកុង ឬ ទេ ? , Is Country Exist
-តើ មាន រឿង ប្លែក ៗ អ្វី នៅ នេះ ? , Ask About Trending News
-តើ IT មាន រៀន ដូច មេ្តច ខ្លះ ? , Curiculum In Each Major
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ Telecoms and Networking ? , Curiculum In Each Major
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ដារ៉ា ពិត ទេ ? , Ask About Creator
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ នេះ មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
-សុំ សួរ មួយ Robot តើ នៅ នឹង មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ស្រាវជ្រាវ នៅ ទីណា ? , Find Room
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ណិពទិច ? , Ask About Trending News
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូ ផានិត នៅ ទី កន្លែង ណា ? , Find Room
-តើ ពិត ជា មាន ប្រទេស អ៊ីរ៉ង់ មែន ឬ អត់ ? , Is Country Exist
-ប្រាប់ ខ្ញុំ នៅ ឯ នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ ទី តាំង ធ្វើ ការ របស់ លោក នាយក រង មួយ ណា ? , Ask About Staff Room
-តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ម៉ានុត ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ នៅ ជាន់ ទី ១ មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស ប៉ាឡេស្ទីន មែន ឬ អត់ ? , Is Country Exist
-តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង ទី នេះ ? , Ask For Company In The Innovation Center
-តើ ប្រទេស លីទុយអានីលុច សំបួរ ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
-កន្លែង ណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ធនាគារ អេសុីលីដា ?,FindMeetingRoom
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម គីម ហុង ពិត ប្រាកដ ទេ ? , Ask About Creator
-តើ ប្រទេស សៀរ៉ា ឡេអូន មាន ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស ប៉ាឡេស្ទីន ដែល ឬ ទេ ? , Is Country Exist
-អ្នក គ្រប់ គ្រង ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
-មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់ របស់ លោក គ្រូសុធារ៉ា នៅ កន្លែង ណា ? , Find Room
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ និងនវានុវត្តន៍ ឌីជីថល មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
-នៅ ណិពទិច មាន ស្រាវជ្រាវ អ្វី សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ ពិត ជា មាន ប្រទេស ន័រវេមែន ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស ស្លូវេនី មាន ឬ ទេ ? , Is Country Exist
-មាន កន្លែង ជុះ អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
-តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មាន កន្លែង ណា លេង ទេ ? , Ask About Playground
-មាន កន្លែង ជុះ ទេ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
-តើ IDRI មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
-តើ បន្ទប់ ២០៣ នៅ ទី ណា ? , Find Room
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ CADT ? , Ask About Trending News
-មនុស្ស យន្ត លោក Alexander បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
-តើ ពិត ជា មាន ប្រទេស ម៉ុងសឺរ៉ាត់ ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Telecoms ? , Curiculum In Each Major
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ CADT ? , Ask About Trending News
-តើ យើង អាច រក បន្ទប់ ស្រាវជ្រាវ តាម ណា ? , Find Room
-ប្រាប់ នៅ នឹង Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-នៅ ឯ នេះ មាន ស្រាវជ្រាវ អ្វី ? ,AskAboutResearch
-រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ឯ ណា?,FindMeetingRoom
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT ? , Ask About Trending News
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ឬ ទេ ? , Ask About Creator
-តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង អគារ នេះ ? , Ask For Company In The Innovation Center
-តើ មាន ប្រទេស កោះ វឺជីន របស់ អង់គ្លេស មែន ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ក្រោម មាន បង្គន់ ទេ ?,DoesToiletExist
-តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ក្នុង ជំនាញ Telecoms and Networking ? , Curiculum In Each Major
-តើ ពិត ជា មាន ប្រទេស ហ្គ្រេណាដា ដែល ឬ ទេ ? , Is Country Exist
-តើ លោក គ្រូសុភាព ធ្វើ ការ នៅ ជាន់ មួយ ណា ? , Ask About Staff Room
-តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ អាយធី ? , Curiculum In Each Major
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ការងារ មាន កន្លែង រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
-តើ ពិត ជា មាន ប្រទេស ហ្គីប រ៉ាល់តា ដែល ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស ប៉ាពួញូ ហ្គីណេ ដែល ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ក្រោម មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មែន ទេ ? , Ask About Makerspace
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម សុធី រិទ្ធ មែន ឫ ទេ ? , Ask About Creator
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោនាយក នៅ ទីណា បាន ទេ ? , Find Room
+តើ ធ្វើ ដូច ម្តេច បាន working - space ? , Ask About ToGet The Working Space Ask About ToGet The Working Space
+តើ មាន ប្រទេស ឆាដ ដែល ឬ អត់ ? , Is Country Exist
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ស្រាវជ្រាវ នៅ ទីណា ? , Ask About Staff Room
+តើ ទី តាំង បន្ទប់ របស់ បង ចាន់ តូមួយ ណា ដែល ? , Ask About Staff Room
+កន្លែង នេះ មាន Research អ្វី ខ្លះ ? ,AskAboutResearch
+តើ Robot ឯង បង្កើត ដោយ បង យ៉ា ពិត ទេ ? , Ask About Creator
+តើ ប្រទេស កាមេរូន ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង កុំព្យូទ័រ សាយអេន ? , Curiculum In Each Major
+តើ ផ្នែក អេហ្វអ ធ្វើ ការ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង អាយធី ? , Curiculum In Each Major
+តើ នៅ ក្រសួង ឧស្សាហកម្ម រ៉ែ និង ថាមពល មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
+តើ មាន ប្រទេស ស្វាស៊ីឡង់ ដែល ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ មាន បន្ទប់ ទឹក ឬ ទេ ?,DoesToiletExist
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ៣០២ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
+តើ ពិត ជា មាន ប្រទេស ហ្សាម៉ាអ៊ីក ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ នេះ ? , Ask About Trending News
+តើ នៅ សល់ កន្លែង ធ្វើ ការ ដែរ ទេ ? , Ask About Available Working Space
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ IT ? , Curiculum In Each Major
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ សុធី រិទ្ធ ពិត ទេ ? , Ask About Creator
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ផ្ទាល់ ដី មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
 សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
-តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នេះ ? , Ask About Trending News
+តើ ប្រទេស អារូបា មាន មែន ឬ ទេ ? , Is Country Exist
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ៨ មាន កន្លែង ចាក់ ទឹក ទេ ? , Ask About Water Refill
+តើ យើង អាច រក បន្ទប់ របស់ លោនាយក ដោយ វីធីណា បាន ? , Find Room
+តើ មាន ប្រទេស កាហ្សាក់ស្ថាន មែន ឬ អត់ ? , Is Country Exist
+ប្រាប់ នៅ ឯ សុីអេ ដីធី Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ បន្ទប់ របស់ ផ្នែក បម្រើ សេវា កម្ម មួយ ណា ? , Ask About Staff Room
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ ពត៌មាន វិទ្យា ? , Curiculum In Each Major
+តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង គីម ហុង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+CADT មាន ស្រាវជ្រាវ អ្វី ខ្លះ ? ,AskAboutResearch
+តើ លេខ ទូរសព្ទ របស់ លោក គ្រូ សិទ្ធ លេខ ប៉ុន្មាន ខ្លះ ? , Ask About Staff Phone Number
+តើ មាន ប្រទេស រ៉ូម៉ានី មែន ឬ អត់ ? , Is Country Exist
+តើ មាន ស្ថាប័ន អី ខ្លះ នៅ នឹង ទី នេះ ? , Ask For Company In The Innovation Center
+តើ ប្រទេស កូរ៉េ ខាង ត្បូង ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+មនុស្ស យន្ត ប្រាប់ បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង ការងារ ស្ម័គ្រ ចិត្ត នៅ ទី ណា ?,FindMeetingRoom
+តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ផានន្ទ ពិត ប្រាកដ ទេ ? , Ask About Creator
+តើ ពិត ជា មាន ប្រទេស ស៊ុយអែត ឬ ទេ ? , Is Country Exist
+តើ មាន ប្រទេស រ៉ូម៉ានី ដែល ឬ ទេ ? , Is Country Exist
+អ្នក គ្រប់ គ្រង ខាង ទូរគមនាគមន៍ និង បណ្តាញ អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ នឹង ? , Ask About Trending News
+មាន កន្លែង ជុះ អត់ នៅ ជាន់ ផ្ទាល់ ដី ?,DoesToiletExist
+តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក គ្រូសិរី នៅ កន្លែង ណា ? , Find Room
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ និងនវានុវត្តន៍ ឌីជីថល មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
+នៅ ឯ នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
+តើ មាន ប្រទេស ព័រតូរីកូ មែន ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស តៃវ៉ាន់ មែន ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ កន្លែង នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
+តើ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មាន កន្លែង ណា លេង ទេ ? , Ask About Playground
+សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
+តើ IDRI មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ២០៦ នៅ ទី ណា ? , Find Room
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ CADT ? , Ask About Trending News
+មនុស្ស យន្ត លោក Alexander បន្ទប់ របស់ គាត់ នៅ ឯ ណា?,FindEmployeeRoom
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ២ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+តើ មាន ប្រទេស នីហ្សេរីយ៉ា ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន រៀន ដូច មេ្តច ខ្លះ ខាង com puterscience ? , Curiculum In Each Major
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT ? , Ask About Trending News
+តើ អាច មាន ប្រទេស អាហ្សង់ទីន ឬ អត់ ? , Is Country Exist
+តើ ប្រទេស បង់ក្លាដែស ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+បង្ហាញ ខ្ញុំ នៅ សុី អេ ដីធី ស្រាវជ្រាវ លើ ? ,AskAboutResearch
+តើ អ្នក ដឹក ទេ ថា នៅ វិទ្យា ស្ថាន ជាតិ អប់រំ មាន ការងារ ដែល គេ កំពុង ជ្រើស រើស បុគ្គលិក ទេ ? , Ask About Job Opportunities
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ CADT ? , Ask About Trending News
+តើ Robot ឯង បង្កើត ដោយ បង ណារី ពិត ឬ ទេ ? , Ask About Creator
+តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង អគារ នេះ ? , Ask For Company In The Innovation Center
+តើ អាច មាន ប្រទេស ចិន មែន ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់ លើ គេ បង្អស់ មាន បន្ទប់ ទឹក ទេ ?,DoesToiletExist
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ IT ? , Curiculum In Each Major
+តើ មាន ប្រទេស ទឹក កក ដី ដែល ឬ ទេ ? , Is Country Exist
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសិរី នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ Telecoms មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ? , Curiculum In Each Major
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសុភាព នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ មាន ប្រទេស ហុងឌូរ៉ាស ដែល ឬ អត់ ? , Is Country Exist
+តើ ប្រទេស រវ៉ាន់ដា មាន ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ គេ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នេះ ? , Ask About Trending News
 មនុស្ស យន្ត តើ នៅ អគារ IDT កន្លែង បន្ទោរ បង់ នៅ កន្លែង ណា ?,FindToilet
-តើ ប្រទេស ឆាដ មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
-ចូល ប្រាប់ សុី អេ ដីធី Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ២០១ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ អាយធី ? , Curiculum In Each Major
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព ដែរ ឫ ទេ ? , Ask About Top Management Personal
-មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់ ទី ២ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ២០៥ នៅ កន្លែង ណា ? , Find Room
-តើ មាន ប្រទេស ម៉ូរីតានីមែន ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស អ៊ូស បេគីស្ថាន ដែល ឬ ទេ ? , Is Country Exist
-សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
-មាន កន្លែង នោម អត់ នៅ ជាន់ លើ គេ ?,DoesToiletExist
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
-តើ ផ្នែក ធនធាន មនុស្ស ធ្វើ ការ នៅ ជាន់ មួយ ណា ? , Ask About Staff Room
-តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក រីគ្រូទ័រ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
+តើ ប្រទេស អ៊ីតាលី មាន ទំហំ ដី ប៉ុន្មាន ? , Ask About Countries
+នៅ នេះ មាន Research អ្វី សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ២០៤ នៅ កន្លែង ណា បាន ទេ ? , Find Room
+តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ តេឡេខម ? , Curiculum In Each Major
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព ដែរ ឫ ទេ ? , Ask About Top Management Personal
+មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
+តើ យើង អាច រក បន្ទប់ ៣០៣ តាម ណា ? , Find Room
+តើ អាច មាន ប្រទេស ណាមីប៊ីមែន ឬ អត់ ? , Is Country Exist
+មេត្តា ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ មក មនុស្ស យន្ត,FindMeetingRoom
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ១ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
+សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ បន្ទប់ របស់ ផ្នែក ទី ផ្សារ នៅ អាគារ មួយ ណា ? , Ask About Staff Room
 Robot តើ នៅ អគារ IDT កន្លែង ជុះ នោម នៅ ទី ណា ?,FindToilet
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី ពិត ឬ អត់ ? , Ask About Creator
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន បច្ចេកវិទ្យា កម្ពុជា ពិត ឫ ទេ ? , Ask About Makerspace
+តើ លេខ ទូរសព្ទ របស់ លោក គ្រូសិទ្ធ លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
+តើ វិទ្យា ស្ថាន អភិបាល កិច្ជ ឌីជីថល មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
 តើ បន្ទប់ របស់ លោក Alexander នៅ ណា ?,FindEmployeeRoom
-តើ មាន ស្តាត អាប់ Cam Mob នៅ នឹង ទី នេះ ដែរ ទេ ? , IsStart UpExist
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ណិពទិច ? , Ask About Trending News
-តើ មាន ប្រទេស បាហាម៉ា ដែល ឬ អត់ ? , Is Country Exist
-តើ អាច មាន ប្រទេស បារាំង ឬ ទេ ? , Is Country Exist
-ជួយ ប្រាប់ ខ្ញុំ បន្ទិច មក នៅ បន្ទប់ ៣០១ គេ កំពុង សិក្សា អ្វី ?,FindStudyRoomCurrentSubject
-តើ អាច មាន ប្រទេស អង់ទីហ្គា និង បាប៊ូដា ឬ អត់ ? , Is Country Exist
+អ្នក គ្រប់ គ្រង ក្នុង កុំព្យូទ័រ សាយអេន អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ណិពទិច ? , Ask About Trending News
+តើ អាច មាន ប្រទេស បូលីវី ដែល ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ហ្គាំ ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ computerscience ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស បែលហ្ស៊ិក មែន ឬ ទេ ? , Is Country Exist
 Robot តើ នៅ អគារ នេះ បង្គន់ នោម នៅ ទី ណា ?,FindToilet
 តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
-តើ វិទ្យា ស្ថាន ជាតិ អប់រំ មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
-តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី មួយ ណា ? , Ask About Staff Room
+ចូល ប្រាប់ ក្នុង នេះ Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+គ្រូ ណា ជា អ្នក បង្រៀន ការ អភិវឌ្ឍន៍ កម្ម វិធី ?,FindLecturerForSubject
 មនុស្ស យន្ត តើ នៅ អគារ នេះ បង្គន់ នៅ ទី ណា ?,FindToilet
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ឯ CADT ? , Ask About Trending News
-មាន កន្លែង នោម ឬ អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
-អ្នក មើល ការ ខុស ត្រូវ នៅ Networking នរណា ជា ? , Ask About Top Management Personal
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ CADT ? , Ask About Trending News
+សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន បង្គន់ នោម ទេ ?,DoesToiletExist
+អ្នក មើល ការ ខុស ត្រូវ នៅ ណេតវើក នរណា ជា ? , Ask About Top Management Personal
 តើ នៅ IDRI មាន កន្លែង ណា លេង ទេ ? , Ask About Playground
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ៣០៥ នៅ កន្លែង ណា ? , Find Room
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ក្រោម មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស កុងហ្គោ ដែល ឬ អត់ ? , Is Country Exist
-ក្នុង នេះ មាន ស្រាវជ្រាវ អ្វី សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ ប្រទេស ណាមីប៊ី មាន មែន ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង បណ្តាញ ? , Curiculum In Each Major
-តើ អ្នក ដឹក ទេ ថា នៅ CADT មាន ការងារ ដែល គេ កំពុង ជ្រើស រើស បុគ្គលិក ទេ ? , Ask About Job Opportunities
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
-ចូល ប្រាប់ នៅ ឯ CADT Research លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោក គ្រូសុភាព បាន ? , Find Room
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ បង្អស់ មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
+តើ ប្រទេស ដូមីនីកា មាន ឬ អត់ ? , Is Country Exist
+ចូល ប្រាប់ នៅ ឯ នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ ពិត ជា មាន ប្រទេស ប៉ាឡេស្ទីន ឬ អត់ ? , Is Country Exist
+តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង Telecomsand Networking ? , Curiculum In Each Major
+តើ មាន ធុរ កិច្ច ណា ខ្លះ ក្នុង កន្លែង នេះ ? , Ask For Start Up In The Innovation Center
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ផ្ទាល់ ដី មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
+នៅ ទី នេះ មាន Research អ្វី សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
 រ៉ូបូត តើ នៅ អគារ IDT កន្លែង ដោះ ទុក សត្វ នៅ ទី ណា ?,FindToilet
-អ្នក គ្រប់ គ្រង នៅ Network អ្នក ណា ជា ? , Ask About Top Management Personal
+អ្នក គ្រប់ គ្រង នៅ ណេតវើក កីង អ្នក ណា ជា ? , Ask About Top Management Personal
 តើ នៅ វិទ្យា ស្ថាន ស៊ីតិក ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
-តើ បង សិទ្ធ ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ដែល ? , Ask About Staff Room
-តើ អាច មាន ប្រទេស ហ្វីជី ដែល ឬ អត់ ? , Is Country Exist
-តើ ទី តាំង ធ្វើ ការ របស់ លោក នាយក នៅ ទីណា ? , Ask About Staff Room
+តើ ទី តាំង បន្ទប់ របស់ លោក នាយក នៅ ទី ណា ដែល ? , Ask About Staff Room
+តើ ប្រទេស ក្រិក មាន ឬ អត់ ? , Is Country Exist
+តើ បន្ទប់ របស់ ផ្នែក អេហ្វអា នៅ ទីណា ? , Ask About Staff Room
 តើ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ ជា របស់ ឯក ជន មែន ឬ ទេ ? , Ask About Institution
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង បូរី មែន ឫ ទេ ? , Ask About Creator
-ប្រាប់ ខ្ញុំ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
-តើ ប្រទេស ម៉ុងសឺរ៉ាត់ មាន ឬ អត់ ? , Is Country Exist
-លា ហើយ មនុស្ស យន្ត,SayGoodbye
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង ម៉ានុត មែន ឫ ទេ ? , Ask About Creator
+ប្រាប់ នៅ សុីអេ ដីធី Research លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
+តើ ពិត ជា មាន ប្រទេស ន័រវេ ឬ ទេ ? , Is Country Exist
+ចូល ប្រាប់ នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
 តើ វិទ្យា ស្ថាន ស៊ីតិក ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
-តើ ពិត ជា មាន ប្រទេស កោះ ម៉ាន់ ឬ ទេ ? , Is Country Exist
-តើ លេខ ទូរសព្ទ របស់ លោក គ្រូសុភាព លេខ ប៉ុន្មាន ខ្លះ ? , Ask About Staff Phone Number
-តើ អាច មាន ប្រទេស អ៊ូស បេគីស្ថាន ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT ? , Ask About Trending News
-តើ មាន ប្រទេស អាហ្វហ្គានីស្ថាន ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស ស៊ីរី ដែល ឬ អត់ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស ថៃ ដែល ឬ ទេ ? , Is Country Exist
-មាន បង្គន់ បត់ ជើង ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
-តើ មាន ធុរ កិច្ច អី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ? , Ask For Start Up In The Innovation Center
-តើ លោក គ្រូសុភាព ធ្វើ ការ នៅ បន្ទប់ មួយ ណា ? , Ask About Staff Room
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នេះ ? , Ask About Trending News
+តើ មាន ប្រទេស សាធារណរដ្ឋ កៀហ្ស៊ីស៊ី ឬ ទេ ? , Is Country Exist
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បង ផានិត បន្តិច បាន ដែល ទេ ? , Ask About Staff Phone Number
+មេត្តា ប្រាប់ ខ្ញុំ កន្លែង របស់ កន្លែង ប្រជុំ មក Robot,FindMeetingRoom
+តើ មាន រឿង ថ្មី អ្វី នៅ CADT ? , Ask About Trending News
+តើ អាច មាន ប្រទេស អូស្ត្រាលី ដែល ឬ អត់ ? , Is Country Exist
+តើ អាច មាន ប្រទេស ទួរគី ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន ប្រទេស សហព័ន្ធ អារ៉ាប់ រួម ដែល ឬ ទេ ? , Is Country Exist
+មាន កន្លែង ជុះ ទេ នៅ សាលា នឹង ?,DoesToiletExist
+តើ មាន ធុរ កិច្ច Cam Mob ក្នុង ទី នេះ ឬ ទេ ? , IsStart Up Exist
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសិរី នៅ ទីណា ? , Ask About Staff Room
+តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នេះ ? , Ask About Trending News
 តើ អង្គ ការ សហគមន៍ អាមេរិក គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
-មាន បង្គន់ ទេ នៅ សាលា នឹង ?,DoesToiletExist
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ណារី ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ៣០៦ នៅ ឯ ណា ? , Find Room
-តើ ពិត ជា មាន ប្រទេស គុយវ៉ែត ដែល ឬ អត់ ? , Is Country Exist
+មាន កន្លែង បត់ ជើង ឬ អត់ នៅ សាលា នឹង ?,DoesToiletExist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ផ្ទាល់ ដី មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+តើ លេខ ទូរសព្ទ របស់ លោក គ្រូ សិទ្ធ លេខ ប៉ុន្មាន ដែល ? , Ask About Staff Phone Number
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូសុភាព នៅ ឯ ណា? , Find Room
+តើ មាន ប្រទេស ម៉ាសេដូនី ដែល ឬ អត់ ? , Is Country Exist
 នៅ ជាន់ លើ គេ បង្គន់ បត់ ជើង នៅ ឯ ណា?,FindToilet
-អ្នក មើល ការ ខុស ត្រូវ ខាង តេឡេខម អ្នក ណា ជា ? , Ask About Top Management Personal
-ចូល ប្រាប់ ទី នេះ ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ អាច មាន ប្រទេស ហ្សាម៉ាអ៊ីក ដែល ឬ ទេ ? , Is Country Exist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោនាយក នៅ ទី កន្លែង ណា ? , Find Room
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ សុីអេ ដីធី ? , Ask About Trending News
-មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-តើ មាន ប្រទេស អាហ្សង់ទីន ដែល ឬ ទេ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស តង់ហ្សានី ឬ ទេ ? , Is Country Exist
-តើ ពិត ជា មាន ប្រទេស ឡាតវី ឬ អត់ ? , Is Country Exist
-តើ រ៉ូបូត ឯង បង្កើត ដោយ ផានន្ទ ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ គាំទ្រ ការ បង្រៀន នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-តើ ទី តាំង បន្ទប់ របស់ លោក នាយក នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
+ទី នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
+តើ ប្រទេស លីបង់ ឡេសូតូ មាន ឬ ទេ ? , Is Country Exist
+តើ ខ្ញុំ អាច រក បន្ទប់ ធីអេសសុី តាម វីធីណា ? , Find Room
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ ដីធី ? , Ask About Trending News
+មាន បង្គន់ នោម ទេ នៅ ជាន់ លើ ?,DoesToiletExist
+តើ អាច មាន ប្រទេស បែលហ្ស៊ិក ដែល ឬ ទេ ? , Is Country Exist
+តើ មាន ប្រទេស អ៊ុយក្រែន ឬ ទេ ? , Is Country Exist
+តើ មាន ប្រទេស ម៉ាឡេស៊ី ឬ អត់ ? , Is Country Exist
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ផានន្ទ ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+តើ មាន ប្រទេស អាហ្វហ្គានីស្ថាន ឬ អត់ ? , Is Country Exist
+តើ ផ្នែក អេហ្វអ ធ្វើ ការ នៅ អាគារ ណា ? , Ask About Staff Room
 មនុស្ស យន្ត តើ នៅ អគារ នេះ បង្គន់ នោម នៅ ទី ណា ?,FindToilet
 ពេល ដែល រៀន ស្ថាបត្យកម្ម កុំព្យូទ័រ នឹង ហើយ យើង អាច មាន សមត្ថ ភាព បែប ណា ខ្លះ ?,AskAboutClassSubject
-តើ ប្រទេស នីហ្សេរី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម ម៉ានុតមែន ឬ អត់ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស នីហ្សេរីយ៉ា ឬ ទេ ? , Is Country Exist
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ ក្នុង នេះ ? , Ask About Trending News
-តើ មាន ប្រទេស វៀតណាម ឬ អត់ ? , Is Country Exist
-តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូផានិត នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
-តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ក្នុង ជំនាញ Telecoms and Networking ? , Curiculum In Each Major
-ណាកន្លែង ប្រជុំ ជាមួយ លោក Alexander ?,FindMeetingRoom
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ ទី នេះ ? , Ask About Trending News
+តើ ប្រទេស អ៊ូសបេគីស្ថាន មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ឈុន ហៀក មែន ឬ អត់ ? , Ask About Creator
+តើ មាន ប្រទេស ព័រទុយហ្គាល់ ឬ ទេ ? , Is Country Exist
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ ក្នុង នេះ ? , Ask About Trending News
+កន្លែង ប្រជុំ ម៉ោង បួន នៅ ទី ណា ?,FindMeetingRoom
+តើ បន្ទប់ របស់ បង សិទ្ធ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ IT ? , Curiculum In Each Major
+Robot ប្រាប់ បាន ទេ ថា កន្លែង ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ណា ?,FindMeetingRoom
+សួរ A ឆ្លើយ B,Dissatisfied
 តើ មាន ក្រុម ហ៊ុន អី ខ្លះ ក្នុង នេះ ? , Ask For Company In The Innovation Center
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សេងសុភាព ដែរ ឫ ទេ ? , Ask About Top Management Personal
-CADT មាន ស្រាវជាវ អ្វី ខ្លះ ,AskAboutResearch
-តើ មាន ប្រទេស យេម៉ែន ដែល ឬ អត់ ? , Is Country Exist
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ក្រោម មាន កន្លែង នោម ទេ ?,DoesToiletExist
-តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ ណេត វើក កីង ? , Curiculum In Each Major
-តើ បន្ទប់ ស្រាវជ្រាវ នៅ កន្លែង ណា បាន ទេ ? , Find Room
-តើ អាច មាន ប្រទេស អ៊ុយក្រែន ដែល ឬ ទេ ? , Is Country Exist
-តើ មាន រៀន ស្អី ខ្លះ ខាង computerscience ? , Curiculum In Each Major
-តើ បន្ទប់ ១០៤ នៅ ទី ណា ? , Find Room
-តើ រ៉ូបូត ឯង បង្កើត ដោយ សុកហេង ពិត ប្រាកដ ទេ ? , Ask About Creator
-មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់ ទី ២ ?,DoesToiletExist
+ចូល ប្រាប់ នៅ ទី នេះ Research លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
+បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ព្រឹក នេះ នៅ ណា ?,FindMeetingRoom
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ បង្អស់ មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
+តើ Network មាន កម្ម វិធី សិក្សា អី ខ្លះ ? , Curiculum In Each Major
+តើ មាន ប្រទេស អាមេនី ឬ អត់ ? , Is Country Exist
+ប្រាប់ ខ្ញុំ ទី តាំង របស់ បន្ទប់ ប្រជុំ មក មនុស្ស យន្ត,FindMeetingRoom
+តើ មាន រៀន ស្អីគេ ខ្លះ ខាង ណេតវើក កីង ? , Curiculum In Each Major
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ២០១ នៅ ទី ណា ? , Find Room
+តើ រ៉ូបូត ឯង បង្កើត ដោយ ម៉ានុត ពិត ប្រាកដ ទេ ? , Ask About Creator
+មាន កន្លែង បន្ទោរ បង់ ឬ អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
 បន្ទប់ របស់ លោក Alexander នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
-តើ អាយឌីអអាយ មាន កន្លែង សម្រាប់ ហូបបាយ ទេ ? , Ask About Canteen
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ ១០៦ នៅ ទី កន្លែង ណា បាន ទេ ? , Find Room
-តើ មាន កម្ម វិធី រៀន ស្អីគេ ខ្លះ ខាង អុីខមមើស ? , Curiculum In Each Major
-តើ ធ្វើ មិច ទើប បាន ការិយាល័យ ? , Ask About To Get The Working Space Ask About ToGet The Working Space
-តើ អ្នក ពេញ ចិត្ត ខ្ញុំ ដែល ឬ ទេ ? ,
-កន្លែង ណា កន្លែង ប្រជុំ ជាមួយ នាយក សាលា ?,FindMeetingRoom
-តើ មាន ប្រទេស ហ្គ្រីនឡិន មែន ឬ ទេ ? , Is Country Exist
-តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ Information Technology ? , Curiculum In Each Major
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ១០៤ នៅ កន្លែង ណា ? , Find Room
-តើ មាន ស្តាត អាប់ Cam Mob នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ? , IsStart Up Exist
+ទៅ មុន ហើយ ណា មនុស្ស យន្ត,SayGoodbye
+តើ ខ្ញុំ អាច រក បន្ទប់ ២០៤ តាម ណា ? , Find Room
+តើ មាន រៀន អី ខ្លះ ខាង អាយធី ? , Curiculum In Each Major
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មែន ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDRI មែន ទេ ? , Ask About Makerspace
+Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ទី ណា ?,FindMeetingRoom
+តើ អាច មាន ប្រទេស ហុងគ្រី មែន ឬ ទេ ? , Is Country Exist
+តើ មាន រៀន ម៉េច ខ្លះ នៅ ក្នុង ជំនាញ ទូរគមនាគមន៍ និង បណ្តាញ ? , Curiculum In Each Major
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ២០២ បាន ? , Find Room
+អ្នក មើល ការ ខុស ត្រូវ ខាង វិទ្យា សាស្រ្ត កុំព្យូទ័រ អ្នក ណា ជា ? , Ask About Top Management Personal
 អគារ នៅ អុីននូវេសុិន សេនធឺសាង សង ឡើង សម្រាប់ ធ្វើ អ្វី ខ្លះ ? , Ask Building Information InCADT
-តើ អាច មាន ប្រទេស ព័រទុយហ្គាល់ ឬ អត់ ? , Is Country Exist
-តើ មាន ប្រទេស ហ្គឺន ស៊ីមែន ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស ស៊ែប៊ី មែន ឬ ទេ ? , Is Country Exist
+តើ អាច មាន ប្រទេស អ៊ីរ៉ង់ មែន ឬ អត់ ? , Is Country Exist
 នៅ ជាន់ លើ គេ បង្អស់ បង្គន់ នៅ ទី ណា ?,FindToilet
-អ្នក ទទួល ខុស ត្រូវ ក្នុង វិទ្យា សាស្រ្ត កុំព្យូទ័រ អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
-តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូ ចាន់តូ នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ លើ គេ មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស អាល់ហ្សេរីមែន ឬ អត់ ? , Is Country Exist
-កន្លែង ណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន ?,FindMeetingRoom
-បង្ហាញ ខ្ញុំ នៅ នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
-តើ អាច មាន ប្រទេស ស្វាស៊ីឡង់ មែន ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង Telecomsand Networking ? , Curiculum In Each Major
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
-តើ ប្រទេស អេហ្ស៊ីប មាន ឬ អត់ ? , Is Country Exist
-តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសុភាព តាម វីធីណា បាន ? , Find Room
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ គេ បង្អស់ មាន កន្លែង ដោះ ទុក សត្វ អត់ ?,DoesToiletExist
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ គាំទ្រ ការ បង្រៀន នៅ ទី ណា ? , Find Room
-អ្នក ទទួល ខុស ត្រូវ នៅ Telecomsand Networking អ្នក ណា ជា ? , Ask About Top Management Personal
-ឯណា បន្ទប់ ប្រជុំ ជាមួយ ក្រសួង សាធារណការ និង ដឹក ជញ្ជូន ?,FindMeetingRoom
-តើ មាន ប្រទេស ស៊ុយអែត ឬ អត់ ? , Is Country Exist
+អ្នក ទទួល ខុស ត្រូវ ក្នុង Networking អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ បន្ទប់ របស់ បង សុធារ៉ា នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ អាគារ នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
+តើ ពិត ជា មាន ប្រទេស បារ៉ែន ដែល ឬ ទេ ? , Is Country Exist
+មនុស្ស យន្ត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ទី ណា ?,FindMeetingRoom
+ប្រាប់ ខ្ញុំ នេះ Research លើ ? ,AskAboutResearch
+តើ ប្រទេស តុងហ្គា មាន មែន ឬ ទេ ? , Is Country Exist
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង IT ? , Curiculum In Each Major
+តើ ពិត ជា មាន ប្រទេស បារាំង ខាង លិច ឥណ្ឌ ឬ ទេ ? , Is Country Exist
+តើ បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ កន្លែង ណា ? , Find Room
+តើ យើង អាច រក បន្ទប់ ១០៤ ដោយ វីធីណា បាន ? , Find Room
+តើ ពិត ជា មាន ប្រទេស អាហ្វហ្គានីស្ថាន ដែល ឬ ទេ ? , Is Country Exist
+អ្នក ទទួល ខុស ត្រូវ នៅ បណ្តាញ អ្នក ណា ជា ? , Ask About Top Management Personal
+រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ឯ ណា?,FindMeetingRoom
+តើ អាច មាន ប្រទេស ទ្រីនីដាដ តូបាហ្គោ ឬ អត់ ? , Is Country Exist
 តើ នៅ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
-តើ អាច មាន ប្រទេស ប៉ាគីស្ថាន ឬ ទេ ? , Is Country Exist
-អ្នក រ៉ាប់ រង ខាង កុំព្យូទ័រ សាយអេន អ្នក ណា ជា ? , Ask About Top Management Personal
-ប្រាប់ ខ្ញុំ នៅ នេះ Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ NIPTICT ? , Ask About Trending News
+តើ ពិត ជា មាន ប្រទេស រ៉ូម៉ានី ដែល ឬ អត់ ? , Is Country Exist
+អ្នក រ៉ាប់ រង ខាង Network អ្នក ណា ជា ? , Ask About Top Management Personal
+ប្រាប់ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ នៅ ជាន់ ទី ១០ មាន ធុង ទឹក ទេ ? , Ask About Water Refill
 តើ មាន ក្រុម ហ៊ុន Book Me Bus នៅ នឹង ទី នេះ ដែល ទេ ? , Is Company Exist
-អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព ? , Ask About Top Management Personal
-តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោក គ្រូ ផានិត នៅ កន្លែង ណា ? , Find Room
-តើ ប្រទេស លីប៊ី មាន ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស យេម៉ែន មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ ផ្នែក ធនធាន មនុស្ស ធ្វើ ការ នៅ បន្ទប់ ណា ? , Ask About Staff Room
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ កន្លែង នេះ មាន កន្លែង បត់ ជើង ឬ ទេ ?,DoesToiletExist
-តើ លេខ ទំនាក់ទំនង របស់ បង លីហៀក លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
-តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ ពត៌មាន វិទ្យា ? , Curiculum In Each Major
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មែន ទេ ? , Ask About Makerspace
-តើ ពិត ជា មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែនមែន ឬ ទេ ? , Is Country Exist
-មាន បង្គន់ នោម ឬ ទេ នៅ ជាន់ ទី ២ ?,DoesToiletExist
-ចូល ប្រាប់ សុី អេ ដីធី Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន ? , Ask About Top Management Personal
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូ នាយក នៅ កន្លែង ណា ? , Find Room
+តើ ពិត ជា មាន ប្រទេស ម៉ូរីតានី ឬ ទេ ? , Is Country Exist
+មាន បង្គន់ អណាម័យ ឬ ទេ នៅ ជាន់ ក្រោម ?,DoesToiletExist
+តើ ទី តាំង បន្ទប់ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី មួយ ណា ? , Ask About Staff Room
+សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ក្រោម មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
+តើ លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក អេហ្វអ លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
+តើ មាន រៀន អ្វី ខ្លះ នៅ ក្នុង ជំនាញ បណ្តាញ ? , Curiculum In Each Major
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា ស្ថាន ស្រាវជ្រាវ អភិវឌ្ឍន៍ កម្ពុជា មែន ទេ ? , Ask About Makerspace
+តើ មាន ប្រទេស ហ្វាំងឡង់ មែន ឬ ទេ ? , Is Country Exist
+មាន កន្លែង នោម អត់ នៅ ជាន់ ទី ២ ?,DoesToiletExist
+នៅ នេះ មាន Research អ្វី សម្រាប់ សិស្ស ? ,AskAboutResearch
 រ៉ូបូត ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក អាឡិច នៅ ណា ?,FindEmployeeRoom
-អ្នក ទទួល ខុស ត្រូវ នៅ ទូរគមនាគមន៍ អ្នក ណា ជា ? , Ask About Top Management Personal
-តើ ប្រទេស ហ្គាណា មាន ឬ ទេ ? , Is Country Exist
-សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ ទី ២ មាន កន្លែង ជុះ ឬ អត់ ?,DoesToiletExist
-តើ ប្រទេស អារូបា មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
-តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ទី ផ្សារ នៅ ជាន់ ទី ប៉ុន្មាន ? , Ask About Staff Room
-តើ អ្នក ដឹក ទេ ថា នៅ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន ការងារ ដែល គេ កំពុង ជ្រើស រើស បុគ្គលិក ទេ ? , Ask About Job Opportunities
-តើ អាច មាន ប្រទេស ហ្គាណា ដែល ឬ អត់ ? , Is Country Exist
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បូរី មែន ឫ ទេ ? , Ask About Creator
-តើ មាន រឿង ប្លែក ៗ អ្វី កន្លែង នេះ ? , Ask About Trending News
-ប្រាប់ ខ្ញុំ នៅ នឹង Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-មាន បង្គន់ អណាម័យ ឬ ទេ នៅ អាគារ នេះ ?,DoesToiletExist
+អាច និយាយ ពី ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ? , Ask About Top Management Personal
+តើ ពិត ជា មាន ប្រទេស ហុងឌូ រ៉ាសមែន ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន កន្លែង បន្ទោរ បង់ ឬ អត់ ?,DoesToiletExist
+តើ ប្រទេស ហ្គាបុន មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ? , Ask About Countries
+រ៉ូបូត ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ការ អភិវឌ្ឍន៍ កម្ម វិធី មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
+តើ មាន ធុរ កិច្ច អី នៅ នឹង ទី នេះ ? , Ask For Start Up In The Innovation Center
+តើ ប្រទេស ហ្គីយ៉ាណា ហៃ ទី មាន ឬ អត់ ? , Is Country Exist
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ នេះ ? , Ask About Trending News
+តើ Robot ឯង បង្កើត ដោយ សុកហេង មែនឫ ទេ ? , Ask About Creator
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី កន្លែង នេះ ? , Ask About Trending News
+ប្រាប់ នៅ នឹង ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+មាន កន្លែង ជុះ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
 តើ មាន វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មែន ឫ ទេ ? , Is Institution Exist
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ ក្នុង នេះ ? , Ask About Trending News
-តើ អាច មាន ប្រទេស ហ្សំប៊ី ដែល ឬ ទេ ? , Is Country Exist
-តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក រីគ្រូទ័រ បាន ដែល ទេ ? , Ask About Staff Phone Number
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ នឹង មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ ក្នុង នេះ ? , Ask About Trending News
+កន្លែង ប្រជុំ ពាក់ ព័ន្ធ នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ កន្លែង ណា ?,FindMeetingRoom
+តើ មាន ព័ត៌មាន ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ លើ មាន បង្គន់ អត់ ?,DoesToiletExist
 បន្ទប់ របស់ លោក គ្រូ បញ្ញា នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
 មនុស្ស យន្ត តើ នៅ អគារ IDT បង្គន់ នៅ ណា ?,FindToilet
-តើ ពិត ជា មាន ប្រទេស សហព័ន្ធ អារ៉ាប់ រួម ឬ ទេ ? , Is Country Exist
+ប្រាប់ ខ្ញុំ កន្លែង របស់ កន្លែង ប្រជុំ មក Robot,FindMeetingRoom
 បន្ទប់ របស់ លោក សុភី នៅ ជាន់ នេះ ត្រូវ ទេ ?,FindEmployeeRoom
-តើ ទី តាំង ធ្វើ ការ របស់ លោក នាយក នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
-តើ យើង អាច រក បន្ទប់ ១០៥ តាម វីធីណា បាន ? , Find Room
-តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ ២០២ នៅ ទី ណា បាន ទេ ? , Find Room
-តើ ពិត ជា មាន ប្រទេស បែលហ្ស៊ិក ឬ អត់ ? , Is Country Exist
-តើ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក អេហ្វអ លេខ អ្វី ខ្លះ ? , Ask About Staff Phone Number
-តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ទេសចរណ៍ មាន រីហ្វីល ទឹក ទេ ? , Ask About Water Refill
-លោក គ្រូណា ជា អ្នក បង្រៀន ការ គ្រប់ គ្រង គម្រោង ?,FindLecturerForSubject
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT ? , Ask About Trending News
-តើ មាន ប្រទេស ស៊ែប៊ី មែន ឬ អត់ ? , Is Country Exist
-នៅ ឯ នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
-តើ អាច មាន ប្រទេស សីស្ហែល ឬ ទេ ? , Is Country Exist
-តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ ណេតវើក ? , Curiculum In Each Major
-តើ បន្ទប់ របស់ លោក គ្រូសុភាព នៅ ទី ណា ? , Find Room
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ភីអ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
-អ្នក រ៉ាប់ រង ខាង computerscience នរណា ជា ? , Ask About Top Management Personal
-តើ មាន ធុរ កិច្ច អ្វី នៅ ក្នុង ទី នេះ ? , Ask For Start Up In The Innovation Center
+តើ បន្ទប់ របស់ ផ្នែក អេហ្វអា នៅ ជាន់ ណា ដែល ? , Ask About Staff Room
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ២០២ នៅ ឯ ណា ? , Find Room
+តើ យើង អាច រក បន្ទប់ ២០៦ តាម របៀប ណា បាន ? , Find Room
+តើ មាន ប្រទេស ប្រ៊ុយណេ ឬ អត់ ? , Is Country Exist
+តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ? , Ask About Trending News
+តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូសិទ្ធ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ណេតវើក ? , Curiculum In Each Major
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ CADT ? , Ask About Trending News
+តើ អាច មាន ប្រទេស ស៊ូដង់ មែន ឬ អត់ ? , Is Country Exist
+បង្ហាញ ខ្ញុំ នៅ សុី អេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
+តើ ពិត ជា មាន ប្រទេស ស្វាស៊ីឡង់ ដែល ឬ អត់ ? , Is Country Exist
+តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង ជំនាញ Networking ? , Curiculum In Each Major
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ នៅ ទី ណា ? , Find Room
+តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ? , Curiculum In Each Major
+អ្នក រ៉ាប់ រង ខាង Telecoms នរណា ជា ? , Ask About Top Management Personal
+តើ មាន ស្តាត អាប់ Cam Mob នៅ ក្នុង អាគារ នេះ ឬ ទេ ? , Is Start Up Exist
 តើ មនុស្ស យន្ត ឯង ដឹង ទេ ថា បន្ទប់ Jupyter គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose
-តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសិរី នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
-កន្លែង នេះ មាន Research អ្វី ខ្លះ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ បន្ទប់ របស់ បង ផានិត នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+ចូល ប្រាប់ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
 ប្រាប់ ខ្ញុំ មក បន្ទប់ ៣០១ គេ ប្រើ ធ្វើ អ្វី ?,FindRoomPurpose
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង សុធី រិទ្ធ មែន ឬ អត់ ? , Ask About Creator
+តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង សុកហេង មែន ឬ អត់ ? , Ask About Creator
 តើ នៅ វិទ្យា ស្ថាន ថាក់គ្លូប៊ល ជំនាញ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នេះ ? , Ask About Trending News
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ សុី អេដីធី ? , Ask About Trending News
-ប្រាប់ សុី អេ ដីធី Research លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
-តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ IT ? , Curiculum In Each Major
-តើ បន្ទប់ របស់ លោក នាយក នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
-តើ ពិត ជា មាន ប្រទេស លីចតេនស្ទីន ដែល ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស សាធារណរដ្ឋ កៀហ្ស៊ីស៊ី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
-តើ Networking មាន រៀន ស្អី គេ ខ្លះ ? , Curiculum In Each Major
-ចូល ប្រាប់ ទី នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
+តើ មាន រឿង ប្លែក ៗ អ្វី នេះ ? , Ask About Trending News
+តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់ ទី ៦ មាន refill ទឹក ទេ ? , Ask About Water Refill
+តើ ប្រទេស នា វា ទេសចរណ៍ គុយបា ជាន់ និង ប្រទេស ណា ខ្លះ ? , Ask About Countries
+តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ ណេតវើក ? , Curiculum In Each Major
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក អេហ្វអ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
+តើ មាន ប្រទេស ម៉ូរីតានី ដែល ឬ អត់ ? , Is Country Exist
+តើ ប្រទេស ស៊ែប៊ី មាន ប្រវែង ប៉ុន្មាន ? , Ask About Countries
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ អាយឌីអ អាយ មែន ទេ ? , Ask About Makerspace
+ទី នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ ពួក យើង ? ,AskAboutResearch
 អគារ ខេត មាន ប៉ុន្មាន ? , Ask Building Information InCADT
-តើ មាន ប្រទេស ហ្សកហ្ស៊ី អាឡឺម៉ង់ មែន ឬ ទេ ? , Is Country Exist
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ? , Ask About Top Management Personal
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ គីម ហុង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+តើ អាច មាន ប្រទេស ហ្គីណេ ប៊ីសសូមែន ឬ ទេ ? , Is Country Exist
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ យ៉ា ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
 នៅ ជាន់ ផ្ទាល់ ដី បន្ទប់ ទឹក នៅ កន្លែង ណា ?,FindToilet
-តើ Robot ឯង បង្កើត ដោយ បង លីហៀក ពិត ឬ អត់ ? , Ask About Creator
-សុំ សួរ មួយ Robot តើ នៅ ជាន់ នេះ មាន បង្គន់ បត់ ជើង ឬ អត់ ?,DoesToiletExist
-តើ បន្ទប់ របស់ ផ្នែក អេហ្វអា នៅ អាគារ ណា ដែល ? , Ask About Staff Room
-នៅ ឯ សុី អេ ដីធី មាន Research អ្វី ខ្លះ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោក គ្រូលីហៀក នៅ កន្លែង ណា ? , Find Room
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ២ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-អ្នក មើល ការ ខុស ត្រូវ ក្នុង Networking នរណា ជា ? , Ask About Top Management Personal
-តើ មាន ប្រទេស អង់គ្លេស ដែល ឬ ទេ ? , Is Country Exist
-មនុស្ស យន្ត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា បន្ទប់ ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍ ទៅ បារាំង នៅ ទី ណា ?,FindMeetingRoom
-អ្នក ទទួល បន្ទុក នៅ Telecomsand Networking អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង លីហៀក ពិត ឬ អត់ ? , Ask About Creator
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ផ្ទាល់ ដី មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ស្រាវជ្រាវ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+បង្ហាញ ខ្ញុំ នៅ ឯ CADT ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
+តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូ ផានិត តាម របៀប ណា ? , Find Room
+តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ ១០១ នៅ កន្លែង ណា ? , Find Room
+អ្នក មើល ការ ខុស ត្រូវ ក្នុង ណេតវើក នរណា ជា ? , Ask About Top Management Personal
+ជួយ ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ មក មនុស្ស យន្ត,FindMeetingRoom
+តើ មាន ធុរ កិច្ច អ្វី នៅ នឹង អគារ នវានុវត្តន៍ ? , Ask For Start Up In The Innovation Center
+អ្នក ទទួល បន្ទុក នៅ បណ្តាញ អ្នក ណា ជា ? , Ask About Top Management Personal
 បន្ទប់ របស់ លោក អាឡិច នៅ ជាន់ លើ គេ មែន ទេ ?,FindEmployeeRoom
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព ? , Ask About Top Management Personal
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ IDT ពិត ទេ ? , Ask About Makerspace
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង Information Technology ? , Curiculum In Each Major
-តើ ទី តាំង បន្ទប់ របស់ ផ្នែក ស្រាវជ្រាវ នៅ អាគារ មួយ ណា ដែល ? , Ask About Staff Room
-តើ មាន រៀន ស្អី ខ្លះ ហាខាង computerscience ? , Curiculum In Each Major
-តើ ពត៌មាន វិទ្យា មាន កម្ម វិធី រៀន អ្វី ខ្លះ ? , Curiculum In Each Major
-តើ មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ ណេត វើក កីង ? , Curiculum In Each Major
-តើ ទូរគមនាគមន៍ និង បណ្តាញ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ? , Curiculum In Each Major
-តើ ប្រទេស ទួរគី មាន ឬ ទេ ? , Is Country Exist
-សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
-តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ Telecoms ? , Curiculum In Each Major
-តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ ណារី ពិត ឬ អត់ ? , Ask About Creator
-តើ Robot ឯង បង្កើត ដោយ បូរី ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ នៅ វិទ្យា ស្ថាន ពហុ បច្ចេកទេស ព្រះ កុសុមៈ មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
-តើ បន្ទប់ ធីអេសសុី នៅ ទីណា ? , Find Room
+តើ អាយឌីធី មាន កន្លែង លក បាយ ដែល ឫ ទេ ? , Ask About Canteen
+តើ បណ្តាញ មាន កម្ម វិធី សិក្សា អី ខ្លះ ? , Curiculum In Each Major
+មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ការ គ្រប់ គ្រង គម្រោង មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
+តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ? , Curiculum In Each Major
+តើ ណេត វើក មាន រៀន ស្អី ខ្លះ ? , Curiculum In Each Major
+តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង ជំនាញ Network ? , Curiculum In Each Major
+តើ មាន រឿង អ្វី កើត ឡើយ ? ,
+តើ ពិត ជា មាន ប្រទេស ហ្សំប៊ីមែន ឬ អត់ ? , Is Country Exist
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ទី ២ មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
+តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ computerscience ? , Curiculum In Each Major
+រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ គីម ហុងពិត ឬ អត់ ? , Ask About Creator
+តើ រ៉ូបូត ឯង បង្កើត ដោយ សុកហេង ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
+ចូល ប្រាប់ កន្លែង នេះ Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+តើ ពិត ជា មាន ប្រទេស អាល់ហ្សេរី មែន ឬ ទេ ? , Is Country Exist
 តើ មាន ក្រុម ហ៊ុន អី ក្នុង កន្លែង នេះ ? , Ask For Company In The Innovation Center
 រ៉ូបូត តើ នៅ អគារ IDT បង្គន់ បត់ ជើង នៅ ណា ?,FindToilet
-តើ ប្រទេស ព័រតូ រីកូ មាន ឬ ទេ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស សីស្ហែល មែន ឬ អត់ ? , Is Country Exist
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូលីហៀក ពិត ឬ ទេ ? , Ask About Creator
-តើ ពិត ជា មាន ប្រទេស សាធារណរដ្ឋ ដូមីនីកែន ឬ អត់ ? , Is Country Exist
+តើ មាន ប្រទេស ហ្វាំងឡង់ ឬ អត់ ? , Is Country Exist
 តើ វិទ្យា ស្ថាន ជាតិ ពហុ បច្ចេកទេស កម្ពុជា មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
 តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល មាន កន្លែង លេង ដែល ទេ ? , Ask About Playground
-តើ មាន ប្រទេស បេឡារុស ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស កូស្តា រីកា មាន ឬ ទេ ? , Is Country Exist
-បន្ទប់ ១០១ គ្រូ កំពុង បង្រៀន អ្វី ?,FindStudyRoomCurrentSubject
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ កន្លែង នេះ ? , Ask About Trending News
-តើ ពិត ជា មាន ប្រទេស ទឹក កក ដី ឬ អត់ ? , Is Country Exist
-តើ ប្រទេស ប៉ាពួ ញូ ហ្គីណេ មាន មែន ឬ ទេ ? , Is Country Exist
-តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូ នាយក តាម ណា ? , Find Room
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ CADT ? , Ask About Trending News
-តើ លេខ ទូរសព្ទ របស់ បង លីហៀកលេខ ប៉ុន្មាន ខ្លះ ? , Ask About Staff Phone Number
-តើ លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក បម្រើ សេវា កម្ម លេខ ប៉ុន្មាន ខ្លះ ? , Ask About Staff Phone Number
+តើ អាច មាន ប្រទេស កោះ វឺជីន របស់ អង់គ្លេស ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស អេហ្ស៊ីបមែន ឬ អត់ ? , Is Country Exist
+តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ក្នុង ជំនាញ ពត៌មាន វិទ្យា ? , Curiculum In Each Major
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ កន្លែង នេះ ? , Ask About Trending News
+តើ មាន ប្រទេស ជប៉ុន ឬ អត់ ? , Is Country Exist
+តើ ពិត ជា មាន ប្រទេស សាម័រ ឬ អត់ ? , Is Country Exist
+តើ បន្ទប់ របស់ លោក នាយក រង នៅ ទី កន្លែង ណា ? , Find Room
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ឯ CADT ? , Ask About Trending News
+តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក រីគ្រូទ័រ បន្តិច បាន ដែល ទេ ? , Ask About Staff Phone Number
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
 Robot ប្រាប់ ខ្ញុំ មួយ មក ថា បន្ទប់ របស់ លោក សុភី នៅ ណា ?,FindEmployeeRoom
-អ្នក មើល ការ ក្នុង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច នរណា ជា ? , Ask About Top Management Personal
+អ្នក មើល ការ ក្នុង ទូរគមនាគមន៍ និង បណ្តាញ នរណា ជា ? , Ask About Top Management Personal
 ពេល ដែល សិក្សា សហគ្រិន ភាព នឹង ហើយ យើង អាច ធ្វើ អ្វី បាន ខ្លះ ?,AskAboutClassSubject
 នៅ ជាន់ លើ គេ បង្អស់ បង្គន់ អណាម័យ នៅ កន្លែង ណា ?,FindToilet
-តើ បន្ទប់ របស់ ផ្នែក សម្រប សម្រួល កម្ម វិធី នៅ អាគារ ណា ដែល ? , Ask About Staff Room
-តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ១០២ បាន ដែល ឬ ទេ ? , Find Room
-តើ វិទ្យា ស្ថាន បច្ចេកវិទ្យា កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
-សុំ សួរ មួយ Robot តើ នៅ កន្លែង នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
-តើ អាច មាន ប្រទេស វៀតណាម មែន ឬ ទេ ? , Is Country Exist
-តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង សុក ហេង ពិត ទេ ? , Ask About Creator
-តើ ខ្ញុំ អាច រក បន្ទប់ ៣០៣ តាម របៀប ណា បាន ? , Find Room
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
-សូម ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ធ្វើ កិច្ច ប្រជុំ មក រ៉ូបូត,FindMeetingRoom
-តើ នៅ IDG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
-នៅ ណិពទិច មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
-តើ ពិត ជា មាន ប្រទេស តៃវ៉ាន់ ឬ អត់ ? , Is Country Exist
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ ទី នេះ ? , Ask About Trending News
+តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក ភីអ នៅ អាគារ ណា ដែល ? , Ask About Staff Room
+តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ ១០៥ នៅ ទី ណា បាន ទេ ? , Find Room
+ក្នុង នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
+សុំ សួរ មួយ Robot តើ នៅ ជាន់ ក្រោម មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
+បន្ទប់ ប្រជុំ ការណ៍ ព្រឹក នេះ នៅ កន្លែង ណា ?,FindMeetingRoom
+តើ Robot ឯង បង្កើត ដោយ បង ឈុន ហៀន ពិត ទេ ? , Ask About Creator
+តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ ៣០៦ បាន ដែល ទេ ? , Find Room
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា ? , Ask About Trending News
+ទីណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ អ្នក គ្រូ ចរិយា ?,FindMeetingRoom
+CADT មាន Research អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
+នៅ ឯ នេះ មាន Research អ្វី សម្រាប់ ពួក យើង ? ,AskAboutResearch
+តើ មាន ប្រទេស តូមិននីស្ថាន ឬ អត់ ? , Is Country Exist
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ ទី នេះ ? , Ask About Trending News
 តើ ក្រុម ហ៊ុន ស្មាត គេ កំពុង ប្រជុំ រឿង អ្វី នៅ សាល ប្រជុំ ធំ ?,FindMeetingRoomAgenda
-សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់ ទី ២ មាន កន្លែង នោម ទេ ?,DoesToiletExist
-អ្នក គ្រប់ គ្រង ក្នុង តេឡេខម អ្នក ណា ជា ? , Ask About Top Management Personal
+តើ ខ្ញុំ អាច រក បន្ទប់ ១០២ ដោយ វីធីណា បាន ? , Find Room
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ? , Ask About Top Management Personal
