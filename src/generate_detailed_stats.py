@@ -64,13 +64,33 @@ def collect_entities(segments: list[dict]) -> list[dict]:
     return entities
 
 
+def group_entities_into(dictionary: dict, segments: list[dict]):
+    for segment in [segment for segment in segments if segment["entity"]]:
+        entity_tag = segment["entity"]
+        entity_type = entity_tag.split("-")[1]
+
+        if not entity_type in dictionary:
+            dictionary[entity_type] = {}
+
+        if not entity_tag in dictionary[entity_type]:
+            dictionary[entity_type][entity_tag] = {}
+
+        if not segment["text"] in dictionary[entity_type][entity_tag]:
+            dictionary[entity_type][entity_tag][segment["text"]] = 0
+
+        dictionary[entity_type][entity_tag][segment["text"]] += 1
+
+    return dictionary
+
+
 def collect_stats(directory: str) -> tuple:
     files = os.listdir(directory)
 
     words_count = {}
     entities_count = {}
-    entity_types_count = {}
+    # entity_types_count = {}
     max_length = 0
+    entity_groups = {}
 
     for file in files:
         with open(directory + "/" + file, "r") as f:
@@ -84,13 +104,15 @@ def collect_stats(directory: str) -> tuple:
                 for word in segments:
                     count_into(words_count, word["text"])
 
-                for entity in collect_entities(segments):
-                    count_into(
-                        entities_count, entity["value"] + ":" + entity["type_code"]
-                    )
-                    count_into(entity_types_count, entity["type_code"])
+                group_entities_into(entity_groups, segments)
 
-    return words_count, entities_count, entity_types_count, max_length
+                # for entity in collect_entities(segments):
+                #     count_into(
+                #         entities_count, entity["value"] + ":" + entity["type_code"]
+                #     )
+                #     count_into(entity_types_count, entity["type_code"])
+
+    return words_count, entities_count, entity_groups, max_length
 
 
 def main():
