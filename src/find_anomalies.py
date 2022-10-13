@@ -1,7 +1,7 @@
 import os
 
 
-def main():
+def find_misalignments():
     encoded_dir = os.listdir("entity-tag")
 
     misalignments = []
@@ -46,6 +46,41 @@ def main():
         print(f"\t{file}")
     print(f"Total affected files: {len(affected_files)}")
     print(f"Total affected lines: {total_affected_lines}")
+
+
+def main():
+    find_misalignments()
+
+    # encoded_dir = "entity-tag"
+    # tagged_dir = "pos"
+
+    # encoded_lengths = {}
+    # encoded_files = os.listdir(encoded_dir)
+
+    # tagged_lengths = {}
+    # tagged_files = os.listdir(tagged_dir)
+
+    # unique_encoded_files = list(set(encoded_files))
+    # unique_tagged_files = list(set(tagged_files))
+
+    # if len(unique_encoded_files) != len(unique_tagged_files):
+    #     print("Number of encoded and tagged files do not match")
+    #     return
+
+    # for file in encoded_files:
+    #     with open(f"{encoded_dir}/{file}", "r") as f:
+    #         encoded_lengths[file] = len(f.readlines())
+
+    # for file in tagged_files:
+    #     with open(f"{tagged_dir}/{file}", "r") as f:
+    #         tagged_lengths[file] = len(f.readlines())
+
+    # for file in encoded_lengths:
+    #     print(f"{file}: {encoded_lengths[file]}, {tagged_lengths[file]}")
+
+    # for file in encoded_lengths:
+    #     if encoded_lengths[file] != tagged_lengths[file]:
+    #         print(f"File {file} has different number of lines")
 
 
 if __name__ == "__main__":
