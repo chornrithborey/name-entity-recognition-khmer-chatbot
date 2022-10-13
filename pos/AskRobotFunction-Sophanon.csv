@@ -1,54 +1,54 @@
 question,intent
-តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ការ/noun បាន/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron និយាយ/verb បាន/verb ប៉ុន្មាន/adv ភាសា/noun ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ដើរ/verb បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ឆ្លើយ/verb បាន/verb គ្រប់/adj សំនួរ/noun មែន/adv ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron និយាយ/verb បាន/verb ដោយសារ/conj អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ម៉េច/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/noun ស្តាប់/verb បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/noun ស្តាប់/verb បាន/verb ដោយសារ/conj អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ម៉េច/noun បាន/verb ជា/verb អ្នក/noun ស្តាប់/verb បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron មាន/verb អារម្មណ៍/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ជំនួស/verb ការងារ/noun របស់/adp មនុស្ស/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/noun ពូកែ/adj ជាង/adp មនុស្ស/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/noun ចេះ/verb កុហក/verb ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb ជាមួយ/adp ខ្ញុំ/pron បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ចលនា/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb អស់/verb ថ្ម/noun ដែល/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron ត្រូវការ/verb បញ្ចូល/verb ថ្ម/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron ត្រូវការ/verb សាក/noun ថ្ម/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ជួយ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្វី/noun ជា/verb មុខ/noun ងារ/noun ចម្បង/adj របស់/adp អ្នក/pron ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt ពាក្យ/noun បញ្ជា/verb របស់/adp អ្នក/pron ជា/verb អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt ពាក្យ/noun បញ្ជា/verb របស់/adp អ្នក/pron គឺ/verb ជា/verb អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun o/adp t/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ដើម្បី/conj ជួយ/verb សង្គម/noun ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ជំនួួ/verb ស/noun មនុស្ស/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ខឹក/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb សប្បាយ/verb ចិត្ត/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb យំទេ/verb ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb សើច/adj ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ញញឹម/verb បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ការងាអ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt មាន/verb អ្វី/noun ដែល/noun អាច/verb ធ្វើ/verb ឱ្យ/verb អ្នក/pron ខក/verb ចិត្ត/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt មាន/verb អ្វី/noun ដែល/noun អាច/verb ធ្វើ/verb អោយ/verb អ្នក/noun រំជួល/verb ចិត្ត/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ឆ្លាត/adj ជាង/adp មនុស្ស/noun ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt គោល/noun ដៅ/verb របស់/adp អ្នក/pron គឺ/verb ជា/verb អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron មាន/verb គោល/noun ដៅ/verb អ្វី/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb យក/verb ទៅ/adp ប្រើប្រាស់/verb ក្នុង/adp គោល/noun ដៅ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ជួយ/verb សម្រួយ/verb ការងារ/noun មនុស្ស/noun ក្នុង/adp គោល/noun ដៅ/verb អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ជួយ/verb សម្រួយ/verb ការងារ/noun មនុស្ស/noun ក្នុង/adp វិស័យ/noun អ្វី/noun ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb ខ្មែរ/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb ភាសា/noun ខ្មែរ/noun ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun អង់គ្លេស/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun ថៃ/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun ចិន/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun វៀតណាម/noun បាន/verb ទេ/prt ?/punct ,/punct Ask/noun Robot/noun Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun អង់គ្លេស/noun បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun ថៃ/noun បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun ចិន/noun បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun វៀតណាម/noun បាន/verb ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
-តើ/prt អ្នក/pron អាច/verb ជួយ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,/punct Ask/noun Rob/noun ot/adp Function/noun
+តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ការ/noun បាន/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron និយាយ/verb បាន/verb ប៉ុន្មាន/adv ភាសា/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ដើរ/verb បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ឆ្លើយ/verb បាន/verb គ្រប់/adj សំនួរ/noun មែន/adv ទេ/prt ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb បាន/verb ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron និយាយ/verb បាន/verb ដោយសារ/conj អ្វី/noun ?/punct ,AskRobotFunction
+ម៉េច/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb បាន/verb ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/noun ស្តាប់/verb បាន/verb ?/punct ,AskRobotFunction
+តើ/prt អ្នក/noun ស្តាប់/verb បាន/verb ដោយសារ/conj អ្វី/noun ?/punct ,AskRobotFunction
+ម៉េច/noun បាន/verb ជា/verb អ្នក/noun ស្តាប់/verb បាន/verb ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron មាន/verb អារម្មណ៍/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជំនួស/verb ការងារ/noun របស់/adp មនុស្ស/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/noun ពូកែ/adj ជាង/adp មនុស្ស/noun ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/noun ចេះ/verb កុហក/verb ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb ជាមួយ/adp ខ្ញុំ/pron បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ចលនា/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb អស់/verb ថ្ម/noun ដែល/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron ត្រូវការ/verb បញ្ចូល/verb ថ្ម/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron ត្រូវការ/verb សាក/noun ថ្ម/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជួយ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt អ្វី/noun ជា/verb មុខ/noun ងារ/noun ចម្បង/adj របស់/adp អ្នក/pron ?/punct ,AskRobotFunction
+តើ/prt ពាក្យ/noun បញ្ជា/verb របស់/adp អ្នក/pron ជា/verb អ្វី/noun ?/punct ,AskRobotFunction
+តើ/prt ពាក្យ/noun បញ្ជា/verb របស់/adp អ្នក/pron គឺ/verb ជា/verb អ្វី/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ដើម្បី/conj ជួយ/verb សង្គម/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជំនួួ/verb ស/noun មនុស្ស/noun បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ខឹក/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb សប្បាយ/verb ចិត្ត/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb យំទេ/verb ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb សើច/adj ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ញញឹម/verb បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ធ្វើ/verb ការងាអ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt មាន/verb អ្វី/noun ដែល/noun អាច/verb ធ្វើ/verb ឱ្យ/verb អ្នក/pron ខក/verb ចិត្ត/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt មាន/verb អ្វី/noun ដែល/noun អាច/verb ធ្វើ/verb អោយ/verb អ្នក/noun រំជួល/verb ចិត្ត/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ឆ្លាត/adj ជាង/adp មនុស្ស/noun ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt គោល/noun ដៅ/verb របស់/adp អ្នក/pron គឺ/verb ជា/verb អ្វី/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron មាន/verb គោល/noun ដៅ/verb អ្វី/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb យក/verb ទៅ/adp ប្រើប្រាស់/verb ក្នុង/adp គោល/noun ដៅ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជួយ/verb សម្រួយ/verb ការងារ/noun មនុស្ស/noun ក្នុង/adp គោល/noun ដៅ/verb អ្វី/noun ខ្លះ/adj ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជួយ/verb សម្រួយ/verb ការងារ/noun មនុស្ស/noun ក្នុង/adp វិស័យ/noun អ្វី/noun ខ្លះ/adj ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb ខ្មែរ/noun ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron និយាយ/verb ភាសា/noun ខ្មែរ/noun ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun អង់គ្លេស/noun បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun ថៃ/noun បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun ចិន/noun បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb និយាយ/verb ភាសា/noun វៀតណាម/noun បាន/verb ទេ/prt ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun អង់គ្លេស/noun បាន/verb ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun ថៃ/noun បាន/verb ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun ចិន/noun បាន/verb ?/punct ,AskRobotFunction
+ហេតុ/noun អ្វី/noun បាន/verb ជា/verb អ្នក/pron មិន/prt អាច/verb និយាយ/verb ភាសា/noun វៀតណាម/noun បាន/verb ?/punct ,AskRobotFunction
+តើ/prt អ្នក/pron អាច/verb ជួយ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct ,AskRobotFunction

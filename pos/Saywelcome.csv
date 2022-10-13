@@ -1,41 +1,41 @@
 question,intent
-good/noun afternoon/noun Robot/noun ,/punct Saywelcome/noun
-good/noun afternoon/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-good/noun evening/noun Robot/noun ,/punct Saywelcome/noun
-good/noun evening/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-good/noun morning/noun Robot/noun ,/punct Saywelcome/noun
-good/noun morning/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-hello/noun Robot/noun ,/punct Saywelcome/noun
-hello/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-hi/noun Robot/noun ,/punct Saywelcome/noun
-hi/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-Robot/noun good/noun afternoon/noun ,/punct Saywelcome/noun
-Robot/noun good/noun evening/noun ,/punct Saywelcome/noun
-Robot/noun good/noun morning/noun ,/punct Saywelcome/noun
-Robot/noun hello/noun ,/punct Saywelcome/noun
-Robot/noun hi/noun ,/punct Saywelcome/noun
-Robot/noun ជំរាប/noun សូរ/adj ,/punct Saywelcome/noun
-Robot/noun សួស្ដី/noun ,/punct Saywelcome/noun
-Robot/noun ហាយ/noun ,/punct Saywelcome/noun
-Robot/noun ហេឡូ/noun ,/punct Saywelcome/noun
-Robot/noun អរុណ/noun សួស្ដី/noun ,/punct Saywelcome/noun
-ជំរាប/verb សូរ/adj Robot/noun ,/punct Saywelcome/noun
-ជំរាប/verb សូរ/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun good/noun afternoon/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun good/noun evening/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun good/noun morning/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun hello/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun hi/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun ជំរាប/noun សូរ/adj ,/punct Saywelcome/noun
-រ៉ូបូត/noun សួស្ដី/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun ហាយ/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun ហេឡូ/noun ,/punct Saywelcome/noun
-រ៉ូបូត/noun អរុណ/noun សួស្ដី/noun ,/punct Saywelcome/noun
-សួស្ដី/noun Robot/noun ,/punct Saywelcome/noun
-សួស្ដី/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-ហាយ/noun Robot/noun ,/punct Saywelcome/noun
-ហាយ/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-ហេឡូ/noun Robot/noun ,/punct Saywelcome/noun
-ហេឡូ/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
-អរុណ/noun សួស្ដី/noun Robot/noun ,/punct Saywelcome/noun
-អរុណ/noun សួស្ដី/noun រ៉ូបូត/noun ,/punct Saywelcome/noun
+good/noun afternoon/noun Robot/noun ,Saywelcome
+good/noun afternoon/noun រ៉ូបូត/noun ,Saywelcome
+good/noun evening/noun Robot/noun ,Saywelcome
+good/noun evening/noun រ៉ូបូត/noun ,Saywelcome
+good/noun morning/noun Robot/noun ,Saywelcome
+good/noun morning/noun រ៉ូបូត/noun ,Saywelcome
+hello/noun Robot/noun ,Saywelcome
+hello/noun រ៉ូបូត/noun ,Saywelcome
+hi/noun Robot/noun ,Saywelcome
+hi/noun រ៉ូបូត/noun ,Saywelcome
+Robot/noun good/noun afternoon/noun ,Saywelcome
+Robot/noun good/noun evening/noun ,Saywelcome
+Robot/noun good/noun morning/noun ,Saywelcome
+Robot/noun hello/noun ,Saywelcome
+Robot/noun hi/noun ,Saywelcome
+Robot/noun ជំរាប/noun សូរ/adj ,Saywelcome
+Robot/noun សួស្ដី/noun ,Saywelcome
+Robot/noun ហាយ/noun ,Saywelcome
+Robot/noun ហេឡូ/noun ,Saywelcome
+Robot/noun អរុណ/noun សួស្ដី/noun ,Saywelcome
+ជំរាប/verb សូរ/adj Robot/noun ,Saywelcome
+ជំរាប/verb សូរ/noun រ៉ូបូត/noun ,Saywelcome
+រ៉ូបូត/noun good/noun afternoon/noun ,Saywelcome
+រ៉ូបូត/noun good/noun evening/noun ,Saywelcome
+រ៉ូបូត/noun good/noun morning/noun ,Saywelcome
+រ៉ូបូត/noun hello/noun ,Saywelcome
+រ៉ូបូត/noun hi/noun ,Saywelcome
+រ៉ូបូត/noun ជំរាប/noun សូរ/adj ,Saywelcome
+រ៉ូបូត/noun សួស្ដី/noun ,Saywelcome
+រ៉ូបូត/noun ហាយ/noun ,Saywelcome
+រ៉ូបូត/noun ហេឡូ/noun ,Saywelcome
+រ៉ូបូត/noun អរុណ/noun សួស្ដី/noun ,Saywelcome
+សួស្ដី/noun Robot/noun ,Saywelcome
+សួស្ដី/noun រ៉ូបូត/noun ,Saywelcome
+ហាយ/noun Robot/noun ,Saywelcome
+ហាយ/noun រ៉ូបូត/noun ,Saywelcome
+ហេឡូ/noun Robot/noun ,Saywelcome
+ហេឡូ/noun រ៉ូបូត/noun ,Saywelcome
+អរុណ/noun សួស្ដី/noun Robot/noun ,Saywelcome
+អរុណ/noun សួស្ដី/noun រ៉ូបូត/noun ,Saywelcome
