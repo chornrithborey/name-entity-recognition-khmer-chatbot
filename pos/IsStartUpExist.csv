@@ -1,161 +1,161 @@
 question,intent
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,/punct Is/noun Start/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun Up/noun Exist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
-តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,/punct IsStart/noun UpExist/noun
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb CamMob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ស្តាត/noun អាប់/verb Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
+តើ/prt មាន/verb ធុរ/noun កិច្ច/noun Cam/noun Mob/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsStartUpExist
