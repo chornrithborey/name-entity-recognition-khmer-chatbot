@@ -79,3 +79,123 @@ question,intent
 តើ/prt មាន/verb ចត/noun ទី/noun ណា/adj ?/punct ,AskAboutWhereIsParkingSpace
 តើ/prt ចតទី/noun ណាបាន/noun ?/punct ,AskAboutWhereIsParkingSpace
 តើ/prt អាច/verb ចតទី/noun ណាបាន/noun ?/punct ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើប្រាស់/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ខ្ញុំ/pron ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើប្រាស់/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+យើង/pron ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+យើង/pron ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+យើង/pron ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/pron ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/pron ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/pron ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ត្រូវការ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ពួក/noun គេ/pron ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ដឹង/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun គ្រូ/noun ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+លោក/noun នាយក/noun ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+ភ្ញៀវ/noun ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ចង់/verb ដឹង/verb ចំណតថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ចង់/verb ដឹង/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ចង់/verb ដឹង/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ស្វែង/verb រក/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ចំណ/noun តថ/noun យន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/noun ចង់/verb ប្រើប្រាស់/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ត្រូវការ/verb ចំណ/noun តថយន្ត/noun ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ត្រូវការ/verb ទី/noun តាំង/verb ចត/verb ,AskAboutWhereIsParkingSpace
+អ្នក/noun គ្រូ/pron ត្រូវការ/verb ចំណត/noun ម៉ូតូ/noun ,AskAboutWhereIsParkingSpace
