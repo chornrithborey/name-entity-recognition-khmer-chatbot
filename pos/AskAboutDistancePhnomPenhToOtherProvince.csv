@@ -1,0 +1,115 @@
+question,intent
+តើ/prt ពី/adp ត្បូង/noun ឃ្មុំ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ត្បូង/noun ឃ្មុំ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ត្បូង/noun ឃ្មុំ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ត្បូង/noun ឃ្មុំ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ប៉ៃលិន/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ប៉ៃលិន/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ប៉ៃលិន/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ប៉ៃលិន/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ប៉ៃលិន/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កែបមាន/noun ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កែប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កែប/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កែប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កែប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ឧត្តរ/noun មាន/verb ជ័យ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ឧត្តរ/noun មាន/verb ជ័យ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ឧត្តរ/noun មាន/verb ជ័យ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ឧត្តរ/noun មាន/verb ជ័យ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ឧត្តរ/noun មាន/verb ជ័យ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp តាកែវ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp តាកែវ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp តាកែវ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp តាកែវ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp តាកែវ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ស្វាយ/noun រៀង/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ស្វាយ/noun រៀង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ស្វាយរៀង/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ស្វាយ/noun រៀង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ស្វាយ/noun រៀង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ស្ទឹងត្រែង/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ស្ទឹងត្រែង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ស្ទឹងត្រែង/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ស្ទឹងត្រែង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ស្ទឹងត្រែង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun សីហនុមាន/noun ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ព្រះ/noun សីហនុ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun សីហនុ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ព្រះ/noun សីហនុ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ព្រះ/noun សីហនុ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp សៀម/noun រាប/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp សៀម/noun រាប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp សៀម/noun រាប/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp សៀម/noun រាប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp សៀម/noun រាប/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp រតន/noun គិរី/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពីរ/num តន/noun គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp រតន/noun គិរី/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពីរតន/num គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពីរតន/num គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ពោធិ៍/noun សាត់/verb មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ពោធិ៍/noun សាត់/verb ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ពោធិ៍/noun សាត់/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ពោធិ៍/noun សាត់/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ពោធិ៍/noun សាត់/verb ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រៃ/noun វែង/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ព្រៃ/noun វែង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រៃ/noun វែង/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ព្រៃ/noun វែង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ព្រៃ/noun វែង/adj ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun វិហារ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ព្រះ/noun វិហារ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun វិហារ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ព្រះ/noun វិហារ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ព្រះ/noun វិហារ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp មណ្ឌល/noun គិរី/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp មណ្ឌល/noun គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp មណ្ឌល/noun គិរី/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp មណ្ឌល/noun គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp មណ្ឌល/noun គិរី/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ក្រចេះ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ក្រចេះ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ក្រចេះ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ក្រចេះ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp ក្រចេះ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កោះ/noun កុង/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កោះ/noun កុង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កោះ/noun កុង/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កោះ/noun កុង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កោះ/noun កុង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កណ្តាល/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កណ្តាល/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កណ្តាល/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កណ្តាល/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កណ្តាល/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពត/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កំពត/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពត/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កំពត/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កំពត/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ធំ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កំពង់/noun ធំ/adj ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ធំ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កំពង់/noun ធំ/adj ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កំពង់/noun ធំ/adj ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ស្ពឺ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កំពង់/noun ស្ពឺ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ស្ពឺ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កំពង់/noun ស្ពឺ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កំពង់/noun ស្ពឺ/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ឆ្នាំង/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កំពង់/noun ឆ្នាំង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ឆ្នាំង/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កំពង់/noun ឆ្នាំង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កំពង់/noun ឆ្នាំង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ចាម/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp កំពង់/noun ចាម/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp កំពង់/noun ចាម/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp កំពង់/noun ចាម/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp កំពង់/noun ចាម/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp បាត់/verb ដំបង/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp បាត់/verb ដំបង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp បាត់/verb ដំបង/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ពី/adp បាត់/verb ដំបង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+ប្រសិន/conj បើ/conj ខ្ញុំ/pron ធ្វើ/verb ដំណើរ/noun ពី/adp បាត់/verb ដំបង/noun ទៅ/adp ភ្នំ/noun ពេញ/adj តើ/prt មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
