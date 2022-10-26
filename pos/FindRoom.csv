@@ -2151,13 +2151,6 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp កែវមនី/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp កែវមនី/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp កែវមនី/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp ទី/noun ណា/adj ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun បុរី/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp កែវ/noun ពន្លក/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp កិរិយា/noun នៅ/adp ទីណា/noun ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp កិរិយា/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp កិរិយា/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
@@ -2256,13 +2249,6 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp សម្បត្តិ/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp សម្បត្តិ/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp សម្បត្តិ/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp ទីណា/noun ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun បុរី/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp ស័ក្តិ/noun សិទ្ធិ/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp សក្តិ/noun នៅ/adp ទី/noun ណា/adj ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp សក្តិ/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp សក្តិ/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
@@ -2361,13 +2347,6 @@ question,intent
 តើ/prt បន្ទប់/noun របស់/adp មិថុនា/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp មិថុនា/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp មិថុនា/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp ទី/noun ណា/adj ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun បុរី/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun ស្មាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun សែល/noun កាត/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
-តើ/prt បន្ទប់/noun របស់/adp មិត្ត/noun ភាព/noun នៅ/adp អគារ/noun មិត្ត/noun ហ្វូន/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp មនោរម្យ/noun នៅ/adp ទី/noun ណា/adj ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp មនោរម្យ/noun នៅ/adp អគារ/noun វឌ្ឍនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
 តើ/prt បន្ទប់/noun របស់/adp មនោរម្យ/noun នៅ/adp អគារ/noun រតនៈ/noun ពិត/adj ទេ/prt ?/punct ,FindRoom
