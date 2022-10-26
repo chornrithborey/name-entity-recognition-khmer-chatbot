@@ -1418,7 +1418,7 @@ Robot/noun តើ/prt នៅ/adp អគារ/noun នេះ/det កន្លែ
 តើ/prt ប្រទេស/noun អេក្វាឌ័រ/noun មាន/verb ទំហំ/noun ផ្ទៃ/noun ដី/noun ប៉ុន្មាន/adv ?/punct ,AskAboutCountries
 តើ/prt មាន/verb រឿង/noun សម្រាប់/adp អ្នក/pron មក/verb មើល/verb អ្វី/noun កន្លែង/noun នឹង/verb ?/punct,AskAboutTrendingNews
 តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp លេខ/noun ទំនាក់ទំនង/noun របស់/adp បង/noun សុធារ៉ា/noun បន្តិច/adj បាន/verb ដែល/noun ឬ/conj ទេ/prt ?/punct ,AskAboutStaffPhoneNumber
-តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun សីហនុ/noun មាន/noun ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
+តើ/prt ពី/adp ភ្នំ/noun ពេញ/adj ទៅ/adp ព្រះ/noun សីហនុ/noun មាន/verb ចម្ងាយ/noun ប៉ុន្មាន/adv គីឡូ/noun ម៉ែត្រ/noun ?/punct,AskAboutDistancePhnomPenhToOtherProvince
 តើ/prt វិទ្យា/noun ស្ថាន/noun បច្ចេកវិទ្យា/noun កម្ពុជា/noun ជា/verb ស្ថាប័ន/noun ជាតិ/noun ឬ/conj ?/punct ,AskAboutInstitution
 តើ/prt មាន/verb ប្រទេស/noun ប្រេស៊ីល/noun មែន/adv ឬ/conj អត់/prt ?/punct ,IsCountryExist
 ណាបន្ទប់/noun ប្រជុំ/verb ការណ៍/noun ជាមួយ/adp លោក/noun សុភី/noun ?/punct,FindMeetingRoom
