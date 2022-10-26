@@ -21,7 +21,7 @@ question,intent
 តើ/prt កែប/noun មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt កែប/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt កែប/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
-តើ/prt កែបមាន/noun ខណ្ឌម៉ាន/noun ?/punct,AskAboutDistrictInProvince
+តើ/prt កែបមាន/noun ខណ្ឌ/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt ឧត្តរ/noun មាន/verb ជ័យ/noun មាន/verb ស្រុក/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt ឧត្តរ/noun មាន/verb ជ័យ/noun មាន/verb ស្រុក/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
 តើ/prt ឧត្តរ/noun មាន/verb ជ័យ/noun មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
@@ -51,7 +51,7 @@ question,intent
 តើ/prt ព្រះ/noun សីហនុ/noun មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt ព្រះ/noun សីហនុ/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt ព្រះ/noun សីហនុ/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
-តើ/prt ព្រះ/noun សីហនុមាន/noun ខណ្ឌម៉ាន/noun ?/punct,AskAboutDistrictInProvince
+តើ/prt ព្រះ/noun សីហនុមាន/noun ខណ្ឌ/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt សៀម/noun រាប/adj មាន/verb ស្រុក/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt សៀម/noun រាប/adj មាន/verb ស្រុក/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
 តើ/prt សៀម/noun រាប/adj មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
@@ -87,7 +87,7 @@ question,intent
 តើ/prt មណ្ឌល/noun គិរី/noun មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt មណ្ឌល/noun គិរី/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt មណ្ឌល/noun គិរី/noun មាន/verb ខណ្ឌ/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
-តើ/prt មណ្ឌល/noun គិរីមាន/noun ខណ្ឌម៉ាន/noun ?/punct,AskAboutDistrictInProvince
+តើ/prt មណ្ឌល/noun គិរីមាន/noun ខណ្ឌ/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince
 តើ/prt ក្រចេះ/noun មាន/verb ស្រុក/noun ប៉ុន្មាន/adv ?/punct,AskAboutDistrictInProvince
 តើ/prt ក្រចេះ/noun មាន/verb ស្រុក/noun ប៉ុន្មាន/adv អ្វី/noun ខ្លះ/adj ?/punct,AskAboutDistrictInProvince
 តើ/prt ក្រចេះ/noun មាន/verb ស្រុក/noun ម៉ាន/noun ?/punct,AskAboutDistrictInProvince

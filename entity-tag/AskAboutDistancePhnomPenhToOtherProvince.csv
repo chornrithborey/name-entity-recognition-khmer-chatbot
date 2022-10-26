@@ -8,7 +8,7 @@ question,intent
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ ប៉ៃលិន/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ប៉ៃលិន/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 ប្រសិន បើ ខ្ញុំ ធ្វើ ដំណើរ ពី ប៉ៃលិន/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE តើ មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
-តើ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ កែប/I-GPEមាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
+តើ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ កែប/I-GPE មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
 តើ ពី កែប/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ កែប/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី កែប/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
@@ -33,7 +33,7 @@ question,intent
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ ស្ទឹងត្រែង/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ស្ទឹងត្រែង/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 ប្រសិន បើ ខ្ញុំ ធ្វើ ដំណើរ ពី ស្ទឹងត្រែង/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE តើ មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
-តើ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ ព្រះ/I-GPE សីហនុ/I-GPEមាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
+តើ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ ព្រះ/I-GPE សីហនុ/I-GPE មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
 តើ ពី ព្រះ/B-GPE សីហនុ/I-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ ព្រះ/I-GPE សីហនុ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ព្រះ/B-GPE សីហនុ/I-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
