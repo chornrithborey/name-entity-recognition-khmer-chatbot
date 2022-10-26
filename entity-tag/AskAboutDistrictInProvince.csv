@@ -51,7 +51,7 @@ question,intent
 តើ ព្រះ/B-GPE សីហនុ/I-GPE មាន ស្រុក ម៉ាន ?,AskAboutDistrictInProvince
 តើ ព្រះ/B-GPE សីហនុ/I-GPE មាន ខណ្ឌ ប៉ុន្មាន ?,AskAboutDistrictInProvince
 តើ ព្រះ/B-GPE សីហនុ/I-GPE មាន ខណ្ឌ ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
-តើ ព្រះ/B-GPE សីហនុ/I-GPEមាន ខណ្ឌម៉ាន ?,AskAboutDistrictInProvince
+តើ ព្រះ/B-GPE សីហនុ/I-GPE មាន ខណ្ឌ ម៉ាន ?,AskAboutDistrictInProvince
 តើ សៀម/B-GPE រាប/I-GPE មាន ស្រុក ប៉ុន្មាន ?,AskAboutDistrictInProvince
 តើ សៀម/B-GPE រាប/I-GPE មាន ស្រុក ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
 តើ សៀម/B-GPE រាប/I-GPE មាន ស្រុក ម៉ាន ?,AskAboutDistrictInProvince
@@ -87,7 +87,7 @@ question,intent
 តើ មណ្ឌល/B-GPE គិរី/I-GPE មាន ស្រុក ម៉ាន ?,AskAboutDistrictInProvince
 តើ មណ្ឌល/B-GPE គិរី/I-GPE មាន ខណ្ឌ ប៉ុន្មាន ?,AskAboutDistrictInProvince
 តើ មណ្ឌល/B-GPE គិរី/I-GPE មាន ខណ្ឌ ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
-តើ មណ្ឌល/B-GPE គិរី/I-GPEមាន ខណ្ឌម៉ាន ?,AskAboutDistrictInProvince
+តើ មណ្ឌល/B-GPE គិរី/I-GPE មាន ខណ្ឌ ម៉ាន ?,AskAboutDistrictInProvince
 តើ ក្រចេះ/B-GPE មាន ស្រុក ប៉ុន្មាន ?,AskAboutDistrictInProvince
 តើ ក្រចេះ/B-GPE មាន ស្រុក ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
 តើ ក្រចេះ/B-GPE មាន ស្រុក ម៉ាន ?,AskAboutDistrictInProvince
