@@ -1,161 +1,961 @@
-question,intent
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?, Is Company Exist
-តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?, Is Company Exist
+question, intent
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG MeHome ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ឬ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ដែរ ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារ នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង កន្លែង នេះ ដែល ទេ ?,IsCompanyExist
+តើ មាន ស្ថាប័ន/B-ORG ហ្វាញមុីហូម/I-ORG នៅ នឹង ទី នេះ ដែល ទេ ?,IsCompanyExist
