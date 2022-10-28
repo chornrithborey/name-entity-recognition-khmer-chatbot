@@ -159,3 +159,803 @@ question,intent
 តើ/prt មាន/verb ស្ថាប័ន/noun Book/noun MeBus/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
 តើ/prt មាន/verb ស្ថាប័ន/noun Book/noun MeBus/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
 តើ/prt មាន/verb ស្ថាប័ន/noun Book/noun MeBus/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Smart/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ស្មាត/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun បុក/noun មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun បុក/verb មីបើស/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp អាគារនវា/noun នុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun MeHome/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun Find/noun Me/noun Home/noun នៅ/verb នឹង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ក្រុម/noun ហ៊ុន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ឬ/conj ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែរ/adv ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/adp ខាង/noun ក្នុង/adp ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារ/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv អាគារនវានុវត្តន៍/noun ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv នេះ/pron ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv កន្លែង/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
+តើ/prt មាន/verb ស្ថាប័ន/noun ហ្វាញមុីហូម/noun នៅ/verb នឹង/adv ទី/noun នេះ/det ដែល/noun ទេ/prt ?/punct ,IsCompanyExist
