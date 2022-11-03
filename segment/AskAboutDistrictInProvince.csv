@@ -1,4 +1,4 @@
-question , intent
+question,intent
 តើ ភ្នំ ពេញ មាន ស្រុក ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
 តើ ភ្នំ ពេញ មាន ស្រុក ម៉ាន ?,AskAboutDistrictInProvince
 តើ ភ្នំ ពេញ មាន ខណ្ឌ ប៉ុន្មាន ?,AskAboutDistrictInProvince
