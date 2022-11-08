@@ -21,15 +21,15 @@ question,intent
 តើ មាន ប្រទេស ហ្សកដានី/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
 ពេល ដែល រៀន សហគ្រិន ភាព នឹង ហើយ ខ្ញុំ អាច មាន សមត្ថ ភាព បែប ណា ខ្លះ ?,AskAboutClassSubject
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន ជំនាញ អ្វី ខ្លះ ? ,AskAboutInstitution
 ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
 អ្នក ទទួល ខុស ត្រូវ ក្នុង Telecoms នរណា ជា ?,AskAboutTopManagementPersonal
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
 តើ ធនាគារ/B-ORG អេសុីលីដា/I-ORG គេ កំពុង ជជែក គ្នា អំពី អ្វី នៅ បន្ទប់/B-ROOM Jupyter/I-ROOM ?,FindMeetingRoomAgenda
 តើ កង/B-PER សារី/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាឡេស្ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាឡេស្ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ហេឡូ Robot , Saywelcome
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? ,AskAboutInstitution
 តើcom puterscience មាន កម្ម វិធី រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 ណាបន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ធនាគារ/B-ORG អេសុីលីដា/I-ORG ?,FindMeetingRoom
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ កន្លែង នឹង ?,AskAboutTrendingNews
@@ -40,12 +40,12 @@ question,intent
 តើ បន្ទប់ របស់ បង ផានិត/B-PER មួយ ណា ?,AskAboutStaffRoom
 តើ មាន ប្រទេស អង់គ្លេស/B-GPE ឬ ទេ ?,IsCountryExist
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG អារូដត/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsStartUpExist
-តើ ជាន់ ទី ២ មាន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ២ មាន ជំនាញ អ្វី ខ្លះ ? ,AskAboutMajor
 តើ លេខ ទូរសព្ទ របស់ បង សុធារ៉ា/B-PER លេខ អ្វី ខ្លះ ?,AskAboutStaffPhoneNumber
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
 តើ អាច មាន ប្រទេស ទុយនីស៊ី/B-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ កង/B-PER វន្ថា/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-អាល់ហ្សេរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អាល់ហ្សេរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ដារ៉ា/B-PER មែន ឬ អត់ ? , Ask About Creator
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 សុំ សួរ មួយ Robot តើ នៅ ជាន់ នេះ មាន បង្គន់ ទេ ?,DoesToiletExist
@@ -63,7 +63,7 @@ question,intent
 នៅ ជាន់ នេះ បង្គន់ នោម នៅ ឯ ណា ?,FindToilet
 តើ ពិត ជា មាន ប្រទេស អែលសាល់វ៉ាឌ័រ ឬ ទេ ?,IsCountryExist
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-ប៉ាឡេស្ទីន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ប៉ាឡេស្ទីន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោក គ្រូលីហៀក/B-PER នៅ ទី ណា បាន ទេ ?,FindRoom
 តើ ស្រី/B-PER ពេជ្រ/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -80,16 +80,16 @@ question,intent
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ក្នុង ជំនាញ ណេត វើក ?,CuriculumInEachMajor
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR កន្លែង ជុះ នៅ ណា ?,FindToilet
-កុងហ្គោ/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាល់បានី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
-អូទ្រីស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+កុងហ្គោ/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាល់បានី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
+អូទ្រីស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ អត់ ?,DoesToiletExist
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,FindEmployeeRoom
 Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD កន្លែង បន្ទោរ បង់ នៅ ឯ ណា ?,FindToilet
 តើ ប្រទេស កោះ/B-GPE ម៉ាន់/I-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ អាយឌីអ អាយមែន ឫ ទេ ? , Ask About Makerspace
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ អាយឌីអ អាយមែន ឫ ទេ ? ,AskAboutMakerspace
 ទីណា បន្ទប់ ប្រជុំ ការណ៍ ?,FindMeetingRoom
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
-តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? , Ask About Institution
+តើ អាយឌីធី/B-ORG ជា ស្ថាប័ន អន្តជាតិ ឬ ? ,AskAboutInstitution
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Arrow/I-ORG Dot/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsStartUpExist
@@ -103,15 +103,15 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ សុកហេង/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 តើ មាន ប្រទេស នេប៉ាល់/B-GPE មែន ឬ ទេ ?,IsCountryExist
 តើ ប្រទេស ស្លូវ៉ាគី/B-GPE មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
-តើ មាន ស្ថាប័ន ណា ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន ណា ខ្លះ នៅ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,AskForCompanyInTheInnovationCenter
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុកហេង/B-PER ពិត ឬ ទេ ? , Ask About Creator
-តើ មាន ក្រុម ហ៊ុន អី នៅ ខាង ក្នុង ទី នេះ ?, Ask For Company In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អី នៅ ខាង ក្នុង ទី នេះ ?,AskForCompanyInTheInnovationCenter
 នៅ ណិពទិច មាន Research អ្វី សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង បណ្តាញ ?,CuriculumInEachMajor
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsCompanyExist
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR ?,CuriculumInEachMajor
 តើ ប្រទេស ស៊ីប/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ឫ ទេ ? , Is Institution Exist
+តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ឫ ទេ ? ,IsInstitutionExist
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ស្មាត/I-ORG នៅ នឹង អាគារនវានុវត្តន៍ ឬ ទេ ?,IsCompanyExist
 តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក អភិវឌ្ឍន៍ កម្ម វិធី នៅ ទី ណា ដែល ?,AskAboutStaffRoom
 តើ អាច មាន ប្រទេស កោះ/B-GPE ហ្វារ៉ូ/I-GPE មែន ឬ ទេ ?,IsCountryExist
@@ -119,7 +119,7 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ម៉ានុត/B-PER ពិត ទេ ? , Ask About Creator
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ លោក គ្រូសុភាព/B-PER បាន ទេ ?,AskAboutStaffPhoneNumber
 តើ បន្ទប់/B-ROOM ៣០១/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
-អង់ដូរ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស រ៉ូម៉ានី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អង់ដូរ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស រ៉ូម៉ានី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ ប្រទេស អារូបា/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់/B-ROOM ២០៤/I-ROOM នៅ ទី ណា បាន ទេ ?,FindRoom
 តើ ពិត ជា មាន ប្រទេស កាមេរូន/B-GPE ឬ អត់ ?,IsCountryExist
@@ -129,7 +129,7 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសិទ្ធ/B-PER នៅ ទីណា ?,AskAboutStaffRoom
 អ្នក ត្រូវការ ទី តាំង ចត,AskAboutWhereIsParkingSpace
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
-តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង ណា លេង ទេ ? , Ask About Playground
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង ណា លេង ទេ ? ,AskAboutPlayground
 តើ មាន ប្រទេស ប៉េរូ/B-GPE ហ្វីលីពីន/I-GPE មែន ឬ ទេ ?,IsCountryExist
 បន្ទប់ របស់ លោក/B-PER Alexander/I-PER នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR មែន ទេ ?,FindEmployeeRoom
 សុីអេ ដីធី មាន Research អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
@@ -137,7 +137,7 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ នាង/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ មាន រៀន ស្អី ខ្លះ ហាខាង Network ?,CuriculumInEachMajor
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
-តើ មាន ស្ថាប័ន អ្វី នៅ ខាង ក្នុង អគារ នេះ ?, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អ្វី នៅ ខាង ក្នុង អគារ នេះ ?,AskForCompanyInTheInnovationCenter
 តើ ប្រទេស តូហ្គោ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ បន្ទប់ របស់ ផ្នែក អេហ្វអា នៅ ជាន់ណា ?,AskAboutStaffRoom
 តើ ប្រទេស កូស្តា/B-GPE រីកា/I-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
@@ -161,10 +161,10 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ជុះ នោម ទេ ?,DoesToiletExist
 តើ អាច មាន ប្រទេស ស្រីលង្កា/B-GPE ឬ ទេ ?,IsCountryExist
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ នេះ ?,AskAboutTrendingNews
-តើ នៅ IDRI/B-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ IDRI/B-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? ,AskAboutMajor
 តើ ពិត ជា មាន ប្រទេស អង់ហ្គោឡា/B-GPE ឬ ទេ ?,IsCountryExist
 មាន បង្គន់ ឬ អត់ នៅ អាគារ នេះ ?,DoesToiletExist
-អាហ្សង់ទីន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាឡេស្ទីន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាហ្សង់ទីន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាឡេស្ទីន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
 តើ មាន ប្រទេស ឡាវ/B-GPE ឬ អត់ ?,IsCountryExist
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ធី/I-ROOM អេសសុី/I-ROOM នៅ កន្លែង ណា បាន ទេ ?,FindRoom
@@ -177,7 +177,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង សិទ្ធ/B-PER បន្តិច បាន ដែល ឬ ទេ ?,AskAboutStaffPhoneNumber
 Robot ប្រាប់ បាន ទេ ថា បន្ទប់ ប្រជុំ ទាក់ ទង នឹង ការងារ/B-ANN ស្ម័គ្រ/I-ANN ចិត្ត/I-ANN នៅ ឯ ណា?,FindMeetingRoom
 តើ មាន រៀន ស្អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? ,AskAboutInstitution
 តើ Robot ឯង បង្កើត ដោយ បង ម៉ានុត/B-PER មែន ទេ ? , Ask About Creator
 តើ ប្រទេស ប៉ាឡេស្ទីន/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ អាច មាន ប្រទេស ម៉ាល់ឌីវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
@@ -189,7 +189,7 @@ Robot ប្រាប់ បាន ទេ ថា បន្ទប់ ប្រជ
 តើ អាច ចត នៅ ទីណា ?,AskAboutWhereIsParkingSpace
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG ខេមមប/I-ORG ក្នុង កន្លែង នេះ ដែល ទេ ?,IsStartUpExist
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG Arrow/I-ORG Dot/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែល ទេ ?,IsStartUpExist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? ,AskAboutMajor
 តើ ស័ក្តិ សិទ្ធិ/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 ប្រាប់ ខ្ញុំ នេះ ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន refill ទឹក ទេ ?,AskAboutWaterRefill
@@ -210,10 +210,10 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង បូរី/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 តើ ប្រទេស អាមេនី/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង នេះ ?, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អ្វី ខ្លះ នៅ នឹង នេះ ?,AskForCompanyInTheInnovationCenter
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR កុំព្យូទ័រ/I-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ៣០៥/I-ROOM នៅ កន្លែង ណា បាន ទេ ?,FindRoom
-ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូទ្រីស/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូទ្រីស/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អារូដត/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsStartUpExist
 តើ ពិត ជា មាន ប្រទេស ប៉ាគីស្ថាន/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ ឧត្តរ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -224,7 +224,7 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
 តើចត ឯណា ?,AskAboutWhereIsParkingSpace
-ហេតុ អ្វី បាន ជា គេ បង្កើត អ្នក ឡើយ ? ,
+ហេតុ អ្វី បាន ជា គេ បង្កើត អ្នក ឡើយ ? ,AskRobot
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ពត៌មាន/I-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ ក/B-PER ក្កដា/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ បញ្ញា/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -234,33 +234,33 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ កំពត/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង លីហៀក/B-PER មែន ឬ អត់ ? , Ask About Creator
 តើ និរតី/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ប្រទេស ហ្គ្រីនឡិន/B-GPE មែន ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស ម៉ូសំប៊ិក/B-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ បន្ទប់ របស់ ផ្នែក ទី ផ្សារ នៅ អាគារ មួយ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន ព័ត៌មាន ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
 អ្នក រ៉ាប់ រង ក្នុង computerscience នរណា ជា ?,AskAboutTopManagementPersonal
 តើ កង/B-PER សាវ៉ន/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-អង់ដូរ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បារ៉ែន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អង់ដូរ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បារ៉ែន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ កង/B-PER សារី/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន រៀន អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន បង្គន់ អណាម័យ ឬ អត់ ?,DoesToiletExist
 តើ Robot ឯង បង្កើត ដោយ បង ណារី/B-PER មែន ឫ ទេ ? , Ask About Creator
 តើ ព្រឹក្សា/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-វិធី ក្នុង ការ ទទួល បាន office, Ask About ToGet The Working Space
+វិធី ក្នុង ការ ទទួល បាន office,AskAboutToGetTheWorkingSpace
 តើ ប្រទេស អូម៉ង់/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ កង/B-PER សំបូរ/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន ប្រទេស ទុយនីស៊ី/B-GPE មែន ឬ ទេ ?,IsCountryExist
-តើ ជាន់ ទី ១ មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ ជាន់ ទី ១ មាន ជំនាញ ណា ខ្លះ ? ,AskAboutMajor
 តើ បង ផានិត/B-PER ធ្វើ ការ នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ៣០៤/I-ROOM នៅ កន្លែង ណា បាន ទេ ?,FindRoom
 តើ ពិត ជា មាន ប្រទេស ឈីលី/B-GPE មែន ឬ ទេ ?,IsCountryExist
-តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់ណា ខ្លះ ក្នុង ទី នេះ ?,AskForStartUpInTheInnovationCenter
 តើ កង/B-PER អឿន/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ បន្ទប់ របស់ បង សុភាព/B-PER នៅ អាគារ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន ប្រទេស អាល់បានី/B-GPE ឬ ទេ ?,IsCountryExist
-កូឡុំប៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាមេនី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+កូឡុំប៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាមេនី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង សុកហេង/B-PER មែន ឬ អត់ ? , Ask About Creator
 តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក រីគ្រូទ័រ នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR ?,CuriculumInEachMajor
@@ -287,33 +287,33 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អារូដត/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsStartUpExist
 តើ មាន ប្រទេស ឡាវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 ឯណា បន្ទប់ ប្រជុំ ជាមួយ លោក/B-PER Alexander/I-PER ?,FindMeetingRoom
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
-តើ ធ្វើ ដូច ម្តេច ទើប បាន កន្លែង ធ្វើ ការ ?, Ask About To Get The Working Space Ask About ToGet The Working Space
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? ,AskAboutPlayground
+តើ ធ្វើ ដូច ម្តេច ទើប បាន កន្លែង ធ្វើ ការ ?,AskAboutToGetTheWorkingSpace
 នេះ មាន Research អ្វី ខ្លះ ? ,AskAboutResearch
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
 ទីណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ លោក/B-PER Alexander/I-PER ?,FindMeetingRoom
 ថ្ងៃ/B-DATE ស្អែក/I-DATE គេ ជជែក គ្នា អំពី អ្វី នៅ សាល/B-ROOM ប្រជុំ/I-ROOM ធំ/I-ROOM ?,FindMeetingRoomAgenda
-អារូបា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី លីប៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អារូបា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី លីប៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ យើង អាច រក បន្ទប់/B-ROOM ២០២/I-ROOM តាម វីធីណា ?,FindRoom
 តើ ប្រទេស អ៊ុយក្រែន/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 អ្នក មើល ការ នៅ ទូរគមនាគមន៍ នរណា ជា ?,AskAboutTopManagementPersonal
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR បន្ទប់ ទឹក នៅ កន្លែង ណា ?,FindToilet
-បារ៉ែន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អង់ដូរ៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+បារ៉ែន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អង់ដូរ៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ធីអេសសុី/I-ROOM តាម របៀប ណា ?,FindRoom
-អូស្ត្រាលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អារូបា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អូស្ត្រាលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អារូបា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ ស័ក្តិ សិទ្ធិ/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 មនុស្ស យន្ត អត់ ប្រយោជន៍,Dissatisfied
 តើ ផល្លា/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ IDT/B-ORG មែន ទេ ? , Ask About Makerspace
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ IDT/B-ORG មែន ទេ ? ,AskAboutMakerspace
 តើ ពិត ជា មាន ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ឯ នេះ ?,AskAboutTrendingNews
 តើ អាច មាន ប្រទេស ប៉េរូ/B-GPE ហ្វីលីពីន/I-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ អាច មាន ប្រទេស ជប៉ុន/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ អាច មាន ប្រទេស ប៉េរូ/B-GPE ហ្វីលីពីន/I-GPE ដែល ឬ អត់ ?,IsCountryExist
-លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី បែលហ្ស៊ិក/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី បែលហ្ស៊ិក/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ នៅ ក្រសួង/B-ORG មហា/I-ORG ផ្ទៃ/I-ORG មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
@@ -322,8 +322,8 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 រ៉ូបូត លោក/B-PER អាឡិច/I-PER បន្ទប់ របស់ គាត់ នៅ ឯ ណា ?,FindEmployeeRoom
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ កំពង់/I-GPE ធំ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ សុកហេង/B-PER មែន ទេ ? , Ask About Creator
-រ៉ូម៉ានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាណាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
-លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស រុស្ស៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+រ៉ូម៉ានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាណាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
+លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស រុស្ស៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អាច មាន ប្រទេស អាមេនី/B-GPE មែន ឬ អត់ ?,IsCountryExist
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ស្ទឹងត្រែង/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 បង្ហាញ ខ្ញុំ នេះ Research លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
@@ -351,21 +351,21 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ដារ៉ា/B-PER ពិត ប្រាកដ ទេ ? , Ask About Creator
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ដារ៉ា/B-PER មែន ឬ អត់ ? , Ask About Creator
 តើ កង/B-PER វន្ថា/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-វៀតណាម/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អារូបា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+វៀតណាម/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អារូបា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ រ៉ូបូត ឯង បង្កើត ដោយ សុកហេង/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
-ប៉ាឡេស្ទីន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កូឡុំប៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
-អូស្ត្រាលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ប៉ាឡេស្ទីន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កូឡុំប៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
+អូស្ត្រាលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើcom puterscience មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ?,CuriculumInEachMajor
 អគារ នៅ Inovation/B-ORG Center/I-ORG សាង សង ឡើង ដើម្បី អ្វី ខ្លះ ?,AskBuildingInformationInCADT
 តើ នៅ ក្រសួង/B-ORG ពាណិជ្ជ/I-ORG កម្ម/I-ORG មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ក្នុង នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ក្នុង នេះ ?,AskForStartUpInTheInnovationCenter
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Kela/I-ORG ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsStartUpExist
 តើ ទី តាំង បន្ទប់ របស់ បង សិទ្ធ/B-PER នៅ ជាន់ ទី ប៉ុន្មាន ?,AskAboutStaffRoom
 តើ ពិជ័យ/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ IDT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? , Ask About Major
+តើ IDT/B-ORG មាន បង្រៀន ជំនាញ អ្វី ខ្លះ ? ,AskAboutMajor
 ចូល ប្រាប់ ទី នេះ Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-តើ មាន អាយឌីអអាយ/B-ORG ឫ ទេ ? , Is Institution Exist
+តើ មាន អាយឌីអអាយ/B-ORG ឫ ទេ ? ,IsInstitutionExist
 តើ អាច មាន ប្រទេស តៃវ៉ាន់/B-GPE មែន ឬ ទេ ?,IsCountryExist
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់/B-ROOM ៣០២/I-ROOM នៅ ឯ ណា ?,FindRoom
 បង្ហាញ ខ្ញុំ ទី នេះ Research លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
@@ -386,7 +386,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ធី/I-ROOM អេសសុី/I-ROOM នៅ ឯ ណា?,FindRoom
 តើ បន្ទប់ របស់ ឫទ្ធិ/B-PER នៅ អគារ/B-BUILD មិត្ត/I-BUILD ហ្វូន/I-BUILD ពិត ទេ ? ,FindRoom
-ឈីលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី សិង្ហបុរី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ឈីលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី សិង្ហបុរី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ចូល ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ Research លើ អ្វី ? ,AskAboutResearcher
 តើ មាន ប្រទេស ម៉ុងតេណេហ្គ្រោ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង អុីហ្វមេសុិនតិចណូឡូជី/B-MAJOR ?,CuriculumInEachMajor
@@ -398,7 +398,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ ទី នេះ ?,AskAboutTrendingNews
 តើ កង/B-PER សារី/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោនាយក សុខា/B-PER នៅ ឯ ណា ?,FindRoom
-តើ នៅ IDG/B-ORG មាន កន្លែង លេង ដែល ទេ ? , Ask About Playground
+តើ នៅ IDG/B-ORG មាន កន្លែង លេង ដែល ទេ ? ,AskAboutPlayground
 អ្នក មើល ការ ខុស ត្រូវ នៅ ទូរគមនាគមន៍ នរណា ជា ?,AskAboutTopManagementPersonal
 តើ ផល្លា/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ២០៥/I-ROOM ដោយ របៀប ណា ?,FindRoom
@@ -407,12 +407,12 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន ប្រទេស អង់ហ្គោឡា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោក នាយក រង សុខា/B-PER បាន ដែល ទេ ?,FindRoom
-តើ មាន ស្តាត/B-ORG អាប់អី នៅ នឹង អគារ នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អី នៅ នឹង អគារ នេះ ?,AskForStartUpInTheInnovationCenter
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អុីហ្វមេសុិនតិ/I-MAJOR ចណូឡូជី/I-MAJOR ?,CuriculumInEachMajor
 ចូល ប្រាប់ នៅ CADT/B-ORG Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង លីហៀក/B-PER ពិត ឬ អត់ ? , Ask About Creator
 តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
-តើ IDRI/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
+តើ IDRI/B-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? ,AskAboutInstitution
 ប្រាប់ នៅ នេះ Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 ជួយ ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ មក Robot,FindMeetingRoom
 តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូផានិត/B-PER មួយ ណា ដែល ?,AskAboutStaffRoom
@@ -425,7 +425,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អាយធី/B-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស បន្តិច បាន ដែល ទេ ?,AskAboutStaffPhoneNumber
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ភ្នំ/B-GPE ពេញ/I-GPE ទៅ សៀម/I-GPE រាប/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
-រុស្ស៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស វៀតណាម/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+រុស្ស៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស វៀតណាម/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
 តើ អាច មាន ប្រទេស បែលហ្ស៊ិក/B-GPE មែន ឬ អត់ ?,IsCountryExist
 ចូល ប្រាប់ នៅ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
@@ -433,12 +433,12 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 ប្រាប់ នៅ សុីអេ ដីធី Research លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
 តើ សក្តិ/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ មេត្រី/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង នេះ ?, Ask For Start Up In The Innovation Center
-តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង នេះ ?,AskForStartUpInTheInnovationCenter
+តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? ,AskAboutPlayground
 មាន ចម្ងាយ ប៉ុន្មាន គីឡូ ម៉ែត្រ ពី ក្រចេះ/B-GPE ទៅ ភ្នំ/I-GPE ពេញ/I-GPE ?,AskAboutDistancePhnomPenhToOtherProvince
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង សិទ្ធ/B-PER មែន ឫ ទេ ? , Ask About Creator
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង ណារី/B-PER មែន ឫ ទេ ? , Ask About Creator
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ អាយឌីអអាយ/B-ORG ពិត ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ អាយឌីអអាយ/B-ORG ពិត ទេ ? ,AskAboutMakerspace
 រ៉ូបូត អត់ ចេះ ស្អី ផង នឹង,Dissatisfied
 តើ មាន ប្រទេស អេស្ប៉ាញ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូសិទ្ធ/B-PER មែន ទេ ? , Ask About Creator
@@ -449,7 +449,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ២០២/I-ROOM នៅ ឯ ណា ?,FindRoom
 សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន កន្លែង នោម ឬ ទេ ?,DoesToiletExist
 តើ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា/B-PER នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
-លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បង់ក្លាដែស/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បង់ក្លាដែស/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ណារី/B-PER មែន ឬ អត់ ? , Ask About Creator
 តើ ប្រទេស កុងហ្គោ/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
@@ -476,7 +476,7 @@ Robot ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន 
 តើ មាន រឿង រំភើប អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ ពិដោរ/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ប្រទេស ប៉េរូ/B-GPE ហ្វីលីពីន/I-GPE ដែល ឬ អត់ ?,IsCountryExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ សាលា នឹង មាន កន្លែង នោម អត់ ?,DoesToiletExist
 តើ ពិត ជា មាន ប្រទេស ប៉ារ៉ាហ្គាយ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
@@ -485,7 +485,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន រឿង ថ្មី អត់ នេះ ?,AskAboutTrendingNews
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Find/I-ORG Me/I-ORG Home/I-ORG ក្នុង អាគារនវានុវត្តន៍ ដែរ ទេ ?,IsCompanyExist
 តើ បណ្តាញ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា ?,CuriculumInEachMajor
-អាល់បានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាមេនី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាល់បានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាមេនី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង បត់ ជើង អត់ ?,DoesToiletExist
 មាន កន្លែង នោម អត់ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន បង្គន់ ទេ ?,DoesToiletExist
@@ -504,12 +504,12 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Kela/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsStartUpExist
 តើ ពិត ជា មាន ប្រទេស ហ្គីប រ៉ាល់តា ដែល ឬ ទេ ?,IsCountryExist
-ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាហ្វហ្គានីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មែន ទេ ? , Ask About Makerspace
+ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាហ្វហ្គានីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មែន ទេ ? ,AskAboutMakerspace
 តើ ប្រទេស ម៉ាល់ឌីវ/B-GPE មាន ឬ អត់ ?,IsCountryExist
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មែនឫ ទេ ? , Ask About Makerspace
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? , Ask About Institution
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មែនឫ ទេ ? ,AskAboutMakerspace
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន មែន ឬ ទេ ? ,AskAboutInstitution
 តើ ពិត ជា មាន ប្រទេស ប៉ាណាម៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
 អ្នក ទទួល បន្ទុក ខាង Network អ្នក ណា ជា ?,AskAboutTopManagementPersonal
@@ -524,7 +524,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ លេខ ទូរសព្ទ របស់ បង ចាន់ តូលេខ ប៉ុន្មាន ?,AskAboutStaffPhoneNumber
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោក គ្រូ នាយក សុខា/B-PER នៅ ទីណា បាន ទេ ?,FindRoom
 តើ បន្ទប់ របស់ រឹទ្ធិ/B-PER នៅ អគារ/B-BUILD ស្មាត/I-BUILD ពិត ទេ ? ,FindRoom
-អង់ហ្គោឡា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អារូបា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អង់ហ្គោឡា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អារូបា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ កង/B-PER ញ៉ុង/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR មាន កន្លែង នោម អត់ ?,DoesToiletExist
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ឈុនហៀក/B-PER ពិត ឬ អត់ ? , Ask About Creator
@@ -533,17 +533,17 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ បន្ទប់ របស់ មេត្រី/B-PER នៅ អគារ/B-BUILD ស្មាត/I-BUILD ពិត ទេ ? ,FindRoom
 តើ បន្ទប់ របស់ សក្តិ/B-PER នៅ អគារ/B-BUILD សែល/I-BUILD កាត/I-BUILD ពិត ទេ ? ,FindRoom
 បង្ហាញ ខ្ញុំ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
-អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប្រេស៊ីល/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប្រេស៊ីល/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បង ផានិត/B-PER បាន ដែល ទេ ?,AskAboutStaffPhoneNumber
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ នៅ ខាង វិទ្យា/B-MAJOR សាស្រ្ត/I-MAJOR កុំព្យូទ័រ/I-MAJOR ?,CuriculumInEachMajor
 តើ ពិត ជា មាន ប្រទេស តៃវ៉ាន់/B-GPE ឬ ទេ ?,IsCountryExist
 សុីអេ ដីធី មាន Research អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 តើ ស្រី/B-PER ណែន/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG Kela/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsStartUpExist
-រ៉ូម៉ានី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+រ៉ូម៉ានី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG ឫ ទេ ? , Is Institution Exist
-តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ដែល ឫ ទេ ? , Is Institution Exist
+តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG ឫ ទេ ? ,IsInstitutionExist
+តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ដែល ឫ ទេ ? ,IsInstitutionExist
 តើ បន្ទប់ របស់ បង សិទ្ធ/B-PER នៅ ទី ណា ដែល ?,AskAboutStaffRoom
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នេះ ?,AskAboutTrendingNews
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង កុំព្យូទ័រ/B-MAJOR សាយអេន/I-MAJOR ?,CuriculumInEachMajor
@@ -560,7 +560,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 អ្នក មើល ការ ខុស ត្រូវ ខាង អុីខមមើស នរណា ជា ?,AskAboutTopManagementPersonal
 តើ កង/B-PER លាច/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ បន្ទប់ របស់ លោក គ្រូសុធារ៉ា/B-PER នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
-តើ មាន ស្ថាប័ន អ្វី នៅ ខាង ក្នុង អគារនវា/B-BUILD នុវត្តន៍/I-BUILD ?, Ask For Company In The Innovation Center
+តើ មាន ស្ថាប័ន អ្វី នៅ ខាង ក្នុង អគារនវា/B-BUILD នុវត្តន៍/I-BUILD ?,AskForCompanyInTheInnovationCenter
 តើ មាន ប្រទេស វៀតណាម/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ខេមមប/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsStartUpExist
 តើ អាច មាន ប្រទេស ម៉ូសំប៊ិក/B-GPE ឬ អត់ ?,IsCountryExist
@@ -571,11 +571,11 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ បន្ទប់ របស់ ពៅ/B-PER នៅ ទី ណា ? ,FindRoom
 តើ ប្រទេស ហ្គាតេម៉ាឡា/B-GPE មាន ឬ អត់ ?,IsCountryExist
 មាន បង្គន់ ទេ នៅ នឹង ?,DoesToiletExist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន ជំនាញ ណា ខ្លះ ? ,AskAboutMajor
 តើ មាន កម្ម វិធី សិក្សា ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍ ?,CuriculumInEachMajor
 ប្រាប់ នៅ ណិពទិច Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ឈុនហៀក/B-PER មែន ឫ ទេ ? , Ask About Creator
-ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ហ្គោឡា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ហ្គោឡា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ យើង អាច រក បន្ទប់/B-ROOM ស្រាវជ្រាវ/I-ROOM តាម វីធីណា ?,FindRoom
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ បង យ៉ា/B-PER មែន ឫ ទេ ? , Ask About Creator
 តើ មិត្ត/B-PER ភាព/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -592,11 +592,11 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD បន្ទប់ �
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង បូរី/B-PER ពិត ប្រាកដ ទេ ? , Ask About Creator
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ បន្ទប់ របស់ មាស/B-PER នៅ អគារ/B-BUILD វឌ្ឍនៈ/I-BUILD ពិត ទេ ? ,FindRoom
-សិង្ហបុរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រ៉ូម៉ានី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+សិង្ហបុរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រ៉ូម៉ានី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ លេខ ទំនាក់ទំនង របស់ លោក នាយក លេខ ប៉ុន្មាន ខ្លះ ?,AskAboutStaffPhoneNumber
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
 តើ រ៉ូបូត ឯង បង្កើត ដោយ ណារី/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ នឹង អគារ នេះ ?,AskForStartUpInTheInnovationCenter
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ គីម/B-PER ហុង/I-PER មែន ឬ អត់ ? , Ask About Creator
 តើ មាន ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ កំពង់/B-GPE ធំ/I-GPE មាន ខណ្ឌ ប៉ុន្មាន ?,AskAboutDistrictInProvince
@@ -622,7 +622,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន ប្រទេស កម្ពុជា/B-GPE ឬ អត់ ?,IsCountryExist
 តើ បន្ទប់ របស់ បង សុភាព/B-PER នៅ អាគារ មួយ ណា ដែល ?,AskAboutStaffRoom
 តើ ប្រទេស ថៃ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ជួយ សង្គម ផ្នែក អ្វី ខ្លះ ? ,AskAboutInstitution
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៦/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
 តើ កែវមនី/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 រ៉ូបូត មេត្តា ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ស្ថាបត្យ កម្ម កុំព្យូទ័រ មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
@@ -632,7 +632,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង បន្ទោរ បង់ ឬ ទេ ?,DoesToiletExist
 បង្ហាញ ខ្ញុំ កន្លែង នេះ ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ បុគ្គលិក ផ្នែក សម្រប សម្រួល កម្ម វិធី បន្តិច បាន ដែល ទេ ?,AskAboutStaffPhoneNumber
-អូទ្រីស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូស្ត្រាលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អូទ្រីស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូស្ត្រាលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ Telecomsand Networking មាន រៀន ម៉េច ខ្លះ ?,CuriculumInEachMajor
 តើ កង/B-PER សុឡា/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន ប្រទេស កេនយ៉ា/B-GPE ឬ ទេ ?,IsCountryExist
@@ -648,7 +648,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ ឧត្តរ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
 អគារ នៅ ឯ CADT/B-ORG មាន ម៉ាន ?,AskBuildingInformationInCADT
-លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូស្ត្រាលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+លីបេរីយ៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូស្ត្រាលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ កង/B-PER ញ៉ុង/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ យ៉ា/B-PER មែន ឫ ទេ ? , Ask About Creator
 នៅ CADT/B-ORG មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
@@ -676,8 +676,8 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ម៉ានុត/B-PER មែន ឬ អត់ ? , Ask About Creator
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
 តើ Information/B-MAJOR Technology/I-MAJOR មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
-អង់ហ្គោឡា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ឈីលី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?, Ask For Start Up In The Innovation Center
+អង់ហ្គោឡា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ឈីលី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ខាង ក្នុង កន្លែង នេះ ?,AskForStartUpInTheInnovationCenter
 ទីណា បន្ទប់ ប្រជុំ ការណ៍ ជាមួយ ក្រសួង/B-ORG ប្រៃសណីយ៍/I-ORG និង/I-ORG ទូរគមនាគមន៍/I-ORG ?,FindMeetingRoom
 អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
 តើ ប្រទេស ក្រិក/B-GPE មាន ឬ អត់ ?,IsCountryExist
@@ -686,7 +686,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង បូរី/B-PER ពិត ឬ ទេ ? , Ask About Creator
 មាន បង្គន់ បត់ ជើង ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ នឹង ?,AskAboutTrendingNews
-ហេតុ អ្វី បាន ជា គេ បង្កើត អ្នក ឡើយ ? ,
+ហេតុ អ្វី បាន ជា គេ បង្កើត អ្នក ឡើយ ? ,AskRobot
 សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
 តើ បន្ទប់ របស់ ពន្លឺ/B-PER នៅ អគារ/B-BUILD បុរី/I-BUILD ពិត ទេ ? ,FindRoom
 មនុស្ស យន្ត តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បង្គន់ បត់ ជើង នៅ ទី ណា ?,FindToilet
@@ -723,7 +723,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR កន្លែង បន្ទោរ បង់ នៅ ឯ ណា ?,FindToilet
 នៅ ណិពទិច មាន Research អ្វី សម្រាប់ សិស្ស ? ,AskAboutResearch
 តើ បន្ទប់ របស់ រឹទ្ធិ/B-PER នៅ ទីណា ? ,FindRoom
-អង់ដូរ៉ា/B-GPE បាន រាយ ការណ៍ ពី ករណី ឆ្លង ជំងឺ កូវីដ ១៩ ថ្មី ៗ ចំនួន ១១៩៣៤ ករណី និង មាន ករណី ស្លាប់ ថ្មី ចំនួន ៥ នាក់ បន្ថែម ទៀត ក្នុង រយៈ ២៤ ម៉ោង ចុង ក្រោយ នេះ ។ , News About Country
+អង់ដូរ៉ា/B-GPE បាន រាយ ការណ៍ ពី ករណី ឆ្លង ជំងឺ កូវីដ ១៩ ថ្មី ៗ ចំនួន ១១៩៣៤ ករណី និង មាន ករណី ស្លាប់ ថ្មី ចំនួន ៥ នាក់ បន្ថែម ទៀត ក្នុង រយៈ ២៤ ម៉ោង ចុង ក្រោយ នេះ ។ ,NewsAboutCountry
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ នេះ ?,AskAboutTrendingNews
 តើ Robot ឯង បង្កើត ដោយ ណារី/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ទី នេះ ?,AskAboutTrendingNews
@@ -766,9 +766,9 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូសិទ្ធ/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
 តើ អាច មាន ប្រទេស បួគី ណា ហ្វាសូមែន ឬ អត់ ?,IsCountryExist
 ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ប៉ាណាម៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប៉ាណាម៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ កង/B-PER សំបូរ/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ពិត ទេ ? , Ask About Makerspace
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG ពិត ទេ ? ,AskAboutMakerspace
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង នេះ ដែរ ទេ ?,IsCompanyExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
@@ -776,7 +776,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 អ្នក មើល ការ ខុស ត្រូវ ក្នុង Telecoms and Networking អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER កំពុង Research អ្វី ? ,AskAboutResearcher
 តើ បង សុធារ៉ា/B-PER ធ្វើ ការ នៅ អាគារ ណា ?,AskAboutStaffRoom
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDRI/B-ORG មែន ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDRI/B-ORG មែន ទេ ? ,AskAboutMakerspace
 តើ សំណាង/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ កងលីណា/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ៣០៤/I-ROOM ដោយ វីធីណា បាន ?,FindRoom
@@ -788,7 +788,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
 តើ បន្ទប់ របស់ លោក/B-PER សុភី/I-PER នៅ ណា ?,FindEmployeeRoom
 តើ មេ/B-PER ត្រី/I-PER ភាព មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ខាង ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី ខ្លះ នៅ ខាង ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,AskForStartUpInTheInnovationCenter
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ កន្លែង នេះ ?,AskAboutTrendingNews
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក នាយក រង សុខា/B-PER នៅ ទី ណា ?,FindRoom
 តើ មាន ប្រទេស ម៉ុលដាវី/B-GPE ដែល ឬ ទេ ?,IsCountryExist
@@ -798,9 +798,9 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 ប្រាប់ ខ្ញុំ ក្នុង នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន កន្លែង បន្ទោរ បង់ ទេ ?,DoesToiletExist
 នៅ ឯ CADT/B-ORG មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ សិស្ស ? ,AskAboutResearch
-បែលហ្ស៊ិក/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បង់ក្លាដែស/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+បែលហ្ស៊ិក/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បង់ក្លាដែស/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 មាន បង្គន់ អត់ ?,DoesToiletExist
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ពិត ឫ ទេ ? , Ask About Makerspace
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ពិត ឫ ទេ ? ,AskAboutMakerspace
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD បង្គន់ អណាម័យ នៅ ឯ ណា?,FindToilet
 តើ ប្រទេស ម៉ុងសឺរ៉ាត់ មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បង ផានិត/B-PER បាន ទេ ?,AskAboutStaffPhoneNumber
@@ -812,38 +812,38 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង នេះ ទេ ?,IsCompanyExist
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
-តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មែន ឫ ទេ ? , Is Institution Exist
+តើ នៅ ទី នេះ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មែន ឫ ទេ ? ,IsInstitutionExist
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង បណ្តាញ ?,CuriculumInEachMajor
 តើ ពិត ជា មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង យ៉ា/B-PER ពិត ឬ អត់ ? , Ask About Creator
 តើ ពិត ជា មាន ប្រទេស អូស្ត្រាលី/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 ចូល ប្រាប់ នៅ ឯ សុីអេ ដីធី ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
-តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? , Ask About Institution
+តើ IDRI/B-ORG ជា ស្ថាប័ន ជាតិ មែន ទេ ? ,AskAboutInstitution
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ សាលា នឹង មាន បង្គន់ អត់ ?,DoesToiletExist
 តើ ទី តាំង បន្ទប់ របស់ បង ផានិត/B-PER មួយ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន ប្រទេស កូស្តា/B-GPE រីកា/I-GPE មែន ឬ ទេ ?,IsCountryExist
-តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ដែល ឫ ទេ ? , Is Institution Exist
+តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ដែល ឫ ទេ ? ,IsInstitutionExist
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR ?,CuriculumInEachMajor
-អាល់ហ្សេរី/B-GPE បាន រាយ ការណ៍ ពី ករណី ឆ្លង ជំងឺ កូវីដ ១៩ ថ្មី ៗ ចំនួន ១១៩៣៤ ករណី និង មាន ករណី ស្លាប់ ថ្មី ចំនួន ៥ នាក់ បន្ថែម ទៀត ក្នុង រយៈ ២៤ ម៉ោង ចុង ក្រោយ នេះ ។ , News About Country
-ឈីលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាណាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាល់ហ្សេរី/B-GPE បាន រាយ ការណ៍ ពី ករណី ឆ្លង ជំងឺ កូវីដ ១៩ ថ្មី ៗ ចំនួន ១១៩៣៤ ករណី និង មាន ករណី ស្លាប់ ថ្មី ចំនួន ៥ នាក់ បន្ថែម ទៀត ក្នុង រយៈ ២៤ ម៉ោង ចុង ក្រោយ នេះ ។ ,NewsAboutCountry
+ឈីលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាណាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់ របស់ លោគ្រូ នាយក រង សុខា/B-PER នៅ ទី ណា ?,FindRoom
 តើ ប្រទេស ហ្គាំ/B-GPE មាន ឬ ទេ ?,IsCountryExist
-តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាត/B-ORG អាប់អី ខ្លះ នៅ ក្នុង ទី នេះ ?,AskForStartUpInTheInnovationCenter
 តើ ប្រទេស តុងហ្គា/B-GPE មាន ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស តាជីគី/B-GPE ស្ថាន/I-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ មនុស្ស យន្ត ឯង ដឹង ទេ ថា បន្ទប់/B-ROOM ៣០១/I-ROOM គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose
 តើ អាច មាន ប្រទេស ហ្គ្រេណាដា/B-GPE ឬ អត់ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស អាហ្វ្រិក/B-GPE ខាង/I-GPE ត្បូង/I-GPE ឬ ទេ ?,IsCountryExist
 តើ សំណាង/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន ផ្នែក អ្វី ខ្លះ ? ,AskAboutInstitution
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ បង យ៉ា/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បង្គន់ បត់ ជើង ទេ ?,DoesToiletExist
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
 សុំ សួរ មួយ រ៉ូបូតតើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
 តើ អាច មាន ប្រទេស បាហាម៉ា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 នៅ នេះ មាន ស្រាវជ្រាវ អ្វី សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
-តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន playground ដែល ទេ ? , Ask About Playground
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន playground ដែល ទេ ? ,AskAboutPlayground
 តើ កងឌីណាត/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង ឈុន ហៀន ពិត ប្រាកដ ទេ ? , Ask About Creator
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ២/I-FLOOR មាន refill ទឹក ទេ ?,AskAboutWaterRefill
@@ -852,7 +852,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 ទីណា បន្ទប់ ប្រជុំ ជាមួយ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER ?,FindMeetingRoom
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR បង្គន់ នៅ ណា ?,FindToilet
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង ផានន្ទ/B-PER ពិត ឬ អត់ ? , Ask About Creator
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង ណា លេង ទេ ? , Ask About Playground
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG អប់រំ/I-ORG មាន កន្លែង ណា លេង ទេ ? ,AskAboutPlayground
 តើ អាច មាន ប្រទេស ម៉ាល់ឌីវ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 នៅ ជាន់ នេះ បន្ទប់ ទឹក នៅ ឯ ណា ?,FindToilet
 តើ មេសា/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
@@ -863,14 +863,14 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 ឯណា បន្ទប់ ប្រជុំ ជាមួយ អង្គ/B-ORG ការ/I-ORG សហគមន៍/I-ORG អាមេរិក/I-ORG ?,FindMeetingRoom
 តើ ខ្ញុំ អាច រក បន្ទប់ របស់ លោក គ្រូសុធារ៉ា/B-PER ដោយ វីធីណា ?,FindRoom
 តើ អាច មាន ប្រទេស ហុងឌូរ៉ាស/B-GPE ដែល ឬ ទេ ?,IsCountryExist
-ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ថៃ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ថៃ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Kela/I-ORG នៅ ខាង ក្នុង អាគារនវា នុវត្តន៍/I-BUILD ដែល ទេ ?,IsStartUpExist
 តើ លេខ ទូរសព្ទ របស់ លោក គ្រូសិរី/B-PER លេខ ប៉ុន្មាន ខ្លះ ?,AskAboutStaffPhoneNumber
 តើ ប្រទេស អេក្វាឌ័រ/B-GPE មាន ឬ អត់ ?,IsCountryExist
 មាន បន្ទប់ ទឹក ឬ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 តើ ប្រទេស អ៊ុយរូហ្គាយ/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ សុកហេង/B-PER ពិត ឬ អត់ ? , Ask About Creator
-ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បែលហ្ស៊ិក/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បែលហ្ស៊ិក/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 សាស្រ្តាចារ្យ ណា ជា អ្នក បង្រៀន ស្ថាបត្យ កម្ម កុំព្យូទ័រ ?,FindLecturerForSubject
 តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក អេហ្វអា នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
 តើ ពិត ជា មាន ប្រទេស ថៃ/B-GPE ដែល ឬ អត់ ?,IsCountryExist
@@ -905,7 +905,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន រៀន ស្អីគេ ខ្លះ ខាង អុីខមមើស ?,CuriculumInEachMajor
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ១០៤/I-ROOM នៅ ទី ណា ?,FindRoom
 តើ ទី តាំង បន្ទប់ របស់ ផ្នែក អភិវឌ្ឍន៍ កម្ម វិធី នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី នៅ ក្នុង ទី នេះ ?,AskForStartUpInTheInnovationCenter
 កន្លែង ប្រជុំ ម៉ោង/B-TIME បួន/I-TIME នៅ កន្លែង ណា ?,FindMeetingRoom
 តើ ប្រទេស សហព័ន្ធ/B-GPE អារ៉ាប់/I-GPE រួម/I-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ នេះ ?,AskAboutTrendingNews
@@ -917,15 +917,15 @@ Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា ប�
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការពារ/I-ORG ជាតិ/I-ORG មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
 តើ ពិត ជា មាន ប្រទេស រុស្ស៊ី/B-GPE ឬ ទេ ?,IsCountryExist
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ប្រជុំ/I-ROOM នៅ ទី ណា បាន ទេ ?,FindRoom
-រ៉ូម៉ានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ដូរ៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+រ៉ូម៉ានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ដូរ៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 ក្នុង នេះ មាន ស្រាវជ្រាវ អ្វី សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
 រ៉ូបូត ខ្ញុំ សូម សួរ ថា នៅ បន្ទប់/B-ROOM ១០១/I-ROOM សាស្រ្តាចារ្យ កំពុង បង្រៀន អ្វី ដែរ ?,FindStudyRoomCurrentSubject
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG កីឡា/I-ORG នៅ នឹង កន្លែង នេះ ឬ ទេ ?,IsStartUpExist
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ អណាម័យ អត់ ?,DoesToiletExist
 តើ កងណី/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន សារៈ សំខាន់ ដែល ឬ ទេ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន សារៈ សំខាន់ ដែល ឬ ទេ ? ,AskAboutInstitution
 តើ ពន្លឺ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-ប្រេស៊ីល/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កុងហ្គោ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ប្រេស៊ីល/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កុងហ្គោ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ បន្ទប់ របស់ ពិសិដ្ឋ/B-PER នៅ អគារ/B-BUILD រតនៈ/I-BUILD ពិត ទេ ? ,FindRoom
 តើ នាង/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
@@ -964,7 +964,7 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
-រុស្ស៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+រុស្ស៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ លោក គ្រូសិទ្ធ/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
 តើ យើង អាច រក បន្ទប់/B-ROOM ស្រាវជ្រាវ/I-ROOM ដោយ វីធីណា ?,FindRoom
 តើ ពិត ជា មាន ប្រទេស ឥណ្ឌូណេស៊ី មែន ឬ អត់ ?,IsCountryExist
@@ -972,16 +972,16 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR មាន កន្លែង បត់ ជើង ឬ អត់ ?,DoesToiletExist
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ១០៦/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
 តើ បន្ទប់/B-ROOM ១០៥/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
-កូឡុំប៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាហ្សង់ទីន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
-បង់ក្លាដែស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាមេនី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+កូឡុំប៊ី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាហ្សង់ទីន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
+បង់ក្លាដែស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាមេនី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 មនុស្ស យន្ត តើ នៅ អគារ/B-BUILD នេះ/I-BUILD បង្គន់ បត់ ជើង នៅ ឯ ណា?,FindToilet
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់/B-ROOM ២០៦/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
 មាន កន្លែង បន្ទោរ បង់ ឬ ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 តើ នៅ IDT/B-ORG មាន អាហារដ្ឋាន ទេ ? , Ask About Canteen
-អាល់ហ្សេរី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាល់ហ្សេរី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អាច មាន ប្រទេស ស៊ូរី ណាម ដែល ឬ អត់ ?,IsCountryExist
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR កន្លែង បត់ ជើង នៅ ឯ ណា?,FindToilet
-អាល់ហ្សេរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កម្ពុជា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អាល់ហ្សេរី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី កម្ពុជា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 អ្នក មើល ការ នៅ ថ្នាក់ មូលដ្ឋាន អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG Arrow/I-ORG Dot/I-ORG នៅ ខាង ក្នុង នេះ ទេ ?,IsStartUpExist
@@ -1011,8 +1011,8 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ នៅ ក្រសួង/B-ORG អប់រំ/I-ORG យុវជន/I-ORG និង/I-ORG កីឡា/I-ORG មាន កន្លែង រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ កន្លែង នេះ ?,AskAboutTrendingNews
 តើ មេ/B-PER ត្រី/I-PER ភាព មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ មាន ក្រុម ហ៊ុន អី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?, Ask For Company In The Innovation Center
-តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី នៅ ខាង ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អី ខ្លះ ក្នុង អគារនវានុវត្តន៍/B-BUILD ?,AskForCompanyInTheInnovationCenter
+តើ មាន ស្តាត/B-ORG អាប់/I-ORG អ្វី នៅ ខាង ក្នុង ទី នេះ ?,AskForStartUpInTheInnovationCenter
 តើ អ្នក ត្រូវ បាន ចូល រួម បង្កើត ដោយ ឈុនហៀក/B-PER ពិត ប្រាកដ ទេ ? , Ask About Creator
 តើ រស់/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន ប្រទេស ប្រេស៊ីល/B-GPE មែន ឬ អត់ ?,IsCountryExist
@@ -1038,22 +1038,22 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ សក្តិ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG ហ្វាញមុីហូម/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
-លីបេរីយ៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្វហ្គានីស្ថាន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+លីបេរីយ៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្វហ្គានីស្ថាន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ អាច មាន ប្រទេស បេឡារុស/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 រ៉ូបូត តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បង្គន់ បត់ ជើង នៅ ទី ណា ?,FindToilet
 ប្រាប់ ខ្ញុំ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 តើ មាន រៀន ម៉េច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លេង ដែល ទេ ? , Ask About Playground
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG មាន កន្លែង លេង ដែល ទេ ? ,AskAboutPlayground
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ ផល្លា/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង ណា សំរាប់ លេង ទេ ? , Ask About Playground
+តើ នៅ អាយឌីអអាយ/B-ORG មាន កន្លែង ណា សំរាប់ លេង ទេ ? ,AskAboutPlayground
 តើ ប្រទេស តូមិននី ស្ថាន មាន ប្រវែង ប៉ុន្មាន ?,AskAboutCountries
 តើ ចត នៅ ណាបាន ?,AskAboutWhereIsParkingSpace
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ម៉ានុត/B-PER មែន ទេ ? , Ask About Creator
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Book/I-ORG Me/I-ORG Bus/I-ORG នៅ ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
 តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់ របស់ លោគ្រូ នាយក រង សុខា/B-PER បាន ដែល ឬ ទេ ?,FindRoom
 តើ យើង អាច រក បន្ទប់/B-ROOM ៣០៣/I-ROOM ដោយ របៀប ណា ?,FindRoom
-តើ ស្ថាប័ន ណា ជា អ្នក ផលិត អ្នក ? ,
+តើ ស្ថាប័ន ណា ជា អ្នក ផលិត អ្នក ? ,AskRobot
 តើ មាន ប្រទេស ប៉ាឡេស្ទីន/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ ពិត ជា មាន ប្រទេស កូតឌីវ័រ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង ជុះ នោម អត់ ?,DoesToiletExist
@@ -1063,18 +1063,18 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD កន្លែង បត់ ជើង នៅ ឯ ណា?,FindToilet
 នៅ ទី នេះ មាន Research អ្វី សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
 តើ មាន កម្ម វិធី រៀន ម៉េច ខ្លះ នៅ ខាង IT/B-MAJOR ?,CuriculumInEachMajor
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? ,AskAboutMajor
 តើ ពិត ជា មាន ប្រទេស ហ្សាម៉ាអ៊ីក/B-GPE ឬ ទេ ?,IsCountryExist
 តើ បន្ទប់/B-ROOM ១០៣/I-ROOM នៅ ទី ណា ?,FindRoom
 តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
 ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
 ចូល ប្រាប់ កន្លែង នេះ Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 តើ រាសី/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-តើ មាន អាយឌីអអាយ/B-ORG មែន ឫ ទេ ? , Is Institution Exist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? , Ask About Institution
+តើ មាន អាយឌីអអាយ/B-ORG មែន ឫ ទេ ? ,IsInstitutionExist
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG សេដ្ឋ/I-ORG កិច្ច/I-ORG និង/I-ORG ហិរញ្ញ/I-ORG វត្ថុ/I-ORG ជា របស់ រដ្ន ឬ ក៏ របស់ ឯក ជន ? ,AskAboutInstitution
 តើ ប្រទេស ហ្គីណេ/B-GPE ប៊ីសសូ មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង ទី នេះ ទេ ?,IsCompanyExist
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មែនឫ ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មែនឫ ទេ ? ,AskAboutMakerspace
 តើ មាន កម្ម វិធី រៀន ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ បន្ទប់ របស់ លោក/B-PER អាឡិច/I-PER នៅ ណា ?,FindEmployeeRoom
 នៅ សុីអេ ដីធី មាន Research អ្វី ខ្លះ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
@@ -1097,15 +1097,15 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 តើ ទី តាំង បន្ទប់ របស់ ផ្នែក អេហ្វអ នៅ អាគារ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បន្ទប់ ទឹក ឬ អត់ ?,DoesToiletExist
-អារូបា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បាហាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
-លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី អាមេនី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អារូបា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បាហាម៉ា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
+លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី អាមេនី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន បន្ទប់ ទឹក អត់ ?,DoesToiletExist
 តើ ខ្ញុំ អាច សុំ លេខ ទំនាក់ទំនង របស់ លោក គ្រូសិរី/B-PER បន្តិច បាន ដែល ឬ ទេ ?,AskAboutStaffPhoneNumber
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះហា នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR and/I-MAJOR Networking/I-MAJOR ?,CuriculumInEachMajor
 តើ បន្ទប់ របស់ បង សុធារ៉ា/B-PER នៅ អាគារ ណា ?,AskAboutStaffRoom
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? ,AskAboutInstitution
 តើ នៅ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDT/B-ORG មែន ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDT/B-ORG មែន ទេ ? ,AskAboutMakerspace
 ប្រាប់ ខ្ញុំ នៅ សុី អេ ដីធី Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ ឯ នេះ ?,AskAboutTrendingNews
 នៅ នេះ មាន Research អ្វី សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
@@ -1123,14 +1123,14 @@ Robot សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ
 អ្នក ទទួល បន្ទុក ខាង Networkនរណា ជា ?,AskAboutTopManagementPersonal
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់/B-ROOM ៣០៥/I-ROOM នៅ ទី ណា បាន ទេ ?,FindRoom
 តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE មែន ឬ ទេ ?,IsCountryExist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លេង ទេ ? , Ask About Playground
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន កន្លែង លេង ទេ ? ,AskAboutPlayground
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន កន្លែង បត់ ជើង ទេ ?,DoesToiletExist
 តើ ប្រទេស សាធារណរដ្ឋ/B-GPE កៀហ្ស៊ីស៊ី/I-GPE មាន ឬ ទេ ?,IsCountryExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន កន្លែង ជុះ នោម ឬ អត់ ?,DoesToiletExist
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ធី/I-ROOM អេសសុី/I-ROOM នៅ ឯ ណា?,FindRoom
 តើ រ៉ូបូត ឯង បង្កើត ដោយ បង យ៉ា/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
 តើ អាច មាន ប្រទេស ក្រូអាត/B-GPE ដែល ឬ ទេ ?,IsCountryExist
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ណា ខ្លះ ក្នុង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,AskForStartUpInTheInnovationCenter
 តើ កងឡុញ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 នៅ ណិពទិច មាន ស្រាវជ្រាវ អ្វី ខ្លះ ? ,AskAboutResearch
 មនុស្ស យន្ត ប្រាប់ បាន ទេ ថា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍/B-ANN ទៅ/I-ANN បារាំង/I-ANN នៅ ឯ ណា?,FindMeetingRoom
@@ -1142,12 +1142,12 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ប�
 ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ ស្រាវជ្រាវ អ្វី ខ្លះ ? ,AskAboutResearcher
 រ៉ូបូត តើ នៅ អគារ/B-BUILD IDT/I-BUILD បង្គន់ នៅ ទី ណា ?,FindToilet
 ប្រាប់ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER គាត់ Research លើ អ្វី ? ,AskAboutResearcher
-តើ មាន ស្ថាប័ន អ្វី នៅ នឹង កន្លែង នេះ ?, Ask For Company In The Innovation Center
-កុងហ្គោ/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+តើ មាន ស្ថាប័ន អ្វី នៅ នឹង កន្លែង នេះ ?,AskForCompanyInTheInnovationCenter
+កុងហ្គោ/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អាហ្សង់ទីន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង ណារី/B-PER ពិត ឬ អត់ ? , Ask About Creator
 នៅ ជាន់/B-FLOOR ក្រោម/I-FLOOR កន្លែង ជុះ នោម នៅ ទី ណា ?,FindToilet
 តើ មាន ប្រទេស ហ្សំប៊ី/B-GPE ឬ អត់ ?,IsCountryExist
-អាមេនី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាគីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាមេនី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាគីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ ពិត ជា មាន ប្រទេស ជីប៊ូ/B-GPE ទី/I-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ អ្នក ដឹក ទេ ថា នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ឱកាស ការងារ ទេ ?,AskAboutJobOpportunities
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន បង្គន់ អណាម័យ ទេ ?,DoesToiletExist
@@ -1164,13 +1164,13 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ សុធី/B-PER រិទ្ធ/I-PER ពិត ទេ ? , Ask About Creator
 តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
 តើ ប្រទេស កោះ/B-GPE ហ្វារ៉ូ/I-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
-រ៉ូម៉ានី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+រ៉ូម៉ានី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 មាន កន្លែង ជុះ ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR ?,DoesToiletExist
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នេះ ?,AskAboutTrendingNews
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ ក្នុង ទី នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ ក្នុង ទី នេះ ?,AskForStartUpInTheInnovationCenter
 អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន បង្គន់ បត់ ជើង ឬ ទេ ?,DoesToiletExist
@@ -1180,17 +1180,17 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 បន្ទប់/B-ROOM ១០១/I-ROOM គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose
 តើ ពន្លឺ/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ កែវមនី/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី លី បេរីយ៉ា ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ចិន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី លី បេរីយ៉ា ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ ទី តាំង ធ្វើ ការ របស់ ផ្នែក អេហ្វអា នៅ ជាន់ ណា ?,AskAboutStaffRoom
 តើ អាច មាន ប្រទេស ហ្គាំប៊ី/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 តើ កញ្ញា/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពាន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
-ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បារ៉ែន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប៉ាគីស្ថាន/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បារ៉ែន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 អ្នក ទទួល បន្ទុក ខាង ណេត វើក កីង អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 បន្ទប់ ប្រជុំ ការណ៍ ម៉ោង/B-TIME ១០/I-TIME នៅ ទីណា ?,FindMeetingRoom
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់ នេះ មាន បង្គន់ ឬ អត់ ?,DoesToiletExist
 តើ យើង អាច រក បន្ទប់/B-ROOM ២០៤/I-ROOM តាម ណា បាន ?,FindRoom
-តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មែន ឫ ទេ ? , Ask About Makerspace
+តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មែន ឫ ទេ ? ,AskAboutMakerspace
 តើ នៅ សល់ កន្លែង ធ្វើ ការ ដែរ ទេ ?, Ask About Available Working Space
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ការងារ/I-ORG មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
@@ -1218,7 +1218,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង នោម នៅ ឯ ណា ?,FindToilet
 ចូល ប្រាប់ នេះ ស្រាវជ្រាវ លើ ? ,AskAboutResearch
 តើ មាន ប្រទេស ម៉ារ៉ុក/B-GPE មែន ឬ ទេ ?,IsCountryExist
-អូស្ត្រាលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស កូឡុំប៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អូស្ត្រាលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស កូឡុំប៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ ប្រទេស ម៉ូសំប៊ិក/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ ទូរគមនាគមន៍ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន បង្គន់ អត់ ?,DoesToiletExist
@@ -1226,21 +1226,21 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 ជួយ ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ ការណ៍ មក Robot,FindMeetingRoom
 តើ ប្រទេស ហ្គាបុន/B-GPE មាន ឬ អត់ ?,IsCountryExist
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់ របស់ លោក គ្រូសុភាព/B-PER នៅ ឯ ណា?,FindRoom
-អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ថៃ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
-សូម ធ្វើ ការ វាយ តម្លៃ ពី ខ្ញុំ ,
+អាហ្វហ្គានីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ថៃ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
+សូម ធ្វើ ការ វាយ តម្លៃ ពី ខ្ញុំ ,AskAboutDissatisfaction
 ខ្ញុំ ចង់ ស្វែង រក ចំណ តថយន្ត,AskAboutWhereIsParkingSpace
 តើ បន្ទប់ របស់ មេសា/B-PER នៅ អគារ/B-BUILD បុរី/I-BUILD ពិត ទេ ? ,FindRoom
-តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? ,AskAboutMajor
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 មាន បង្គន់ បត់ ជើង ឬ ទេ នៅ នឹង ?,DoesToiletExist
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
-តើ មាន ក្រុម ហ៊ុន អី ក្នុង អគារ នេះ ?, Ask For Company In The Innovation Center
+តើ មាន ក្រុម ហ៊ុន អី ក្នុង អគារ នេះ ?,AskForCompanyInTheInnovationCenter
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ ដារ៉ា/B-PER មែន ទេ ? , Ask About Creator
 តើ មាន ប្រទេស ហ្គាំ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ មង្គល/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
 តើ Network មាន កម្ម វិធី សិក្សា ស្អី ខ្លះ ?,CuriculumInEachMajor
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? , Ask About Major
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? ,AskAboutMajor
 សុំ សួរ មួយ Robot តើ នៅ អាគារ នេះ មាន កន្លែង បន្ទោរ បង់ អត់ ?,DoesToiletExist
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ គីម/B-PER ហុង/I-PER ពិត ទេ ? , Ask About Creator
 តើ យើង អាច រក បន្ទប់/B-ROOM ២០៤/I-ROOM តាម របៀប ណា ?,FindRoom
@@ -1260,7 +1260,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ កង/B-PER សឿង/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG មាន កន្លែង អាហារ ទេ ? , Ask About Canteen
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ម៉ានុត/B-PER ពិត ឬ អត់ ? , Ask About Creator
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,AskForStartUpInTheInnovationCenter
 តើ អាច មាន ប្រទេស ប៉េរូ/B-GPE ហ្វីលីពីន/I-GPE ឬ អត់ ?,IsCountryExist
 ចូល ប្រាប់ នៅ ណិពទិច ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
 តើ ពិត ជា មាន ប្រទេស យេម៉ែន/B-GPE ដែល ឬ អត់ ?,IsCountryExist
@@ -1278,7 +1278,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 ប្រាប់ នៅ ទី នេះ Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់/B-ROOM ១០៥/I-ROOM នៅ ទី ណា ?,FindRoom
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR ផ្ទាល់/I-FLOOR ដី/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? , Ask About Institution
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG អភិបាល/I-ORG កិច្ជ/I-ORG ឌីជីថល/I-ORG មាន ផ្នែក អ្វី ខ្លះ ដែល មាន សារៈ សំខាន់ ? ,AskAboutInstitution
 ប្រាប់ CADT/B-ORG ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 អ្នក ទទួល បន្ទុក ខាង ណេត វើក កីង នរណា ជា ?,AskAboutTopManagementPersonal
 រ៉ូបូត សួម ជួយ ប្រាប់ បន្ទិច បាន ទេ ថា កន្លែង ប្រជុំ ទាក់ ទង នឹង អាហារូបករណ៍/B-ANN ទៅ/I-ANN បារាំង/I-ANN នៅ ឯ ណា?,FindMeetingRoom
@@ -1300,7 +1300,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG អារូដត/I-ORG ក្នុង នេះ ដែល ទេ ?,IsStartUpExist
 តើ មាន ប្រទេស ស្វាស៊ីឡង់/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
-តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ ក្នុង កន្លែង នេះ ?, Ask For Start Up In The Innovation Center
+តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អ្វី ខ្លះ ក្នុង កន្លែង នេះ ?,AskForStartUpInTheInnovationCenter
 តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
 អ្នក មើល ការ ខាង Network អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 អ្នក មើល ការ ខុស ត្រូវ ក្នុង Network អ្នក ណា ជា ?,AskAboutTopManagementPersonal
@@ -1308,13 +1308,13 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ប្រទេស កាតា/B-GPE ឬ ទេ ?,IsCountryExist
 តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ២០៥/I-ROOM ដោយ វីធីណា បាន ?,FindRoom
-អូស្ត្រាលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អូស្ត្រាលី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ចិន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ ខាង ណេតវើក កីង ?,CuriculumInEachMajor
 តើ អាច មាន ប្រទេស ម៉ាឡាវ/B-GPE ឬ ទេ ?,IsCountryExist
 ប្រាប់ ខ្ញុំ នៅ នឹង Research លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ២០២/I-ROOM នៅ ទី កន្លែង ណា ?,FindRoom
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR IT/I-MAJOR ?,CuriculumInEachMajor
-បូលីវី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី កម្ពុជា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+បូលីវី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី កម្ពុជា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 មនុស្ស យន្ត អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER បន្ទប់ របស់ គាត់ នៅ ណា ?,FindEmployeeRoom
 តើ កង/B-PER សំបូរ/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -1322,7 +1322,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Arrow/I-ORG Dot/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ដែរ ទេ ?,IsStartUpExist
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បន្ទប់ ទឹក នៅ ទី ណា ?,FindToilet
 តើ មាន រៀន ស្អី ខ្លះហា នៅ ខាង ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
-ឈីលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+ឈីលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ខាង ជំនាញ e -commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច ?,CuriculumInEachMajor
 តើ មាន រៀន អ្វី ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR Telecoms/I-MAJOR ?,CuriculumInEachMajor
 តើ មាន រៀន ដូច មេ្តច ខ្លះ នៅ ខាង ជំនាញ/B-MAJOR computerscience/I-MAJOR ?,CuriculumInEachMajor
@@ -1330,7 +1330,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 មាន កន្លែង បន្ទោរ បង់ អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ?,DoesToiletExist
 មេត្តា ប្រាប់ ខ្ញុំ កន្លែង របស់ បន្ទប់ ប្រជុំ មក Robot,FindMeetingRoom
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ ខាង Information/B-MAJOR Technology/I-MAJOR ?,CuriculumInEachMajor
-ប្រេស៊ីល/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ហ្គោឡា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប្រេស៊ីល/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អង់ហ្គោឡា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 អ្នក មើល ការ ក្នុង កុំព្យូទ័រ សាយអេននរណា ជា ?,AskAboutTopManagementPersonal
 តើ អ្នក អាច ប្រាប់ ទី តាំង បន្ទប់ របស់ លោនាយក សុខា/B-PER នៅ កន្លែង ណា ?,FindRoom
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsCompanyExist
@@ -1340,7 +1340,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ធីអេសសុី/I-ROOM ដោយ វីធីណា បាន ?,FindRoom
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ កន្លែង នឹង ?,AskAboutTrendingNews
-សិង្ហបុរី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បែលហ្ស៊ិក/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+សិង្ហបុរី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បែលហ្ស៊ិក/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 ប្រាប់ ខ្ញុំ នៅ ឯ សុី អេ ដីធី Research លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់/B-ROOM ៣០៥/I-ROOM នៅ ទី ណា ?,FindRoom
 តើ រមណី/B-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -1349,14 +1349,14 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ បន្ទប់ របស់ ពិសិដ្ឋ/B-PER នៅ អគារ/B-BUILD មិត្ត/I-BUILD ហ្វូន/I-BUILD ពិត ទេ ? ,FindRoom
 មាន បង្គន់ បត់ ជើង អត់ ?,DoesToiletExist
 ទី នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
-បារ៉ែន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+បារ៉ែន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ប៉ាណាម៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ ពិត ជា មាន ប្រទេស បេនីន/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 ប្រាប់ CADT/B-ORG Research លើ សម្រាប់ បុគ្គលិក ? ,AskAboutResearch
 តើ មាន វីធីណា ដែល អាច នាំ ខ្ញុំ ទៅ រក បន្ទប់/B-ROOM ស្រាវជ្រាវ/I-ROOM បាន ?,FindRoom
 តើ មាន ប្រទេស បាហាម៉ា/B-GPE ឬ អត់ ?,IsCountryExist
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ៣០៥/I-ROOM តាម វីធីណា ?,FindRoom
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ១០៤/I-ROOM តាម ណា ?,FindRoom
-តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? ,AskAboutMajor
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ កន្លែង នេះ មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ធី/I-ROOM អេសសុី/I-ROOM នៅ ទី កន្លែង ណា ?,FindRoom
 តើ មាន ប្រទេស ហ្គីយ៉ាណា/B-GPE ហៃទី/I-GPE មែន ឬ ទេ ?,IsCountryExist
@@ -1369,7 +1369,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ ពិត ជា មាន ប្រទេស ស៊ុយអែត/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ កង/B-PER សុខ/I-PER សាន/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG កិច្ច/I-ORG ការ/I-ORG នារី/I-ORG មានrefill ទឹក ទេ ?,AskAboutWaterRefill
-ថៃ/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បូលីវី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ថៃ/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស បូលីវី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ Robot ឯង បង្កើត ដោយ បង ផានន្ទ/B-PER មែន ឫ ទេ ? , Ask About Creator
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ ខាង ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR ?,CuriculumInEachMajor
 តើ ពិត ជា មាន ប្រទេស កោះ កៃម៉ាន មែន ឬ អត់ ?,IsCountryExist
@@ -1382,7 +1382,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Kela/I-ORG នៅ នឹង នេះ ដែល ទេ ?,IsStartUpExist
 តើ បន្ទប់ របស់ រំចង់/B-PER នៅ អគារ/B-BUILD រតនៈ/I-BUILD ពិត ទេ ? ,FindRoom
 មាន កន្លែង បត់ ជើង អត់ នៅ ជាន់/B-FLOOR លើ/I-FLOOR ?,DoesToiletExist
-អាល់បានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+អាល់បានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ឈីលី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ ពិដោរ/B-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសិទ្ធ/B-PER នៅ ជាន់ ណា ?,AskAboutStaffRoom
@@ -1395,11 +1395,11 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មិត្ត/B-PER ភាព/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG ខេមមប/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ដែល ទេ ?,IsStartUpExist
 តើ កងឡុញ/B-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
-តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មែន ឫ ទេ ? , Is Institution Exist
+តើ មាន វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មែន ឫ ទេ ? ,IsInstitutionExist
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់/B-ROOM ២០៥/I-ROOM នៅ ទី ណា បាន ទេ ?,FindRoom
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង បូរី/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
-អង់ដូរ៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ឈីលី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អង់ដូរ៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ឈីលី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ ពិត ជា មាន ប្រទេស ម៉ាដាហ្គាស្ការ/B-GPE មែន ឬ អត់ ?,IsCountryExist
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្គន់ នៅ ឯ ណា ?,FindToilet
 ភ្ញៀវ ចង់ ប្រើប្រាស់ ទី តាំង ចត,AskAboutWhereIsParkingSpace
@@ -1407,8 +1407,8 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ២០៣/I-ROOM តាម វីធីណា បាន ?,FindRoom
 នៅ ជាន់/B-FLOOR ទី/I-FLOOR ១/I-FLOOR បង្គន់ បត់ ជើង នៅ កន្លែង ណា ?,FindToilet
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៣/I-FLOOR មាន កន្លែង refill ទឹក ទេ ?,AskAboutWaterRefill
-ប្រេស៊ីល/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាគីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
-កុងហ្គោ/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាល់ហ្សេរី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+ប្រេស៊ីល/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស ប៉ាគីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
+កុងហ្គោ/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាល់ហ្សេរី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ នៅ IDRI/B-ORG មាន ឱកាស ការងារ ទេ ?,AskAboutJobOpportunities
 តើ ប្រទេស អាមេនី/B-GPE ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
 តើ Robot ឯង បង្កើត ដោយ បង បូរី/B-PER ពិត ប្រាកដ ឬ ទេ ? , Ask About Creator
@@ -1437,7 +1437,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
 តើ មាន ប្រទេស នីហ្សេរីយ៉ា/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សិទ្ធ/B-PER ពិត ប្រាកដ ឬ អត់ ? , Ask About Creator
-តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? , Ask About Major
+តើ នៅ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG ជំនាន់ នីមួយ ៗ មាន ប៉ុន្មាន ជំនាញ ? ,AskAboutMajor
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ បង គីម/B-PER ហុង/I-PER មែន ឬ អត់ ? , Ask About Creator
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ ទី នេះ ?,AskAboutTrendingNews
 តើ ស្រី/B-PER ពេជ្រ/I-PER មាន ការ មិន ពេញ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
@@ -1450,16 +1450,16 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ មាន ស្ថាប័ន/B-ORG ស្មាត/I-ORG នៅ នឹង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
 មាន កន្លែង បត់ ជើង ទេ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR ?,DoesToiletExist
 តើ អាច មាន ប្រទេស អង់ហ្គោឡា/B-GPE ដែល ឬ អត់ ?,IsCountryExist
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន playground ដែល ទេ ? , Ask About Playground
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ថាក់គ្លូប៊ល/I-ORG មាន playground ដែល ទេ ? ,AskAboutPlayground
 រ៉ូបូត ខ្ញុំ សូម សួរ ថា ការ គ្រប់ គ្រង គម្រោង ជា ថ្នាក់ បែប ម៉េចវិញ ?,AskAboutClassSubject
 តើ ពិត ជា មាន ប្រទេស នីហ្សេរី/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 មនុស្ស យន្ត តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD កន្លែង បត់ ជើង នៅ កន្លែង ណា ?,FindToilet
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មែន ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មែន ទេ ? ,AskAboutMakerspace
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង ដី គ្រប់ គ្រង នគរូបនីយកម្ម និង សំណង់ មាន កន្លែង ចាក់ ទឹក ទេ ?,AskAboutWaterRefill
 តើ ស័ក្តិ សិទ្ធិ/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE សហគ្រិន/I-EVE ខ្មែរ/I-EVE មែន ទេ ? ,AskAboutDissatisfaction
 ចូល ប្រាប់ នៅ ឯ CADT/B-ORG ស្រាវជ្រាវ លើ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
 តើ អាច មាន ប្រទេស អាហ្វ្រិក/B-GPE ខាង/I-GPE ត្បូង/I-GPE មែន ឬ ទេ ?,IsCountryExist
-អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អង់ដូរ៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អង់ដូរ៉ា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ មាន ប្រទេស ម៉ាសេដូនី/B-GPE ដែល ឬ អត់ ?,IsCountryExist
 តើ បន្ទប់ របស់ កេសា/B-PER នៅ អគារ/B-BUILD សែល/I-BUILD កាត/I-BUILD ពិត ទេ ? ,FindRoom
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់/B-ROOM ២០៣/I-ROOM នៅ ឯ ណា ?,FindRoom
@@ -1476,10 +1476,10 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ បង សុធារ៉ា/B-PER ធ្វើ ការ នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR ណេតវើក/I-MAJOR ?,CuriculumInEachMajor
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ២០២/I-ROOM ដោយ វីធីណា ?,FindRoom
-តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មែន ឫ ទេ ? , Ask About Makerspace
+តើ រោង ជាង ត្រូវ បាន ផលិត ដោយ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មែន ឫ ទេ ? ,AskAboutMakerspace
 តើ មាន ប្រទេស តុងហ្គា/B-GPE ឬ ទេ ?,IsCountryExist
 តើ បង ផានិត/B-PER ធ្វើ ការ នៅ អាគារ មួយ ណា ដែល ?,AskAboutStaffRoom
-តើ នៅ អាយឌីជី/B-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? , Ask About Playground
+តើ នៅ អាយឌីជី/B-ORG មាន ផេ្លង ក្រោម ដែល ទេ ? ,AskAboutPlayground
 Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER,FindEmployeeRoom
 តើ Information/B-MAJOR Technology/I-MAJOR មាន កម្ម វិធី សិក្សា អី ខ្លះ ?,CuriculumInEachMajor
 ប្រាប់ ក្នុង នេះ ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
@@ -1489,7 +1489,7 @@ Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្�
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន កន្លែង ជុះ អត់ ?,DoesToiletExist
 រ៉ូបូត តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បង្គន់ នៅ ទី ណា ?,FindToilet
 តើ ប្រទេស តូមិននី ស្ថាន ជាន់ និង ប្រទេស ណា ខ្លះ ?,AskAboutCountries
-តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? , Ask About Major
+តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG មាន ជំនាញ ណា ខ្លះ ? ,AskAboutMajor
 តើ ប្រទេស ម៉ារ៉ុក/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ មាន ប្រទេស ឥណ្ឌា/B-GPE មែន ឬ ទេ ?,IsCountryExist
 នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR បង្គន់ អណាម័យ នៅ ឯ ណា?,FindToilet
@@ -1501,7 +1501,7 @@ Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្�
 តើ ពិត ជា មាន ប្រទេស ទ្រីនីដាដ តូបាហ្គោ ឬ អត់ ?,IsCountryExist
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Arrow/I-ORG Dot/I-ORG នៅ ក្នុង នេះ ទេ ?,IsStartUpExist
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ស្តាតអាប់/B-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?, Ask For Start Up In The Innovation Center
+តើ មាន ស្តាតអាប់/B-ORG អ្វី នៅ នឹង អគារ/B-BUILD នវានុវត្តន៍/I-BUILD ?,AskForStartUpInTheInnovationCenter
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន កន្លែង នោម ឬ អត់ ?,DoesToiletExist
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ អាគារ នេះ មាន បង្គន់ នោម ទេ ?,DoesToiletExist
 នៅ ឯ នេះ មាន ស្រាវជ្រាវ អ្វី ខ្លះ សម្រាប់ អ្នក មក មើល ? ,AskAboutResearch
@@ -1515,11 +1515,11 @@ Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្�
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ក្នុង កន្លែង នេះ ដែរ ទេ ?,IsCompanyExist
 ពេល ដែល សិក្សា ស្ថាបត្យកម្ម កុំព្យូទ័រ នឹង ហើយ និស្សិត អាច ធ្វើ អ្វី បាន ខ្លះ ?,AskAboutClassSubject
 តើ បន្ទប់ របស់ លោក គ្រូសុភាព/B-PER នៅ អាគារ ណា ?,AskAboutStaffRoom
-បែលហ្ស៊ិក/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស កូឡុំប៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ , News About Country
+បែលហ្ស៊ិក/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស កូឡុំប៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ ប្រទេស ទ្រីនីដាដតូបាហ្គោ/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ អុីខមមើស មាន កម្ម វិធី សិក្សា ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 ណា បន្ទប់ ធ្វើ កិច្ច ប្រជុំ ជាមួយ អ្នក/B-PER គ្រូ/I-PER ចរិយា/I-PER ?,FindMeetingRoom
-តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDG/B-ORG ពិត ឫ ទេ ? , Ask About Makerspace
+តើ Makerspace ត្រូវ បាន ផលិត ដោយ IDG/B-ORG ពិត ឫ ទេ ? ,AskAboutMakerspace
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ២០៤/I-ROOM នៅ ទី ណា ?,FindRoom
 តើ អ្នក ត្រូវ បាន បង្កើត ដោយ ដារ៉ា/B-PER មែន ឫ ទេ ? , Ask About Creator
 អ្នក ទទួល បន្ទុក ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច អ្នក ណា ជា ?,AskAboutTopManagementPersonal
@@ -1532,5 +1532,5 @@ Robot ខ្ញុំ សូម សួរ រក ទី តាំង បន្�
 អ្នក ទទួល បន្ទុក ខាង computerscience អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ បង សុក/B-PER ហេង/I-PER ពិត ទេ ? , Ask About Creator
 តើ មាន ស្ថាប័ន/B-ORG Smart/I-ORG នៅ ខាង ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist
-អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បង់ក្លាដែស/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ , News About Country
+អូទ្រីស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី បង់ក្លាដែស/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ បន្ទប់ របស់ កក្កដា/B-PER នៅ អគារ/B-BUILD វឌ្ឍនៈ/I-BUILD ពិត ទេ ? ,FindRoom
