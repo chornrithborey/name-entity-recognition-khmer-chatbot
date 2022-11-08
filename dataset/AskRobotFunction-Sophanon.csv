@@ -1,4 +1,4 @@
-Question,Intent
+question,intent
 តើអ្នកអាចធ្វើការបានអ្វីខ្លះ?,AskRobotFunction
 តើអ្នកអាចធ្វើអ្វីបានខ្លះ?,AskRobotFunction
 តើអ្នកនិយាយបានប៉ុន្មានភាសា?,AskRobotFunction
