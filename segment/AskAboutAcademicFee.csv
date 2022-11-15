@@ -1,0 +1,79 @@
+question,intent
+តើ ប្រាប់ ពី តម្លៃ សិក្សា របស់ សាលា ស៉ីអេឌីធី,AskAboutAcademicFee
+តើ ប្រាប់ ពី តម្លៃ សិក្សា របស់ សាលា CADT,AskAboutAcademicFee
+តើ ខ្ញុំ ចង់ ដឹង ពី តម្លៃ ពី តម្លៃ សិក្សា របស់ សាលា ស៉ីអេឌីធី,AskAboutAcademicFee
+តើ ខ្ញុំ ចង់ ដឹង ពី តម្លៃ ពី តម្លៃ សិក្សា របស់ សាលា CADT,AskAboutAcademicFee
+តើ សូម ប្រាប់ ខ្ញុំ ពី តម្លៃ សិក្សា របស់ សាលា ស៉ីអេឌីធី,AskAboutAcademicFee
+តើ សូម ប្រាប់ ខ្ញុំ ពី តម្លៃ សិក្សា របស់ សាលា CADT,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា ស៉ីអេឌីធី មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT បង់ តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មាន ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មាន ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា ប៉ុន្មា ន រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច រ៉ូបូត,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ថូម៉ាស,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ ផីធឺ,AskAboutAcademicFee
+តើ សាលា CADT មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ រ៉ូបូត,AskAboutAcademicFee

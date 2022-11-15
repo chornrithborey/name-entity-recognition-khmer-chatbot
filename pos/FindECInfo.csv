@@ -1,0 +1,501 @@
+question,intent
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt E-Commerce/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt E-Commerce/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt E-Commerce/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt E-Commerce/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អ៉ីស៉ី/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt EC/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt EC/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt EC/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt EC/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/adj សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun ជា/verb អ្វី/noun ទៅ/prt ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun គឺ/verb ជា/verb អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun សំដៅ/verb ទៅ/verb លើ/adp អ្វី/noun ?/punct,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/adj គេ/pron រៀន/verb ពី/adp អ្វី/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ពី/adp អ្វី/noun ទៅ/adp,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt E-Commerce/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt E-Commerce/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt E-Commerce/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt អ៉ីស៉ី/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt EC/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt EC/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt EC/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun បង់/verb ថ្លៃ/noun ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun បង់ថ្លៃ/verb ប៉ុន្មាន/adv ដែរ/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ពេល/noun ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt E-Commerce/noun ពេល/noun ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ពេល/noun ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun បញ្ចប់/verb ការ/noun សិក្សា/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun រៀន/verb ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun រៀន/verb ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb លើ/adp ជំនាញ/noun អ្វី/noun ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun ចប់/verb អាច/verb ធ្វើ/verb អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt EC/noun ពេល/noun ចប់/verb ធ្វើ/verb ការងារ/noun អ្វី/noun បាន/verb ខ្លះ/adj ?/punct,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ប្រាប់/verb បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj ពាណិជ្ជកម្ម/noun អេឡិចត្រូនិច/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj E-Commerce/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj អ៉ីស៉ី/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ត្រី/noun មាស/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆ្នាំ/noun,FindECInfo
+តើ/prt អាច/verb ប្រាប់/verb ខ្ញុំ/pron បាន/verb ទេ/prt ថា/conj EC/noun ហ្នឹង/noun រៀន/verb ប៉ុន្មាន/adv ឆមាស/noun,FindECInfo

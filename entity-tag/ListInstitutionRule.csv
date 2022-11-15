@@ -1,0 +1,121 @@
+question,intent
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អ្នក អាច រៀបរាប់ អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+ខ្ញុំ ពិត ជា ចង់ ដឹង អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+អាច ប្រាប់ បាន ទេ អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច ផ្នែក មួយ នៃ ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី បទ បញ្ចារ ផ្ទៃ ក្នុង របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី ច្បាប់ ដែល មាន របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី ច្បាប់ ដែល មាន របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG,ListInstitutionRule
+សូម សួរ បន្តិច អំពី ច្បាប់ ដែល មាន របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG,ListInstitutionRule

@@ -1,0 +1,961 @@
+question,intent
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង លេង បាល់ ទាត់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៃ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ នៅ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ របស់ សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង វិទ្យាល័យ សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាលារៀន សុីអេដីឌី ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី លាន សម្រាប់ ទាត់ បាល់ ក្នុង សាកល វិទ្យាល័យ CADT ឬ ក៏ អត់,IsFootballFieldExist

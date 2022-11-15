@@ -1,0 +1,1521 @@
+question,intent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាវ៉ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+គាត់ ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+នាង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+ពួក យើង ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+វីទូ/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+រដ្ឋាណា/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង់ហាន់/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ឌីណាត/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ណី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER ប៊ន/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លាច/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER លីណា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វន្ថា/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER វិគុណ/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សាម/I-PER ឌី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ដឹង អត់ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD IDT/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា សាលា/B-ORG សុីអេឌីធី/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន ប៉ុន្មាន ខ្លះ ?,ListEvent
+កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent

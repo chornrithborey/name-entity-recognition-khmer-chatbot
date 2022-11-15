@@ -1,0 +1,177 @@
+question,intent
+តើ ប្រាប់ ទីតាំង របស់ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG បន្ដិច មក,AskAboutLocation
+តើ ប្រាប់ ទីតាំង របស់ សាលា/B-ORG CADT/I-ORG បន្ដិច មក,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណា,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ឯណា,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ទីណា,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG នៅ ណា,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG នៅ ឯណា,AskAboutLocation
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ដឹង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ថូម៉ាស/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ ផីធឺ/B-PER ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ ខ្ញុំ បន្ដិច បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បាន ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត មាន ដឺង ទេ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG នៅ ណាវិញ,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG មាន ទីតាំង នៅ ឯណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG ឋិត នៅ ទីណា,AskAboutLocation
+តើ រ៉ូបូត ប្រាប់ បន្ដិច បាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នៅ ណាវិញ,AskAboutLocation

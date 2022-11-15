@@ -1,0 +1,177 @@
+question,intent
+តើ/prt ប្រាប់/verb ទីតាំង/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun បន្ដិច/adj មក/noun,AskAboutLocation
+តើ/prt ប្រាប់/verb ទីតាំង/verb របស់/adp សាលា/noun CADT/noun បន្ដិច/adj មក/noun,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេ/noun ឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេ/noun ឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ដឹង/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ថូម៉ាស/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt ផីធឺ/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb ខ្ញុំ/pron បន្ដិច/adj បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun មាន/verb ដឺង/noun ទេ/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ី/noun អេឌីធីឋិត/noun នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun ស៉ីអេឌីធី/noun នៅ/verb ណាវិញ/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun មាន/verb ទីតាំង/verb នៅ/verb ឯណា/adp,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun ឋិត/verb នៅ/adp ទីណា/noun,AskAboutLocation
+តើ/prt រ៉ូបូត/noun ប្រាប់/verb បន្ដិច/adj បាន/verb អត់/prt ថា/conj នៅ/adp សាលា/noun CADT/noun នៅ/verb ណាវិញ/noun,AskAboutLocation

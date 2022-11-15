@@ -1,0 +1,133 @@
+question,intent
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នឹង ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នឹង បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នឹង គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នេះ ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នេះ បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ នេះ គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ខាន ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ខាន ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ ខាន ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ពុធ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ពុធ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ពុធ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ព័ត៌មាន អត់ ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អាទិត្យ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អាទិត្យ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នឹង ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នឹង បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នឹង គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នេះ ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នេះ បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ នេះ គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ខាន ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ខាន ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ ខាន ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អង្គារ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អង្គារ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE អង្គារ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ពុធ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ពុធ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ពុធ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សុក្រ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សុក្រ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សុក្រ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សៅរិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សៅរិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ សួរ មួយ មើល ថ្ងៃ/B-DATE សៅរិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អាទិត្យ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អាទិត្យ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នឹង ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នឹង បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នឹង គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នេះ ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នេះ បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ នេះ គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ខាន ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ខាន ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ ខាន ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អង្គារ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អង្គារ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE អង្គារ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ពុធ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ពុធ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ពុធ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សុក្រ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សុក្រ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សុក្រ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សៅរិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សៅរិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ មាន ដឹង អត់ ថ្ងៃ/B-DATE សៅរិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អាទិត្យ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នឹង ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នឹង បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នឹង គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នេះ ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នេះ បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ នេះ គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ខាន ស្អែក ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ខាន ស្អែក បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ ខាន ស្អែក គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ច័ន្ទ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE អង្គារ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ពុធ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ពុធ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ពុធ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សុក្រ/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE ក្រុម ការងារ ក្នុង សាលា នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE បុគ្កលិក នៅ នឹង ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
+តើ ដឹង ថា ថ្ងៃ/B-DATE សៅរិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate

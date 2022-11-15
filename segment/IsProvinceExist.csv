@@ -1,0 +1,139 @@
+question,intent
+មាន ខេត្ត កំពត ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កំពត មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត តាកែវ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត តាកែវ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត បន្ទាយ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត បន្ទាយ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត បាត់ដំបង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ចាម ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ចាមមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ឆ្នាំង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ឆ្នាំង មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ស្ពឺ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ស្ពឺមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ធំ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កំពង់ ធំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពត ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពត មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត តាកែវ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត តាកែវ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត បន្ទាយ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត បន្ទាយ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត បាត់ដំបង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ចាម ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ចាមមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ឆ្នាំង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ឆ្នាំង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ស្ពឺ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ស្ពឺមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ធំ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កំពង់ ធំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពត ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពត មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត តាកែវ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត តាកែវ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត បន្ទាយ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត បន្ទាយ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត បាត់ ដំបង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត បាត់ ដំបង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ចាម ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ចាមមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ឆ្នាំង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ឆ្នាំង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ស្ពឺ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ស្ពឺមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ធំ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កំពង់ ធំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ពោធិ៍ សាត់ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ពោធិ៍ សាត់មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កោះ កុង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កោះ កុងមែនដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត កែប ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត កែបមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ក្រចេះ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ក្រចេះ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត មណ្ឌល គីរី ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត មណ្ឌល គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ប៉ៃលិន ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ប៉ៃលិន មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ព្រះ សីហនុ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ព្រះ សីហនុមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ព្រះ វិហារ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ព្រះ វិហារ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ពោធិ៍ សាត់ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ពោធិ៍ សាត់មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កោះ កុង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កោះ កុងមែនដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កែប ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត កែបមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ក្រចេះ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ក្រចេះ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត មណ្ឌល គីរី ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត មណ្ឌល គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ប៉ៃលិន ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ប៉ៃលិន មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រះ សីហនុ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រះ សីហនុមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រះ វិហារ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រះ វិហារ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ពោធិ៍ សាត់ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ពោធិ៍ សាត់មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កោះ កុង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កោះ កុងមែនដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កែប ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត កែបមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ក្រចេះ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ក្រចេះ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត មណ្ឌល គីរី ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត មណ្ឌល គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ឧត្តរ មាន ជ័យ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ឧត្តរ មាន ជ័យ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ប៉ៃលិន ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ប៉ៃលិន មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រះ សីហនុ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រះ សីហនុមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រះ វិហារ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រះ វិហារ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ត្បូង ឃ្មុំ ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ត្បូង ឃ្មុំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្តរតនគីរី ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត រតនគីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត សៀមរាប ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ស្ទឹងត្រែង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ស្ទឹង ត្រែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+មាន ខេត្ត ស្វាយ រៀង ដែល ឬ អត់ ?,IsProvinceExist
+មាន ខេត្ត ស្វាយ រៀង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ត្បូង ឃ្មុំ ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ត្បូង ឃ្មុំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន គីរី ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្តរតន គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត សៀម រាប ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ស្ទឹង ត្រែង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ស្ទឹង ត្រែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ស្វាយ រៀង ដែល ឬ អត់ ?,IsProvinceExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ខេត្ត ស្វាយ រៀង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ត្បូង ឃ្មុំ ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ត្បូង ឃ្មុំ មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រៃ វែង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ព្រៃ វែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្តរតន គីរី ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្តរតន គីរីមែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត សៀម រាប ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត សៀម រាប មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ស្ទឹង ត្រែង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ស្ទឹង ត្រែង មែន ដែល ឬ ទេ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ស្វាយ រៀង ដែល ឬ អត់ ?,IsProvinceExist
+ពិត ជា មាន ខេត្ត ស្វាយ រៀង មែន ដែល ឬ ទេ ?,IsProvinceExist

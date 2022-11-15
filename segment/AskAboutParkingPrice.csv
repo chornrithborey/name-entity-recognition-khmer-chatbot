@@ -1,0 +1,97 @@
+question,intent
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា CADT,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា CADT,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា CADT,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា CADT,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា ស៉ីអេឌីធី,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា CADT,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា ស៉ីអេឌីធី មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា CADT មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice

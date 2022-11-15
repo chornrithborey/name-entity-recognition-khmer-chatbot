@@ -1,0 +1,166 @@
+question,intent
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អាគារ នេះ ជាន់ នេះ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+អ្នក មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Danith/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+ដាណីត/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+លីតា/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Youមាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+យូរ មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+Mey/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+មីរ/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ដឹង ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ដឹង ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ដឹង ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ដឹង ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD អាយឌីធី/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ឆ្ថល់ ទេ ថា សាលា យើង មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុីអេឌីធី/B-ORG មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
+នៅ សាលា CADT មាន ដែរ ឆ្ថល់ ទេ ថា អាគារ/B-BUILD IDT/I-BUILD មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist

@@ -1,0 +1,853 @@
+question,intent
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខ/B-PER លាភ/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សុខលាភ/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Darot/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ ដារូ៉ត/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើteacher/B-PER Dara/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ លោក/B-PER គ្រូដារា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Teacher/B-PER Lita/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ អ្នក/B-PER គ្រូ/I-PER លីតា/I-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER មាន លទ្ធ ភាព បា្រប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលាសុីអេឌុីធី/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ប្រាប់ ខ្ញុំ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា CADT/B-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG សុី/I-ORG អេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ Sokleap/B-PER អាច ជួយ ប្រាប់ ខ្ញំុ ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាលា/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេឌុីធី/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG នឹង មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG រប់សយើង នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG របស់ ខ្ញំុ នេះ មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្គ បង្រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន រៀន អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មហា វិទ្យាល័យ អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន Major អ្វី ខ្លះ ?,AskAboutSchoolMajors
+តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ខ្ញំុរ កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors

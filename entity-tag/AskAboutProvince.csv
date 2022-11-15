@@ -1,0 +1,139 @@
+question,intent
+ខេត្ត/B-GPE កំពត/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE តាកែវ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE បាត់ដំបង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពត/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE តាកែវ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE បាត់ដំបង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពត/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE តាកែវ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត បាត់ ដំបង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កែប/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ក្រចេះ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត ឧត្តរ មាន ជ័យ មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កែប/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ក្រចេះ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ឧត្តរ មាន ជ័យ មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កែប/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ក្រចេះ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ឧត្តរ មាន ជ័យ មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ប៉ៃលិន/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត ព្រៃ វែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្តរតនគីរី/B-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត សៀម រាប មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត ស្ទឹងត្រែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ព្រៃ វែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្តរតនគីរី/B-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត សៀម រាប មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ស្ទឹងត្រែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ព្រៃ វែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្តរតនគីរី/B-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត សៀម រាប មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ស្ទឹងត្រែង មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE មាន ផ្ទៃ ដី ទំហំ ប៉ុនា្មន សង់ទី ម៉ែត្រ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពត/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE តាកែវ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE បាត់ដំបង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពត/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE តាកែវ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE បាត់ដំបង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពត/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE តាកែវ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE បន្ទាយ/I-GPE មាន/I-GPE ជ័យ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត បាត់ ដំបង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ចាម/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ស្ពឺ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កំពង់/I-GPE ធំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE កែប/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ក្រចេះ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត ឧត្តរ មាន ជ័យ ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE កែប/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ក្រចេះ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ឧត្តរ មាន ជ័យ ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ពោធិ៍/I-GPE សាត់/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កោះ/I-GPE កុង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE កែប/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ក្រចេះ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE មណ្ឌល/I-GPE គីរី/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ឧត្តរ មាន ជ័យ ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ប៉ៃលិន/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ព្រះ/I-GPE សីហនុ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ព្រះ/I-GPE វិហារ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត ព្រៃ វែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្តរតនគីរី/B-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត សៀម រាប ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត ស្ទឹងត្រែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ព្រៃ វែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្តរតនគីរី/B-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត សៀម រាប ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត ស្ទឹងត្រែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+ខ្ញុំ ចង់ ដឹង ថា ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ត្បូង/I-GPE ឃ្មុំ/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ព្រៃ វែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត រតនគីរី ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត សៀម រាប ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត ស្ទឹងត្រែង ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
+អ្នក អាច ប្រាប់ បាន ទេ ថា ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince

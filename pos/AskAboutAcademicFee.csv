@@ -1,0 +1,79 @@
+question,intent
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun,AskAboutAcademicFee
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun CADT/noun,AskAboutAcademicFee
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ពី/adp តម្លៃ/noun ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun,AskAboutAcademicFee
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ពី/adp តម្លៃ/noun ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun CADT/noun,AskAboutAcademicFee
+តើ/prt សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun ស៉ីអេឌីធី/noun,AskAboutAcademicFee
+តើ/prt សូម/verb ប្រាប់/verb ខ្ញុំ/pron ពី/adp តម្លៃ/noun សិក្សា/verb របស់/adp សាលា/noun CADT/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់តម្លៃ/verb សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់តម្លៃ/verb សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/noun ប៉ុន្មា/noun ន/adp រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់តម្លៃ/verb សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់តម្លៃ/verb សិក្សា/noun ប៉ុន្មា/noun ន/det រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun បង់/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb ប៉ុន្មាន/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/noun ប៉ុន្មា/noun ន/adp រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/noun ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun រ៉ូបូត/adp,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ថូម៉ាស/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/verb ម្ដេច/adv ដែរ/adv ផីធឺ/noun,AskAboutAcademicFee
+តើ/prt សាលា/noun CADT/noun មាន/verb តម្លៃ/noun សិក្សា/verb យ៉ាង/prt ដូច/adj ម្ដេច/noun ដែរ/adv រ៉ូបូត/adp,AskAboutAcademicFee

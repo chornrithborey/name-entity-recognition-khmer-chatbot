@@ -1,0 +1,481 @@
+question,intent
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj នៅ/adp ម្ដុំ/noun សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាលារៀន/noun សុីអេដីឌី/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun នេះ/det មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ស្ថានីយ/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ឬ/conj ក៏/conj អត់/prt,FindbusStationNearCADT
+សូម/verb សួរ/verb បន្តិច/adj មើល/verb ថា/conj នៅ/verb ក្បែរ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun និង/conj មាន/verb ចំណត/noun ឡាន/noun ក្រុង/noun ដែល/noun ឬ/conj ទេ/prt,FindbusStationNearCADT

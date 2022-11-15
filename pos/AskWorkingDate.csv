@@ -1,0 +1,37 @@
+question,intent
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj បុគ្គលិក/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj បុគ្គលិក/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj បុគ្គលិក/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj គេ/pron នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj គេ/pron នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj គេ/pron នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb បុគ្គលិក/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb បុគ្គលិក/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb បុគ្គលិក/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb គេ/pron នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb គេ/pron នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+សួរ/verb មួយ/num មើល/verb គេ/pron នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt បុគ្គលិក/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt បុគ្គលិក/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt បុគ្គលិក/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt គេ/pron នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt គេ/pron នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+មាន/verb ដឹង/verb អត់/prt គេ/pron នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj អ្នក/noun ធ្វើ/verb ការ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj បុគ្គលិក/noun នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj បុគ្គលិក/noun នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj បុគ្គលិក/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj គេ/pron នៅ/adp សាលា/noun CADT/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj គេ/pron នៅ/adp ទី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate
+ដឹង/verb ថា/conj គេ/pron នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun នេះ/det មក/verb ធ្វើ/verb ការ/noun នៅ/adp ថ្ងៃ/noun ណា/noun ?/punct,AskWorkingDate

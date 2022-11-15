@@ -1,0 +1,61 @@
+question,intent
+ស្មាណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ស្មាណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលាស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+នៅ/verb ពេល/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ថ្ងៃ/noun ណា/noun គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចាប់/verb បើក/verb ទទួល/verb ពាក្យ/noun ចុះ/verb ឈ្មោះ/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun នឹង/verb ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,AskAboutRegisterDate
+ពេល/noun ណា/noun បាន/verb គេ/pron ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun ?/punct,AskAboutRegisterDate

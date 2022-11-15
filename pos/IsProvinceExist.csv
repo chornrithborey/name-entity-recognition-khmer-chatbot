@@ -1,0 +1,139 @@
+question,intent
+មាន/verb ខេត្ត/noun កំពត/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពត/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun តាកែវ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun តាកែវ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun បាត់ដំបង/verb ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun បាត់/verb ដំបង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពត/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពត/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun តាកែវ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun តាកែវ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun បាត់ដំបង/verb ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun បាត់/verb ដំបង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពត/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពត/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun តាកែវ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun តាកែវ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun បន្ទាយ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun បាត់/verb ដំបង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun បាត់/verb ដំបង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ចាម/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ឆ្នាំង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ស្ពឺ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កំពង់/noun ធំ/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កោះ/noun កុង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កោះ/noun កុង/noun មែនដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កែប/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun កែប/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ក្រចេះ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ក្រចេះ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ប៉ៃលិន/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ប៉ៃលិន/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កោះ/noun កុង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កោះ/noun កុង/noun មែនដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កែប/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun កែប/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ក្រចេះ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ក្រចេះ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ប៉ៃលិន/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ប៉ៃលិន/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ពោធិ៍/noun សាត់/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កោះ/noun កុង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កោះ/noun កុង/noun មែនដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កែប/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun កែប/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ក្រចេះ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ក្រចេះ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun មណ្ឌល/noun គីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ឧត្តរ/noun មាន/verb ជ័យ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ប៉ៃលិន/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ប៉ៃលិន/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រះ/noun សីហនុ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រះ/noun វិហារ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្តរតនគីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun រតនគីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun សៀមរាប/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun សៀម/noun រាប/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ស្ទឹងត្រែង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ស្ទឹង/noun ត្រែង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្តរតន/noun គីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្តរតន/noun គីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun សៀម/noun រាប/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun សៀម/noun រាប/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ស្ទឹង/noun ត្រែង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ស្ទឹង/noun ត្រែង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ត្បូង/noun ឃ្មុំ/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ព្រៃ/noun វែង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្តរតន/noun គីរី/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្តរតន/noun គីរី/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun សៀម/noun រាប/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun សៀម/noun រាប/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ស្ទឹង/noun ត្រែង/noun ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ស្ទឹង/noun ត្រែង/noun មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj ដែល/noun ឬ/conj អត់/prt ?/punct,IsProvinceExist
+ពិត/adj ជា/verb មាន/verb ខេត្ត/noun ស្វាយ/noun រៀង/adj មែន/adv ដែល/noun ឬ/conj ទេ/prt ?/punct,IsProvinceExist

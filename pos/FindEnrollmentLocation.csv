@@ -1,0 +1,121 @@
+question,intent
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណាហូវ/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+ឯណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+ឯណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+ឯណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+ឯណាទៅ/adj កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ទី/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/adp ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+នៅ/verb បន្ទប់/noun ណា/adj ទៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/verb សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ដឺម៉ង់/noun នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ដាក់/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/adj កន្លែង/noun ទិញ/verb ពាក្យ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun សុីអេឌីធី/noun ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun នេះ/det ?/punct,FindEnrollmentLocation
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun កន្លែង/noun ចុះ/verb ឈ្មោះ/noun ចូល/verb រៀន/verb នៅ/adp សាលា/noun CADT/noun ?/punct,FindEnrollmentLocation

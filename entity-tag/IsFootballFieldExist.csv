@@ -1,0 +1,961 @@
+question,intent
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វវិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+នៅ មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/B-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG មែន ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
+ដែល មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ឬ ក៏ អត់,IsFootballFieldExist

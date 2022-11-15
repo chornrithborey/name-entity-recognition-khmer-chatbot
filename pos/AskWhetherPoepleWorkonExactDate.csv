@@ -1,0 +1,133 @@
+question,intent
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អាទិត្យ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នឹង/adp ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នឹង/adp បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នឹង/adp គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នេះ/det ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នេះ/det បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun នេះ/det គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អង្គារ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អង្គារ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun អង្គារ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ពុធ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ពុធ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ពុធ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សុក្រ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សុក្រ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សុក្រ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សៅរិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សៅរិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ព័ត៌មាន/noun អត់/prt ថា/conj ថ្ងៃ/noun សៅរិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អាទិត្យ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អាទិត្យ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អាទិត្យ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នឹង/adp ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នឹង/adp បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នឹង/adp គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នេះ/det ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នេះ/det បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun នេះ/det គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ខាន/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ខាន/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ខាន/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ច័ន្ទ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ច័ន្ទ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ច័ន្ទ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អង្គារ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អង្គារ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun អង្គារ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ពុធ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ពុធ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ពុធ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សុក្រ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សុក្រ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សុក្រ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សៅរិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សៅរិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt សួរ/verb មួយ/num មើល/verb ថ្ងៃ/noun សៅរិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun អាទិត្យ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun អាទិត្យ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun អាទិត្យ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នឹង/adp ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នឹង/adp បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នឹង/adp គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នេះ/det ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នេះ/det បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun នេះ/det គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ខាន/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ខាន/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ខាន/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ច័ន្ទ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ច័ន្ទ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ច័ន្ទ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun អង្គារ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun អង្គារ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun អង្គារ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ពុធ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ពុធ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun ពុធ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/verb ថ្ងៃ/noun ព្រហស្បតិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សុក្រ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សុក្រ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សុក្រ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សៅរិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សៅរិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt មាន/verb ដឹង/verb អត់/prt ថ្ងៃ/noun សៅរិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អាទិត្យ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អាទិត្យ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អាទិត្យ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នឹង/adp ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នឹង/adp បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នឹង/adp គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នេះ/det ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នេះ/det បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun នេះ/det គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv បុគ្កលិក/noun នៅ/adp នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ខាន/noun ស្អែក/adv គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ច័ន្ទ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អង្គារ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អង្គារ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun អង្គារ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ពុធ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ពុធ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ពុធ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun ព្រហស្បតិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សុក្រ/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សុក្រ/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សុក្រ/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សៅរិ៍/noun ក្រុម/noun ការងារ/noun ក្នុង/adp សាលា/noun នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សៅរិ៍/noun បុគ្កលិក/noun នៅ/verb នឹង/verb ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
+តើ/prt ដឹង/verb ថា/conj ថ្ងៃ/noun សៅរិ៍/noun គេ/pron ធ្វើ/verb ការ/noun អត់/prt ?/punct,AskWhetherPoepleWorkonExactDate
