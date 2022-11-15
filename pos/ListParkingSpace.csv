@@ -1,0 +1,125 @@
+question,intent
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ចំណត/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ចំណត/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun ស៊ីអេឌីធី/noun មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb ចំណត/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb ចំណត/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp សាលា/noun CADT/noun មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb ចំណត/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb ចំណត/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp ទី/noun នេះ/det មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb ចំណត/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb ចំណត/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb កន្លែង/noun ទុក/verb ឡាន/noun នៅ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt នៅ/adp នេះ/pron មាន/verb កន្លែង/noun ទុក/verb ម៉ូតូ/noun នៅ/verb ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun គេ/pron ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun គេ/pron ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun អាច/verb ចត/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun អាច/verb ចត/verb នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun ទុក/verb នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun អាច/verb ដាក់/verb នៅ/verb ឯ/adp ណា?/noun,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun អាច/verb ដាក់/verb នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun គេ/pron ដាក់/verb នៅ/verb ឯ/adp ណា?/noun,ListParkingSpace
+តើ/prt ឡាន/noun ម៉ូតូ/noun គេ/pron ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun គេ/pron ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun គេ/pron ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun អាច/verb ចត/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun អាច/verb ចត/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun អាច/verb ដាក់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun អាច/verb ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun គេ/pron ដាក់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt យាន/noun ជំនិះ/noun គេ/pron ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun គេ/pron ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun គេ/pron ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun អាច/verb ចត/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun អាច/verb ចត/verb នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun អាច/verb ដាក់/verb នៅ/verb ឯ/adp ណា?/noun,ListParkingSpace
+តើ/prt ម៉ូតូ/noun អាច/verb ដាក់/verb នៅ/verb ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ម៉ូតូ/noun គេ/pron ដាក់/verb នៅ/verb ឯ/adp ណា?/noun,ListParkingSpace
+តើ/prt ម៉ូតូ/noun គេ/pron ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun គេ/pron ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun គេ/pron ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun អាច/verb ចត/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun អាច/verb ចត/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ទុក/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun ទុក/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun អាច/verb ដាក់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun អាច/verb ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun គេ/pron ដាក់/verb នៅ/verb ឯ/adp ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឡាន/noun គេ/pron ដាក់/verb នៅ/adp ទី/noun ណា/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt ឯ/adp ណា/noun ទៅ/adp កន្លែង/noun ចត/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ចត/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ចត/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ចត/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt ឯ/adp ណា/noun ទៅ/adp កន្លែង/noun ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯ/adp ណា/noun ទៅ/adp កន្លែង/noun ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt ឯ/adp ណា/noun ទៅ/adp កន្លែង/noun ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯ/adp ណា/noun ទៅ/adp កន្លែង/noun ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt ឯណា/adp ទៅ/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ចត/noun ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ចត/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ចត/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ចត/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+តើ/prt កន្លែង/noun ណា/noun ខ្លះ/adj សម្រាប់/adp សម្រាប់/adp ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ចត/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ចត/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ចត/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ចត/verb ឡាន/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ទុក/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ទុក/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ទុក/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ទុក/verb ឡាន/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ឡាន/noun ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb យាន/noun ជំនិះ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ម៉ូតូ/noun ?/punct,ListParkingSpace
+សូម/verb ប្រាប់/verb ពី/adp កន្លែង/noun សម្រាប់/adp ដាក់/verb ឡាន/noun ?/punct,ListParkingSpace

@@ -1,0 +1,841 @@
+question,intent
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CAD/noun T/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CAD/noun T/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj សាលា/noun ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun សិស្ស/noun ដែល/noun ទើប/conj ប្រឡង/verb បាក់ឌុប/verb ចប់/verb សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ថ្មី/adj ដែរ/adv ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ទេ/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv អត់/prt,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ដែរ/adv ទេ/prt,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun មាន/verb ផ្តល់/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ដល់/adp សិស្ស/noun ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun សិស្ស/noun ទើប/conj ចប់/verb ទី/noun ១២/num ប៉ុន្មាន/adv នាក់/noun ទេ/prt ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ឲ្យ/verb អាហារូបករណ៍/noun ប៉ុន្មាន/adv ប្រភេទ/noun ទេ/prt ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ថ្ងៃ/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun នៅ/verb ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ពេល/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ខ្ញំុ/pron ឆ្ងល់/verb ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ហើយ/conj ចុះ/verb សាលា/noun សុី/noun អេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/verb ថា/conj ស៊ីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ធ្វើ/verb ការ/noun ប្រឡង/verb ចូល/verb យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun របៀប/noun ម៉េច/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun ដោយ/adp របៀប/noun ណា/noun ?/punct,ScholarshipInfo
+ប្រាប់/verb ខ្ញុំ/pron បាន/verb អត់/prt ថា/conj សាលា/noun សុីអេឌីធី/noun ប្រឡង/verb អាហារូបករណ៍/noun យ៉ាង/prt ម៉េច/noun ?/punct,ScholarshipInfo

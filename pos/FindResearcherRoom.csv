@@ -1,0 +1,56 @@
+question,intent
+នៅ/adp ណាហូវ/noun ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ណាហូវ/noun បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ណាហូវ/noun បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ណាហូវ/noun បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ណាហូវ/noun បន្ទប់/noun គ្រូ/adj ៗ/punct research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+មាន/verb ដឹង/verb អត់/prt ថា/conj នៅ/adp ណា/noun ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+មាន/verb ដឹង/verb អត់/prt ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+មាន/verb ដឹង/verb អត់/prt ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+មាន/verb ដឹង/verb អត់/prt ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+មាន/verb ដឹង/verb អត់/prt ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun គ្រូ/noun ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ដឹង/verb ថា/conj នៅ/adp ណា/noun ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ដឹង/verb ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ដឹង/verb ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ដឹង/verb ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ដឹង/verb ថា/conj នៅ/adp ណា/noun ទៅ/adp បន្ទប់/noun គ្រូ/adj ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ឯណា/adj ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ឯណាទៅ/adj បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ឯណាទៅ/adj បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ឯណាទៅ/adj បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+ឯណាទៅ/adj បន្ទប់/noun គ្រូ/noun ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/noun ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/noun បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/noun បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/noun បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/noun បន្ទប់/noun គ្រូ/adj ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/adj ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/adj ទៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/adj ទៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/adj ទៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/adp ទី/noun ណា/adj ទៅ/adp បន្ទប់/noun គ្រូ/noun ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ទី/noun តាំង/verb មួយ/adj ណា/adj ទៅ/adp បន្ទប់/noun គ្រូ/noun ៗ/punct research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ម្ដំ/noun ណា/noun ទៅ/adp បន្ទប់/noun គ្រូ/noun ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ណា/noun ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ណា/noun បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ណា/noun បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ណា/noun បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+នៅ/verb ណា/noun បន្ទប់/noun គ្រូ/adj ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+អាច/verb ប្រាប់/verb តិចមើល/adj ណា/noun នៅ/adp បន្ទប់/noun គ្រូ/adj ៗresearch/punct នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun ការិយាល័យ/noun Research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun បន្ទប់/noun ពិសោធន៍/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun បន្ទប់/noun ស្រាវជ្រាវ/verb នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun បន្ទប់/noun researcher/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom
+សួរ/verb មួយ/num មើល/verb !/punct តើ/prt ទី/noun ណា/noun បន្ទប់/noun គ្រូ/adj ៗ/punct research/noun នៅ/adp អាគារ/noun Innovation/noun Center/noun នេះ/det ?/punct,FindResearcherRoom

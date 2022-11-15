@@ -1,0 +1,145 @@
+question,intent
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៨ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 6 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 7 ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen 8 ផ្នែក ស៊ីអេស រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៦ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក វិទ្យាសាស្រ្ដ កំព្យូទ័រ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក Computer Science រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក CS រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 1 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 2 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 3 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term 4 ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់ ៧ ផ្នែក ស៊ីអេស រៀន  មុខវិជ្ជា អ្វី ខ្លះ នៅ Term នេះ ?,AskAboutCS_CourseInEachGen

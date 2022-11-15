@@ -1,0 +1,97 @@
+question,intent
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ផ្ញើ/verb ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun នៃ/adp ចំណត/noun ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb យាន/noun ជំនិះ/noun សាលាស៉ី/noun អេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb យាន/noun ជំនិះ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ឡាន/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ឡាន/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ម៉ូតូ/noun សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt សូម/verb ប្រាប់/verb ពី/adp តម្លៃ/noun ក្នុង/adp ការ/noun ចត/verb ម៉ូតូ/noun សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt យាន/noun ជំនិះ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt យាន/noun ជំនិះ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ឡាន/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ឡាន/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ម៉ូតូ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun ស៉ីអេឌីធី/noun,AskAboutParkingPrice
+តើ/prt ម៉ូតូ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv សាលា/noun CADT/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ប្រាប់/verb បាន/verb អត់/prt ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun ស៉ីអេឌីធី/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun ថ្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb យាន/noun ជំនិះ/noun,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/noun ម៉ូតូ/adp,AskAboutParkingPrice
+តើ/prt ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb តម្លៃ/noun ប៉ុន្មាន/adv ក្នុង/adp ការ/noun ផ្ញើ/verb ឡាន/noun,AskAboutParkingPrice
+តើ/prt យាន/noun ជំនិះ/noun ផ្ញើ/verb គិត/verb ថ្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice
+តើ/prt យាន/noun ជំនិះ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice
+តើ/prt ម៉ូតូ/noun ផ្ញើ/verb គិត/verb ថ្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice
+តើ/prt ម៉ូតូ/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice
+តើ/prt ឡាន/noun ផ្ញើ/verb គិត/verb ថ្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice
+តើ/prt ឡាន/noun ផ្ញើ/verb ក្នុង/adp តម្លៃ/noun ប៉ុន្មាន/adv,AskAboutParkingPrice

@@ -1,0 +1,961 @@
+question,intent
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+នៅ/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ពិត/adj ជា/verb មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ខ្ញុំ/pron ចង់/verb ដឹង/verb ថា/conj មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb តារាង/noun បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb កន្លែង/noun លេង/verb បាល់/noun ទាត់/verb ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៃ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun របស់/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp វិទ្យាល័យ/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាលារៀន/noun សុីអេដីឌី/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun មែន/adv ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ឬ/conj ទេ/prt,IsFootballFieldExist
+ដែល/noun មាន/verb ទី/noun លាន/noun សម្រាប់/adp ទាត់/verb បាល់/noun ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ឬ/conj ក៏/conj អត់/prt,IsFootballFieldExist

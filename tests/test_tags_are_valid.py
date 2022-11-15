@@ -62,6 +62,12 @@ def test_tags_are_valid():
             "I-ORG",
             "B-MAJOR",
             "I-MAJOR",
+            "B-TERM",
+            "I-TERM",
+            "B-JOB",
+            "I-JOB",
+            "B-GEN",
+            "I-GEN",
         ]
     )
 

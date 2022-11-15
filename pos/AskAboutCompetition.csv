@@ -1,0 +1,145 @@
+question,intent
+តើ/prt CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/noun host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt CADT/noun មាន/noun host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun CADT/noun មាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt សាលា/noun ស៊ីអេឌីធី/noun មាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun បាន/verb host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb បាន/verb ប្រកាស់/verb ថា/conj មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/verb បង្កើត/verb នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/noun host/noun នូវ/adp កម្ម/noun វិធី/noun ការ/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun មាន/noun host/noun នូវ/adp កម្ម/noun វិធី/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt ច័ន្ទត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt Vitou/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun វិទូ/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt លោក/noun គ្រូ/noun ច័ន្ទ/noun ត្រា/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun ស៊ីអេឌីធី/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វិធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun យើង/pron មាន/verb Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt teacher/verb Chantra/noun អាច/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj បណ្ឌិត/noun សភា/noun បច្ចេកវិទ្យា/noun ឌីជីថល/noun កម្ពុជា/noun របស់/adp ពួក/noun យើង/pron មាន/verb បាន/verb បង្កើត/verb Event/noun Competition/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយ/noun ដីធី/noun នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយ/noun ដីធី/noun នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun អុីនូវេសិន/noun សែនធឺរ/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយ/noun ដីធី/noun នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយ/noun ដីធី/noun នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun អាយដីធី/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្មំុ/noun កំពុង/verb នៅ/verb នឹង/adv គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធីប្រកួត/noun ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb Host/noun កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition
+តើ/prt នៅ/adp អាគារ/noun innovation/noun center/noun និង/conj អាគារ/noun IDT/noun ដែល/noun ខ្ញំុរៀន/pron នឹង/adp គេ/pron មាន/verb បាន/verb បង្កើត/verb កម្ម/noun វីធី/noun ប្រកួត/verb ប្រជែង/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutCompetition

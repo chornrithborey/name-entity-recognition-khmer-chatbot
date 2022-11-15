@@ -1,0 +1,97 @@
+question,intent
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ នៃ ចំណត ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត យាន ជំនិះ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ សូម ប្រាប់ ពី តម្លៃ ក្នុង ការ ចត ម៉ូតូ សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG ស៉ីអេឌីធី/I-ORG,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ប្រាប់ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG ស៉ីអេឌីធី/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG ថ្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ យាន ជំនិះ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ម៉ូតូ,AskAboutParkingPrice
+តើ ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG CADT/I-ORG មាន តម្លៃ ប៉ុន្មាន ក្នុង ការ ផ្ញើ ឡាន,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ យាន ជំនិះ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ម៉ូតូ ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
+តើ ឡាន ផ្ញើ ក្នុង តម្លៃ ប៉ុន្មាន,AskAboutParkingPrice

@@ -1,0 +1,125 @@
+question,intent
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ចំណត នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ចំណត នៅ ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន កន្លែង ទុក ឡាន នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន កន្លែង ទុក ឡាន នៅ ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន កន្លែង ទុក ម៉ូតូ នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន កន្លែង ទុក ម៉ូតូ នៅ ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន ចំណត នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន ចំណត នៅ ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន កន្លែង ទុក ឡាន នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន កន្លែង ទុក ឡាន នៅ ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន កន្លែង ទុក ម៉ូតូ នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ សាលា/B-ORG CADT/I-ORG មាន កន្លែង ទុក ម៉ូតូ នៅ ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន ចំណត នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន ចំណត នៅ ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន កន្លែង ទុក ឡាន នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន កន្លែង ទុក ឡាន នៅ ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន កន្លែង ទុក ម៉ូតូ នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ ទី នេះ មាន កន្លែង ទុក ម៉ូតូ នៅ ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន ចំណត នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន ចំណត នៅ ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន កន្លែង ទុក ឡាន នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន កន្លែង ទុក ឡាន នៅ ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន កន្លែង ទុក ម៉ូតូ នៅ ទី ណា ?,ListParkingSpace
+តើ នៅ នេះ មាន កន្លែង ទុក ម៉ូតូ នៅ ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ គេ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ គេ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ អាច ចត នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ អាច ចត នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ អាច ដាក់ នៅ ឯ ណា?,ListParkingSpace
+តើ ឡាន ម៉ូតូ អាច ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន ម៉ូតូ គេ ដាក់ នៅ ឯ ណា?,ListParkingSpace
+តើ ឡាន ម៉ូតូ គេ ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ យាន ជំនិះ គេ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ យាន ជំនិះ គេ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ យាន ជំនិះ អាច ចត នៅ ឯ ណា ?,ListParkingSpace
+តើ យាន ជំនិះ អាច ចត នៅ ទី ណា ?,ListParkingSpace
+តើ យាន ជំនិះ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ យាន ជំនិះ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ យាន ជំនិះ អាច ដាក់ នៅ ឯ ណា ?,ListParkingSpace
+តើ យាន ជំនិះ អាច ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ យាន ជំនិះ គេ ដាក់ នៅ ឯ ណា ?,ListParkingSpace
+តើ យាន ជំនិះ គេ ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ម៉ូតូ គេ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ម៉ូតូ គេ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ម៉ូតូ អាច ចត នៅ ឯ ណា ?,ListParkingSpace
+តើ ម៉ូតូ អាច ចត នៅ ទី ណា ?,ListParkingSpace
+តើ ម៉ូតូ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ម៉ូតូ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ម៉ូតូ អាច ដាក់ នៅ ឯ ណា?,ListParkingSpace
+តើ ម៉ូតូ អាច ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ម៉ូតូ គេ ដាក់ នៅ ឯ ណា?,ListParkingSpace
+តើ ម៉ូតូ គេ ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន គេ ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន គេ ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន អាច ចត នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន អាច ចត នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន ទុក នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន ទុក នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន អាច ដាក់ នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន អាច ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ឡាន គេ ដាក់ នៅ ឯ ណា ?,ListParkingSpace
+តើ ឡាន គេ ដាក់ នៅ ទី ណា ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ទុក យាន ជំនិះ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ទុក ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ទុក ឡាន ?,ListParkingSpace
+តើ ឯ ណា ទៅ កន្លែង ចត ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ចត យាន ជំនិះ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ចត ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ចត ឡាន ?,ListParkingSpace
+តើ ឯ ណា ទៅ កន្លែង ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ ឯ ណា ទៅ កន្លែង ទុក យាន ជំនិះ ?,ListParkingSpace
+តើ ឯ ណា ទៅ កន្លែង ទុក ម៉ូតូ ?,ListParkingSpace
+តើ ឯ ណា ទៅ កន្លែង ទុក ឡាន ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ដាក់ យាន ជំនិះ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ដាក់ ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង ដាក់ ឡាន ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ដាក់ យាន ជំនិះ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ដាក់ ម៉ូតូ ?,ListParkingSpace
+តើ ឯណា ទៅ កន្លែង សម្រាប់ ដាក់ ឡាន ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ទុក យាន ជំនិះ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ទុក ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ទុក ឡាន ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ចត ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ចត យាន ជំនិះ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ចត ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ចត ឡាន ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ទុក យាន ជំនិះ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ទុក ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ទុក ឡាន ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ដាក់ យាន ជំនិះ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ដាក់ ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ ដាក់ ឡាន ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ដាក់ យាន ជំនិះ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ដាក់ ម៉ូតូ ?,ListParkingSpace
+តើ កន្លែង ណា ខ្លះ សម្រាប់ សម្រាប់ ដាក់ ឡាន ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ទុក យាន ជំនិះ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ទុក ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ទុក ឡាន ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ចត ឡាន ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ចត យាន ជំនិះ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ចត ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ចត ឡាន ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ទុក ឡាន ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ទុក យាន ជំនិះ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ទុក ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ទុក ឡាន ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ដាក់ យាន ជំនិះ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ដាក់ ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង ដាក់ ឡាន ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ដាក់ ឡាន ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ដាក់ យាន ជំនិះ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ដាក់ ម៉ូតូ ?,ListParkingSpace
+សូម ប្រាប់ ពី កន្លែង សម្រាប់ ដាក់ ឡាន ?,ListParkingSpace

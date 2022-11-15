@@ -1,0 +1,513 @@
+question,intent
+តើ តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ តេអិន/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ តេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ តេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ TN/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ TN/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ TN/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ TN/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សិក្សា អ្វី ខ្លះ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង ជា អ្វី ទៅ ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គឺ ជា អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង សំដៅ ទៅ លើ អ្វី ?,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆ្នាំ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ឆមាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ប៉ុន្មាន ត្រី មាស,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR ហ្នឹង រៀន ពី អ្វី ទៅ,FindTNInfo
+តើ តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ TN/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ TN/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ TN/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ TN/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ប្រាប់ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ ខ្ញុំ ចង់ ដឹង ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា តេអិន/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា ទូរគមនាគមន៍/B-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR បង់ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR បង់ ថ្លៃ ប៉ុន្មាន ដែរ,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
+តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា Telecoms/B-MAJOR and/I-MAJOR Networking/I-MAJOR មាន តម្លៃ សិក្សា យ៉ាង ដូច ម្ដេច ដែរ,FindTNInfo

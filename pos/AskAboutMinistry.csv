@@ -1,0 +1,106 @@
+question,intent
+ក្រសួង/noun រៀប/verb ចំ/verb ដែន/noun ដីនគរូបនីយកម្ម/noun និង/conj សំណង់/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ការពារ/verb ជាតិ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun មហា/noun ផ្ទៃ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun យុត្តិធម៍/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun បរិស្ថាន/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ផែនការ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun សុខា/noun ភិបាល/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ព័ត៍/noun មាន/verb ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ទេសចរ/noun ណ៏/prt ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun កសិកម្ម/noun រុក្ខា/noun ប្រម៉ាញ់/verb និង/conj នេសាទ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun វប្បធម៍/noun និង/conj វិចិត្រ/adj សិល្ប/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun សារធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun អភិវឌ្ឃន៍/noun ជន/noun បទ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun រៀប/verb ចំ/verb ដែន/noun ដីនគរូបនីយកម្ម/noun និង/conj សំណង់/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun រៀប/verb ចំ/verb ដែន/noun ដីនគរូបនីយកម្ម/noun និង/conj សំណង់/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun រៀប/verb ចំ/verb ដែន/noun ដីនគរូបនីយកម្ម/noun និង/conj សំណង់/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun រៀប/verb ចំ/verb ដែន/noun ដីនគរូបនីយកម្ម/noun និង/conj សំណង់/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការពារ/verb ជាតិ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការពារ/verb ជាតិ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការពារ/verb ជាតិ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការពារ/verb ជាតិ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អប់រំ/verb យុវជន/noun និង/conj កីឡា/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun មហា/noun ផ្ទៃ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun មហា/noun ផ្ទៃ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun មហា/noun ផ្ទៃ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun មហា/noun ផ្ទៃ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun យុត្តិធម៍/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun យុត្តិធម៍/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun យុត្តិធម៍/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun យុត្តិធម៍/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun បរិស្ថាន/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun បរិស្ថាន/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun បរិស្ថាន/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun បរិស្ថាន/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ឧស្សាហកម្ម/noun រ៉ែ/noun និង/conj ថាមពល/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ផែនការ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ផែនការ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ផែនការ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ផែនការ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សុខា/noun ភិបាល/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សុខា/noun ភិបាល/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សុខា/noun ភិបាល/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សុខា/noun ភិបាល/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ព័ត៍/noun មាន/verb ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ព័ត៍/noun មាន/verb ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ព័ត៍/noun មាន/verb អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ព័ត៍/noun មាន/verb អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ទេសចរ/noun ណ៏/prt ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ទេសចរ/noun ណ៏/prt ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ទេសចរណ៏/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ទេសចរណ៏/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ពាណិជ្ជ/noun កម្ម/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កសិកម្ម/noun រុក្ខា/noun ប្រម៉ាញ់/verb និង/conj នេសាទ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កសិកម្ម/noun រុក្ខា/noun ប្រម៉ាញ់/verb និង/conj នេសាទ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កសិកម្ម/noun រុក្ខា/noun ប្រម៉ាញ់/verb និង/conj នេសាទ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កសិកម្ម/noun រុក្ខា/noun ប្រម៉ាញ់/verb និង/conj នេសាទ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun វប្បធម៍/noun និង/conj វិចិត្រ/adj សិល្ប/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun វប្បធម៍/noun និង/conj វិចិត្រ/adj សិល្ប/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun វប្បធម៍/noun និង/conj វិចិត្រ/adj សិល្ប/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun វប្បធម៍/noun និង/conj វិចិត្រ/adj សិល្ប/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សារធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សារធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សារធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សារធារណការ/noun និង/conj ដឹក/verb ជញ្ជូន/verb អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អភិវឌ្ឃន៍/noun ជន/noun បទ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អភិវឌ្ឃន៍/noun ជន/noun បទ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អភិវឌ្ឃន៍/noun ជន/noun បទ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun អភិវឌ្ឃន៍/noun ជន/noun បទ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun សេដ្ឋ/adj កិច្ច/noun និង/conj ហិរញ្ញ/noun វត្ថុ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធនធាន/noun ទឹក/noun និង/conj ឧត្តុ/noun និយម/adj ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធនធាន/noun ទឹក/noun និង/conj ឧត្តុ/noun និយម/adj ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធនធាន/noun ទឹក/noun និង/conj ឧត្តុ/noun និយម/adj អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធនធាន/noun ទឹក/noun និង/conj ឧត្តុ/noun និយម/adj អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធម្មការ/noun និង/conj សាសនា/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធម្មការ/noun និង/conj សាសនា/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធម្មការ/noun និង/conj សាសនា/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធម្មការ/noun និង/conj សាសនា/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun និង/conj អតីត/adj យុទ្ធជន/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun និង/conj អតីត/adj យុទ្ធជន/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun និង/conj អតីត/adj យុទ្ធជន/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun និង/conj អតីត/adj យុទ្ធជន/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការ/noun បរទេស/noun និង/conj សហ/adv ប្រតិបត្តិ/verb ការ/noun អន្តរ/noun ជាតិ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការ/noun បរទេស/noun និង/conj សហ/adv ប្រតិបត្តិ/verb ការ/noun អន្តរ/noun ជាតិ/noun ចែក/verb រំលែក/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការ/noun បរទេស/noun និង/conj សហ/adv ប្រតិបត្តិ/verb ការ/noun អន្តរ/noun ជាតិ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun ដូច/verb ម្ដេច/adv ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ការ/noun បរទេស/noun និង/conj សហ/adv ប្រតិបត្តិ/verb ការ/noun អន្តរ/noun ជាតិ/noun អាច/verb ផ្ដល់/verb ព័ត៌មាន/noun អី្វ/noun ខ្លះ/adj ដល់/adp យើង/pron ?/punct,AskAboutMinistry
+ក្រសួង/noun ធនធាន/noun ទឹក/noun និង/conj ឧត្តុ/noun និយម/adj ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ធម្មការ/noun និង/conj សាសនា/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun កិច្ច/noun ការ/noun នារី/noun និង/conj អតីត/adj យុទ្ធជន/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry
+ក្រសួង/noun ការ/noun បរទេស/noun និង/conj សហ/adv ប្រតិបត្តិ/verb ការ/noun អន្តរ/noun ជាតិ/noun ស្ថិត/verb នៅ/adp កនែ្លង/noun ណា/noun នៃ/adp ប្រទេស/noun កម្ពុជា/noun ?/punct,AskAboutMinistry

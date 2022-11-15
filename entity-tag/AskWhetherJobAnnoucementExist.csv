@@ -1,0 +1,481 @@
+question,intent
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB សន្ដិសុខ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អនាម័យ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB រដ្ឋ/I-JOB បាល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អេតមីន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB ទី/I-JOB ផ្សារ/I-JOB ឌីជីថល/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB បង្រៀន/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB networking/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Data/I-JOB Science/I-JOB Researcher/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Digital/I-JOB Marketing/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នេះ មាន ទទួល បុគ្គលិក ផ្នែក/B-JOB អភិវឌ្ឍនិ៍/I-JOB កម្ម/I-JOB វិធី/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist

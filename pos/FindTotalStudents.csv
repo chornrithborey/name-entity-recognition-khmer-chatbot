@@ -1,0 +1,505 @@
+question,intent
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt នៅ/adp CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/noun ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុី/noun ធីលីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាលា/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun សុខលាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun សុខ/noun លាភ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Darot/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដារូ៉ត/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Jojo/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ចូចូ/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Lita/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីតា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Duoung/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដួង/verb ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Linda/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun លីនដា/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដែល/noun ដឹង/verb ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb និស្សិត/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb សិស្ស/noun សរុប/verb ប៉ុន្មាន/adv ?/punct,FindTotalStudents
+តើ/prt វិទ្យាល័យ/noun CADT/noun Sokleap/noun ដឹង/verb ទេ/prt ថា/conj មាន/verb student/noun ប៉ុន្មាន/adv ?/punct,FindTotalStudents

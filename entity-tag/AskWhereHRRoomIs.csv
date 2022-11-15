@@ -1,0 +1,1681 @@
+question,intent
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក មឹង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+អ្នក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា កន្លែង ណា ជា ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM បុក្គលិក/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ បន្ទប់/B-ROOM ធនធានមនុស្ស/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ទៅ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
+លោក អ៊ំុអាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs

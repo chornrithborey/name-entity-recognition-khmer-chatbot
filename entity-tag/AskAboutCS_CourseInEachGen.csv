@@ -1,0 +1,145 @@
+question,intent
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen

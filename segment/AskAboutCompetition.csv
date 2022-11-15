@@ -1,0 +1,145 @@
+question,intent
+តើ CADT បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា CADT មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា ស៊ីអេឌីធី មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ វិទូ អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក គ្រូ ច័ន្ទ ត្រា អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា CADT របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា សាលា ស៊ីអេឌីធី របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher Chantra អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយដីធី ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយដីធី ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយ ដីធី នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយ ដីធី នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយដីធី ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ អាយដីធី ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ អុីនូវេសិន សែនធឺរ និង អាគារ IDT ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយដីធី ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយដីធី ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយ ដីធី នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយ ដីធី នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយដីធី ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ អាយដីធី ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ innovation center និង អាគារ IDT ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition

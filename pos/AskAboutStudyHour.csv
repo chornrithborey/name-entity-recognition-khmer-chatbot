@@ -1,0 +1,721 @@
+question,intent
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អ្នក/pron អាច/verb រៀបរាប់/verb ពី/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/verb សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+នៅ/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ក្នុង/adp សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+ខ្ញុំ/pron ចង់/verb សួរ/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាលា/noun រៀន/verb សុី/noun អេដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+អាច/verb ប្រាប់/verb បាន/verb ទេ/prt ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj វិទ្យាល័យ/noun សុីអេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាលា/noun រៀន/verb សុី/noun អេ/noun ដីឌី/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ម៉ោង/noun រៀន/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ពេល/noun វេលា/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្សានុសិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ថេរ/adj វេលា/noun ប៉ុន្មាន/adv,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ប៉ុន្មាន/adv ម៉ោង/noun ដែល/noun,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀន/verb ម៉ោង/noun ប៉ុន្មាន/adv ខ្លះ/adj,AskAboutStudyHour
+សូម/verb សួរ/verb បន្តិច/adj សាកល/adj វិទ្យាល័យ/noun CADT/noun ការ/noun សិក្សា/verb របស់/adp សិស្ស/noun នៅ/adp ទី/noun នោះ/det រៀនរយះ/verb ពេល/noun ប៉ុន្មាន/adv ម៉ោង/noun,AskAboutStudyHour

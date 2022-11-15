@@ -1,0 +1,145 @@
+question,intent
+តើ CADT/B-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ CADT/B-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG CADT/I-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG បាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បាន ប្រកាស ថា មាន ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បាន ប្រកាស ថា មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បង្កើត នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន បង្កើត នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន host នូវ កម្ម វិធី ការ ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG មាន host នូវ កម្ម វិធី Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ ច័ន្ទត្រា/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ Vitou/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER វិទូ/B-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ លោក/B-PER គ្រូ/I-PER ច័ន្ទ/I-PER ត្រា/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា CADT/B-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG CADT/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា សាលា/B-ORG ស៊ីអេឌីធី/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត កម្ម វិធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG យើង មាន Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ teacher/B-PER Chantra/I-PER អាច ប្រាប់ ខ្ញំុ ថា បណ្ឌិត/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG របស់ ពួក យើង មាន បាន បង្កើត Event Competition អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយ/I-BUILD ដីធី/I-BUILD នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយ/I-BUILD ដីធី/I-BUILD នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយ/I-BUILD ដីធី/I-BUILD នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយ/I-BUILD ដីធី/I-BUILD នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD អាយដីធី/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្មំុ កំពុង នៅ នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD នឹង គេ មាន បាន បង្កើត កម្ម វីធីប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន Host កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition
+តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD និង អាគារ/B-BUILD IDT/I-BUILD ដែល ខ្ញំុរៀន នឹង គេ មាន បាន បង្កើត កម្ម វីធី ប្រកួត ប្រជែង អ្វី ខ្លះ ?,AskAboutCompetition

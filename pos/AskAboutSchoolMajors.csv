@@ -1,0 +1,853 @@
+question,intent
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខ/noun លាភ/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សុខលាភ/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Darot/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/noun ដារូ៉ត/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt ដារូ៉ត/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/prt Dara/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើteacher/verb Dara/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt លោក/noun គ្រូដារា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Teacher/noun Lita/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt អ្នក/noun គ្រូ/noun លីតា/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun មាន/verb លទ្ធ/adj ភាព/noun បា្រប់/adj ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលាសុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun ដឹង/verb ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ប្រាប់/verb ខ្ញុំ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun សុី/noun អេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាលា/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt Sokleap/noun អាច/verb ជួយ/verb ប្រាប់/verb ខ្ញំុ/pron ថា/conj វិទ្យាល័យ/noun CADT/noun មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាលា/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt សាកល/adj វិទ្យាល័យ/noun សុីអេឌុីធី/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun យើង/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun នឹង/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun រប់សយើង/verb នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun របស់/adp ខ្ញំុ/pron នេះ/det មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្គ/noun បង្រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb រៀន/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb វគ្ក/noun សិក្សា/verb អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មហា/adj វិទ្យាល័យ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb Major/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors
+តើ/prt វិទ្យាល័យ/noun CADT/noun ដែល/noun ខ្ញំុរ/pron កំពុង/verb តែ/conj រៀន/verb មាន/verb មេច័រ/noun អ្វី/noun ខ្លះ/adj ?/punct,AskAboutSchoolMajors

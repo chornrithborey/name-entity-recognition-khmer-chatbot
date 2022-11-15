@@ -1,0 +1,481 @@
+question,intent
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ព័ត៌មាន អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+សំសួរ មួយ មើល នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+មាន ដឹង អត់ ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា ស៊ីអេឌីធី មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ ខាង សាលា មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក សន្ដិសុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ អាយអូធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អនាម័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក សន្ដិ សុខ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក រដ្ឋ បាល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អេតមីន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ឌីសាញ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក ទី ផ្សារ ឌីជីថល ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អ្នក ស្រាវជ្រាវ វិទ្យា សាស្រ្ដ ទិន្នន័យ ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក បង្រៀន ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក នែត វើក ឃីង ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក networking ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Data Science Researcher ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Digital Marketing ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក Software Development ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
+ដឹង ថា នៅ សាលា CADT នេះ មាន ទទួល បុគ្គលិក ផ្នែក អភិវឌ្ឍនិ៍ កម្ម វិធី ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
