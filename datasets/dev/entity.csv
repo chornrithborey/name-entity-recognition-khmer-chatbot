@@ -13,7 +13,7 @@ question,intent
 ប្រេស៊ីល/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ កង/B-PER សំបូរ/I-PER មាន ការ ខូច ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ខ្ញុំ/I-EVE ខ្លាំង/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ ទី តាំង ធ្វើ ការ របស់ បង សិទ្ធ/B-PER នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
-តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJ ពាណិជ្ជ/I-MAJ កម្ម/I-MAJ អេឡិចត្រូនិក/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutEC_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutEC_CourseInEachGen
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD ភ្ញៀវ ផ្ញើ អស់ ម៉ាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 មាន ខេត្ត/B-GPE កំពង់/I-GPE ឆ្នាំង/I-GPE ដែល ឬ អត់ ?,IsProvinceExist
 ក្នុង ប្រទេស/B-GPE បារាំង/I-GPE ម៉ោង នេះ ត្រនិច នាឡិការ វិល ដល់ ណា ហើយ ?,FindCurrentTime
@@ -162,7 +162,7 @@ Lita/B-PER មាន ដែរ ឆ្ថល់ ទេ ថា សាលាសុ�
 តើ បន្ទប់ របស់ ពិសី/B-PER នៅ អគារ/B-BUILD មិត្ត/I-BUILD ហ្វូន/I-BUILD ពិត ទេ ? ,FindRoom
 តើ យើង អាច រក បន្ទប់ របស់ លោក គ្រូ ផានិត/B-PER តាម របៀប ណា ?,FindRoom
 ខ្ញំុ ចង់ Complain ទៅ លើ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ Telecoms/I-MAJ &/I-MAJ Networking/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
 ប្រាប់ ខ្ញុំ នៅ នេះ ស្រាវជ្រាវ លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
 តើ បង សុធារ៉ា/B-PER ធ្វើ ការ នៅ បន្ទប់ ណា ដែល ?,AskAboutStaffRoom
 តើ កង/B-PER សៅ/I-PER រ៏/I-PER ធន/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE តើ/I-EVE អ្នក/I-EVE ឆ្លាត/I-EVE ជាង/I-EVE សិស្ស/I-EVE ថ្នាក់/I-EVE ទី/I-EVE ៥/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
@@ -250,7 +250,7 @@ Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ �
 មាន បង្គន់ នោម ទេ នៅ កន្លែង នេះ ?,DoesToiletExist
 ជួយ ប្រាប់ ខ្ញុំ កន្លែង របស់ កន្លែង ប្រជុំ មក រ៉ូបូត,FindMeetingRoom
 ចូរ ប្រាប់ ពី ក្លិប ដែល មាន អ្វី ខ្លះ ក្នុង វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG នេះ,ListClub
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ ទូរគមនាគមន៍/I-MAJ និង/I-MAJ បណ្តាញ/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
 ដឹង ថា នៅ សាលា/B-BUILD CADT/I-BUILD នឹង ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 កន្លែង បត់ ជើង នៅ កន្លែង ណា ?,FindToilet
 តើ ប្រាប់ ពី តម្លៃ ក្នុង ការ ផ្ញើ ឡាន សាលា/B-ORG CADT/I-ORG,AskAboutParkingPrice
@@ -535,7 +535,7 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នៅ �
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR មាន បង្គន់ នោម ទេ ?,DoesToiletExist
 អ្នក អាច រៀបរាប់ ពី សាលា រៀន សុី អេ ដីឌី ម៉ោង រៀន របស់ សិស្សានុសិស្ស នៅ ទី នោះ រៀន ប៉ុន្មាន ម៉ោង ដែល,AskAboutStudyHour
 តើ មាន ស្ថាប័ន/B-ORG Find/I-ORG Me/I-ORG Home/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsCompanyExist
-តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ វិទ្យាល័យ/B-ORG CADT/I-ORG ដែល យើង កំពុង តែ រៀន មាន មេច័រ អ្វី ខ្លះ ?,AskAboutSchoolMajors
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី ទី តាំង បន្ទប់ របស់ លោក គ្រូ ចាន់តូ/B-PER នៅ ទី ណា ?,FindRoom
 បង អាច ប្រាប់ bongrith ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
@@ -562,7 +562,7 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នៅ �
 តើ បន្ទប់ របស់ រស្មី/B-PER នៅ អគារ/B-BUILD ស្មាត/I-BUILD ពិត ទេ ? ,FindRoom
 នាង ចង់ Report ទៅ សាលា តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា Event នៅ អាគារ/B-BUILD អុីនូវេសិន/I-BUILD សែនធឺរ/I-BUILD យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ កន្លែង នឹង ?,AskAboutTrendingNews
 តើ មាន កម្ម វិធី រៀន អ្វី ខ្លះ នៅ ខាង Networking ?,CuriculumInEachMajor
 ដឹង ថា និស្សិត គូរ ត្រៀម អី ខ្លះ ដើម្បី ដាក់ ពាក្យ ចុះ ឈ្មោះ ចូល រៀន នៅ សាលា/B-ORG CADT/I-ORG នឹង ?,AskAboutEnrollmentRequirement
@@ -636,7 +636,7 @@ hello រ៉ូបូត , Saywelcome
 Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ ក្នុង ពិភព លោក ក្នុង វិទ្យាល័យ នេះ ពេល វេលា ដើរ ដល់ ណា ហើយ ?,FindCurrentTime
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
 តើ នៅ សល់ កន្លែង ធ្វើ ការ ទេ ?, Ask About Available Working Space
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ណារី/B-PER មែន ឫ ទេ ? , Ask About Creator
 វីទូ/B-PER ចង់ Report ទៅ លើ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD បាន យ៉ាង មិច ខ្លះ ?,AskHowToComplain
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG Smart/I-ORG នៅ ខាង ក្នុង អាគារ នេះ ឬ ទេ ?,IsCompanyExist
@@ -661,7 +661,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 ប្រាប់ ខ្ញុំ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG មាន ឡាន សាលា សម្រាប់ ដឹក និស្សិត ដែរ អត់ ?,SchoolBusInfo
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG អារូដត/I-ORG ក្នុង ទី នេះ ឬ ទេ ?,IsStartUpExist
 ហើយ ចុះ ឡាន ដឹក សិស្ស របស់ សាលា/B-ORG សុីអេឌីធី/I-ORG ដឹក សិស្ស ប៉ុន្មាន វេន ក្នុង មួយ ថ្ងៃ ?,SchoolBusInfo
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ សុខ/B-PER លាភ/I-PER ដឹង ថា វិទ្យាល័យ/B-ORG CADT/I-ORG មាន វគ្ក សិក្សា អ្វី ខ្លះ ?,AskAboutSchoolMajors
 តើ នៅ ជាន់/B-FLOOR ទី/I-FLOOR ៥/I-FLOOR មាន ធុង ទឹក ទេ ?,AskAboutWaterRefill
 វីទូ/B-PER ចង់ រាយ ការ ទៅ លើ អាគារ/B-BUILD IDT/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
@@ -842,7 +842,7 @@ Robot សូម ប្រាប់ ខ្ញុំ មួយ មក ថា ប�
 តើ មាន កម្ម វិធី សិក្សា ម៉េច ខ្លះ នៅ ខាង Telecomsand Networking ?,CuriculumInEachMajor
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង Networking ?,CuriculumInEachMajor
 ហើយ ចុះ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ផ្តល់ អាហារូបករណ៍ ដល់ សិស្ស ថ្មី ទេ,ScholarshipInfo
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ ពាណិជ្ជ/I-MAJ កម្ម/I-MAJ អេឡិចត្រូនិក/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutEC_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term ក្រោយ ?,AskAboutEC_CourseInEachGen
 ដឹង ថា នៅ សាលា/B-BUILD ស៊ីអេឌីធី/I-BUILD គ្រូ ៗ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ សាលា នេះ ក្មេង ស្រី ផ្ញើ អស់ ម៉ាន រយ បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutFemaleDressCode
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Cam/I-ORG Mob/I-ORG នៅ ក្នុង អាគារនវានុវត្តន៍ ទេ ?,IsStartUpExist
@@ -878,7 +878,7 @@ Robot តើ នៅ អគារ/B-BUILD IDT/I-BUILD កន្លែង បត�
 Vitou/B-PER អាច Complain ទៅ សាលា តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
 យើង ត្រូវការ ទី តាំង ចត,AskAboutWhereIsParkingSpace
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ បង ផានិត/B-PER ធ្វើ ការ នៅ ជាន់ណា ?,AskAboutStaffRoom
 តើ ដឹង ថា ថ្ងៃ/B-DATE ព្រហស្បតិ៍/I-DATE គេ ធ្វើ ការ អត់ ?,AskWhetherPoepleWorkonExactDate
 តើ schoolbus របស់ សាលា/B-ORG CADT/I-ORG ធ្វើ ការ នៅ ម៉ោង ប៉ុន្មាន ?,SchoolBusInfo
@@ -892,7 +892,7 @@ Vitou/B-PER អាច Complain ទៅ សាលា តាម រយះ ណា �
 សួរ មួយ មើល នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD ជាន់ ធ្វើ ការ របស់ បុគ្គលិក មាន ជណ្ដើរ អ៊ិចស៊ីស ដែរ ឬ ទេ ?,IsExistDoorExit
 តើ អ្នក អាច ជួយ អ្វី បាន ខ្លះ ?,AskRobotFunction
 លី/B-PER សាមិ/I-PER កំពុង តែ មាន ផល វិបាក ក្នុង ការ រក បន្ទប់/B-ROOM TSC/I-ROOM តើ អាច ជួយ ប្រាប់ ថា ជាន់ណា បាន មាន បន្ទប់/B-ROOM TSC/I-ROOM បាន ដែរ រឺ ទេ ?,FindTSC
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ ពាណិជ្ជ/I-MAJ កម្ម/I-MAJ អេឡិចត្រូនិក/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
 បាហាម៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អង់ហ្គោឡា/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ពួក យើង ចង់ រាយ ការ ទៅ លើ អាគារ/B-BUILD អាយឌីធី/I-BUILD តាម រយះណា ខ្លះ ?,AskHowToComplain
 អត់ ទោស នៅ សាលា/B-BUILD CADT/I-BUILD នឹង បុគ្គលិក ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -908,7 +908,7 @@ Vitou/B-PER អាច Complain ទៅ សាលា តាម រយះ ណា �
 មនុស្ស យន្ត សូម ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន ស្ថាបត្យ កម្ម កុំព្យូទ័រ មាន ឈ្មោះ អ្វី ?,FindLecturerForSubject
 តើ អាច មាន ប្រទេស អេក្វាទ័រ/B-GPE ហ្គីណេ/I-GPE មែន ឬ អត់ ?,IsCountryExist
 តើ លេខ ទំនាក់ទំនង របស់ បង សិរី/B-PER លេខ ប៉ុន្មាន ខ្លះ ?,AskAboutStaffPhoneNumber
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 អាល់ហ្សេរី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស សិង្ហបុរី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 មាន កន្លែង បន្ទោរ បង់ ទេ នៅ ជាន់ នេះ ?,DoesToiletExist
 វៀតណាម/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី លីប៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
@@ -1004,7 +1004,7 @@ Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ �
 តើ ម៉ូតូ ផ្ញើ គិត ថ្លៃ ប៉ុន្មាន,AskAboutParkingPrice
 ប្រាប់ ខ្ញុំ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ឲ្យ អាហារូបករណ៍ ដល់ សិស្ស ថ្មី ដែរ អត់,ScholarshipInfo
 សួរ មួយ មើល សិស្ស គូរ ត្រៀម អី ខ្លះ ដើម្បី ទិញ ពាក្យ ចូល រៀន នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutEnrollmentRequirement
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូសុធារ៉ា/B-PER នៅ អាគារ ណា ដែល ?,AskAboutStaffRoom
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទូរសព្ទ របស់ បុគ្គលិក ផ្នែក ធនធាន មនុស្ស បាន ដែល ទេ ?,AskAboutStaffPhoneNumber
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD គេ បង់ ប៉ុន្មាន រយ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1150,7 +1150,7 @@ Rathana/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ ឥឡ�
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ ទី តាំង បន្ទប់ របស់ លោក គ្រូចាន់តូ/B-PER នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom
 តើ មាន ប្រទេស វ៉េណេស៊ុយអេឡា/B-GPE ឬ អត់ ?,IsCountryExist
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ TN/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR TN/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ នៅ IDT/B-ORG មាន កន្លែង លកបាយ ដែល ឫ ទេ ? , Ask About Canteen
 តើ នៅ អាគារ/B-BUILD អាយឌីធី/I-BUILD ភ្ញៀវ បង់ ប្រាប់ ចំនួន ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ដឹង ថា នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB ឌីសាញ/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
@@ -1312,7 +1312,7 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ ម៉ោ
 ចូល ប្រាប់ ខ្ញុំ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER កំពុង Research អ្វី ? ,AskAboutResearcher
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Cam/I-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ទេ ?,IsStartUpExist
 ប៉ាណាម៉ា/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស លីប៊ី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ នៅ សល់ កន្លែង ធ្វើ ការ នៅ ទី នេះ ទេ ?, Ask About Available Working Space
 មាន ព័ត៌មាន អត់ ថា ពួក យើង ចាំបាច់ ត្រូវ មាន អីគេ ខ្លះ ដើម្បី ទិញ ពាក្យ ចូល រៀន នៅ សាលា នេះ ?,AskAboutEnrollmentRequirement
 ខ្ញុំ ចង់ ដឹង ថា មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG មែន ឬ ទេ,IsFootballFieldExist
@@ -1437,9 +1437,9 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ ម៉ោ
 តើ ទី តាំង ធ្វើ ការ របស់ លោក គ្រូចាន់តូ/B-PER នៅ អាគារ មួយ ណា ?,AskAboutStaffRoom
 ចូល ប្រាប់ នៅ នឹង Research លើ សម្រាប់ សិស្ស ? ,AskAboutResearch
 តើ នៅ សាលា/B-ORG CADT/I-ORG នឹង ជាន់ ក្រោម គេ បង្អស់ មាន ជណ្ដើរ ពេល មាន អគ្គិ ភ័យ ដែរ ឬ ទេ ?,IsExistDoorExit
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 លីបេរីយ៉ា/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ TN/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR TN/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ នៅ សាលា នេះ ពួក យើង ត្រូវ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 តើcom puterscience មាន រៀន ស្អី ខ្លះ ហា ?,CuriculumInEachMajor
 តើ ប្រទេស ប្រ៊ុយណេ/B-GPE មាន ឬ ទេ ?,IsCountryExist
@@ -1523,7 +1523,7 @@ Rathana/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នា�
 សួរ មួយ មើល និស្សិត តម្រូវ អោយ មាន អ្វី ខ្លះ ដើម្បី ដាក់ ពាក្យ ចូល រៀន នៅ សាលា/B-ORG CADT/I-ORG នឹង ?,AskAboutEnrollmentRequirement
 តើ បន្ទប់ របស់ អ្នក/B-PER គ្រូ/I-PER ច/I-PER រិយា/I-PER នៅ ទី ណា ?,FindEmployeeRoom
 អ្នក មឹង អាច ប្រាប់ បង/B-PER រិទ្ធ/I-PER ថា ទៅ អាគារណា បាន ដល់ ដេប៉ាទីម៉ង់ធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ Telecoms/I-MAJ &/I-MAJ Networking/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 បង្ហាញ ខ្ញុំ នៅ ឯ នេះ Research លើ សម្រាប់ អ្នក ទស្សនៈ កិច្ច ? ,AskAboutResearch
 បង់ក្លាដែស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ប្រាប់ Panha/B-PER តិច មើល ក្នុង ពិភព លោក ក្នុង វិទ្យាល័យ/B-ORG សុីអេ/I-ORG ដីឌី/I-ORG នេះ ពេល វេលា ដើរ ដល់ ណា ហើយ ?,FindCurrentTime
@@ -1545,7 +1545,7 @@ Rathana/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នា�
 សុំ សួរ មួយ មនុស្ស យន្ត តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បង្គន់ នោម ឬ ទេ ?,DoesToiletExist
 អត់ ទោស នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ម៉ូតូ ?,AskAboutMotocycleParkingFee
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ TN/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR TN/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG អី ខ្លះ នៅ ខាង ក្នុង អគារ នេះ ?,AskForStartUpInTheInnovationCenter
 តើ អ្នក អាច ប្រាប់ ពី ទី តាំង របស់ បន្ទប់/B-ROOM ១០១/I-ROOM នៅ ទី កន្លែង ណា បាន ទេ ?,FindRoom
 តើ ប្រទេស បួគី/B-GPE ណាហ្វាសូ/I-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
@@ -1639,7 +1639,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ មាន ស្ថាប័ន/B-ORG បុក/I-ORG មីបើស/I-ORG នៅ ក្នុង អាគារ នេះ ដែរ ទេ ?,IsCompanyExist
 ដឹង ថា នៅ អាគារ/B-BUILD អាយឌីអរអាយ/I-BUILD ជាន់ ទី ២ មាន ជណ្ដើរ អ៊ិចស៊ីស ដែរ ឬ ទេ ?,IsExistDoorExit
 លោក អ៊ំុអាច ប្រាប់ បង ចាន់ តូ ថា កន្លែង ណា ជា Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutCS_CourseInEachGen
 វៀតណាម/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស រ៉ូម៉ានី/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អ្នក ពិត ជា ត្រូវ បាន បង្កើត ដោយ បង គីម/B-PER ហុង/I-PER ពិត ឬ ទេ ? , Ask About Creator
 ប្រាប់ Panha/B-PER តិច មើល ម៉ោង ក្នុង សាលា/B-ORG រៀន/I-ORG សុី/I-ORG អេ/I-ORG ដីឌី/I-ORG នេះ ពេល វេលា ដើរ ដល់ ណា ហើយ ?,FindCurrentTime
@@ -1698,7 +1698,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 តើ ប្រទេស អេស្ប៉ាញ/B-GPE មាន ទំហំ ផ្ទៃ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ មាន រៀន ស្អី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR អាយធី/I-MAJOR ?,CuriculumInEachMajor
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស្រាវជ្រាវ/I-ORG អភិវឌ្ឍន៍/I-ORG កម្ពុជា/I-ORG មាន កន្លែង អង្គុយ ហូបបាយ ទេ ? , Ask About Canteen
-តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ អាច ប្រាប់ ខ្ញុំ បាន ទេ ថា CS/B-MAJOR ហ្នឹង គេ រៀន ពី អ្វី,FindCSInfo
 សុខលាភ/B-PER និង សាមឌី/B-PER ចង់ ដាក់ លិខិត ជំទាស់ ទៅ លើ អាគារ/B-BUILD IDT/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ នៅ ខាង អាយធី/B-MAJOR ?,CuriculumInEachMajor
@@ -1808,7 +1808,7 @@ Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ថា �
 តើ បន្ទប់ របស់ ផ្នែក រីគ្រូទ័រ នៅ ជាន់ ណា ដែល ?,AskAboutStaffRoom
 ក្នុង ប្រទេស/B-GPE Germany/I-GPE ឥឡូវ នេះ ម៉ោង ប៉ុន្មាន ហើយ ?,FindCurrentTime
 ដឹង ថា នៅ សាលា នេះ ពួក យើង ត្រូវ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 អ្នក គ្រប់ គ្រង ខាង អុីខមមើស នរណា ជា ?,AskAboutTopManagementPersonal
 ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៃ សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
 តើ នៅ អាគារ/B-BUILD IDRI/I-BUILD ពួក យើង ត្រូវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
@@ -1949,7 +1949,7 @@ Robot អរុណ សួស្ដី , Saywelcome
 ប្រាប់ Rathana/B-PER តិច មើល ឥឡូវ នេះ ម៉ោង ប៉ុន្មាន ហើយ ?,FindCurrentTime
 នៅ ណា បន្ទប់ គ្រូ ៗresearch នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD នេះ ?,FindResearcherRoom
 តើ ប្រាប់ បាន ទេ ថា TN/B-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindTNInfo
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 មាន បង្គន់ ឬ អត់ នៅ ជាន់ នេះ ?,DoesToiletExist
 ប្រាប់ លោក/B-PER គ្រូ/I-PER លីហៀង/I-PER កំពុង ស្រាវជ្រាវ លើ អ្វី ? ,AskAboutResearcher
 មាន ដឹង អត់ ថា សិស្ស តម្រូវ អោយ មាន អ្វី ខ្លះ ដើម្បី ដាក់ ដឺម៉ង់ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutEnrollmentRequirement
@@ -1968,7 +1968,7 @@ Robot អរុណ សួស្ដី , Saywelcome
 ពួក យើង គួរ តែ Report ទៅ លើ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ស៊ីតិក/I-ORG មាន កន្លែង ណា លេង ទេ ? ,AskAboutPlayground
 ក្នុង សាកល/B-ORG វិទ្យាល័យ/I-ORG សុីអេ/I-ORG ដីឌី/I-ORG ម៉ោង រៀន របស់ សិស្ស នៅ ទី នោះ រៀនរយះ ពេល ប៉ុន្មាន ម៉ោង,AskAboutStudyHour
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 បង់ក្លាដែស/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អូស្ត្រាលី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 លីតា/B-PER និង ដាណីត/B-PER គួរ តែ រីភាត់ ទៅ លើ អាគារ/B-BUILD IDT/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 ប្រាប់ នៅ ឯ CADT/B-ORG Research លើ សម្រាប់ ពួក យើង ? ,AskAboutResearch
@@ -1997,7 +1997,7 @@ Robot អរុណ សួស្ដី , Saywelcome
 សួរ មួយ មើល នៅ សាលា/B-BUILD ស៊ីអេឌីធី/I-BUILD គេ អោយ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 ហើយ ចុះ CADT/B-ORG ឲ្យ អាហារូបករណ៍ ដល់ សិស្ស ថ្មី ទេ,ScholarshipInfo
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG បច្ចេកវិទ្យា/I-ORG កម្ពុជា មាន កន្លែង លក់ បាយ ទេ ? , Ask About Canteen
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 សុំ សួរ មួយ Robot តើ នៅ នឹង មាន បង្គន់ អណាម័យ ឬ ទេ ?,DoesToiletExist
 ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ឈីលី/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ថៃ/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
@@ -2361,7 +2361,7 @@ Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា �
 រដ្ឋាណា/B-PER គួរ តែ Complain ទៅ សាលា/B-ORG CADT/I-ORG តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 Vitou/B-PER ដែល បាន ដឹង អត់ ទៅ លើ Event សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
 ចូល ប្រាប់ នៅ ឯ នេះ ស្រាវជ្រាវ លើ សម្រាប់ បុគ្គលិក ថ្មី ? ,AskAboutResearch
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 អូទ្រីស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អារូបា/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 សួរ មួយ មើល ពួក ខ្ញំ តម្រូវ អោយ មាន អ្វី ខ្លះ ដើម្បី ដាក់ ដឺម៉ង់ នៅ សាលា/B-ORG CADT/I-ORG នឹង ?,AskAboutEnrollmentRequirement
 តើ បន្ទប់ របស់ ផ្នែក បម្រើ សេវា កម្ម នៅ ទីណា ?,AskAboutStaffRoom
@@ -2528,7 +2528,7 @@ Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ ល
 តើ នៅ វិទ្យា ស្ថាន ស្រាវជ្រាវ/B-ORG និងនវានុវត្តន៍/I-ORG ឌីជីថល/I-ORG មាន ការងារ ដែល ទេ ?,AskAboutJobOpportunities
 ដឹង ថា បុគ្គលិក នៅ សាលា/B-ORG CADT/I-ORG នេះ មក ធ្វើ ការ នៅ ថ្ងៃ ណា ?,AskWorkingDate
 តើ វិទ្យាល័យ/B-ORG សុីអេឌុីធី/I-ORG លីនដា/B-PER ដឹង ទេ ថា មាន និស្សិត ប៉ុន្មាន ?,FindTotalStudents
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG Cam/I-ORG Mob/I-ORG នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsStartUpExist
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ ទី នេះ ?,AskAboutTrendingNews
 ប្រាប់ Panha/B-PER តិច មើល ឥឡូវ នេះ ម៉ោង ប៉ុន្មាន ហើយ ?,FindCurrentTime
@@ -2539,7 +2539,7 @@ Vitou/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ ល
 អត់ ទោស នៅ អាគារ/B-BUILD IDRI/I-BUILD ជាន់ ក្រោម គេ បង្អស់ មាន ជណ្ដើរ អាសន្ន ជណ្ដើរ គេច គ្រោះ ថ្នាក់ ដែរ ឬ ទេ ?,IsExistDoorExit
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជំនាញ នីមួយ ៗ បង្រៀន ប៉ុន្មាន ឆ្នាំ ? ,AskAboutMajor
 អ្នក មើល ការ ខាង e-commerce ពាណិជ្ជ កម្ម អេឡិចត្រូនិច នរណា ជា ?,AskAboutTopManagementPersonal
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ កំពង់/B-GPE ចាម/I-GPE មាន ស្រុក ប៉ុន្មាន អ្វី ខ្លះ ?,AskAboutDistrictInProvince
 សួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នឹង និស្សិត ស្រី ត្រូវ ពាក់ ខោ អាវ បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutFemaleDressCode
 តើ ពិត ជា មាន ប្រទេស ឡាវ/B-GPE ឬ ទេ ?,IsCountryExist
@@ -2729,7 +2729,7 @@ Rathana/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នា�
 ប្រាប់ ខ្ញុំ បាន អត់ ថា សាលា/B-ORG CADT/I-ORG ឲ្យ អាហារូបករណ៍ ដល់ សិស្ស ទើប ចប់ ទី ១២ ដែរ អត់,ScholarshipInfo
 បែលហ្ស៊ិក/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី អូទ្រីស/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 តើ Network មាន កម្ម វិធី រៀន អី ខ្លះ ?,CuriculumInEachMajor
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ Computer/I-MAJ Science/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR Computer/I-MAJOR Science/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ អាច មាន ប្រទេស លីប៊ី/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 តើ មាន កម្ម វិធី រៀន ស្អី ខ្លះ ខាង Networking ?,CuriculumInEachMajor
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -2805,7 +2805,7 @@ Vitou/B-PER អាច Report ទៅ លើ អាគារ/B-BUILD IDT/I-BUILD �
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ក្រុម បង សុកហេង/B-PER ពិត ឬ អត់ ? , Ask About Creator
 ហើយ ចុះ Dormitory/B-BUILD របស់ និស្សិត ទាំង អស់ សាលា/B-ORG CADT/I-ORG មាន ប៉ុន្មាន ជាន់ ?,AskAboutDormInfo
 តើ យើង អាច រក បន្ទប់/B-ROOM ៣០១/I-ROOM តាម វីធីណា បាន ?,FindRoom
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ ប្រទេស បេនីន/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 សួរ មួយ មើល ពួក ខ្ញំ គួរ រៀប ចំ ខ្លួន យ៉ាង ម៉េច ដើម្បី ដាក់ ដឺម៉ង់ នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutEnrollmentRequirement
 ហើយ ចុះ នៅ ក្នុង ប្រទេស នេះ ម៉ោង ប៉ុន្មាន ហើយ ?,FindCurrentTime
@@ -2940,7 +2940,7 @@ Robot ប្រាប់ ខ្ញុំ មក អ្នក បង្រៀន 
 បង អាច ប្រាប់ Dara/B-PER ថា ទៅ អាគារណា បាន ដល់ Department/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
 តើ នៅ អាគារ/B-BUILD innovation/I-BUILD center/I-BUILD ជាន់ ទី ១ មាន ជណ្ដើរ អ៊ិចស៊ីស ដែរ ឬ ទេ ?,IsExistDoorExit
 តើ ពិត ជា មាន ប្រទេស កាតា/B-GPE មែន ឬ ទេ ?,IsCountryExist
-តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJ ពាណិជ្ជ/I-MAJ កម្ម/I-MAJ អេឡិចត្រូនិក/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
 ខ្ញុំ ចង់ ដឹង ថា មាន អាហាររដ្ឋាន នៅ សាលារៀន/B-ORG សុីអេដីឌី/I-ORG ដែល ឬ ទេ,IsCanteenExist
 មាន ដឹង អត់ ថា ពួក យើង ចាំបាច់ ត្រូវ មាន អីគេ ខ្លះ សំរាប់ ការ ចុះ ឈ្មោះ ចូល រៀន នៅ សាលា នេះ ?,AskAboutEnrollmentRequirement
 តើ មាន ក្រុម/B-ORG ហ៊ុន/I-ORG បុក/I-ORG មីបើស/I-ORG ក្នុង ទី នេះ ដែរ ទេ ?,IsCompanyExist

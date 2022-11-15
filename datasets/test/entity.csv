@@ -88,7 +88,7 @@ Rathana/B-PER គួរ តែ Report ទៅ សាលា/B-ORG សុីអេ�
 តើ ស្រី/B-PER ណែន/I-PER មាន ការ មិន សប្បាយ ចិត្ត ដោយសារ តែ មិន បាន ឈ្នះ នៅ ក្នុង កម្ម/B-EVE វិធី/I-EVE ពិភព/I-EVE តារា/I-EVE ពិត ទេ ? ,AskAboutDissatisfaction
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ជាតិ/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG កម្ពុជា/I-ORG ជា ស្ថាប័ន អន្ត ជាតិ មែន ទេ ? ,AskAboutInstitution
 បែលហ្ស៊ិក/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី ចិន/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ CS/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR CS/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 ខ្ញំុ ឆ្ងល់ ថា សាលា/B-ORG CADT/I-ORG ធ្វើ ការ ប្រឡង ចូល យ៉ាង ម៉េច ?,ScholarshipInfo
 ហើយ ចុះ ឡាន ដឹក សិស្ស របស់ ស៊ីអេឌីធី/B-ORG ចាប់ ផ្ដើម រត់ ពី ម៉ោង ប៉ុន្មាន ដល់ ម៉ោង ប៉ុន្មាន ?,SchoolBusInfo
@@ -98,7 +98,7 @@ Rathana/B-PER គួរ តែ Report ទៅ សាលា/B-ORG សុីអេ�
 តើ វិទ្យា/B-ORG ស្ថាន/I-ORG ពហុ/I-ORG បច្ចេកទេស/I-ORG ព្រះ/I-ORG កុសុមៈ/I-ORG មាន ប៉ុន្មាន ជំនាញ ? ,AskAboutMajor
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR មាន កន្លែង ដោះ ទុក សត្វ ឬ ទេ ?,DoesToiletExist
 ប៉ាគីស្ថាន/B-GPE បាន បន្ដ ការ នាំ ចូល អំបិល ពី រុស្ស៊ី/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Telecoms/I-MAJ &/I-MAJ Networking/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 2/I-TERM ?,AskAboutTN_CourseInEachGen
 បង អាច ប្រាប់ ដារា/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ ដេប៉ាទីម៉ង់/B-ROOM HR/I-ROOM ដែរ ?,AskWhereHRRoomIs
 ខ្ញំុ ឆ្ងល់ ថា សាលា/B-ORG CADT/I-ORG មាន schoolbus ដឹក សិស្ស ដែរ អត់ ?,SchoolBusInfo
 សួរ មួយ មើល នៅ សាលា/B-ORG CADT/I-ORG នឹង ជាន់ ផ្ទាល់ ដី មាន ជណ្ដើរ exist ដែរ ឬ ទេ ?,IsExistDoorExit
@@ -159,7 +159,7 @@ Robot តើ នៅ អគារ/B-BUILD នេះ/I-BUILD កន្លែង �
 តើ នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD គ្រូ ៗ ផាក ១ ដង ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ម៉ូតូ ?,AskAboutMotocycleParkingFee
 តើ ពិត ជា មាន ប្រទេស ស្រីលង្កា/B-GPE ឬ ទេ ?,IsCountryExist
 ដែល មាន តារាង/B-BUILD បាល់/I-BUILD ទាត់/I-BUILD របស់ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ Telecoms/I-MAJ &/I-MAJ Networking/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutTN_CourseInEachGen
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 ប្រាប់ ខ្ញុំ បាន អត់ ថា សិស្ស សាលា/B-ORG សុីអេឌីធី/I-ORG ត្រូវ បង់ លុយ ប៉ុន្មាន ដើម្បី បាន ស្នាក់ នៅ Dormitory/B-BUILD អត់ ?,AskAboutDormInfo
 រ៉ូម៉ានី/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អាហ្វហ្គានីស្ថាន/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
@@ -754,7 +754,7 @@ hi Robot , Saywelcome
 មាន ព័ត៌មាន អត់ ថា សាលា មាន ជ្រើស រើស បុគ្គលិក ចូល ធ្វើ ការ ថ្មី ផ្នែក/B-JOB Software/I-JOB Development/I-JOB ដែរ ឬ អត់ ?,AskWhetherJobAnnoucementExist
 តើ មាន កម្ម វិធី រៀន អី ខ្លះ ខាង ណេតវើក កីង ?,CuriculumInEachMajor
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី កន្លែង របស់ បន្ទប់/B-ROOM ៣០៥/I-ROOM នៅ ទី ណា បាន ទេ ?,FindRoom
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 សុខលាភ/B-PER និង សាមឌី/B-PER អត់ ពេញ ចិត្ត ទៅ លើ ការ ធ្វើ នៅ នឹង សាលា/B-ORG សុីអេឌីធី/I-ORG តើ គួរ Report យ៉ាង មិច ទៅ ?,AskHowToComplain
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន បង្គន់ នោម អត់ ?,DoesToiletExist
 គាត់ ចង់ ដឹង នៅ នេះ ត្រនិច នាឡិការវិល ដល់ ណា ហើយ ?,FindCurrentTime
@@ -909,7 +909,7 @@ Vitou/B-PER ចង់រីភាត់ ទៅ លើ អាគារ/B-BUILD In
 ពិត ជា មាន ទី/B-BUILD លាន/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
 គាត់ គួរ តែ Report ទៅ លើ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 រដ្ឋាណា/B-PER ចង់ដាក់ លិខិត ជំទាស់ ទៅ លើ អាគារ/B-BUILD អាយឌីធី/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutCS_CourseInEachGen
 ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 តើ នៅ អាគារ/B-BUILD IDT/I-BUILD ជាន់ ទី ១ មាន ជណ្ដើរ exist ដែរ ឬ ទេ ?,IsExistDoorExit
 ជួយ ប្រាប់ ខ្ញុំ ទី តាំង បន្ទប់ របស់ លោក/B-PER សុភី/I-PER បន្ទិច មក,FindEmployeeRoom
@@ -918,7 +918,7 @@ Vitou/B-PER ចង់រីភាត់ ទៅ លើ អាគារ/B-BUILD In
 ខ្ញំុ ឆ្ងល់ ថា នៅ ក្នុង វិទ្យាល័យ នេះ ម៉ោង ប៉ុន្មាន ហើយ ?,FindCurrentTime
 Rathana/B-PER អាច ដាក់ លិខិត ជំទាស់ ទៅ លើ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD តាម រយះ ណា ខ្លះ ?,AskHowToComplain
 តើ ខ្ញុំ អាច រក បន្ទប់/B-ROOM ៣០៤/I-ROOM តាម ណា ?,FindRoom
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJ ពាណិជ្ជ/I-MAJ កម្ម/I-MAJ អេឡិចត្រូនិក/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែក/B-MAJOR ពាណិជ្ជ/I-MAJOR កម្ម/I-MAJOR អេឡិចត្រូនិក/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 1/I-TERM ?,AskAboutEC_CourseInEachGen
 សួរ មួយ មើល ពួក យើង តម្រូវ អោយ មាន អ្វី ខ្លះ ដើម្បី ដាក់ ដឺម៉ង់ នៅ សាលា នេះ ?,AskAboutEnrollmentRequirement
 អាច ប្រាប់ មិត្ត ភក្តិ ខ្ញំុ ថា ឥឡូវ ក្រោម មេឃ លើ ដី នេះ ពេល វេលា ដើរ ដល់ ណា ហើយ ?,FindCurrentTime
 ខេត្ត/B-GPE ស្វាយ/I-GPE រៀង/I-GPE ជាប់ និង ខេត្ត ណា ខ្លះ ?,AskAboutProvince
@@ -1193,7 +1193,7 @@ Robot តើ នៅ អគារ/B-BUILD IDT/I-BUILD បង្គន់ នៅ �
 Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD កន្លែង ជុះ នោម នៅ ទី ណា ?,FindToilet
 បង់ក្លាដែស/B-GPE បាន អនុម័ត ច្បាប់ ដើម្បី អនុញ្ញាត ឱ្យ ក្រុម ហ៊ុន មក ពី ប្រទេស អូទ្រីស/B-GPE ផលិត ប្រេង នាំ ចូល និង លក់ ប្រេង ឥន្ធនៈ ក្នុង ប្រទេស របស់ ខ្លួន ។ ,NewsAboutCountry
 តើ អាច ជួយ ប្រាប់ ខ្ញុំ បន្តិច បាន ទេ ថា នៅ ក្រសួង/B-ORG ឧស្សាហកម្ម/I-ORG រ៉ែ/I-ORG និង/I-ORG ថាមពល/I-ORG មាន រីហ្វីល ទឹក ទេ ?,AskAboutWaterRefill
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ Telecoms/I-MAJ &/I-MAJ Networking/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR Telecoms/I-MAJOR &/I-MAJOR Networking/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
 កង/B-PER សារី/I-PER ដែល បាន ចាប់ អារម្មណ៏ ថា ព្រឹត្តិ ការណ៍ សាលា យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
 តើ មាន ប្រទេស ប៉ាឡេស្ទីន/B-GPE ឬ អត់ ?,IsCountryExist
 តើ មាន ធុរ/B-ORG កិច្ច/I-ORG Kela/I-ORG នៅ ក្នុង កន្លែង នេះ ឬ ទេ ?,IsStartUpExist
@@ -1261,7 +1261,7 @@ Robot តើ នៅ អគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD ក�
 តើ ប្រទេស ប៉ាឡេស្ទីន/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
 តើ មាន កម្ម វិធី សិក្សា អ្វី ខ្លះ នៅ ក្នុង ជំនាញ/B-MAJOR បណ្តាញ/I-MAJOR ?,CuriculumInEachMajor
 ខ្ញំុ ឆ្ងល់ ថា ស៊ីអេឌីធី/B-ORG ឲ្យ អាហារូបករណ៍ ដល់ សិស្ស ទើប ចប់ ទី ១២ ដែរ អត់,ScholarshipInfo
-តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 6/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutCS_CourseInEachGen
 លីប៊ី/B-GPE បាន បន្ដការ នាំ ចូល អំបិល ពី វៀតណាម/B-GPE ចំនួន ជាង ៥ ម៉ឺនតោន បន្ថែម ទៀត ដើម្បី បំពេញ តម្រូវ ការ ក្នុង ស្រុក ។ ,NewsAboutCountry
 ដឹង ថា នៅ អាគារ/B-BUILD IDRI/I-BUILD ភ្ញៀវ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អត់ ទោស នៅ អាគារ/B-BUILD IDT/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ម៉ូតូ ?,AskAboutMotocycleParkingFee
@@ -1305,7 +1305,7 @@ Rathana/B-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ �
 តើ មេខឺស្ពេស ត្រូវ បាន ផលិត ដោយ IDG/B-ORG ពិត ឫ ទេ ? ,AskAboutMakerspace
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ កន្លែង នឹង ?,AskAboutTrendingNews
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR បង្អស់/I-FLOOR មាន កន្លែង ជុះ នោម ឬ ទេ ?,DoesToiletExist
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutTN_CourseInEachGen
 ដឹង ថា នៅ អាគារ/B-BUILD អុីនូវេសិនសែនធឺរ/I-BUILD គ្រូ ៗ ចំណាយ អស់ ប៉ុន្មាន សំរាប់ ការ ផ្ញើ ម៉ូតូ ?,AskAboutMotocycleParkingFee
 សុំ សួរ មួយ Robot តើ នៅ ជាន់/B-FLOOR លើ/I-FLOOR គេ/I-FLOOR មាន កន្លែង ជុះ ទេ ?,DoesToiletExist
 នាង ចង់ ដឹង នាទី ក្នុង សាលា/B-ORG រៀន/I-ORG សុី/I-ORG អេ/I-ORG ដីឌី/I-ORG នេះ ពេល វេលា ដើរ ដល់ ណា ហើយ ?,FindCurrentTime
@@ -1627,7 +1627,7 @@ Vitou/B-PER ចង់រីភាត់ ទៅ សាលា បាន យ៉ា�
 តើ យើង អាច រក បន្ទប់/B-ROOM ៣០៦/I-ROOM តាម ណា ?,FindRoom
 តើ ប្រទេស ឈីលី/B-GPE មាន ទំហំ ដី ប៉ុន្មាន ?,AskAboutCountries
 តើ Computer/B-MAJOR Science/I-MAJOR មាន តម្លៃ ប៉ុន្មាន,FindCSInfo
-តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៦/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutTN_CourseInEachGen
 កង/B-PER ញ៉ុង/I-PER ដែល បាន ចាប់ អារម្មណ៏ ទៅ លើ Event សាលា/B-ORG CADT/I-ORG យើង មាន អ្វី ខ្លះ អត់ ?,ListEvent
 មាន ព័ត៌មាន អត់ ថា និស្សិត ត្រូវ ភ្ជាប់ មក ជាមួយ ឯក សារ អី ខ្លះ ដើម្បី ទិញ ពាក្យ ចូល រៀន នៅ សាលា/B-ORG ស៊ីអេឌីធី/I-ORG ?,AskAboutEnrollmentRequirement
 ពួក យើង ចង់ ដាក់ លិខិត ជំទាស់ ទៅ លើ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD បាន យ៉ាង មិច ខ្លះ ?,AskHowToComplain
@@ -1964,7 +1964,7 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នៅ �
 តើ មាន ប្រទេស ស្វាស៊ីឡង់/B-GPE ដែល ឬ ទេ ?,IsCountryExist
 ដឹង ថា នៅ អាគារ/B-BUILD Innovation/I-BUILD Center/I-BUILD គ្រូ ៗ ទុក ១ ដង ប៉ុន្មាន ទៅ សំរាប់ ការ ផ្ញើ ឡាន ?,AskAboutCarParkingFee
 អ្នក មឹង អាច ប្រាប់ Dara/B-PER ថា ទៅ ជាន់ ណា បាន ដល់ នាយកដ្ឋានធនធានមនុស្ស/B-ROOM ដែរ ?,AskWhereHRRoomIs
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJ ស៊ីអេស/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែកB-MAJOR ស៊ីអេស/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 3/I-TERM ?,AskAboutCS_CourseInEachGen
 អ្នក អាច ប្រាប់ បង/B-PER Chanto/I-PER ថា ទៅ ផ្លូវ ណា បាន ទៅ ដល់ Department/B-ROOM HR/I-ROOM ទៅ ?,AskWhereHRRoomIs
 តើ ពត៌មាន/B-MAJOR វិទ្យា/I-MAJOR មាន រៀន ដូច មេ្តច ខ្លះ ?,CuriculumInEachMajor
 សុំ សួរ មួយ រ៉ូបូត តើ នៅ នឹង មាន បង្គន់ នោម ឬ អត់ ?,DoesToiletExist
@@ -2019,7 +2019,7 @@ Panha/B-PER ដែល ជា មិត្ត ខ្ញំុ នេះ នៅ �
 តើ មាន ស្តាត/B-ORG អាប់កីឡា នៅ ក្នុង អាគារ នេះ ឬ ទេ ?,IsStartUpExist
 នៅ វិទ្យាល័យ សុីអេ ដីឌី ម៉ោង រៀន របស់ សិស្ស នៅ ទី នោះ រៀន ម៉ោង ប៉ុន្មាន ខ្លះ,AskAboutStudyHour
 តើ មាន ប្រទេស តូហ្គោ/B-GPE ដែល ឬ ទេ ?,IsCountryExist
-តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJ វិទ្យាសាស្រ្ដ/I-MAJ កំព្យូទ័រ/I-MAJ រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 8/I-GEN ផ្នែក/B-MAJOR វិទ្យាសាស្រ្ដ/I-MAJOR កំព្យូទ័រ/I-MAJOR រៀន មុនខវិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutCS_CourseInEachGen
 តើ រ៉ូបូត ឯង ដឹង ទេ ថា បន្ទប់/B-ROOM Jupyter/I-ROOM គេ សម្រាប់ ធ្វើ អ្វី ?,FindRoomPurpose
 ខ្ញុំ ចង់ ដឹង ថា សាលា/B-ORG សុីអេឌីធី/I-ORG មាន អន្តេរវាសិកដ្ឋាន ឲ្យ និស្សិត ដែរ ទេ ?,AskAboutDormInfo
 តើ មាន កម្ម វិធី សិក្សា ស្អី គេ ខ្លះ នៅ ខាង Network ?,CuriculumInEachMajor
@@ -2281,7 +2281,7 @@ Rathana/B-PER គួរ តែ Report ទៅ លើ អាគារ/B-BUILD អ�
 តើ មាន ស្តាត/B-ORG អាប់/I-ORG Cam/I-ORG Mob/I-ORG នៅ ខាង ក្នុង កន្លែង នេះ ឬ ទេ ?,IsStartUpExist
 ខ្ញុំ ចង់ ដឹង ថា មាន ទី/B-BUILD លាន/I-BUILD សម្រាប់/I-BUILD ទាត់/I-BUILD បាល់/I-BUILD នៅ សាកល/B-ORG វិទ្យាល័យ/I-ORG CADT/I-ORG ដែល ឬ ទេ,IsFootballFieldExist
 តើ អ្នក អាច ប្រាប់ ខ្ញុំ ពី បន្ទប់/B-ROOM ប្រជុំ/I-ROOM នៅ ទី កន្លែង ណា ?,FindRoom
-តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJ ទូរគមនាគមន៍/I-MAJ និង/I-MAJ បណ្តាញ/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស Gen/B-GEN 7/I-GEN ផ្នែក/B-MAJOR ទូរគមនាគមន៍/I-MAJOR និង/I-MAJOR បណ្តាញ/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM ក្រោយ/I-TERM ?,AskAboutTN_CourseInEachGen
 បង្ហាញ ខ្ញុំ ទី នេះ ស្រាវជ្រាវ លើ សម្រាប់ សិស្ស ថ្មី ? ,AskAboutResearch
 តើ អាច ប្រាប់ ខ្ញុំ ពី លេខ ទំនាក់ទំនង របស់ លោក គ្រូសុធារ៉ា/B-PER បាន ទេ ?,AskAboutStaffPhoneNumber
 ដែល មាន កន្លែង/B-BUILD លេង/I-BUILD បាល់/I-BUILD ទាត់/I-BUILD នៅ វិទ្យាល័យ/I-ORG សុីអេដីឌី/I-ORG ឬ ក៏ អត់,IsFootballFieldExist
@@ -2574,7 +2574,7 @@ Vitou/B-PER ចង់ Report ទៅ សាលា/B-ORG សុីអេឌីធ�
 តើ មាន ស្ថាប័ន/B-ORG Book/I-ORG MeBus/I-ORG នៅ ខាង ក្នុង ទី នេះ ឬ ទេ ?,IsCompanyExist
 សុំ សួរ មួយ Robot តើ នៅ សាលា នឹង មាន កន្លែង ជុះ ឬ ទេ ?,DoesToiletExist
 តើ ប្រទេស អ៊ីរ៉ាក់/B-GPE មាន មែន ឬ ទេ ?,IsCountryExist
-តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJ TN/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៨/I-GEN ផ្នែក/B-MAJOR TN/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM នេះ/I-TERM ?,AskAboutTN_CourseInEachGen
 ដឹង ថា នៅ សាលា/B-ORG CADT/I-ORG នឹង សិស្ស ប្រុស រៀប ចំ សំលៀកបំពាក់ បែប ណា ដែរ ទើប សមរម្យ យ៉ាង ណា បាន ល្អ ទៅ ?,AskaboutMaleDressCode
 តើ Robot ឯង បង្កើត ដោយ បូរី/B-PER ពិត ឬ ទេ ? , Ask About Creator
 ដាណីត/B-PER មាន ដែរ ចាប់ អារម្មណ៍ ទេ ថា អាគារ អុីនូវេសិន សែនធឺរ មាន បន្ទប់/B-ROOM បណ្ណាល័យ/I-ROOM ដែរ ឬ ទេ ?,IsLibraryExist
@@ -2653,7 +2653,7 @@ Vitou/B-PER ចង់ Report ទៅ សាលា/B-ORG សុីអេឌីធ�
 តើ មាន កម្ម វិធី សិក្សា អី ខ្លះ ខាង computerscience/B-MAJOR ?,CuriculumInEachMajor
 រ៉ូបូត ជួយ ប្រាប់ បន្តិច បាន ទេ ថា ឯង ត្រូវ បាន បង្កើត ដោយ ឈុនហៀក/B-PER ពិត ឬ ទេ ? , Ask About Creator
 វីទូ/B-PER មិន យល់ ស្រប ទៅ នឹង របៀប ធ្វើ នៅ នឹង សាលា/B-ORG សុីអេឌីធី/I-ORG តើ គួរ ធ្វើ ដូច ម្តេច ទៅ ?,AskHowToComplain
-តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJ តេអិន/I-MAJ រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
+តើ សិស្ស ជំនាន់/B-GEN ៧/I-GEN ផ្នែក/B-MAJOR តេអិន/I-MAJOR រៀន មុខ វិជ្ជា អ្វី ខ្លះ នៅ Term/B-TERM 4/I-TERM ?,AskAboutTN_CourseInEachGen
 Robot ជួយ ប្រាប់ បន្តិច បាន ទេ ថា អ្នក ត្រូវ បាន បង្កើត ដោយ ណារី/B-PER មែន ឬ អត់ ? , Ask About Creator
 មាន ដឹង អត់ ថា នៅ អាគារ/B-BUILD IDT/I-BUILD ជាន់ ទី ៣ មាន ជណ្ដើរ exist ដែរ ឬ ទេ ?,IsExistDoorExit
 តើ តេឡេខម មាន រៀន ស្អី ខ្លះ ?,CuriculumInEachMajor
